@@ -221,5 +221,31 @@
     "Nomes e classificações previamente existentes foram preservados; campo preenchido não significa confirmação oficial.",
     "A lista das 275 fichas ainda necessita de comparação integral com a divisão administrativa oficial atual.",
     "Idães: dois cemitérios documentados, ainda sem pontos confirmados. Meixomil: correspondência com recinto Paços de Ferreira por esclarecer."
-  ]
+  ],
+  "structuralValidation": {
+    "validatedAt": "2026-10-29",
+    "municipalitiesChecked": 18,
+    "pointsChecked": 425,
+    "invalidCoordinateArrays": 0,
+    "duplicateIdsWithinMunicipality": 0,
+    "unnamedOsmPoints": 111,
+    "parishesWithoutMappedPoints": [
+      {
+        "municipality": "Felgueiras",
+        "parish": "Idães",
+        "status": "Dois cemitérios documentados; coordenadas por confirmar"
+      },
+      {
+        "municipality": "Paços de Ferreira",
+        "parish": "Meixomil",
+        "status": "Referência documental; verificar possível coincidência com ponto de Paços de Ferreira"
+      },
+      {
+        "municipality": "Vila Nova de Gaia",
+        "parish": "São Pedro da Afurada",
+        "status": "Sem cemitério identificado nesta recolha"
+      }
+    ],
+    "note": "Verificação automatizada de integridade dos 18 ficheiros municipais; não substitui validação de existência, georreferenciação exata ou cobertura exaustiva."
+  }
 }
