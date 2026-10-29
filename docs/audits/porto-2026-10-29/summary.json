@@ -1,0 +1,225 @@
+{
+  "reviewDate": "2026-10-29",
+  "status": "parcial — inventário e validação documental não concluídos",
+  "scope": "Revisão estrutural dos 425 registos existentes e das 275 fichas existentes; pesquisa documental dirigida. Não equivale a pesquisa documental individual de todos os cemitérios nem a prova de cobertura de todas as freguesias atuais.",
+  "totals": {
+    "municipalities": 18,
+    "storedParishes": 275,
+    "mappedCemeteries": 425,
+    "documentaryEvidenceAdded": 57,
+    "namesPending": 111,
+    "areaPresent": 3,
+    "openingPresent": 5,
+    "groundPhotos": 20,
+    "visit360Identified": 0,
+    "confirmedOmissionsAwaitingCoordinates": 2
+  },
+  "structuralErrors": [],
+  "municipalities": [
+    {
+      "municipality": "Amarante",
+      "parishes": 26,
+      "cemeteries": 41,
+      "withEvidenceAdded": 4,
+      "namesPending": 8,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 1
+    },
+    {
+      "municipality": "Baião",
+      "parishes": 14,
+      "cemeteries": 21,
+      "withEvidenceAdded": 2,
+      "namesPending": 0,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 1
+    },
+    {
+      "municipality": "Felgueiras",
+      "parishes": 20,
+      "cemeteries": 30,
+      "withEvidenceAdded": 1,
+      "namesPending": 18,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 0
+    },
+    {
+      "municipality": "Gondomar",
+      "parishes": 7,
+      "cemeteries": 22,
+      "withEvidenceAdded": 3,
+      "namesPending": 2,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 2
+    },
+    {
+      "municipality": "Lousada",
+      "parishes": 16,
+      "cemeteries": 27,
+      "withEvidenceAdded": 1,
+      "namesPending": 16,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 1
+    },
+    {
+      "municipality": "Maia",
+      "parishes": 10,
+      "cemeteries": 19,
+      "withEvidenceAdded": 10,
+      "namesPending": 0,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 1
+    },
+    {
+      "municipality": "Marco de Canaveses",
+      "parishes": 17,
+      "cemeteries": 36,
+      "withEvidenceAdded": 2,
+      "namesPending": 10,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 1
+    },
+    {
+      "municipality": "Matosinhos",
+      "parishes": 10,
+      "cemeteries": 14,
+      "withEvidenceAdded": 1,
+      "namesPending": 1,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 0
+    },
+    {
+      "municipality": "Paredes",
+      "parishes": 18,
+      "cemeteries": 26,
+      "withEvidenceAdded": 4,
+      "namesPending": 11,
+      "areaPresent": 0,
+      "openingPresent": 1,
+      "groundPhotos": 0
+    },
+    {
+      "municipality": "Paços de Ferreira",
+      "parishes": 16,
+      "cemeteries": 20,
+      "withEvidenceAdded": 1,
+      "namesPending": 10,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 0
+    },
+    {
+      "municipality": "Penafiel",
+      "parishes": 28,
+      "cemeteries": 39,
+      "withEvidenceAdded": 1,
+      "namesPending": 19,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 2
+    },
+    {
+      "municipality": "Porto",
+      "parishes": 7,
+      "cemeteries": 15,
+      "withEvidenceAdded": 7,
+      "namesPending": 0,
+      "areaPresent": 3,
+      "openingPresent": 4,
+      "groundPhotos": 7
+    },
+    {
+      "municipality": "Póvoa de Varzim",
+      "parishes": 12,
+      "cemeteries": 13,
+      "withEvidenceAdded": 12,
+      "namesPending": 1,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 3
+    },
+    {
+      "municipality": "Santo Tirso",
+      "parishes": 14,
+      "cemeteries": 27,
+      "withEvidenceAdded": 2,
+      "namesPending": 10,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 0
+    },
+    {
+      "municipality": "Trofa",
+      "parishes": 6,
+      "cemeteries": 9,
+      "withEvidenceAdded": 1,
+      "namesPending": 0,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 0
+    },
+    {
+      "municipality": "Valongo",
+      "parishes": 5,
+      "cemeteries": 8,
+      "withEvidenceAdded": 3,
+      "namesPending": 1,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 0
+    },
+    {
+      "municipality": "Vila Nova de Gaia",
+      "parishes": 24,
+      "cemeteries": 27,
+      "withEvidenceAdded": 1,
+      "namesPending": 0,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 0
+    },
+    {
+      "municipality": "Vila do Conde",
+      "parishes": 25,
+      "cemeteries": 31,
+      "withEvidenceAdded": 1,
+      "namesPending": 4,
+      "areaPresent": 0,
+      "openingPresent": 0,
+      "groundPhotos": 1
+    }
+  ],
+  "confirmedOmissionsAwaitingCoordinates": [
+    {
+      "municipality": "Felgueiras",
+      "parish": "Idães",
+      "name": "Cemitério do Bom Jesus",
+      "locationStatus": "Coordenadas por confirmar",
+      "sourceUrl": "https://idaes.freguesias.pt/arquivos/editais-atas/12104.pdf"
+    },
+    {
+      "municipality": "Felgueiras",
+      "parish": "Idães",
+      "name": "Cemitério do Santo",
+      "locationStatus": "Coordenadas por confirmar",
+      "sourceUrl": "https://idaes.freguesias.pt/arquivos/editais-atas/12104.pdf"
+    }
+  ],
+  "limitations": [
+    "A área da freguesia nunca é tratada como área do cemitério.",
+    "Datas de ampliação, de projetos, de autorização e de bênção não são automaticamente datas de inauguração.",
+    "A ausência de visita 360° identificada não prova a inexistência de uma visita.",
+    "Satélite conservado como alternativa; a procura de fotografia não está concluída para todos os pontos.",
+    "Nomes e classificações previamente existentes foram preservados; campo preenchido não significa confirmação oficial.",
+    "A lista das 275 fichas ainda necessita de comparação integral com a divisão administrativa oficial atual.",
+    "Idães: dois cemitérios documentados, ainda sem pontos confirmados. Meixomil: correspondência com recinto Paços de Ferreira por esclarecer."
+  ]
+}

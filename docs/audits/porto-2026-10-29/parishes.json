@@ -1,0 +1,2202 @@
+[
+  {
+    "municipality": "Amarante",
+    "parish": "Ansiães",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Candemil",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Fregim",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Fridão",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Gondar",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Gouveia (São Simão)",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Jazente",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Lomba",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Louredo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Lufrei",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Mancelos",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Padronelo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Rebordelo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Salvador do Monte",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Telões",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Travanca",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "União das freguesias de Aboadela, Sanche e Várzea",
+    "mappedCemeteries": 3,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "União das freguesias de Amarante (São Gonçalo), Madalena, Cepelos e Gatão",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "União das freguesias de Bustelo, Carneiro e Carvalho de Rei",
+    "mappedCemeteries": 4,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "União das freguesias de Figueiró (Santiago e Santa Cristina)",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "União das freguesias de Freixo de Cima e de Baixo",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "União das freguesias de Olo e Canadelo",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "União das freguesias de Vila Garcia, Aboim e Chapa",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Vila Caiz",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Vila Chã do Marão",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Amarante",
+    "parish": "Vila Meã",
+    "mappedCemeteries": 3,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Baião",
+    "parish": "Frende",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Baião",
+    "parish": "Gestaçô",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Baião",
+    "parish": "Gove",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Baião",
+    "parish": "Grilo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Baião",
+    "parish": "Loivos do Monte",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Baião",
+    "parish": "Santa Marinha do Zêzere",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Baião",
+    "parish": "União das freguesias de Ancede e Ribadouro",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Baião",
+    "parish": "União das freguesias de Baião (Santa Leocádia) e Mesquinhata",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Baião",
+    "parish": "União das freguesias de Campelo e Ovil",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Baião",
+    "parish": "União das freguesias de Loivos da Ribeira e Tresouras",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Baião",
+    "parish": "União das freguesias de Santa Cruz do Douro e São Tomé de Covelas",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Baião",
+    "parish": "União das freguesias de Teixeira e Teixeiró",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Baião",
+    "parish": "Valadares",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Baião",
+    "parish": "Viariz",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "Airães",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "Aião",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "Friande",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "Idães",
+    "mappedCemeteries": 0,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "Jugueiros",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "Penacova",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "Pinheiro",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "Pombeiro de Ribavizela",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "Refontoura",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "Regilde",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "Revinhade",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "Sendim",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "União das freguesias de Macieira da Lixa e Caramos",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "União das freguesias de Margaride (Santa Eulália), Várzea, Lagares, Varziela e Moure",
+    "mappedCemeteries": 5,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "União das freguesias de Pedreira, Rande e Sernande",
+    "mappedCemeteries": 3,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "União das freguesias de Torrados e Sousa",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "União das freguesias de Unhão e Lordelo",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "União das freguesias de Vila Cova da Lixa e Borba de Godim",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "União das freguesias de Vila Fria e Vizela (São Jorge)",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Felgueiras",
+    "parish": "União das freguesias de Vila Verde e Santão",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Gondomar",
+    "parish": "Baguim do Monte (Rio Tinto)",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Gondomar",
+    "parish": "Lomba",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Gondomar",
+    "parish": "Rio Tinto",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Gondomar",
+    "parish": "União das freguesias de Foz do Sousa e Covelo",
+    "mappedCemeteries": 4,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Gondomar",
+    "parish": "União das freguesias de Fânzeres e São Pedro da Cova",
+    "mappedCemeteries": 3,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 2,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Gondomar",
+    "parish": "União das freguesias de Gondomar (São Cosme), Valbom e Jovim",
+    "mappedCemeteries": 6,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Gondomar",
+    "parish": "União das freguesias de Melres e Medas",
+    "mappedCemeteries": 4,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "Aveleda",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "Barrosas (Santo Estêvão)",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "Caíde de Rei",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "Lodares",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "Lustosa",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "Macieira",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "Meinedo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "Nevogilde",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "Sousela",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "Torno",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "União das freguesias de Cernadelo e Lousada (São Miguel e Santa Margarida)",
+    "mappedCemeteries": 3,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "União das freguesias de Cristelos, Boim e Ordem",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "União das freguesias de Figueiras e Covas",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "União das freguesias de Nespereira e Casais",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "União das freguesias de Silvares, Pias, Nogueira e Alvarenga",
+    "mappedCemeteries": 4,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Lousada",
+    "parish": "Vilar do Torno e Alentém",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Maia",
+    "parish": "Castêlo da Maia",
+    "mappedCemeteries": 5,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Maia",
+    "parish": "Cidade da Maia",
+    "mappedCemeteries": 4,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 4,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Maia",
+    "parish": "Folgosa",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Maia",
+    "parish": "Milheirós",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 2,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Maia",
+    "parish": "Moreira",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Maia",
+    "parish": "Nogueira e Silva Escura",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Maia",
+    "parish": "Pedrouços",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Maia",
+    "parish": "São Pedro Fins",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Maia",
+    "parish": "Vila Nova da Telha",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Maia",
+    "parish": "Águas Santas",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Alpendorada, Várzea e Torrão",
+    "mappedCemeteries": 4,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Avessadas e Rosém",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Banho e Carvalhosa",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Bem Viver",
+    "mappedCemeteries": 3,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Constance",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Marco",
+    "mappedCemeteries": 5,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Paredes de Viadores e Manhuncelos",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Paços de Gaiolo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Penha Longa",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Sande e São Lourenço do Douro",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Santo Isidoro e Livração",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Soalhães",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Sobretâmega",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Tabuado",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Vila Boa de Quires e Maureles",
+    "mappedCemeteries": 3,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Vila Boa do Bispo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Marco de Canaveses",
+    "parish": "Várzea, Aliviada e Folhada",
+    "mappedCemeteries": 3,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Matosinhos",
+    "parish": "Custóias",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Matosinhos",
+    "parish": "Guifões",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Matosinhos",
+    "parish": "Lavra",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Matosinhos",
+    "parish": "Leça da Palmeira",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Matosinhos",
+    "parish": "Leça do Balio",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Matosinhos",
+    "parish": "Matosinhos",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Matosinhos",
+    "parish": "Perafita",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Matosinhos",
+    "parish": "Santa Cruz do Bispo",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Matosinhos",
+    "parish": "Senhora da Hora",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Matosinhos",
+    "parish": "São Mamede de Infesta",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Aguiar de Sousa",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Astromil",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Baltar",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Beire",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Cete",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Cristelo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Duas Igrejas",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Gandra",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Lordelo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Louredo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Parada de Todeia",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Paredes",
+    "mappedCemeteries": 6,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 3,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Rebordosa",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Recarei",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Sobreira",
+    "mappedCemeteries": 3,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Sobrosa",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Vandoma",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paredes",
+    "parish": "Vilela",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Arreigada",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Carvalhosa",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Codessos",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Eiriz",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Ferreira",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Figueiró",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Frazão",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Freamunde",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Lamoso",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Meixomil",
+    "mappedCemeteries": 0,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Modelos",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Paços de Ferreira",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Penamaior",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Raimonda",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Sanfins de Ferreira",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Paços de Ferreira",
+    "parish": "Seroa",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Abragão",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Boelhe",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Bustelo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Cabeça Santa",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Canelas",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Capela",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Castelões",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Croca",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Duas Igrejas",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Eja",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Fonte Arcada",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Galegos",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Guilhufe e Urrô",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Irivo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Lagares e Figueira",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Luzim e Vila Cova",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Oldrões",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Paço de Sousa",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Penafiel",
+    "mappedCemeteries": 4,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Perozelo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Rans",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Recezinhos (São Mamede)",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Recezinhos (São Martinho)",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Rio de Moinhos",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Rio Mau",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Sebolido",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Termas de São Vicente",
+    "mappedCemeteries": 4,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Penafiel",
+    "parish": "Valpedre",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Porto",
+    "parish": "Bonfim",
+    "mappedCemeteries": 5,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 2,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Porto",
+    "parish": "Campanhã",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Porto",
+    "parish": "Paranhos",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Porto",
+    "parish": "Ramalde",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Porto",
+    "parish": "União das freguesias de Aldoar, Foz do Douro e Nevogilde",
+    "mappedCemeteries": 3,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Porto",
+    "parish": "União das freguesias de Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Porto",
+    "parish": "União das freguesias de Lordelo do Ouro e Massarelos",
+    "mappedCemeteries": 3,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 3,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Póvoa de Varzim",
+    "parish": "Aguçadoura",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Póvoa de Varzim",
+    "parish": "Amorim",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Póvoa de Varzim",
+    "parish": "Argivai",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Póvoa de Varzim",
+    "parish": "Aver-o-Mar",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Póvoa de Varzim",
+    "parish": "Balazar",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Póvoa de Varzim",
+    "parish": "Beiriz",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 2,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Póvoa de Varzim",
+    "parish": "Estela",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Póvoa de Varzim",
+    "parish": "Laundos",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Póvoa de Varzim",
+    "parish": "Navais",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Póvoa de Varzim",
+    "parish": "Póvoa de Varzim",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Póvoa de Varzim",
+    "parish": "Rates",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Póvoa de Varzim",
+    "parish": "Terroso",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Santo Tirso",
+    "parish": "Agrela",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Santo Tirso",
+    "parish": "Aves",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Santo Tirso",
+    "parish": "Monte Córdova",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Santo Tirso",
+    "parish": "Negrelos (São Tomé)",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Santo Tirso",
+    "parish": "Rebordões",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Santo Tirso",
+    "parish": "Reguenga",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Santo Tirso",
+    "parish": "Roriz",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Santo Tirso",
+    "parish": "União das freguesias de Areias, Sequeiró, Lama e Palmeira",
+    "mappedCemeteries": 4,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Santo Tirso",
+    "parish": "União das freguesias de Carreira e Refojos de Riba de Ave",
+    "mappedCemeteries": 3,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Santo Tirso",
+    "parish": "União das freguesias de Lamelas e Guimarei",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Santo Tirso",
+    "parish": "União das freguesias de Santo Tirso, Couto (Santa Cristina e São Miguel) e Burgães",
+    "mappedCemeteries": 5,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 2,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Santo Tirso",
+    "parish": "Vila Nova do Campo",
+    "mappedCemeteries": 3,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Santo Tirso",
+    "parish": "Vilarinho",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Santo Tirso",
+    "parish": "Água Longa",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Trofa",
+    "parish": "Alvarelhos",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Trofa",
+    "parish": "Covelas",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Trofa",
+    "parish": "Guidões",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Trofa",
+    "parish": "Muro",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Trofa",
+    "parish": "União das freguesias de Bougado (São Martinho e Santiago)",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Trofa",
+    "parish": "União das freguesias de Coronado (São Romão e São Mamede)",
+    "mappedCemeteries": 3,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Valongo",
+    "parish": "Alfena",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Valongo",
+    "parish": "Campo",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Valongo",
+    "parish": "Ermesinde",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 2,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Valongo",
+    "parish": "Sobrado",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Valongo",
+    "parish": "Valongo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Arcozelo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Avintes",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Canelas",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Canidelo",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Crestuma",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Grijó",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Gulpilhares",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Lever",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Madalena",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Mafamude",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Olival",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Oliveira do Douro",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Pedroso",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Perosinho",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Sandim",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Santa Marinha",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Seixezelo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Sermonde",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Serzedo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "São Félix da Marinha",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "São Pedro da Afurada",
+    "mappedCemeteries": 0,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Valadares",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Vilar de Andorinho",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila Nova de Gaia",
+    "parish": "Vilar do Paraíso",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Arcos",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Aveleda",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Azurara",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Canidelo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Fajozes",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Fornelo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Gião",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 1,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Guilhabreu",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Junqueira",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Labruge",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Macieira da Maia",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Malta",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Mindelo",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Modivas",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Retorta",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Rio Mau",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Tougues",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "União das freguesias de Bagunte, Ferreiró, Outeiro Maior e Parada",
+    "mappedCemeteries": 4,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "União das freguesias de Touguinha e Touguinhó",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "União das freguesias de Vilar e Mosteiró",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Vairão",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Vila Chã",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Vila do Conde",
+    "mappedCemeteries": 2,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Vilar de Pinheiro",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  },
+  {
+    "municipality": "Vila do Conde",
+    "parish": "Árvore",
+    "mappedCemeteries": 1,
+    "geometryPresent": true,
+    "documentaryEvidenceRecords": 0,
+    "inventoryCompleteness": "não demonstrada"
+  }
+]
