@@ -98,7 +98,7 @@ async function municipalitySnapshot(name){
  }).catch(e=>{delete districtCache[key];throw e}));
 }
 async function lisbonSnapshot(){return municipalitySnapshot('Lisboa')}
-const visit360Links={'cemiterio dos prazeres':'https://kuula.co/share/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1','cemiterio de prazeres':'https://kuula.co/share/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1'};
+const visit360Links={'cemiterio da ajuda':'https://kuula.co/share/collection/7d7xq?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1','cemiterio dos prazeres':'https://kuula.co/share/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1','cemiterio de prazeres':'https://kuula.co/share/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1'};
 function visit360Url(c){return c.visit360Url||c.visita360Url||visit360Links[norm(c.name)]||null}
 function recordCemetery(c,r){return {...c,visit360Url:visit360Url(c),cemetery:true,fromNotion:true,municipality:r.municipality,parish:r.name,notionUrl:r.notionUrl,url:c.sourceUrl,source:'Arquivo Necrostone · dados do Notion',feature:{type:'Feature',properties:{},geometry:{type:'Point',coordinates:c.coordinates}}}}
 async function openLisbon(){
