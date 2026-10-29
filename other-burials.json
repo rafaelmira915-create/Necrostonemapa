@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Mosteiro de São Vicente de Fora",
+    "type": "Mosteiro e panteão real",
+    "address": "Largo de São Vicente, Lisboa",
+    "lng": -9.1264,
+    "lat": 38.7155,
+    "description": "Integra o Panteão dos Braganças, onde se encontram sepultados membros da família real portuguesa."
+  },
+  {
+    "name": "Igreja de Santa Engrácia (Panteão Nacional)",
+    "type": "Igreja e panteão",
+    "address": "Campo de Santa Clara, Lisboa",
+    "lng": -9.1254,
+    "lat": 38.7152,
+    "description": "Antiga igreja de Santa Engrácia, atual Panteão Nacional, com sepulturas de personalidades portuguesas."
+  },
+  {
+    "name": "Mosteiro dos Jerónimos",
+    "type": "Mosteiro",
+    "address": "Praça do Império, Belém, Lisboa",
+    "lng": -9.2065,
+    "lat": 38.6979,
+    "description": "Mosteiro com sepulturas históricas, incluindo Vasco da Gama e Luís de Camões."
+  }
+]
