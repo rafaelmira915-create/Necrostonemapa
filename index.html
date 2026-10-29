@@ -157,16 +157,21 @@ async function api(path){if(!cache.has(path))cache.set(path,json('https://json.g
 function label(f){const p=f.properties;return p.Freguesia||p.freguesia||p.Concelho||p.municipio||p.Distrito||p.distrito||'Sem nome'}
 function item(f){return {name:label(f),feature:f}}
 function groupAtlanticRegions(items){
- const normName=x=>norm(x.name).replace(/^ilha (de |da |do )?/,'').trim();
+ const normName=x=>norm(x.name).replace(/^ilha (de |da |do )?/,'').replace(/\\s*\\(ilha\\)\\s*$/,'').trim();
  const azoresNames=new Set(['santa maria','sao miguel','terceira','graciosa','sao jorge','pico','faial','flores','corvo']);
- const azores=items.filter(x=>azoresNames.has(normName(x))||/acores|azores/.test(normName(x)));
- const madeira=items.filter(x=>['madeira','porto santo'].includes(normName(x)));
+ function region(x){
+  const name=normName(x),b=x.feature?bounds(x.feature):null;
+  const lon=b?(b[0][0]+b[1][0])/2:null,lat=b?(b[0][1]+b[1][1])/2:null;
+  if(azoresNames.has(name)||/acores|azores/.test(name)||(lon!==null&&lon< -24&&lat>35&&lat<41))return 'azores';
+  if(['madeira','porto santo'].includes(name)||(lon!==null&&lon>=-18.5&&lon< -15&&lat>31&&lat<34))return 'madeira';
+  return null;
+ }
+ const azores=items.filter(x=>region(x)==='azores'),madeira=items.filter(x=>region(x)==='madeira');
  function combine(group,name,key){
   const polygons=group.flatMap(x=>{const g=x.feature?.geometry;return g?.type==='Polygon'?[g.coordinates]:g?.type==='MultiPolygon'?g.coordinates:[]});
   return {name,feature:polygons.length?{type:'Feature',properties:{},geometry:{type:'MultiPolygon',coordinates:polygons}}:group[0].feature,[key]:true,islands:group.map(x=>({...x,name:normName(x)==='madeira'?'Ilha da Madeira':x.name}))};
  }
- const grouped=new Set([...azores,...madeira]);
- const result=items.filter(x=>!grouped.has(x));
+ const result=items.filter(x=>!region(x));
  if(azores.length)result.push(combine(azores,'Açores','azoresGroup'));
  if(madeira.length)result.push(combine(madeira,'Madeira','madeiraGroup'));
  return result;
