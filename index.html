@@ -106,22 +106,17 @@ async function openLisbon(){
 function detailText(box,text,className){const p=document.createElement('p');p.textContent=text;if(className)p.className=className;box.append(p);return p}
 function detailLink(parent,text,url){if(!url||!/^https:\/\//.test(url))return;const a=document.createElement('a');a.textContent=text;a.href=url;a.target='_blank';a.rel='noopener';parent.append(a)}
 function showRecord(record,cemetery){
- const box=$('#detail');box.replaceChildren();box.className='detail';const h=document.createElement('h2');h.textContent=cemetery?.name||record.name;box.append(h);
- detailText(box,'Freguesia: '+record.name+' · Concelho: '+(cemetery?.municipality||record.municipality));
+ const box=$('#detail');box.replaceChildren();box.className='detail';
+ const h=document.createElement('h2');h.textContent=cemetery?.name||record.name;box.append(h);
  if(cemetery){
   const c=cemetery;
-  if(c.photo){const figure=document.createElement('figure');figure.className='record-photo';const img=document.createElement('img');img.src=c.photo.url;img.alt=c.photo.caption||c.name;img.loading='lazy';img.referrerPolicy='no-referrer';img.onerror=()=>{img.hidden=true};figure.append(img);const caption=document.createElement('figcaption');caption.textContent=(c.photo.kind==='aerial'?'Vista aérea do local · ':'')+c.photo.author+' · '+c.photo.license+' · ';detailLink(caption,'Ver original',c.photo.sourceUrl);if(c.photo.licenseUrl){caption.append(document.createTextNode(' · '));detailLink(caption,'Licença',c.photo.licenseUrl)}figure.append(caption);box.append(figure)}
-  detailText(box,c.kind|| (c.municipal?'Cemitério municipal':'Cemitério não municipal'));
-  detailText(box,c.summary);
-  detailText(box,'Área: '+(c.areaM2!=null?new Intl.NumberFormat('pt-PT').format(c.areaM2)+' m² (aproximada)':'Incerto — por confirmar'));
-  detailText(box,'Ano de inauguração / implantação: '+(c.year??'Incerto — por confirmar'));
-  detailText(box,c.note,'record-note');detailText(box,c.areaNote,'record-note');
-  detailText(box,'No Arquivo Necrostone: sim · Visita 360°: por confirmar','record-note');
-  detailText(box,'Localização: '+c.locationSource,'record-note');
-  const links=document.createElement('div');links.className='record-links';detailLink(links,'Ver fonte',c.sourceUrl);detailLink(links,'Ficha no Notion',record.notionUrl);if(c.areaSourceUrl&&c.areaSourceUrl!==c.sourceUrl)detailLink(links,'Fonte da área',c.areaSourceUrl);box.append(links);
+  if(c.photo?.url){const figure=document.createElement('figure');figure.className='record-photo';const img=document.createElement('img');img.src=c.photo.url;img.alt=c.name;img.loading='lazy';img.referrerPolicy='no-referrer';img.onerror=()=>{figure.hidden=true};figure.append(img);box.append(figure)}
+  detailText(box,c.summary||'Descrição não disponível.');
+  detailText(box,'Área: '+(c.areaM2!=null?new Intl.NumberFormat('pt-PT').format(c.areaM2)+' m²':'Por confirmar'));
+  detailText(box,'Ano de inauguração: '+(c.year??'Por confirmar'));
+  detailText(box,'Visita 360°: '+(c.visit360Url?'Sim':'Não'));
  }else{
-  detailText(box,record.cemeteries.length?record.cemeteries.length+' cemitérios associados nesta recolha. Seleciona um na lista ou no mapa para ver a fotografia e os dados.':record.summary+'. A ausência de registo não certifica inexistência.');
-  const links=document.createElement('div');links.className='record-links';detailLink(links,'Ficha da freguesia no Notion',record.notionUrl);box.append(links);
+  detailText(box,record.summary||'Descrição não disponível.');
  }
  box.scrollIntoView?.({block:'start',behavior:'smooth'});
 }
@@ -198,11 +193,11 @@ function showMapPhoto(c){
  const close=document.createElement('button');close.className='map-photo-close';close.type='button';close.textContent='×';close.setAttribute('aria-label','Fechar fotografia');close.onclick=clearMapPhoto;card.append(close);
  const image=document.createElement('img');image.src=c.photo.url;image.alt=c.photo.caption||c.name;image.referrerPolicy='no-referrer';image.onload=positionMapPhoto;image.onerror=()=>{image.hidden=true};card.append(image);
  const title=document.createElement('h2');title.textContent=c.name;card.append(title);
- const credit=document.createElement('p');credit.textContent=c.photo.author+' · '+c.photo.license+' · ';detailLink(credit,'Original',c.photo.sourceUrl);if(c.photo.licenseUrl){credit.append(document.createTextNode(' · '));detailLink(credit,'Licença',c.photo.licenseUrl)}card.append(credit);
+ 
  card.addEventListener('click',e=>e.stopPropagation());document.querySelector('#map').append(card);mapPhoto={element:card,coordinates:c.feature.geometry.coordinates};positionMapPhoto();
 }
 map.on('move',positionMapPhoto);map.on('resize',positionMapPhoto);
-function select(x){if(state.loading)return;if(!x.cemetery&&state.path.length<3){go([...state.path,x]);return}if(popup)popup.remove();clearMapPhoto();fit(x.feature);if(x.fromNotion){const record={name:x.parish,municipality:x.municipality,notionUrl:x.notionUrl};showRecord(record,x);showMapPhoto(x);return}const box=$('#detail');box.replaceChildren();box.className='detail';const h=document.createElement('h2');h.textContent=x.name;box.append(h);for(const text of ['Freguesia: '+x.parish,'Concelho: '+x.municipality,'Fonte: '+x.source,'No arquivo: por consultar no Notion','Digitalizado: por consultar no Notion']){const p=document.createElement('p');p.textContent=text;box.append(p)}const a=document.createElement('a');a.textContent='Ver registo na fonte';a.href=x.url;a.target='_blank';a.rel='noopener';box.append(a);if(!map.svgFallback)popup=new maplibregl.Popup().setLngLat(displayCoordinate(x.feature.geometry.coordinates)).setText(x.name).addTo(map)}
+function select(x){if(state.loading)return;if(!x.cemetery&&state.path.length<3){go([...state.path,x]);return}if(popup)popup.remove();clearMapPhoto();fit(x.feature);if(x.fromNotion){const record={name:x.parish,municipality:x.municipality,notionUrl:x.notionUrl};showRecord(record,x);showMapPhoto(x);return}const box=$('#detail');box.replaceChildren();box.className='detail';const h=document.createElement('h2');h.textContent=x.name;box.append(h);for(const text of ['Descrição: '+(x.summary||'Não disponível'),'Área: '+(x.areaM2!=null?new Intl.NumberFormat('pt-PT').format(x.areaM2)+' m²':'Por confirmar'),'Ano de inauguração: '+(x.year??'Por confirmar'),'Visita 360°: '+(x.visit360Url?'Sim':'Não')]){const p=document.createElement('p');p.textContent=text;box.append(p)}if(!map.svgFallback)popup=new maplibregl.Popup().setLngLat(displayCoordinate(x.feature.geometry.coordinates)).setText(x.name).addTo(map)}
 
 search.oninput=()=>{if(!state.loading)render()};$('#retry').onclick=()=>go(state.path);
 map.on('load',()=>{for(const id of ['context','areas','points'])map.addSource(id,{type:'geojson',data:{type:'FeatureCollection',features:[]}});map.addLayer({id:'context-fill',type:'fill',source:'context',paint:{'fill-color':'#bcbcbc','fill-opacity':.18}});map.addLayer({id:'context-line',type:'line',source:'context',paint:{'line-color':'#333333','line-width':2}});map.addLayer({id:'fill',type:'fill',source:'areas',paint:{'fill-color':'#bcbcbc','fill-opacity':.65}});map.addLayer({id:'lines',type:'line',source:'areas',paint:{'line-color':'#333333','line-width':1.3}});map.addLayer({id:'cemeteries',type:'circle',source:'points',paint:{'circle-radius':['interpolate',['linear'],['zoom'],7,3,12,4,16,6],'circle-color':'#111111','circle-stroke-color':'#fff','circle-stroke-width':1.2}});map.on('click',e=>{if(state.loading)return;const hits=map.queryRenderedFeatures(e.point,{layers:['cemeteries','fill']});const hit=hits.find(f=>f.layer.id==='cemeteries')||hits[0];const i=hit?.properties?._index;if(i!=null&&state.items[i])select(state.items[i])});for(const layer of ['fill','cemeteries']){map.on('mouseenter',layer,()=>map.getCanvas().style.cursor='pointer');map.on('mouseleave',layer,()=>map.getCanvas().style.cursor='')}if(typeof location!=='undefined'&&new URLSearchParams(location.search).get('concelho'))openLisbon();else if(['lisboa','porto'].includes(norm(new URLSearchParams(location.search).get('distrito')))){const name=norm(new URLSearchParams(location.search).get('distrito'))==='porto'?'Porto':'Lisboa';go([{name}]).then(()=>{if(state.path.length!==1||norm(state.path[0]?.name)!==norm(name)||!state.items.length)return;const bs=state.items.filter(x=>x.feature).map(x=>bounds(x.feature));if(bs.length)map.fitBounds([[Math.min(...bs.map(b=>b[0][0])),Math.min(...bs.map(b=>b[0][1]))],[Math.max(...bs.map(b=>b[1][0])),Math.max(...bs.map(b=>b[1][1]))]],{padding:35,duration:500})})}else go([])});
