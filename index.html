@@ -197,7 +197,7 @@ function renderAreaLabels(){
   if(isIslandGroup){
    const bb=bounds(displayFeature(x.feature));
    const east=map.project([bb[1][0],(bb[0][1]+bb[1][1])/2]);
-   if(Number.isFinite(east.x)&&Number.isFinite(east.y))p={x:east.x+9,y:east.y};
+   if(Number.isFinite(east.x)&&Number.isFinite(east.y))p={x:east.x+(x.madeiraGroup?2:9),y:east.y};
   }
   if(!Number.isFinite(p.x)||!Number.isFinite(p.y)||p.x<8||p.y<8||p.x>w-8||p.y>h-8)continue;
   const el=document.createElement('span');el.textContent=x.name;
