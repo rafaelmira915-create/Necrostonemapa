@@ -185,9 +185,33 @@ function featureLabelPoint(f){
  for(const poly of rings){const ring=poly[0];if(!ring?.length)continue;let area=0,cx=0,cy=0;for(let i=0;i<ring.length;i++){const a=ring[i],b=ring[(i+1)%ring.length],cross=a[0]*b[1]-b[0]*a[1];area+=cross;cx+=(a[0]+b[0])*cross;cy+=(a[1]+b[1])*cross}if(Math.abs(area)>largest){largest=Math.abs(area);best=Math.abs(area)>1e-12?[cx/(3*area),cy/(3*area)]:ring[0]}}
  return best;
 }
+let labelOverlay=null,labelItems=[];
+function renderAreaLabels(){
+ if(!labelOverlay)return;
+ labelOverlay.replaceChildren();
+ const occupied=[],w=labelOverlay.clientWidth,h=labelOverlay.clientHeight;
+ for(const x of labelItems){
+  const coord=featureLabelPoint(x.feature);if(!coord)continue;
+  const p=map.project(displayCoordinate(coord));
+  if(!Number.isFinite(p.x)||!Number.isFinite(p.y)||p.x<20||p.y<12||p.x>w-20||p.y>h-12)continue;
+  const el=document.createElement('span');el.textContent=x.name;
+  Object.assign(el.style,{position:'absolute',left:p.x+'px',top:p.y+'px',transform:'translate(-50%,-50%)',font:'400 '+(state.path.length===0?12:state.path.length===1?11:10)+'px Arial,sans-serif',color:'#333',opacity:'.76',whiteSpace:'nowrap',textShadow:'0 0 3px #f4f4f4,0 0 5px #f4f4f4',pointerEvents:'none'});
+  labelOverlay.append(el);
+  const bw=el.offsetWidth,bh=el.offsetHeight,box={x:p.x-bw/2,y:p.y-bh/2,w:bw,h:bh};
+  if(occupied.some(a=>box.x<a.x+a.w+5&&box.x+box.w+5>a.x&&box.y<a.y+a.h+3&&box.y+box.h+3>a.y)){el.remove();continue}
+  occupied.push(box);
+ }
+}
 function syncAreaLabels(items){
- const features=items.filter(x=>x.feature&&!x.cemetery).map(x=>{const p=featureLabelPoint(x.feature);return p?{type:'Feature',geometry:{type:'Point',coordinates:displayCoordinate(p)},properties:{name:x.name}}:null}).filter(Boolean);
- map.getSource('labels')?.setData({type:'FeatureCollection',features});
+ labelItems=items.filter(x=>x.feature&&!x.cemetery&&x.feature.geometry?.type!=='Point');
+ if(!labelOverlay){
+  const host=document.querySelector('#map');host.style.position='relative';
+  labelOverlay=document.createElement('div');labelOverlay.setAttribute('aria-hidden','true');
+  Object.assign(labelOverlay.style,{position:'absolute',inset:'0',pointerEvents:'none',overflow:'hidden',zIndex:'3'});
+  host.append(labelOverlay);
+  map.on('move',renderAreaLabels);map.on('resize',renderAreaLabels);
+ }
+ renderAreaLabels();
 }
 function draw(items){const parent=state.path.at(-1)?.feature;map.getSource('context').setData({type:'FeatureCollection',features:parent&&parent.geometry.type!=='Point'?[displayFeature(parent)]:[]});const geo={type:'FeatureCollection',features:items.filter(x=>x.feature).map((x,i)=>({...displayFeature(x.feature),properties:{...x.feature.properties,_index:i}}))};map.getSource('areas').setData({...geo,features:geo.features.filter(f=>f.geometry.type!=='Point')});map.getSource('points').setData({...geo,features:geo.features.filter(f=>f.geometry.type==='Point')});syncPhotoMarkers(items);syncAreaLabels(items)}
 function render(){results.replaceChildren();const q=norm(search.value);const matches=state.items.filter(x=>norm(x.name).includes(q));for(const x of matches)button((x.cemetery?'● ':'')+x.name,()=>select(x));if(!matches.length&&state.items.length){const p=document.createElement('p');p.textContent='Nenhum resultado nesta lista.';results.append(p)}}
