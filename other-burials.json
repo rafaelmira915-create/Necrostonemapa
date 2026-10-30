@@ -178,5 +178,19 @@
     "lat": 48.8566,
     "lng": 2.3522,
     "coordinatePrecision": "city"
+  },
+  {
+    "name": "Mausoléu de Alfredo da Silva",
+    "type": "Mausoléu isolado no antigo Cemitério de Santa Bárbara",
+    "address": "Parque Empresarial Baía do Tejo, Rua da União, Barreiro",
+    "lng": -9.067266111111111,
+    "lat": 38.666219999999996,
+    "district": "Setúbal",
+    "municipality": "Barreiro",
+    "parish": "Barreiro e Lavradio",
+    "notionUrl": "https://app.notion.com/p/409f3ddb5a6d8143a816f08ea1c01f11?pvs=204",
+    "bio": "Mausoléu do industrial Alfredo da Silva (1871–1942), projetado por Luís Cristino da Silva e com escultura de Leopoldo de Almeida. Os seus restos mortais foram trasladados para aqui em 20 de agosto de 1944. O antigo cemitério foi desativado, permanecendo o mausoléu isolado.",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mausol%C3%A9u%20Alfredo%20da%20Silva%20-%20Barreiro%20-%20Portugal%20(48994676078).jpg",
+    "photoSource": "https://commons.wikimedia.org/wiki/Category:Mausol%C3%A9u_de_Alfredo_da_Silva"
   }
 ]
