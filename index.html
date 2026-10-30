@@ -310,6 +310,7 @@ async function renderOtherGeography(){
  else if(path.length===2){const d=await api('municipio/'+encodeURIComponent(path[1])+'/freguesias');items=(d.geojsons?.freguesias||[]).map(item)}
  if(serial!==otherGeoSerial||!document.body.classList.contains('other-mode'))return;
  otherGeoItems=items.filter(x=>x.feature);
+ syncAreaLabels(otherGeoItems);
  const geo={type:'FeatureCollection',features:otherGeoItems.map((x,i)=>({...displayFeature(x.feature),properties:{...x.feature.properties,_index:i}}))};
  map.getSource('areas').setData({...geo,features:geo.features.filter(x=>x.geometry.type!=='Point')});
  map.getSource('points').setData({type:'FeatureCollection',features:[]});
