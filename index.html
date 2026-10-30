@@ -109,6 +109,7 @@ async function openLisbon(){
 }
 function detailText(box,text,className){const p=document.createElement('p');p.textContent=text;if(className)p.className=className;box.append(p);return p}
 function detailLink(parent,text,url){if(!url||!/^https:\/\//.test(url))return;const a=document.createElement('a');a.textContent=text;a.href=url;a.target='_blank';a.rel='noopener';parent.append(a)}
+function evidenceList(value){return Array.isArray(value)?value:value?[value]:[]}
 function showRecord(record,cemetery){
  const box=$('#detail');box.replaceChildren();box.className='detail';
  const h=document.createElement('h2');h.textContent=cemetery?.name||record.name;box.append(h);
@@ -123,13 +124,13 @@ function showRecord(record,cemetery){
   if(c.note)detailText(box,c.note);
   if(c.areaNote)detailText(box,c.areaNote);
   if(c.historicalNote)detailText(box,c.historicalNote);
-  const sources=[...new Set([c.sourceUrl,...(c.evidence||[]).map(e=>e.url)].filter(Boolean))];
+  const sources=[...new Set([c.sourceUrl,...evidenceList(c.evidence).map(e=>e.url)].filter(Boolean))];
   for(const url of sources){const p=document.createElement('p');detailLink(p,'Fonte: '+new URL(url).hostname,url);box.append(p)}
   if(c.photo?.url){const p=detailText(box,'Imagem: '+(c.photo.author||'Créditos na fonte')+' · '+(c.photo.license||''));detailLink(p,' · Fonte da imagem',c.photo.sourceUrl)}
  }else{
   detailText(box,record.summary||'Descrição não disponível.');
-  for(const c of record.pendingCemeteries||[]){const p=detailText(box,c.name+' · '+c.locationStatus);detailLink(p,' · Fonte',c.sourceUrl)}
-  for(const e of record.evidence||[]){const p=document.createElement('p');detailLink(p,'Fonte documental',e.url);box.append(p)}
+  for(const c of record.pendingCemeteries||[]){const p=detailText(box,c.name+' · '+(c.locationStatus||c.summary||'Localização por confirmar'));detailLink(p,' · Fonte',c.sourceUrl);if(c.photo?.url){const figure=document.createElement('figure');figure.className='record-photo';const img=document.createElement('img');img.src=c.photo.url;img.alt=c.name;img.loading='lazy';img.referrerPolicy='no-referrer';img.onerror=()=>{figure.hidden=true};figure.append(img);box.append(figure);const credit=detailText(box,'Imagem: '+(c.photo.author||'Créditos na fonte')+' · '+(c.photo.license||''));detailLink(credit,' · Fonte da imagem',c.photo.sourceUrl)}}
+  for(const e of evidenceList(record.evidence)){const p=document.createElement('p');detailLink(p,'Fonte documental',e.url);box.append(p)}
  }
  box.scrollIntoView?.({block:'start',behavior:'smooth'});
 }
