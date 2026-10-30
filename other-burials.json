@@ -5,7 +5,24 @@
     "address": "Largo de São Vicente, Lisboa",
     "lng": -9.1264,
     "lat": 38.7155,
-    "description": "Integra o Panteão dos Braganças, onde se encontram sepultados membros da família real portuguesa."
+    "description": "Panteão Real da Casa de Bragança.",
+    "district": "Lisboa",
+    "municipality": "Lisboa",
+    "parish": "São Vicente",
+    "monarchs": [
+      "D. João IV",
+      "D. Afonso VI",
+      "D. Pedro II",
+      "D. João V",
+      "D. José I",
+      "D. João VI",
+      "D. Miguel I",
+      "D. Maria II",
+      "D. Pedro V",
+      "D. Luís I",
+      "D. Carlos I",
+      "D. Manuel II"
+    ]
   },
   {
     "name": "Igreja de Santa Engrácia (Panteão Nacional)",
@@ -13,7 +30,10 @@
     "address": "Campo de Santa Clara, Lisboa",
     "lng": -9.1254,
     "lat": 38.7152,
-    "description": "Antiga igreja de Santa Engrácia, atual Panteão Nacional, com sepulturas de personalidades portuguesas."
+    "description": "Antiga igreja de Santa Engrácia, atual Panteão Nacional, com sepulturas de personalidades portuguesas.",
+    "district": "Lisboa",
+    "municipality": "Lisboa",
+    "parish": "São Vicente"
   },
   {
     "name": "Mosteiro dos Jerónimos",
@@ -21,6 +41,155 @@
     "address": "Praça do Império, Belém, Lisboa",
     "lng": -9.2065,
     "lat": 38.6979,
-    "description": "Mosteiro com sepulturas históricas, incluindo Vasco da Gama e Luís de Camões."
+    "description": "Panteão régio da dinastia de Avis, incluindo os túmulos de D. Manuel I, D. João III, D. Sebastião e D. Henrique.",
+    "district": "Lisboa",
+    "municipality": "Lisboa",
+    "parish": "Belém",
+    "monarchs": [
+      "D. Manuel I",
+      "D. João III",
+      "D. Sebastião",
+      "D. Henrique"
+    ]
+  },
+  {
+    "name": "Mosteiro de Santa Cruz",
+    "type": "Sepultura régia em monumento histórico",
+    "district": "Coimbra",
+    "municipality": "Coimbra",
+    "parish": "Coimbra (Sé Nova, Santa Cruz, Almedina e São Bartolomeu)",
+    "address": "Praça 8 de Maio, Coimbra",
+    "description": "Túmulos dos dois primeiros reis de Portugal.",
+    "monarchs": [
+      "D. Afonso Henriques",
+      "D. Sancho I"
+    ]
+  },
+  {
+    "name": "Mosteiro de Alcobaça",
+    "type": "Sepultura régia em monumento histórico",
+    "district": "Leiria",
+    "municipality": "Alcobaça",
+    "parish": "Alcobaça e Vestiaria",
+    "address": "Alcobaça",
+    "description": "Panteão medieval; contém também o túmulo de D. Inês de Castro.",
+    "monarchs": [
+      "D. Afonso II",
+      "D. Afonso III",
+      "D. Pedro I"
+    ]
+  },
+  {
+    "name": "Catedral de Toledo",
+    "type": "Sepultura régia em monumento histórico",
+    "district": "Espanha",
+    "municipality": "Toledo",
+    "parish": "Toledo",
+    "address": "Toledo, Espanha",
+    "description": "Local tradicionalmente identificado com a sepultura de D. Sancho II; monumento funerário primitivo desaparecido.",
+    "monarchs": [
+      "D. Sancho II"
+    ]
+  },
+  {
+    "name": "Mosteiro de São Dinis e São Bernardo de Odivelas",
+    "type": "Sepultura régia em monumento histórico",
+    "district": "Lisboa",
+    "municipality": "Odivelas",
+    "parish": "Odivelas",
+    "address": "Odivelas",
+    "description": "Túmulo de D. Dinis.",
+    "monarchs": [
+      "D. Dinis"
+    ]
+  },
+  {
+    "name": "Sé de Lisboa",
+    "type": "Sepultura régia em monumento histórico",
+    "district": "Lisboa",
+    "municipality": "Lisboa",
+    "parish": "Santa Maria Maior",
+    "address": "Largo da Sé, Lisboa",
+    "description": "Local de sepultura de D. Afonso IV; o túmulo medieval perdeu-se no terramoto de 1755.",
+    "monarchs": [
+      "D. Afonso IV"
+    ]
+  },
+  {
+    "name": "Museu Arqueológico do Carmo (antiga Igreja do Carmo)",
+    "type": "Sepultura régia em monumento histórico",
+    "district": "Lisboa",
+    "municipality": "Lisboa",
+    "parish": "Santa Maria Maior",
+    "address": "Largo do Carmo, Lisboa",
+    "description": "Conserva o túmulo de D. Fernando I, originalmente na Igreja de São Francisco de Santarém. A localização dos restos mortais exige confirmação separada.",
+    "monarchs": [
+      "D. Fernando I"
+    ]
+  },
+  {
+    "name": "Mosteiro da Batalha",
+    "type": "Sepultura régia em monumento histórico",
+    "district": "Leiria",
+    "municipality": "Batalha",
+    "parish": "Batalha",
+    "address": "Largo Infante Dom Henrique, Batalha",
+    "description": "Panteão da dinastia de Avis.",
+    "monarchs": [
+      "D. João I",
+      "D. Duarte",
+      "D. Afonso V",
+      "D. João II"
+    ]
+  },
+  {
+    "name": "Basílica da Estrela",
+    "type": "Sepultura régia em monumento histórico",
+    "district": "Lisboa",
+    "municipality": "Lisboa",
+    "parish": "Estrela",
+    "address": "Praça da Estrela, Lisboa",
+    "description": "Sepultura de D. Maria I.",
+    "monarchs": [
+      "D. Maria I"
+    ]
+  },
+  {
+    "name": "Monumento à Independência do Brasil",
+    "type": "Sepultura régia em monumento histórico",
+    "district": "Brasil",
+    "municipality": "São Paulo",
+    "parish": "Ipiranga",
+    "address": "Parque da Independência, São Paulo, Brasil",
+    "description": "Restos mortais de D. Pedro IV de Portugal, D. Pedro I do Brasil.",
+    "monarchs": [
+      "D. Pedro IV"
+    ]
+  },
+  {
+    "name": "Mosteiro de São Lourenço do Escorial",
+    "type": "Sepultura régia em monumento histórico",
+    "district": "Espanha",
+    "municipality": "San Lorenzo de El Escorial",
+    "parish": "San Lorenzo de El Escorial",
+    "address": "San Lorenzo de El Escorial, Madrid, Espanha",
+    "description": "Panteão real da dinastia filipina.",
+    "monarchs": [
+      "Filipe I de Portugal",
+      "Filipe II de Portugal",
+      "Filipe III de Portugal"
+    ]
+  },
+  {
+    "name": "Antigo Convento dos Franciscanos de Paris",
+    "type": "Sepultura régia em monumento histórico",
+    "district": "França",
+    "municipality": "Paris",
+    "parish": "Paris",
+    "address": "Paris, França",
+    "description": "Local histórico atribuído à sepultura de D. António, rei aclamado em 1580; edifício e localização exata carecem de confirmação.",
+    "monarchs": [
+      "D. António, Prior do Crato"
+    ]
   }
 ]
