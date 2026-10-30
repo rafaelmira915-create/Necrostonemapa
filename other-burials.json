@@ -71,7 +71,9 @@
     "parish": "Toledo",
     "address": "Toledo, Espanha",
     "notionUrl": "https://app.notion.com/409f3ddb5a6d816b9cd5f7c7e7c7552a",
-    "bio": "Local tradicionalmente identificado com a sepultura de D. Sancho II; monumento funerário primitivo desaparecido."
+    "bio": "Local tradicionalmente identificado com a sepultura de D. Sancho II; monumento funerário primitivo desaparecido.",
+    "lat": 39.857083,
+    "lng": -4.023889
   },
   {
     "name": "Mosteiro de São Dinis e São Bernardo de Odivelas",
@@ -93,7 +95,9 @@
     "parish": "Santa Maria Maior",
     "address": "Largo da Sé, Lisboa",
     "notionUrl": "https://app.notion.com/409f3ddb5a6d8102a1f4de5aedf3377b",
-    "bio": "Local de sepultura de D. Afonso IV; o túmulo medieval perdeu-se no terramoto de 1755."
+    "bio": "Local de sepultura de D. Afonso IV; o túmulo medieval perdeu-se no terramoto de 1755.",
+    "lat": 38.709884,
+    "lng": -9.132148
   },
   {
     "name": "Museu Arqueológico do Carmo (antiga Igreja do Carmo)",
@@ -103,7 +107,9 @@
     "parish": "Santa Maria Maior",
     "address": "Largo do Carmo, Lisboa",
     "notionUrl": "https://app.notion.com/409f3ddb5a6d8105b7d9d4c9088430ea",
-    "bio": "Conserva o túmulo de D. Fernando I, originalmente na Igreja de São Francisco de Santarém. A localização dos restos mortais exige confirmação separada."
+    "bio": "Conserva o túmulo de D. Fernando I, originalmente na Igreja de São Francisco de Santarém. A localização dos restos mortais exige confirmação separada.",
+    "lat": 38.712128,
+    "lng": -9.140197
   },
   {
     "name": "Mosteiro da Batalha",
@@ -127,7 +133,9 @@
     "parish": "Estrela",
     "address": "Praça da Estrela, Lisboa",
     "notionUrl": "https://app.notion.com/409f3ddb5a6d8137a4e6cf38a0453d8d",
-    "bio": "Sepultura de D. Maria I."
+    "bio": "Sepultura de D. Maria I.",
+    "lat": 38.713259,
+    "lng": -9.160536
   },
   {
     "name": "Monumento à Independência do Brasil",
@@ -137,7 +145,9 @@
     "parish": "Ipiranga",
     "address": "Parque da Independência, São Paulo, Brasil",
     "notionUrl": "https://app.notion.com/409f3ddb5a6d81bba42ae9176557b9d9",
-    "bio": "Restos mortais de D. Pedro IV de Portugal, D. Pedro I do Brasil."
+    "bio": "Restos mortais de D. Pedro IV de Portugal, D. Pedro I do Brasil.",
+    "lat": -23.5794,
+    "lng": -46.6103
   },
   {
     "name": "Mosteiro de São Lourenço do Escorial",
@@ -147,7 +157,9 @@
     "parish": "San Lorenzo de El Escorial",
     "address": "San Lorenzo de El Escorial, Madrid, Espanha",
     "notionUrl": "https://app.notion.com/409f3ddb5a6d81caabcdf0556d04cd10",
-    "bio": "Panteão real da dinastia filipina."
+    "bio": "Panteão real da dinastia filipina.",
+    "lat": 40.58901,
+    "lng": -4.14803
   },
   {
     "name": "Antigo Convento dos Franciscanos de Paris",
@@ -157,6 +169,7 @@
     "parish": "Paris",
     "address": "Paris, França",
     "notionUrl": "https://app.notion.com/409f3ddb5a6d8121aa43e6f66144e684",
-    "bio": "Local histórico atribuído à sepultura de D. António, rei aclamado em 1580; edifício e localização exata carecem de confirmação."
+    "bio": "Local histórico atribuído à sepultura de D. António, rei aclamado em 1580; edifício e localização exata carecem de confirmação.",
+    "locationUnconfirmed": true
   }
 ]
