@@ -22,7 +22,8 @@
       "D. Luís I",
       "D. Carlos I",
       "D. Manuel II"
-    ]
+    ],
+    "notionUrl": "https://app.notion.com/409f3ddb5a6d81f39630c84b3cba5f78"
   },
   {
     "name": "Igreja de Santa Engrácia (Panteão Nacional)",
@@ -33,7 +34,8 @@
     "description": "Antiga igreja de Santa Engrácia, atual Panteão Nacional, com sepulturas de personalidades portuguesas.",
     "district": "Lisboa",
     "municipality": "Lisboa",
-    "parish": "São Vicente"
+    "parish": "São Vicente",
+    "notionUrl": "https://app.notion.com/409f3ddb5a6d818296cbffe890a13767"
   },
   {
     "name": "Mosteiro dos Jerónimos",
@@ -50,7 +52,8 @@
       "D. João III",
       "D. Sebastião",
       "D. Henrique"
-    ]
+    ],
+    "notionUrl": "https://app.notion.com/409f3ddb5a6d81e797abc322703fccb7"
   },
   {
     "name": "Mosteiro de Santa Cruz",
@@ -65,7 +68,8 @@
       "D. Sancho I"
     ],
     "lng": -8.428352,
-    "lat": 40.2112
+    "lat": 40.2112,
+    "notionUrl": "https://app.notion.com/409f3ddb5a6d811b9a58f507a3a8b14e"
   },
   {
     "name": "Mosteiro de Alcobaça",
@@ -81,7 +85,8 @@
       "D. Pedro I"
     ],
     "lng": -8.978628,
-    "lat": 39.548594
+    "lat": 39.548594,
+    "notionUrl": "https://app.notion.com/409f3ddb5a6d814cb07feb5a57f18639"
   },
   {
     "name": "Catedral de Toledo",
@@ -93,7 +98,8 @@
     "description": "Local tradicionalmente identificado com a sepultura de D. Sancho II; monumento funerário primitivo desaparecido.",
     "monarchs": [
       "D. Sancho II"
-    ]
+    ],
+    "notionUrl": "https://app.notion.com/409f3ddb5a6d816b9cd5f7c7e7c7552a"
   },
   {
     "name": "Mosteiro de São Dinis e São Bernardo de Odivelas",
@@ -107,7 +113,8 @@
       "D. Dinis"
     ],
     "lng": -9.182809,
-    "lat": 38.79129
+    "lat": 38.79129,
+    "notionUrl": "https://app.notion.com/409f3ddb5a6d8168bd10c7d33b5672f4"
   },
   {
     "name": "Sé de Lisboa",
@@ -119,7 +126,8 @@
     "description": "Local de sepultura de D. Afonso IV; o túmulo medieval perdeu-se no terramoto de 1755.",
     "monarchs": [
       "D. Afonso IV"
-    ]
+    ],
+    "notionUrl": "https://app.notion.com/409f3ddb5a6d8102a1f4de5aedf3377b"
   },
   {
     "name": "Museu Arqueológico do Carmo (antiga Igreja do Carmo)",
@@ -131,7 +139,8 @@
     "description": "Conserva o túmulo de D. Fernando I, originalmente na Igreja de São Francisco de Santarém. A localização dos restos mortais exige confirmação separada.",
     "monarchs": [
       "D. Fernando I"
-    ]
+    ],
+    "notionUrl": "https://app.notion.com/409f3ddb5a6d8105b7d9d4c9088430ea"
   },
   {
     "name": "Mosteiro da Batalha",
@@ -148,7 +157,8 @@
       "D. João II"
     ],
     "lng": -8.825821,
-    "lat": 39.659007
+    "lat": 39.659007,
+    "notionUrl": "https://app.notion.com/409f3ddb5a6d8168bfabfde199b4f352"
   },
   {
     "name": "Basílica da Estrela",
@@ -160,7 +170,8 @@
     "description": "Sepultura de D. Maria I.",
     "monarchs": [
       "D. Maria I"
-    ]
+    ],
+    "notionUrl": "https://app.notion.com/409f3ddb5a6d8137a4e6cf38a0453d8d"
   },
   {
     "name": "Monumento à Independência do Brasil",
@@ -172,7 +183,8 @@
     "description": "Restos mortais de D. Pedro IV de Portugal, D. Pedro I do Brasil.",
     "monarchs": [
       "D. Pedro IV"
-    ]
+    ],
+    "notionUrl": "https://app.notion.com/409f3ddb5a6d81bba42ae9176557b9d9"
   },
   {
     "name": "Mosteiro de São Lourenço do Escorial",
@@ -186,7 +198,8 @@
       "Filipe I de Portugal",
       "Filipe II de Portugal",
       "Filipe III de Portugal"
-    ]
+    ],
+    "notionUrl": "https://app.notion.com/409f3ddb5a6d81caabcdf0556d04cd10"
   },
   {
     "name": "Antigo Convento dos Franciscanos de Paris",
@@ -198,6 +211,7 @@
     "description": "Local histórico atribuído à sepultura de D. António, rei aclamado em 1580; edifício e localização exata carecem de confirmação.",
     "monarchs": [
       "D. António, Prior do Crato"
-    ]
+    ],
+    "notionUrl": "https://app.notion.com/409f3ddb5a6d8121aa43e6f66144e684"
   }
 ]
