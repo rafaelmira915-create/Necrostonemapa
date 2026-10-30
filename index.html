@@ -198,7 +198,6 @@ function featureLabelPoint(f){
 let labelOverlay=null,labelItems=[];
 function renderAreaLabels(){
  if(!labelOverlay)return;
- if(document.body.classList.contains('other-mode')){labelOverlay.replaceChildren();return;}
  labelOverlay.replaceChildren();
  const occupied=[],w=labelOverlay.clientWidth,h=labelOverlay.clientHeight;
  for(const x of labelItems){
