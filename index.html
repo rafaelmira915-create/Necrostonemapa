@@ -198,6 +198,7 @@ function featureLabelPoint(f){
 let labelOverlay=null,labelItems=[];
 function renderAreaLabels(){
  if(!labelOverlay)return;
+ if(document.body.classList.contains('other-mode')){labelOverlay.replaceChildren();return;}
  labelOverlay.replaceChildren();
  const occupied=[],w=labelOverlay.clientWidth,h=labelOverlay.clientHeight;
  for(const x of labelItems){
@@ -234,7 +235,7 @@ function syncAreaLabels(items){
  }
  renderAreaLabels();
 }
-function draw(items){const parent=state.path.at(-1)?.feature;map.getSource('context').setData({type:'FeatureCollection',features:parent&&parent.geometry.type!=='Point'?[displayFeature(parent)]:[]});const geo={type:'FeatureCollection',features:items.filter(x=>x.feature).map((x,i)=>({...displayFeature(x.feature),properties:{...x.feature.properties,_index:i}}))};map.getSource('areas').setData({...geo,features:geo.features.filter(f=>f.geometry.type!=='Point')});map.getSource('points').setData({...geo,features:geo.features.filter(f=>f.geometry.type==='Point')});syncPhotoMarkers(items);syncAreaLabels(items)}
+function draw(items){if(document.body.classList.contains('other-mode'))return;const parent=state.path.at(-1)?.feature;map.getSource('context').setData({type:'FeatureCollection',features:parent&&parent.geometry.type!=='Point'?[displayFeature(parent)]:[]});const geo={type:'FeatureCollection',features:items.filter(x=>x.feature).map((x,i)=>({...displayFeature(x.feature),properties:{...x.feature.properties,_index:i}}))};map.getSource('areas').setData({...geo,features:geo.features.filter(f=>f.geometry.type!=='Point')});map.getSource('points').setData({...geo,features:geo.features.filter(f=>f.geometry.type==='Point')});syncPhotoMarkers(items);syncAreaLabels(items)}
 function render(){results.replaceChildren();const q=norm(search.value);const matches=state.items.filter(x=>norm(x.name).includes(q));for(const x of matches)button((x.cemetery?'● ':'')+x.name,()=>select(x));if(!matches.length&&state.items.length){const p=document.createElement('p');p.textContent='Nenhum resultado nesta lista.';results.append(p)}}
 function crumbs(){const n=$('#crumbs');n.replaceChildren();button('Portugal',()=>go([]),n);state.path.forEach((x,i)=>button(x.name,()=>go(state.path.slice(0,i+1)),n))}
 function inRing(p,r){let inside=false;for(let i=0,j=r.length-1;i<r.length;j=i++){const a=r[i],b=r[j];if((a[1]>p[1])!==(b[1]>p[1])&&p[0]<(b[0]-a[0])*(p[1]-a[1])/(b[1]-a[1])+a[0])inside=!inside}return inside}
@@ -299,7 +300,10 @@ async function switchBurialMode(mode){
  document.querySelector('#mode-other').setAttribute('aria-pressed',String(other));
  clearOtherMarkers();clearPhotoMarkers();clearMapPhoto();
  if(other){
-   ++state.serial;state.items=[];state.loading=false;
+   ++state.serial;
+   if(map.getSource('areas'))map.getSource('areas').setData({type:'FeatureCollection',features:[]});
+   if(map.getSource('context'))map.getSource('context').setData({type:'FeatureCollection',features:[]});
+   labelItems=[];if(labelOverlay)labelOverlay.replaceChildren();state.items=[];state.loading=false;
    if(popup)popup.remove();
    if(map.getSource('points'))map.getSource('points').setData({type:'FeatureCollection',features:[]});
    for(const id of ['cemeteries'])if(map.getLayer(id))map.setLayoutProperty(id,'visibility','none');
