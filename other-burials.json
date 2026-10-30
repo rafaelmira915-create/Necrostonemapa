@@ -33,7 +33,9 @@
     "municipality": "Lisboa",
     "parish": "Belém",
     "notionUrl": "https://app.notion.com/409f3ddb5a6d81e797abc322703fccb7",
-    "bio": "Panteão régio da dinastia de Avis, incluindo os túmulos de D. Manuel I, D. João III, D. Sebastião e D. Henrique."
+    "bio": "Panteão régio da dinastia de Avis, incluindo os túmulos de D. Manuel I, D. João III, D. Sebastião e D. Henrique.",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Exterior%20of%20Mosteiro%20dos%20Jer%C3%B3nimos.jpg",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Exterior%20of%20Mosteiro%20dos%20Jer%C3%B3nimos.jpg"
   },
   {
     "name": "Mosteiro de Santa Cruz",
@@ -135,7 +137,9 @@
     "notionUrl": "https://app.notion.com/409f3ddb5a6d8137a4e6cf38a0453d8d",
     "bio": "Sepultura de D. Maria I.",
     "lat": 38.713259,
-    "lng": -9.160536
+    "lng": -9.160536,
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bas%C3%ADlica%20da%20Estrela%20(Lisboa)%20-%20Fachada%20principal.jpg",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica%20da%20Estrela%20(Lisboa)%20-%20Fachada%20principal.jpg"
   },
   {
     "name": "Monumento à Independência do Brasil",
