@@ -45,7 +45,9 @@
     "lng": -8.428352,
     "lat": 40.2112,
     "notionUrl": "https://app.notion.com/409f3ddb5a6d811b9a58f507a3a8b14e",
-    "bio": "Túmulos dos dois primeiros reis de Portugal."
+    "bio": "Fundado no século XII, em Coimbra, o Mosteiro de Santa Cruz foi um importante centro religioso e cultural do reino. A sua igreja conserva os túmulos de D. Afonso Henriques e D. Sancho I, reformulados no reinado de D. Manuel I.",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/0%20Fachada%20Mosteiro%20Santa%20Cruz%20Coimbra%20IMG%201033.jpg",
+    "credit": "Wikimedia Commons"
   },
   {
     "name": "Mosteiro de Alcobaça",
@@ -57,7 +59,9 @@
     "lng": -8.978628,
     "lat": 39.548594,
     "notionUrl": "https://app.notion.com/409f3ddb5a6d814cb07feb5a57f18639",
-    "bio": "Panteão medieval; contém também o túmulo de D. Inês de Castro."
+    "bio": "Abadia cisterciense fundada no século XII, associada à formação do reino de Portugal. A igreja acolhe sepulturas régias medievais, destacando-se os monumentais túmulos de D. Pedro I e de D. Inês de Castro.",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mosteiro%20de%20Alcoba%C3%A7a%20fachada.jpg",
+    "credit": "Schwarze engel / Wikimedia Commons, CC BY-SA 3.0"
   },
   {
     "name": "Catedral de Toledo",
@@ -111,7 +115,9 @@
     "lng": -8.825821,
     "lat": 39.659007,
     "notionUrl": "https://app.notion.com/409f3ddb5a6d8168bfabfde199b4f352",
-    "bio": "Panteão da dinastia de Avis."
+    "bio": "Construído a partir de finais do século XIV para celebrar a vitória portuguesa em Aljubarrota, o Mosteiro da Batalha é um dos grandes monumentos do gótico português. A Capela do Fundador acolhe o túmulo de D. João I e de D. Filipa de Lencastre, entre outros membros da dinastia de Avis.",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/IMGP1411%20-%20Mosteiro%20da%20Batalha%2C%20fachada%20principal.jpg",
+    "credit": "Cardilio / Wikimedia Commons, CC BY-SA 4.0"
   },
   {
     "name": "Basílica da Estrela",
