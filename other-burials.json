@@ -169,7 +169,10 @@
     "parish": "Paris",
     "address": "Paris, França",
     "notionUrl": "https://app.notion.com/409f3ddb5a6d8121aa43e6f66144e684",
-    "bio": "Local histórico atribuído à sepultura de D. António, rei aclamado em 1580; edifício e localização exata carecem de confirmação.",
-    "locationUnconfirmed": true
+    "bio": "Local histórico atribuído à sepultura de D. António, rei aclamado em 1580; edifício e localização exata carecem de confirmação. Marcador aproximado no centro de Paris; não corresponde a uma sepultura identificada.",
+    "locationUnconfirmed": true,
+    "lat": 48.8566,
+    "lng": 2.3522,
+    "coordinatePrecision": "city"
   }
 ]
