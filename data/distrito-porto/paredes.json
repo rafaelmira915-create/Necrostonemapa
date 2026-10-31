@@ -21307,7 +21307,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério de Rebordosa, onde se encontra o jazigo de Faustino Coelho Moreira, Visconde de Rebordosa, falecido em 1927. A investigação histórica municipal documenta o legado testamentário para o construir. As atas municipais registam ainda o processo de ampliação do recinto em 2022–2023 e, em 2025, um acordo para construir um muro de suporte. Área total e inauguração original por confirmar.",
+          "summary": "Cemitério de Rebordosa, onde se encontra o jazigo de Faustino Coelho Moreira, Visconde de Rebordosa, falecido em 1927. A investigação histórica municipal documenta o legado testamentário para o construir. As atas municipais registam ainda o processo de ampliação do recinto em 2022–2023 e, em 2025, um acordo para construir um muro de suporte. Área total e inauguração original por confirmar. O quadro de Francisco Queiroz de 1998 regista 1886 como data indicada por epígrafe à entrada e 1876 como a construção funerária datada mais antiga então identificada; estes marcos não provam a inauguração formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -21324,7 +21324,8 @@
           "documentarySources": [
             "https://www.cm-paredes.pt/pages/1059?news_id=2688",
             "https://www.cm-paredes.pt/cmparedes/uploads/document/file/3796/12__ata_da_reuniao_ordinaria_de_21_de_setembro_de_2022.pdf",
-            "https://www.cm-paredes.pt/apoio-ao-cidadao/documentacao/protocolos-contratos?folders_list_73_folder_id=690"
+            "https://www.cm-paredes.pt/apoio-ao-cidadao/documentacao/protocolos-contratos?folders_list_73_folder_id=690",
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
           ]
         }
       ],
