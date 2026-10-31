@@ -8355,7 +8355,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério da freguesia de São Tomé de Negrelos. Participações de falecimento publicadas em 2026 identificam o recinto como local de inumação após cerimónias na igreja paroquial. Área e data de inauguração por documentar.",
+          "summary": "Cemitério da freguesia de São Tomé de Negrelos. Empreitada de ampliação contratada em 2023 por 192.894 €. Em abril de 2024, a obra estava em curso e previa 112 campas, 96 ossários e acesso condicionado; as contas de 2024 continuam a listá-la entre as empreitadas em curso. Conclusão física não confirmada.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -8370,14 +8370,31 @@
           },
           "evidence": [
             {
-              "url": "https://www.diariodesantotirso.pt/participacao-de-falecimento-em-sao-tome-de-negrelos-200/",
-              "accessedAt": "2026-10-30",
+              "url": "https://www.base.gov.pt/Base4/pt/resultados/?ext=.pdf&id=2065136&type=doc_documentos",
+              "accessedAt": "2026-10-31",
               "scope": [
-                "name",
-                "description"
+                "expansion",
+                "management"
+              ]
+            },
+            {
+              "url": "https://www.cm-stirso.pt/cmsantotirso/uploads/links_list_item/document/395/cmst_jm52_abr2024_site.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "expansion",
+                "management"
+              ]
+            },
+            {
+              "url": "https://www.cm-stirso.pt/cmsantotirso/uploads/document/file/8559/prestacao_de_contas_2024_assinadas.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "expansion",
+                "management"
               ]
             }
-          ]
+          ],
+          "documentarySource": "https://www.base.gov.pt/Base4/pt/resultados/?ext=.pdf&id=2065136&type=doc_documentos"
         }
       ],
       "feature": {
