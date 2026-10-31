@@ -7706,7 +7706,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "O roteiro religioso oficial da Póvoa de Varzim indica que a construção do cemitério de Beiriz começou em 1876. A capela cemiterial começou a ser edificada em 1878 e foi aberta ao público e benzida em julho de 1881 sob a invocação de Nossa Senhora dos Aflitos. Estas datas documentam a construção e a capela, não uma inauguração formal do cemitério.",
+          "summary": "A Procuradoria-Geral da República registou em 1875 um pedido da Junta de Paróquia de Beiriz para expropriar terreno do passal e ali estabelecer o cemitério. O roteiro religioso municipal indica que a construção começou em 1876. A capela cemiterial começou a ser edificada em 1878 e foi aberta ao público e benzida em julho de 1881 sob a invocação de Nossa Senhora dos Aflitos. Estes marcos documentam a construção e a capela, não uma inauguração formal do cemitério.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -7737,6 +7737,15 @@
                 "construction",
                 "chapel"
               ]
+            },
+            {
+              "url": "https://arquivohistorico.ministeriopublico.pt/index.php/wnnp-rghn-z4mg",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "archival_record",
+                "construction_request",
+                "history"
+              ]
             }
           ],
           "address": "Rua da Margarida, 4495-335.",
@@ -7745,7 +7754,14 @@
             41.39833563
           ],
           "officialLocationSource": "https://sigonline.cm-pvarzim.pt/arcgis/rest/services/Internet/TEMATICOS_Turismo/MapServer/5",
-          "documentarySource": "https://www.cm-pvarzim.pt/content/uploads/2019/06/17-roteiro-religioso.pdf"
+          "documentarySource": "https://www.cm-pvarzim.pt/content/uploads/2019/06/17-roteiro-religioso.pdf",
+          "documentarySources": [
+            {
+              "url": "https://arquivohistorico.ministeriopublico.pt/index.php/wnnp-rghn-z4mg",
+              "title": "PGR, processo PT/AHPGR/PGR/04/024/291",
+              "date": "1875-11-29"
+            }
+          ]
         },
         {
           "id": "osm-way-346247835",
