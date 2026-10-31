@@ -22572,14 +22572,14 @@
             -8.4104278,
             41.155191
           ],
-          "sourceUrl": "https://jfrecarei.pt/regulamentos-e-taxas/",
+          "sourceUrl": "https://www.cm-paredes.pt/cmparedes/uploads/document/file/8938/contrato_n_o_56___2026___freguesia_de_recarei.pdf",
           "notionUrl": "https://app.notion.com/407f3ddb5a6d8121b89dc26097f152c1",
           "notionPageId": "407f3ddb5a6d8121b89dc26097f152c1",
           "named": true,
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério da freguesia de Recarei, com taxas e serviços divulgados pela respetiva Junta de Freguesia. A ata da Assembleia Municipal de Paredes de 14 de dezembro de 2024 documenta obras de ampliação destinadas a resolver a falta de campas.",
+          "summary": "Cemitério da Freguesia de Recarei. Em 2024, a Câmara documentou o faseamento da ampliação; em 2026, atribuiu apoio financeiro até 195.548,80 € (IVA incluído) para a 2.ª fase. O contrato confirma financiamento, não a conclusão física das obras.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -22594,11 +22594,19 @@
           },
           "evidence": [
             {
-              "url": "https://jfrecarei.pt/regulamentos-e-taxas/",
-              "accessedAt": "2026-10-30",
+              "url": "https://www.cm-paredes.pt/cmparedes/uploads/document/file/8938/contrato_n_o_56___2026___freguesia_de_recarei.pdf",
+              "accessedAt": "2026-10-31",
               "scope": [
-                "name",
-                "description"
+                "expansion",
+                "management"
+              ]
+            },
+            {
+              "url": "https://www.cm-paredes.pt/cmparedes/uploads/document/file/7762/22__ata_da_reuniao_ordinaria_de_06_de_dezembro.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "expansion",
+                "management"
               ]
             }
           ]
