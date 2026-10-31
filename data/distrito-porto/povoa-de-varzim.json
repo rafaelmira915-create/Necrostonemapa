@@ -3832,7 +3832,7 @@
       "district": "Porto",
       "notionPageId": "407f3ddb5a6d81a9a12ee4d01f42b684",
       "notionUrl": "https://app.notion.com/407f3ddb5a6d81a9a12ee4d01f42b684",
-      "summary": "Cemitério de Aguçadoura",
+      "summary": "Cemitério gerido pela Junta de Freguesia de Aguçadoura, com regulamento publicado no Diário da República em 25 de março de 2026. A data do regulamento não corresponde à inauguração do recinto.",
       "areaM2": null,
       "year": null,
       "cemeteries": [
@@ -5406,7 +5406,7 @@
       "district": "Porto",
       "notionPageId": "407f3ddb5a6d81a5bbb1f98fdb7be2e9",
       "notionUrl": "https://app.notion.com/407f3ddb5a6d81a5bbb1f98fdb7be2e9",
-      "summary": "Cemitério de Aver-o-Mar",
+      "summary": "O Município da Póvoa de Varzim registou a ampliação do cemitério de Aver-o-Mar no final de setembro de 2016. O novo espaço foi benzido pelo pároco Joaquim Amorim. É uma ampliação documentada, não a inauguração original do cemitério.",
       "areaM2": null,
       "year": null,
       "cemeteries": [
@@ -6506,7 +6506,7 @@
       "district": "Porto",
       "notionPageId": "407f3ddb5a6d814fbe00cf4fad64e184",
       "notionUrl": "https://app.notion.com/407f3ddb5a6d814fbe00cf4fad64e184",
-      "summary": "Cemitério de Balasar",
+      "summary": "O catálogo do Portal Português de Arquivos regista um requerimento da Junta de Paróquia de Balazar, datado de 12 de abril a 13 de maio de 1913, para demolir o presbitério em ruínas e construir ali o cemitério paroquial. O registo documenta a iniciativa e não confirma a execução do projeto nem a inauguração do recinto atual.",
       "areaM2": null,
       "year": null,
       "cemeteries": [
@@ -8582,7 +8582,7 @@
       "district": "Porto",
       "notionPageId": "407f3ddb5a6d81e6bea6f130cb586544",
       "notionUrl": "https://app.notion.com/407f3ddb5a6d81e6bea6f130cb586544",
-      "summary": "Cemitério Paroquial de Estela",
+      "summary": "O regulamento publicado pela Junta de Freguesia distingue uma parte antiga e uma parte nova do cemitério de Estela. Na zona nova, as sepulturas seguem uma memória descritiva própria. O documento não indica a área total do recinto nem a data de inauguração.",
       "areaM2": null,
       "year": null,
       "cemeteries": [
@@ -9470,7 +9470,7 @@
       "district": "Porto",
       "notionPageId": "407f3ddb5a6d81b9aad9cb3dcd5b54de",
       "notionUrl": "https://app.notion.com/407f3ddb5a6d81b9aad9cb3dcd5b54de",
-      "summary": "Cemitério de Laundos",
+      "summary": "Cemitério identificado no inventário geográfico municipal da Póvoa de Varzim como Cemitério de Laúndos.",
       "areaM2": null,
       "year": null,
       "cemeteries": [
@@ -10807,7 +10807,7 @@
       "district": "Porto",
       "notionPageId": "407f3ddb5a6d810b9fd3e2ba8bdb345d",
       "notionUrl": "https://app.notion.com/407f3ddb5a6d810b9fd3e2ba8bdb345d",
-      "summary": "Cemitério Municipal da Póvoa de Varzim",
+      "summary": "Primeiro cemitério público da Póvoa de Varzim, inaugurado em 1866 no Largo das Dores. O Museu Municipal documenta a utilização de siglas poveiras nas cabeceiras das sepulturas: marcas que permitiam à comunidade piscatória reconhecer os locais de enterramento, incluindo entre pessoas que não liam inscrições alfabéticas.",
       "areaM2": null,
       "year": 1866,
       "cemeteries": [
@@ -11948,7 +11948,7 @@
       "district": "Porto",
       "notionPageId": "407f3ddb5a6d817682a1dc758dbf0bd4",
       "notionUrl": "https://app.notion.com/407f3ddb5a6d817682a1dc758dbf0bd4",
-      "summary": "Cemitério de Rates",
+      "summary": "Um processo do Arquivo Contemporâneo do Ministério das Finanças documenta que, em 1912, foi autorizada a transferência da Capela do Senhor da Praça para o cemitério paroquial de Rates, então sem capela mortuária nem depósito de cadáveres. O registo confirma a existência do cemitério em 1912, mas não a sua data de inauguração.",
       "areaM2": null,
       "year": null,
       "cemeteries": [
@@ -13291,5 +13291,5 @@
       }
     }
   ],
-  "documentaryReviewAt": "2026-10-29"
+  "documentaryReviewAt": "2026-10-31"
 }
