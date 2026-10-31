@@ -11252,7 +11252,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério municipal",
-          "summary": "Cemitério Municipal de Paços de Ferreira, na Avenida D. Sílvia Cardoso. A Junta publica horário diário das 08h00 às 19h00. A alteração municipal de taxas publicada em 2024 inclui concessão de ossário perpétuo, confirmando serviço atual. Área total e ano de inauguração por confirmar.",
+          "summary": "Cemitério Municipal de Paços de Ferreira, na Avenida D. Sílvia Cardoso. A Junta publica horário diário das 08h00 às 19h00. A alteração municipal de taxas publicada em 2024 inclui concessão de ossário perpétuo, confirmando serviço atual. Área total e ano de inauguração por confirmar. O quadro de Francisco Queiroz de 1998 regista 1897 como data inscrita à entrada; a epígrafe não prova por si só a data de inauguração formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -11278,7 +11278,8 @@
           ],
           "documentarySources": [
             "https://www.jf-pacosdeferreira.pt/diretorio/cemiterio-municipal-de-pacos-de-ferreira/",
-            "https://files.diariodarepublica.pt/2s/2024/01/014000000/0053900539.pdf"
+            "https://files.diariodarepublica.pt/2s/2024/01/014000000/0053900539.pdf",
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
           ]
         }
       ],
@@ -14404,5 +14405,5 @@
       }
     }
   ],
-  "documentaryReviewAt": "2026-10-29"
+  "documentaryReviewAt": "2026-10-31"
 }
