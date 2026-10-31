@@ -6154,7 +6154,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério da freguesia de Abragão, com regulamento publicado no Diário da República em 19 de março de 2004. A publicação regulamentar confirma a existência e a designação do recinto, sem estabelecer a sua data de inauguração.",
+          "summary": "Cemitério da freguesia de Abragão, com regulamento publicado no Diário da República em 2004. O relatório municipal de 2022 inclui uma ampliação entre os projetos de Penafiel; não confirma a conclusão da obra ou a inauguração original.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -6176,6 +6176,10 @@
                 "description"
               ]
             }
+          ],
+          "documentarySources": [
+            "https://files.diariodarepublica.pt/2s/2004/03/067036000/0009600097.pdf",
+            "https://www.cm-penafiel.pt/wp-content/uploads/2024/03/Relatorio-Gestao-Contas-2022.pdf"
           ]
         }
       ],
@@ -16625,7 +16629,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério de Entre-os-Rios junto à Capela de São Sebastião, localização descrita no Inventário Nacional do Património Cultural Imaterial, na ficha das Endoenças. A cartografia coloca este recinto imediatamente a sul da capela. Validação cadastral pendente.",
+          "summary": "Cemitério de Entre-os-Rios, junto à Capela de São Sebastião, localização descrita pelo Inventário Nacional do Património Cultural Imaterial. O relatório municipal de 2022 inclui ampliação do cemitério de Entre-os-Rios entre os projetos; a referência não confirma conclusão. Correspondência cadastral pendente.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -16641,7 +16645,11 @@
           "evidence": {
             "url": "https://matrizpci.patrimoniocultural.gov.pt/InventarioNacional/DetalheFicha/293?dirPesq=2"
           },
-          "identificationNote": "Correspondência espacial; validação cadastral pendente."
+          "identificationNote": "Correspondência espacial; validação cadastral pendente.",
+          "documentarySources": [
+            "https://matrizpci.patrimoniocultural.gov.pt/InventarioNacional/DetalheFicha/293?dirPesq=2",
+            "https://www.cm-penafiel.pt/wp-content/uploads/2024/03/Relatorio-Gestao-Contas-2022.pdf"
+          ]
         }
       ],
       "feature": {
@@ -27739,7 +27747,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Registo cartográfico associado à freguesia pelos limites administrativos. Nome e situação atual sujeitos a validação.",
+          "summary": "O relatório municipal de 2023 regista aquisição de terreno para ampliação do cemitério de Perozelo, com dotação de 20 000 euros. A previsão não confirma a conclusão da compra ou da obra. Nome e associação espacial deste ponto permanecem por validar.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -27751,7 +27759,11 @@
             "caption": "Imagem de satélite do local — Cemitério de Perozelo. Alternativa: não foi encontrada fotografia confirmada do cemitério nesta recolha. Data da imagem não confirmada.",
             "kind": "aerial",
             "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.267923%2C41.1469139%2C-8.261923%2C41.1502139&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
-          }
+          },
+          "documentarySource": "https://www.cm-penafiel.pt/cmpenafiel/uploads/document/file/2067/relatorio_de_gestao_e_contas_2023.pdf",
+          "documentarySources": [
+            "https://www.cm-penafiel.pt/cmpenafiel/uploads/document/file/2067/relatorio_de_gestao_e_contas_2023.pdf"
+          ]
         }
       ],
       "feature": {
@@ -28942,7 +28954,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Registo cartográfico associado à freguesia pelos limites administrativos. Nome e situação atual sujeitos a validação.",
+          "summary": "O relatório municipal de Penafiel de 2022 inclui o alargamento do Cemitério Paroquial de São Mamede de Recezinhos entre os projetos. O registo documenta o projeto, não a conclusão da obra nem a inauguração original. Associação espacial deste ponto por validar.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -28954,7 +28966,10 @@
             "caption": "Imagem de satélite do local — Cemitério de São Mamede de Recezinhos. Alternativa: não foi encontrada fotografia confirmada do cemitério nesta recolha. Data da imagem não confirmada.",
             "kind": "aerial",
             "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.207919%2C41.2372491%2C-8.201919%2C41.2405491&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
-          }
+          },
+          "documentarySources": [
+            "https://www.cm-penafiel.pt/wp-content/uploads/2024/03/Relatorio-Gestao-Contas-2022.pdf"
+          ]
         }
       ],
       "feature": {
