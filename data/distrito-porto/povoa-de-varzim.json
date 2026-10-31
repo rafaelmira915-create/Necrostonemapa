@@ -6510,7 +6510,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério identificado no inventário geográfico municipal da Póvoa de Varzim como Cemitério de Balasar.",
+          "summary": "O catálogo do Portal Português de Arquivos regista um requerimento da Junta de Paróquia de Balazar, datado de 12 de abril a 13 de maio de 1913, para demolir o presbitério em ruínas e construir ali o cemitério paroquial. O registo documenta a iniciativa e não confirma a execução do projeto nem a inauguração do recinto atual.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -6533,6 +6533,15 @@
                 "address",
                 "location"
               ]
+            },
+            {
+              "url": "https://portal.arquivos.pt/advanced_search?id=oai%3APT%2FTT%3A2318622&operation=parent&page=215&timestamp=1713191350234",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "archival_record",
+                "construction_request",
+                "history"
+              ]
             }
           ],
           "address": "Rua da Igreja, 4570-033.",
@@ -6540,7 +6549,8 @@
             -8.62174281,
             41.40514539
           ],
-          "officialLocationSource": "https://sigonline.cm-pvarzim.pt/arcgis/rest/services/Internet/TEMATICOS_Turismo/MapServer/5"
+          "officialLocationSource": "https://sigonline.cm-pvarzim.pt/arcgis/rest/services/Internet/TEMATICOS_Turismo/MapServer/5",
+          "documentarySource": "https://portal.arquivos.pt/advanced_search?id=oai%3APT%2FTT%3A2318622&operation=parent&page=215&timestamp=1713191350234"
         }
       ],
       "feature": {
