@@ -7471,13 +7471,13 @@
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
           "photo": {
-            "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.4447612%2C41.3136121%2C-8.4387612%2C41.3169121&bboxSR=4326&imageSR=3857&size=600%2C420&format=jpg&f=image",
-            "sourceUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
-            "author": "Esri, Vantor, Earthstar Geographics e GIS User Community",
-            "license": "Imagem de satélite · créditos do fornecedor",
-            "caption": "Imagem de satélite do local — Cemitério de Monte Córdova. Alternativa: não foi encontrada fotografia confirmada do cemitério nesta recolha. Data da imagem não confirmada.",
-            "kind": "aerial",
-            "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.4447612%2C41.3136121%2C-8.4387612%2C41.3169121&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
+            "url": "https://jornalcordovense.com/wp-content/uploads/2026/10/5336-1024x768.jpg",
+            "thumbnailUrl": "https://jornalcordovense.com/wp-content/uploads/2026/10/5336-1024x768.jpg",
+            "sourceUrl": "https://jornalcordovense.com/?p=41779",
+            "author": "Jornal O Cordovense",
+            "license": "Direitos do autor; reprodução pela fonte",
+            "caption": "Interior do Cemitério de Monte Córdova, em notícia sobre a romagem de Todos os Santos de 2026.",
+            "kind": "ground"
           },
           "documentarySource": "https://jornalcordovense.com/?p=41779",
           "documentarySources": [
