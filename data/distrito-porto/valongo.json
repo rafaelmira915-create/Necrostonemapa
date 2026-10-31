@@ -7347,7 +7347,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério paroquial de Sobrado, construído com financiamento de António Martins de Oliveira, futuro Visconde de Oliveira do Paço. A história institucional do arquivo municipal regista a bênção em 9 de setembro de 1869 e um posterior processo de ampliação sobre uma parcela de 340 m². O arquivo conserva também o livro de enterramentos de 1941–1946. A bênção não foi tratada como inauguração formal, nem a parcela de ampliação como área total.",
+          "summary": "Cemitério paroquial de Sobrado, construído com financiamento de António Martins de Oliveira, futuro Visconde de Oliveira do Paço. A história institucional do arquivo municipal regista a bênção em 9 de setembro de 1869 e um posterior processo de ampliação sobre uma parcela de 340 m². O arquivo conserva também o livro de enterramentos de 1941–1946. A bênção não foi tratada como inauguração formal, nem a parcela de ampliação como área total. Francisco Queiroz indica que o cemitério foi fundado em 1867 e ampliado em 1889, segundo epígrafe no portão; a inscrição documenta a ampliação, não a inauguração formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -7364,7 +7364,8 @@
           "documentarySources": [
             "https://arquivo.cm-valongo.pt/report/?ID=613&Locale=pt&f=3&p=%2FArcheevo6%2FFrontOffice%2FPublic%2FMiscellaneous%2FDescriptionItemPublicReport",
             "https://arquivo.cm-valongo.pt/report/?ID=699&Locale=pt&f=3&p=%2FArcheevo6%2FFrontOffice%2FPublic%2FMiscellaneous%2FDescriptionItemPublicReport",
-            "https://saojoaodesobrado.pt/media/fyrb1n10/lavra_da_prac-a_tomo_1-2.pdf"
+            "https://saojoaodesobrado.pt/media/fyrb1n10/lavra_da_prac-a_tomo_1-2.pdf",
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
           ]
         }
       ],
