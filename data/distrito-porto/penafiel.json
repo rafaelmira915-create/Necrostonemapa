@@ -6154,7 +6154,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério da freguesia de Abragão, com regulamento publicado no Diário da República em 2004. O relatório municipal de 2022 inclui uma ampliação entre os projetos de Penafiel; não confirma a conclusão da obra ou a inauguração original.",
+          "summary": "Cemitério da freguesia de Abragão, com regulamento publicado no Diário da República em 2004. O relatório municipal de 2022 inclui uma ampliação entre os projetos de Penafiel; não confirma a conclusão da obra ou a inauguração original. O quadro de Francisco Queiroz de 1998 regista 1882 como data indicada por epígrafe à entrada; a inscrição não prova por si só a data de inauguração formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -6179,7 +6179,8 @@
           ],
           "documentarySources": [
             "https://files.diariodarepublica.pt/2s/2004/03/067036000/0009600097.pdf",
-            "https://www.cm-penafiel.pt/wp-content/uploads/2024/03/Relatorio-Gestao-Contas-2022.pdf"
+            "https://www.cm-penafiel.pt/wp-content/uploads/2024/03/Relatorio-Gestao-Contas-2022.pdf",
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
           ]
         }
       ],
@@ -9122,7 +9123,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério da freguesia de Cabeça Santa, em Penafiel, identificado em participações funerárias recentes. O recinto atual deve distinguir-se das sepulturas medievais existentes junto à igreja do Salvador, cuja antiguidade não estabelece a data de inauguração deste cemitério.",
+          "summary": "Cemitério da freguesia de Cabeça Santa, em Penafiel, identificado em participações funerárias recentes. O recinto atual deve distinguir-se das sepulturas medievais existentes junto à igreja do Salvador, cuja antiguidade não estabelece a data de inauguração deste cemitério. O quadro de Francisco Queiroz de 1998 regista 1892 como data indicada por epígrafe à entrada; a inscrição não prova por si só a data de inauguração formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -9144,6 +9145,9 @@
                 "description"
               ]
             }
+          ],
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
           ]
         }
       ],
@@ -17871,7 +17875,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · serviços da Junta de Freguesia",
-          "summary": "Cemitério de Galegos. A Junta de Freguesia publica informação sobre a atualização dos titulares das concessões, confirmando o funcionamento dos serviços cemiteriais. A cronologia de fundação e a área total permanecem por confirmar.",
+          "summary": "Cemitério de Galegos. A Junta de Freguesia publica informação sobre a atualização dos titulares das concessões, confirmando o funcionamento dos serviços cemiteriais. A cronologia de fundação e a área total permanecem por confirmar. O quadro de Francisco Queiroz de 1998 regista 1884 como data indicada por epígrafe à entrada; a inscrição não prova por si só a data de inauguração formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -17894,6 +17898,9 @@
                 "description"
               ]
             }
+          ],
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
           ]
         }
       ],
