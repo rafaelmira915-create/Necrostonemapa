@@ -6528,7 +6528,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "O catálogo do Portal Português de Arquivos regista um requerimento da Junta de Paróquia de Balazar, datado de 12 de abril a 13 de maio de 1913, para demolir o presbitério em ruínas e construir ali o cemitério paroquial. O registo documenta a iniciativa e não confirma a execução do projeto nem a inauguração do recinto atual.",
+          "summary": "O catálogo do Portal Português de Arquivos regista um requerimento da Junta de Paróquia de Balazar, datado de 12 de abril a 13 de maio de 1913, para demolir o presbitério em ruínas e construir ali o cemitério paroquial. O registo documenta a iniciativa e não confirma a execução do projeto nem a inauguração do recinto atual. Francisco Queiroz assinala 1914 e 1915 como datas indicadas no portão e 1926 como a construção funerária datada mais antiga então identificada; estes marcos não estabelecem a data de abertura formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -6568,7 +6568,10 @@
             41.40514539
           ],
           "officialLocationSource": "https://sigonline.cm-pvarzim.pt/arcgis/rest/services/Internet/TEMATICOS_Turismo/MapServer/5",
-          "documentarySource": "https://portal.arquivos.pt/advanced_search?id=oai%3APT%2FTT%3A2318622&operation=parent&page=215&timestamp=1713191350234"
+          "documentarySource": "https://portal.arquivos.pt/advanced_search?id=oai%3APT%2FTT%3A2318622&operation=parent&page=215&timestamp=1713191350234",
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
+          ]
         }
       ],
       "feature": {
