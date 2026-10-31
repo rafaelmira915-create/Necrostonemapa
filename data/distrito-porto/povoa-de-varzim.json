@@ -8586,7 +8586,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério identificado no inventário geográfico municipal da Póvoa de Varzim como Cemitério da Estela.",
+          "summary": "O regulamento publicado pela Junta de Freguesia distingue uma parte antiga e uma parte nova do cemitério de Estela. Na zona nova, as sepulturas seguem uma memória descritiva própria. O documento não indica a área total do recinto nem a data de inauguração.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -8609,6 +8609,15 @@
                 "address",
                 "location"
               ]
+            },
+            {
+              "url": "https://www.jf-estela.pt/ficheiros/fic89_1732123100.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "site_description",
+                "layout",
+                "management"
+              ]
             }
           ],
           "address": "Rua D. Daniel Junqueira, 4570-245.",
@@ -8616,7 +8625,8 @@
             -8.75233652,
             41.44473552
           ],
-          "officialLocationSource": "https://sigonline.cm-pvarzim.pt/arcgis/rest/services/Internet/TEMATICOS_Turismo/MapServer/5"
+          "officialLocationSource": "https://sigonline.cm-pvarzim.pt/arcgis/rest/services/Internet/TEMATICOS_Turismo/MapServer/5",
+          "documentarySource": "https://www.jf-estela.pt/ficheiros/fic89_1732123100.pdf"
         }
       ],
       "feature": {
