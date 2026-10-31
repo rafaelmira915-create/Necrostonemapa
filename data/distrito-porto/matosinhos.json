@@ -19402,7 +19402,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério paroquial",
-          "summary": "Cemitério Paroquial de Matosinhos. A documentação municipal de 19 de novembro de 2007 inclui o cemitério e a casa mortuária na caracterização patrimonial da freguesia. A menção confirma a existência do conjunto funerário; não permite determinar a abertura nem a área total do recinto.",
+          "summary": "Cemitério Paroquial de Matosinhos. A documentação municipal de 19 de novembro de 2007 inclui o cemitério e a casa mortuária na caracterização patrimonial da freguesia. A menção confirma a existência do conjunto funerário; não permite determinar a abertura nem a área total do recinto. O quadro de Francisco Queiroz de 1998 regista para o “cemitério antigo” de Matosinhos 1856 como data inscrita e 1863 como a construção funerária datada mais antiga então identificada. É provável que corresponda a este cemitério paroquial, identificado noutros documentos municipais como Cemitério Municipal n.º 1, mas o estudo não estabelece explicitamente essa correspondência nem prova uma inauguração formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -19425,6 +19425,10 @@
                 "description"
               ]
             }
+          ],
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte",
+            "https://arquivomunicipal.cm-matosinhos.pt/Result.aspx?id=92743&type=PCD"
           ]
         }
       ],
