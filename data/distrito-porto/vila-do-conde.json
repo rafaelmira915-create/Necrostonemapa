@@ -1022,7 +1022,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Registo cartográfico associado à freguesia pelos limites administrativos. Nome e situação atual sujeitos a validação.",
+          "summary": "Cemitério de Aveleda, Vila do Conde. Francisco Queiroz (1998) regista 1897 como data de criação segundo a epígrafe do portão e 1898 como ano da construção funerária datada mais antiga. Estes marcos não fixam uma inauguração formal. A identificação toponímica do levantamento corresponde ao ponto cartográfico em Aveleda.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -1034,7 +1034,18 @@
             "caption": "Imagem de satélite do local — Cemitério de Aveleda. Alternativa: não foi encontrada fotografia confirmada do cemitério nesta recolha. Data da imagem não confirmada.",
             "kind": "aerial",
             "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.6924312%2C41.2611228%2C-8.6864312%2C41.2644228&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
-          }
+          },
+          "documentarySource": "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte",
+          "evidence": [
+            {
+              "url": "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "historical",
+                "description"
+              ]
+            }
+          ]
         }
       ],
       "feature": {
