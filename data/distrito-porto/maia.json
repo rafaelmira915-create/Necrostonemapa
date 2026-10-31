@@ -11707,7 +11707,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério de freguesia",
-          "summary": "Cemitério de Folgosa. Em fevereiro de 2024, o Município da Maia aprovou apoio financeiro para trabalhos complementares na empreitada de ampliação e beneficiação; a área total e a data de abertura não são indicadas.",
+          "summary": "Cemitério de Folgosa. Em fevereiro de 2024, o Município da Maia aprovou apoio financeiro para trabalhos complementares na empreitada de ampliação e beneficiação; a área total e a data de abertura não são indicadas. O quadro de Francisco Queiroz de 1998 regista 1886 como data indicada por epígrafe à entrada; esta inscrição não prova a data de inauguração formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -11739,6 +11739,9 @@
                 "management"
               ]
             }
+          ],
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
           ]
         }
       ],
