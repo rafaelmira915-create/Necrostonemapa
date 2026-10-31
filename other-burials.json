@@ -264,5 +264,115 @@
     "lat": 38.70905374619551,
     "lng": -9.145243763923647,
     "address": "Rua das Chagas, Lisboa"
+  },
+  {
+    "name": "Sé Catedral do Porto",
+    "type": "Igreja — sepultamentos históricos por verificar",
+    "district": "Porto",
+    "municipality": "Porto",
+    "parish": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+    "lat": 41.142795,
+    "lng": -8.611323,
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d81afb502e668225425d5",
+    "bio": "Edifício religioso anterior a 1833. Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Igreja de São Francisco",
+    "type": "Igreja — sepultamentos históricos por verificar",
+    "district": "Porto",
+    "municipality": "Porto",
+    "parish": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+    "lat": 41.140827,
+    "lng": -8.615339,
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d81d78562f92fc983c08f",
+    "bio": "Edifício religioso anterior a 1833. Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Igreja de Santa Clara",
+    "type": "Igreja — sepultamentos históricos por verificar",
+    "district": "Porto",
+    "municipality": "Porto",
+    "parish": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+    "lat": 41.142491,
+    "lng": -8.609257,
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d81cf861ec04304fa224e",
+    "bio": "Edifício religioso anterior a 1833. Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Igreja de São Lourenço",
+    "type": "Igreja — sepultamentos históricos por verificar",
+    "district": "Porto",
+    "municipality": "Porto",
+    "parish": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+    "lat": 41.14186,
+    "lng": -8.612397,
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d81068583fbb0fe96925f",
+    "bio": "Edifício religioso anterior a 1833. Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Igreja de São Bento da Vitória",
+    "type": "Igreja — sepultamentos históricos por verificar",
+    "district": "Porto",
+    "municipality": "Porto",
+    "parish": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+    "lat": 41.143936,
+    "lng": -8.616226,
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d814486e6dffefd3c6428",
+    "bio": "Edifício religioso anterior a 1833. Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Igreja de Santo Ildefonso",
+    "type": "Igreja — sepultamentos históricos por verificar",
+    "district": "Porto",
+    "municipality": "Porto",
+    "parish": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+    "lat": 41.146186,
+    "lng": -8.606567,
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d81fbab78d317771c8692",
+    "bio": "Edifício religioso anterior a 1833. Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Igreja dos Clérigos",
+    "type": "Igreja — sepultamentos históricos por verificar",
+    "district": "Porto",
+    "municipality": "Porto",
+    "parish": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+    "lat": 41.145739,
+    "lng": -8.614339,
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d81649f67de21414d853d",
+    "bio": "Edifício religioso anterior a 1833. Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Igreja da Misericórdia do Porto",
+    "type": "Igreja — sepultamentos históricos por verificar",
+    "district": "Porto",
+    "municipality": "Porto",
+    "parish": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+    "lat": 41.143578,
+    "lng": -8.614701,
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d816fa1c4fb106e844a9e",
+    "bio": "Edifício religioso anterior a 1833. Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Igreja do Carmo",
+    "type": "Igreja — sepultamentos históricos por verificar",
+    "district": "Porto",
+    "municipality": "Porto",
+    "parish": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+    "lat": 41.14747,
+    "lng": -8.61626,
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d817b9adacf9be4b5ce77",
+    "bio": "Edifício religioso anterior a 1833. Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Igreja dos Carmelitas Descalços",
+    "type": "Igreja — sepultamentos históricos por verificar",
+    "district": "Porto",
+    "municipality": "Porto",
+    "parish": "Cedofeita, Santo Ildefonso, Sé, Miragaia, São Nicolau e Vitória",
+    "lat": 41.14747,
+    "lng": -8.61646,
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d815fbcf8e13abdbdd3d7",
+    "bio": "Edifício religioso anterior a 1833. Sepultamentos históricos por confirmar."
   }
 ]
