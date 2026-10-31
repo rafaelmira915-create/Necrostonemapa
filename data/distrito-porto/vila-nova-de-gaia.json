@@ -20287,7 +20287,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Recinto histórico do Campo da Ariosa, com inumações desde 25 de fevereiro de 1867, segundo Francisco Queiroz. O terreno foi doado pela proprietária da Quinta do Mosteiro. A entrada ostenta 1869; esta inscrição não corresponde ao primeiro enterramento.",
+          "summary": "Recinto histórico do Campo da Ariosa, com inumações desde 25-02-1867, segundo Francisco Queiroz. A entrada ostenta 1869, posterior ao primeiro enterramento. Em 1885, a PGR registou processo para expropriar terreno destinado à ampliação do cemitério da freguesia de Pedroso; não confirma execução nem identidade com o recinto atual.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -20302,15 +20302,14 @@
           },
           "evidence": [
             {
-              "url": "http://www.franciscoqueiroz.com/Cemiterios_de_Gaia.pdf",
-              "accessedAt": "2026-10-30",
+              "url": "https://arquivohistorico.ministeriopublico.pt/index.php/cemiterios?listLimit=20&listPage=25&page=4&sf_culture=en&sort=referenceCode&sortDir=desc",
+              "accessedAt": "2026-10-31",
               "scope": [
-                "history",
-                "chronology"
-              ],
-              "citation": "Francisco Queiroz, 1998, parte II, pp. 26–28"
+                "expansion"
+              ]
             }
-          ]
+          ],
+          "documentarySource": "https://arquivohistorico.ministeriopublico.pt/index.php/cemiterios?listLimit=20&listPage=25&page=4&sf_culture=en&sort=referenceCode&sortDir=desc"
         },
         {
           "id": "osm-way-108444946",
