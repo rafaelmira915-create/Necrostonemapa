@@ -192,5 +192,59 @@
     "bio": "Mausoléu do industrial Alfredo da Silva (1871–1942), projetado por Luís Cristino da Silva e com escultura de Leopoldo de Almeida. Os seus restos mortais foram trasladados para aqui em 20 de agosto de 1944. O antigo cemitério foi desativado, permanecendo o mausoléu isolado.",
     "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mausol%C3%A9u%20Alfredo%20da%20Silva%20-%20Barreiro%20-%20Portugal%20(48994676078).jpg",
     "photoSource": "https://commons.wikimedia.org/wiki/Category:Mausol%C3%A9u_de_Alfredo_da_Silva"
+  },
+  {
+    "name": "Igreja de Nossa Senhora do Loreto",
+    "type": "Igreja (sepultamentos por confirmar)",
+    "district": "Lisboa",
+    "municipality": "Lisboa",
+    "parish": "Misericórdia",
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d81c181b8ebb6800f7b06",
+    "bio": "Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Igreja de Nossa Senhora da Encarnação",
+    "type": "Igreja (sepultamentos por confirmar)",
+    "district": "Lisboa",
+    "municipality": "Lisboa",
+    "parish": "Misericórdia",
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d8123b250cc26fbc61dcd",
+    "bio": "Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Igreja de São Roque",
+    "type": "Igreja (sepultamentos por confirmar)",
+    "district": "Lisboa",
+    "municipality": "Lisboa",
+    "parish": "Misericórdia",
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d8141a56dcc624dff7b3b",
+    "bio": "Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Basílica de Nossa Senhora dos Mártires",
+    "type": "Igreja (sepultamentos por confirmar)",
+    "district": "Lisboa",
+    "municipality": "Lisboa",
+    "parish": "Santa Maria Maior",
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d81aab56de44809634f41",
+    "bio": "Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Igreja do Santíssimo Sacramento",
+    "type": "Igreja (sepultamentos por confirmar)",
+    "district": "Lisboa",
+    "municipality": "Lisboa",
+    "parish": "Santa Maria Maior",
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d81a293d5d9877aa6df70",
+    "bio": "Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Igreja das Chagas",
+    "type": "Igreja (sepultamentos por confirmar)",
+    "district": "Lisboa",
+    "municipality": "Lisboa",
+    "parish": "Misericórdia",
+    "notionUrl": "https://app.notion.com/p/40af3ddb5a6d8124bbe2d6322304b17c",
+    "bio": "Sepultamentos históricos por confirmar."
   }
 ]
