@@ -25907,7 +25907,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério de Marecos. O estudo de Mário Jorge Barroca descreve a Ermida de São Jorge no centro do cemitério, num monte sobranceiro à igreja paroquial. O ponto situa-se a nordeste da Igreja de Santo André de Marecos; correspondência espacial, com confirmação cadastral por obter.",
+          "summary": "Cemitério Paroquial de Marecos. Estudo de Mário Jorge Barroca descreve a Ermida de São Jorge no centro do cemitério. O Município registou a 1.ª fase do alargamento nas contas de 2023 e adjudicou a 2.ª fase em 2023 por 144.453,71 € + IVA; as contas de 2024 registam 120.291,10 € no procedimento. Os documentos confirmam fases e despesa, mas não bastam para declarar a obra concluída. Correspondência do ponto OSM ao recinto indicada como provável, sujeita a confirmação cadastral.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -25920,10 +25920,34 @@
             "kind": "aerial",
             "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.2938324%2C41.1841326%2C-8.2878324%2C41.1874326&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
           },
-          "evidence": {
-            "url": "https://ler.letras.up.pt/uploads/ficheiros/13875.pdf"
-          },
-          "identificationNote": "Correspondência espacial; validação cadastral pendente."
+          "evidence": [
+            {
+              "url": "https://www.cm-penafiel.pt/cmpenafiel/uploads/document/file/2067/relatorio_de_gestao_e_contas_2023.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "expansion",
+                "management"
+              ]
+            },
+            {
+              "url": "https://www.cm-penafiel.pt/wp-content/uploads/2023/12/Boletim-Municipal-30novembro2023.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "expansion",
+                "management"
+              ]
+            },
+            {
+              "url": "https://www.cm-penafiel.pt/wp-content/uploads/2025/05/Documentos-de-Prestacao-de-Contas-2024.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "expansion",
+                "management"
+              ]
+            }
+          ],
+          "identificationNote": "Correspondência espacial; validação cadastral pendente.",
+          "documentarySource": "https://www.cm-penafiel.pt/wp-content/uploads/2023/12/Boletim-Municipal-30novembro2023.pdf"
         }
       ],
       "feature": {
