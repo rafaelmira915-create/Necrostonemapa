@@ -4894,7 +4894,7 @@
       "district": "Porto",
       "notionPageId": "407f3ddb5a6d810fb785e6743fb7adc0",
       "notionUrl": "https://app.notion.com/407f3ddb5a6d810fb785e6743fb7adc0",
-      "summary": "Cemitério de Argivai",
+      "summary": "Cemitério de Argivai, regulamentado em 2019 pela União das Freguesias da Póvoa de Varzim, Beiriz e Argivai para inumação de pessoas falecidas na freguesia. Área e ano de abertura não indicados.",
       "areaM2": null,
       "year": null,
       "cemeteries": [
@@ -4916,7 +4916,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério identificado no inventário geográfico municipal da Póvoa de Varzim como Cemitério de Argivai.",
+          "summary": "Cemitério de Argivai, regulamentado em 2019 pela União das Freguesias da Póvoa de Varzim, Beiriz e Argivai para inumação de pessoas falecidas na freguesia. Área e ano de abertura não indicados.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -4938,6 +4938,15 @@
                 "description",
                 "address",
                 "location"
+              ]
+            },
+            {
+              "url": "https://diariodarepublica.pt/dr/detalhe/regulamento/148-2019-119236265",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "existence",
+                "management",
+                "governance"
               ]
             }
           ],
