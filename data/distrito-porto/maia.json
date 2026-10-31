@@ -6247,7 +6247,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério de Barca. O boletim oficial Viver Castêlo, de dezembro de 2019, apresenta um estudo prévio de ampliação. A ata da Assembleia de Freguesia de dezembro de 2022 mantém a ampliação como intervenção prevista, com aproveitamento de terreno junto à capela mortuária; não comprova a sua conclusão.",
+          "summary": "Cemitério de Barca. Francisco Queiroz (1998) regista 1882 como data da epígrafe à entrada; esse marco não confirma a abertura. O boletim oficial Viver Castêlo, de dezembro de 2019, apresenta um estudo prévio de ampliação, e a ata de 2022 mantém a intervenção como prevista, sem comprovar a conclusão.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -6260,7 +6260,17 @@
             "kind": "aerial",
             "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.6158229%2C41.2449506%2C-8.6098229%2C41.2482506&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
           },
-          "documentarySource": "https://www.jfcastelodamaia.pt/app/webroot/js/kcfinder/files/BOLETIM%20Viver%20Castelo-compactado.pdf"
+          "documentarySource": "https://www.jfcastelodamaia.pt/app/webroot/js/kcfinder/files/BOLETIM%20Viver%20Castelo-compactado.pdf",
+          "evidence": [
+            {
+              "url": "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "historical chronology",
+                "inscription or dated construction; not formal inauguration"
+              ]
+            }
+          ]
         },
         {
           "id": "osm-way-352982582",
@@ -6324,7 +6334,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério de Gemunde, referido no boletim oficial Viver Castêlo, n.º 11, de dezembro de 2019, que documenta trabalhos de manutenção do recinto.",
+          "summary": "Cemitério de Gemunde. Francisco Queiroz (1998) regista 1868 na epígrafe à entrada e 1866 como a construção funerária datada mais antiga. Estas datas não confirmam a abertura. O boletim oficial Viver Castêlo, n.º 11, de dezembro de 2019, documenta trabalhos de manutenção.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -6337,7 +6347,17 @@
             "kind": "aerial",
             "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.6459143%2C41.265674%2C-8.6399143%2C41.268974&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
           },
-          "documentarySource": "https://www.jfcastelodamaia.pt/app/webroot/js/kcfinder/files/BOLETIM%20Viver%20Castelo-compactado.pdf"
+          "documentarySource": "https://www.jfcastelodamaia.pt/app/webroot/js/kcfinder/files/BOLETIM%20Viver%20Castelo-compactado.pdf",
+          "evidence": [
+            {
+              "url": "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "historical chronology",
+                "inscription or dated construction; not formal inauguration"
+              ]
+            }
+          ]
         }
       ],
       "feature": {
@@ -8273,7 +8293,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério de freguesia",
-          "summary": "Um dos quatro cemitérios abrangidos pelo regulamento da Freguesia de Cidade da Maia, que identifica também os recintos da Maia e de Vermoim I e II.",
+          "summary": "Um dos quatro cemitérios abrangidos pelo regulamento da Freguesia de Cidade da Maia, que identifica também os recintos da Maia e de Vermoim I e II. Francisco Queiroz (1998) regista construções funerárias datadas em Gueifães desde 1869; esse marco não confirma a abertura do cemitério.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -8295,6 +8315,14 @@
                 "description",
                 "address",
                 "management"
+              ]
+            },
+            {
+              "url": "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "historical chronology",
+                "inscription or dated construction; not formal inauguration"
               ]
             }
           ],
