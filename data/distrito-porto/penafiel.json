@@ -25787,7 +25787,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério municipal",
-          "summary": "Cemitério Municipal de Penafiel. O Município publicou em 2026 um procedimento para a prestação de serviços de covagem, inumações, trasladações e exumações neste recinto.",
+          "summary": "Cemitério Municipal de Penafiel. O Município publicou em 2026 um procedimento para a prestação de serviços de covagem, inumações, trasladações e exumações neste recinto. O quadro de Francisco Queiroz de 1998 aponta 1870 como data da criação oficial, refere catacumbas datadas de 1877 e regista 1879 como a construção funerária datada mais antiga então identificada; estes dados não estabelecem a data de abertura formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -25809,6 +25809,9 @@
                 "management"
               ]
             }
+          ],
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
           ]
         },
         {
