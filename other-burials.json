@@ -209,7 +209,10 @@
     "municipality": "Lisboa",
     "parish": "Misericórdia",
     "notionUrl": "https://app.notion.com/p/40af3ddb5a6d8123b250cc26fbc61dcd",
-    "bio": "Sepultamentos históricos por confirmar."
+    "bio": "Sepultamentos históricos por confirmar.",
+    "lng": -9.14176662037921,
+    "lat": 38.71437168877768,
+    "address": "Largo do Chiado, Lisboa"
   },
   {
     "name": "Igreja de São Roque",
@@ -218,7 +221,10 @@
     "municipality": "Lisboa",
     "parish": "Misericórdia",
     "notionUrl": "https://app.notion.com/p/40af3ddb5a6d8141a56dcc624dff7b3b",
-    "bio": "Sepultamentos históricos por confirmar."
+    "bio": "Sepultamentos históricos por confirmar.",
+    "lng": -9.143495,
+    "lat": 38.713631,
+    "address": "Largo Trindade Coelho, Lisboa"
   },
   {
     "name": "Basílica de Nossa Senhora dos Mártires",
@@ -227,7 +233,10 @@
     "municipality": "Lisboa",
     "parish": "Santa Maria Maior",
     "notionUrl": "https://app.notion.com/p/40af3ddb5a6d81aab56de44809634f41",
-    "bio": "Sepultamentos históricos por confirmar."
+    "bio": "Sepultamentos históricos por confirmar.",
+    "lng": -9.142093334158226,
+    "lat": 38.71588169169925,
+    "address": "Rua Garrett, Lisboa"
   },
   {
     "name": "Igreja do Santíssimo Sacramento",
