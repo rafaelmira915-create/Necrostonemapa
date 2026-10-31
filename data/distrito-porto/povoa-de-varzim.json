@@ -4367,7 +4367,7 @@
       "district": "Porto",
       "notionPageId": "407f3ddb5a6d81dc8561ee0879f705bf",
       "notionUrl": "https://app.notion.com/407f3ddb5a6d81dc8561ee0879f705bf",
-      "summary": "Cemitério de Amorim",
+      "summary": "O presidente da União das Freguesias declarou em 2021 que já havia terreno adquirido e muro delimitador para alargar o Cemitério de Amorim, com início das obras previsto nesse ano; não há confirmação de conclusão. Área e ano de abertura não confirmados.",
       "areaM2": null,
       "year": null,
       "cemeteries": [
@@ -4389,7 +4389,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério identificado no inventário geográfico municipal da Póvoa de Varzim como Cemitério de Amorim.",
+          "summary": "O presidente da União das Freguesias declarou em 2021 que já havia terreno adquirido e muro delimitador para alargar o Cemitério de Amorim, com início das obras previsto nesse ano; não há confirmação de conclusão. Área e ano de abertura não confirmados.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -4412,6 +4412,15 @@
                 "address",
                 "name",
                 "location"
+              ]
+            },
+            {
+              "url": "https://maissemanario.pt/promo/04_Amorim.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "expansion",
+                "works",
+                "history"
               ]
             }
           ],
