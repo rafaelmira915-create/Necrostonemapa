@@ -5410,7 +5410,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério identificado no inventário geográfico municipal da Póvoa de Varzim como Cemitério de Aver-o-Mar.",
+          "summary": "O Município da Póvoa de Varzim registou a ampliação do cemitério de Aver-o-Mar no final de setembro de 2016. O novo espaço foi benzido pelo pároco Joaquim Amorim. É uma ampliação documentada, não a inauguração original do cemitério.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -5433,6 +5433,15 @@
                 "address",
                 "location"
               ]
+            },
+            {
+              "url": "https://www.cm-pvarzim.pt/content/uploads/2019/06/revista-14-web.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "history",
+                "expansion",
+                "blessing"
+              ]
             }
           ],
           "address": "Rua de José André, 4490-095.",
@@ -5440,7 +5449,8 @@
             -8.76282939,
             41.40388872
           ],
-          "officialLocationSource": "https://sigonline.cm-pvarzim.pt/arcgis/rest/services/Internet/TEMATICOS_Turismo/MapServer/5"
+          "officialLocationSource": "https://sigonline.cm-pvarzim.pt/arcgis/rest/services/Internet/TEMATICOS_Turismo/MapServer/5",
+          "documentarySource": "https://www.cm-pvarzim.pt/content/uploads/2019/06/revista-14-web.pdf"
         }
       ],
       "feature": {
