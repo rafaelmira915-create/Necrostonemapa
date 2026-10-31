@@ -7461,7 +7461,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Construído em 1862 junto à antiga igreja paroquial de São Salvador de Ramalde; ampliado em 1989. A Junta distingue as zonas conhecidas como Cemitério Velho e Cemitério Novo.",
+          "summary": "Construído em 1862 junto à antiga igreja paroquial de São Salvador de Ramalde; ampliado em 1989. A Junta distingue as zonas conhecidas como Cemitério Velho e Cemitério Novo. Francisco Queiroz regista 1862 com referência à obra de Vítor Manuel Lopes Dias (1963) e indica 1863 como a construção funerária datada mais antiga que identificou; estes dados não confirmam a inauguração formal.",
           "note": "1862 é o ano de construção indicado pela Junta de Freguesia; não foi confirmada uma data formal de inauguração.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -7472,7 +7472,10 @@
             "caption": "Fotografia aérea do Cemitério de Ramalde",
             "license": "Fotografia publicada na fonte · créditos do autor",
             "kind": "ground"
-          }
+          },
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
+          ]
         }
       ],
       "feature": {
