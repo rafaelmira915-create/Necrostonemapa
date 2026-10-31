@@ -19113,7 +19113,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério paroquial",
-          "summary": "Implantado em terrenos do adro e do passal, com enterramentos documentados desde 1855. O estudo de Francisco Queiroz distingue essa origem da data de 1867 inscrita no portal. Documenta ainda ampliações oitocentistas e capelas de interesse histórico e artístico. A Junta de Freguesia de Oliveira do Douro identifica oficialmente este recinto como Cemitério Paroquial e publica o respetivo horário de funcionamento.",
+          "summary": "Implantado em terrenos do adro e do passal, com enterramentos documentados desde 1855. Francisco Queiroz distingue essa origem da data de 1867 inscrita no portal e documenta ampliações oitocentistas. A PGR regista parecer de 25-11-1885 sobre expropriação de terreno para ampliação; o dono alegou proximidade a habitações e a uma mina de água usada pelos paroquianos. O processo não confirma execução. A Junta identifica oficialmente o recinto como Cemitério Paroquial.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -19144,6 +19144,9 @@
                 "description"
               ]
             }
+          ],
+          "documentarySources": [
+            "https://arquivohistorico.ministeriopublico.pt/index.php/expropriacoes?languages=pt&listLimit=20&listPage=21&onlyDirect=1&sf_culture=pt&sort=date&sortDir=asc"
           ]
         }
       ],
