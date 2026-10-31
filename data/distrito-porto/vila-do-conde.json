@@ -24920,7 +24920,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério de Vila Chã, na Rua da Igreja. A Junta descreve três talhões, duas capelas/jazigo, uma capela mortuária e o Túmulo do Soldado Desconhecido. Data a construção de 1881, enquanto o documento municipal da ARU de Vila Chã refere a consolidação de um muro de cemitério derrubado em 1876, com pedra do antigo facho. A relação entre estes marcos históricos exige validação; não se atribui um ano de inauguração. Área total por confirmar.",
+          "summary": "Cemitério de Vila Chã, Rua da Igreja. A Junta data a construção em 1881; documento municipal refere um muro de cemitério derrubado em 1876. Em 28-04-1885, a PGR registou pedido de expropriação de parte do terreno da Agra da Fonte para construir um cemitério da freguesia. As fontes não esclarecem se este pedido correspondia ao recinto atual ou a um projeto posterior; não se atribui data de inauguração.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -24936,7 +24936,17 @@
           "documentarySource": "https://jfvilacha.pt/index.php/a-freguesia/equipamentos",
           "documentarySources": [
             "https://jfvilacha.pt/index.php/a-freguesia/equipamentos",
-            "https://www.cm-viladoconde.pt/cmviladoconde/uploads/document/file/4070/aru_orusimples_vilacha_final.pdf"
+            "https://www.cm-viladoconde.pt/cmviladoconde/uploads/document/file/4070/aru_orusimples_vilacha_final.pdf",
+            "https://arquivohistorico.ministeriopublico.pt/index.php/cemiterios?listLimit=20&listPage=29&onlyDirect=1&page=5&sf_culture=pt&sort=alphabetic&sortDir=asc"
+          ],
+          "evidence": [
+            {
+              "url": "https://arquivohistorico.ministeriopublico.pt/index.php/cemiterios?listLimit=20&listPage=29&onlyDirect=1&page=5&sf_culture=pt&sort=alphabetic&sortDir=asc",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "historical"
+              ]
+            }
           ]
         }
       ],
