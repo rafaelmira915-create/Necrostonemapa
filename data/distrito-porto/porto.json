@@ -7963,7 +7963,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério da Foz do Douro, na Rua de Côrte Real, 27. O portal municipal Visit Porto documenta a construção em 1887. A data formal de inauguração e a área total continuam por confirmar.",
+          "summary": "Cemitério da Foz do Douro, na Rua de Côrte Real, 27. O portal municipal Visit Porto documenta a construção em 1887. A data formal de inauguração e a área total continuam por confirmar. Francisco Queiroz regista também 1881 como data da vedação, segundo projeto publicado, e 1887 como data epigráfica à entrada; estes marcos não confirmam a inauguração formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -7978,7 +7978,10 @@
           "constructionYear": 1887,
           "historicalEvidence": {
             "url": "https://visitporto.travel/pt-PT/poi/5cd04b4cf979e000011d98f4"
-          }
+          },
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
+          ]
         },
         {
           "id": "osm-way-167487332",
@@ -8033,7 +8036,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério de Nevogilde, gerido pela União das Freguesias de Aldoar, Foz do Douro e Nevogilde, com localização publicada na Rua de Júlio Dantas. Área total e data de inauguração por confirmar.",
+          "summary": "Cemitério de Nevogilde, gerido pela União das Freguesias de Aldoar, Foz do Douro e Nevogilde, com localização publicada na Rua de Júlio Dantas. Área total e data de inauguração por confirmar. Queiroz regista 1840 como data indicada por Vítor Manuel Lopes Dias (1963); não é confirmação de inauguração formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -8048,7 +8051,10 @@
           },
           "historicalEvidence": {
             "url": "https://aldoarfoznevogilde.pt/servicos/cemiterios/"
-          }
+          },
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
+          ]
         }
       ],
       "feature": {
