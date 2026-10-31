@@ -20437,7 +20437,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério identificado no património transferido para a Freguesia de Perafita em 2026. Localiza-se no Largo Alves Moreira, anteriormente Largo da Igreja, e figura no aviso publicado no Diário da República em 21 de maio de 2026.",
+          "summary": "Cemitério identificado no património transferido para a Freguesia de Perafita em 2026. Localiza-se no Largo Alves Moreira, anteriormente Largo da Igreja, e figura no aviso publicado no Diário da República em 21 de maio de 2026. O quadro de Francisco Queiroz de 1998 regista 1872 como a construção funerária datada mais antiga então identificada; este dado não estabelece a data de abertura ou inauguração.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -20460,6 +20460,9 @@
                 "management"
               ]
             }
+          ],
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
           ]
         }
       ],
