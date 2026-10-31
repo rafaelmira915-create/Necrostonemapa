@@ -21271,7 +21271,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "A Junta de Freguesia anunciou a inauguração da 10.ª secção do Cemitério de Águas Santas, realizada em 27-10-2024. Segundo o presidente da Junta, a secção acrescentou mais de 100 sepulturas, jazigos, ossários e columbários. É informação sobre ampliação, não sobre a área total ou a abertura original.",
+          "summary": "Cemitério de Águas Santas. Francisco Queiroz (1998) aponta 1881 como a construção funerária datada mais antiga identificada no recinto, sem fixar a inauguração formal. A 10.ª secção foi inaugurada em 27-10-2024 e acrescentou mais de 100 sepulturas, jazigos, ossários e columbários.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -21310,7 +21310,18 @@
                 "capacity"
               ],
               "note": "Reportagem local sobre a inauguração de 2024; atribui o número de mais de 100 sepulturas ao presidente da Junta."
+            },
+            {
+              "url": "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "historical",
+                "description"
+              ]
             }
+          ],
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
           ]
         }
       ],
