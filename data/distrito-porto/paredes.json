@@ -9401,7 +9401,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério da freguesia de Baltar. A ata da Assembleia Municipal de Paredes de 14 de dezembro de 2024 documenta a delegação de competências para o seu alargamento. A data da ata não corresponde à inauguração do cemitério.",
+          "summary": "Cemitério da freguesia de Baltar. Francisco Queiroz (1998) regista 1892 como data indicada pela epígrafe do portão; esta inscrição não confirma a inauguração formal. Em 2024, a Assembleia Municipal documentou a delegação de competências para o alargamento do recinto.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -9422,7 +9422,17 @@
                 "name",
                 "description"
               ]
+            },
+            {
+              "url": "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "historical"
+              ]
             }
+          ],
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
           ]
         }
       ],
