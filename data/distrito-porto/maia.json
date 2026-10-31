@@ -6203,7 +6203,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério de Avioso, Santa Maria. O boletim oficial Viver Castêlo, de dezembro de 2019, anuncia a conclusão da primeira fase do alargamento e a concessão de novas sepulturas.",
+          "summary": "Cemitério de Avioso, Santa Maria. O boletim oficial Viver Castêlo, de dezembro de 2019, anuncia a conclusão da primeira fase do alargamento e a concessão de novas sepulturas. O relatório municipal de arqueologia identifica obras de ampliação em 2017, sem indicar área total ou inauguração original.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -6216,7 +6216,18 @@
             "kind": "aerial",
             "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.6125429%2C41.2656953%2C-8.6065429%2C41.2689953&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
           },
-          "documentarySource": "https://www.jfcastelodamaia.pt/app/webroot/js/kcfinder/files/BOLETIM%20Viver%20Castelo-compactado.pdf"
+          "documentarySource": "https://www.jfcastelodamaia.pt/app/webroot/js/kcfinder/files/BOLETIM%20Viver%20Castelo-compactado.pdf",
+          "evidence": [
+            {
+              "url": "https://www.cm-maia.pt/cmmaia/uploads/document/file/12502/doc_rel_parqeo_maia.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "expansion",
+                "works"
+              ],
+              "note": "Relatório municipal regista obras de ampliação do cemitério em 2017."
+            }
+          ]
         },
         {
           "id": "osm-way-308129724",
@@ -6269,7 +6280,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério de Avioso, São Pedro. O boletim oficial de dezembro de 2019 apresenta o estudo prévio da ampliação; na Assembleia de Freguesia de dezembro de 2022, o executivo refere despesas já realizadas com o alargamento.",
+          "summary": "Cemitério de Avioso, São Pedro. O boletim oficial de dezembro de 2019 apresenta o estudo prévio da ampliação; na Assembleia de Freguesia de dezembro de 2022, o executivo refere despesas já realizadas com o alargamento. Em agosto de 2023, o Município aprovou apoio para trabalhos complementares da segunda fase da obra, sem confirmação de conclusão ou área total.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -6282,7 +6293,18 @@
             "kind": "aerial",
             "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.6202953%2C41.2745072%2C-8.6142953%2C41.2778072&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
           },
-          "documentarySource": "https://www.jfcastelodamaia.pt/app/webroot/js/kcfinder/files/BOLETIM%20Viver%20Castelo-compactado.pdf"
+          "documentarySource": "https://www.jfcastelodamaia.pt/app/webroot/js/kcfinder/files/BOLETIM%20Viver%20Castelo-compactado.pdf",
+          "evidence": [
+            {
+              "url": "https://www.cm-maia.pt/cmmaia/uploads/writer_file/document/9541/boletim_municipal_maia___edicao_n_o_9_agosto_de_2023.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "expansion",
+                "works",
+                "management"
+              ]
+            }
+          ]
         },
         {
           "id": "osm-way-459418092",
