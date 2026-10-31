@@ -11917,7 +11917,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério identificado no inventário geográfico municipal da Póvoa de Varzim como Cemitério de Rates.",
+          "summary": "Um processo do Arquivo Contemporâneo do Ministério das Finanças documenta que, em 1912, foi autorizada a transferência da Capela do Senhor da Praça para o cemitério paroquial de Rates, então sem capela mortuária nem depósito de cadáveres. O registo confirma a existência do cemitério em 1912, mas não a sua data de inauguração.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -11940,6 +11940,15 @@
                 "address",
                 "location"
               ]
+            },
+            {
+              "url": "https://portal.arquivos.pt/record?id=oai%3Abadigital.sgmf.pt%3AARQ%2F145901&s=F1xI6",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "archival_record",
+                "existence_by_1912",
+                "history"
+              ]
             }
           ],
           "address": "Rua Dr. Manuel Monteiro, 4570-485.",
@@ -11947,7 +11956,8 @@
             -8.67295223,
             41.4203049
           ],
-          "officialLocationSource": "https://sigonline.cm-pvarzim.pt/arcgis/rest/services/Internet/TEMATICOS_Turismo/MapServer/5"
+          "officialLocationSource": "https://sigonline.cm-pvarzim.pt/arcgis/rest/services/Internet/TEMATICOS_Turismo/MapServer/5",
+          "documentarySource": "https://portal.arquivos.pt/record?id=oai%3Abadigital.sgmf.pt%3AARQ%2F145901&s=F1xI6"
         }
       ],
       "feature": {
