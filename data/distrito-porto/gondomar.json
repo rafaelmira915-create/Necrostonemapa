@@ -11474,7 +11474,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério de freguesia",
-          "summary": "Um dos cemitérios da União das Freguesias de Fânzeres e São Pedro da Cova, com funcionamento divulgado pela Junta de Freguesia.",
+          "summary": "Um dos cemitérios da União das Freguesias de Fânzeres e São Pedro da Cova, com funcionamento divulgado pela Junta de Freguesia. No quadro estatístico publicado por Francisco Queiroz em 1998, surgem 1854 como data das primeiras obras, 1874 como data indicada por epígrafe à entrada e 1888 como a construção funerária datada mais antiga então identificada. Estes marcos não provam a inauguração formal nem confirmam por si só a correspondência exata com o recinto cartografado atual.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -11497,6 +11497,9 @@
                 "management"
               ]
             }
+          ],
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
           ]
         },
         {
