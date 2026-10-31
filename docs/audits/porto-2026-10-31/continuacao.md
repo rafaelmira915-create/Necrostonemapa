@@ -23,3 +23,13 @@ O indicador antigo `named` não é suficiente para comprovar designações docum
 Continuar pesquisa documental por recinto, dando prioridade às 176 descrições genéricas e às 387 imagens de satélite. Completar áreas e inaugurações apenas com fonte que identifique inequivocamente a grandeza e o evento. Consultar o Notion antes de cada alteração; preencher sem apagar informação confirmada; publicar imediatamente os dados correspondentes no município respetivo.
 
 O esgotamento do modo Work não foi comunicado pelas ferramentas nesta sessão; este relatório não afirma que os créditos se esgotaram.
+
+## Continuação sustentada de 31 de outubro — novo ponto de controlo
+
+Verificação após o commit 194460080e0bc80ac4abf8d8f14ad9d0f1d31c74: 18 concelhos, 275 fichas, 424 pontos; zero erros estruturais e zero IDs duplicados. Restam 82 descrições genéricas. Há 52 fotografias do próprio recinto e 372 alternativas de satélite, 3 áreas numéricas e 9 datas/períodos de abertura. A contagem por campo não demonstra validação cadastral.
+
+Desde o ponto de controlo anterior, foram acrescentadas biografias e fontes em Amarante, Baião, Felgueiras, Lousada, Matosinhos, Paços de Ferreira, Paredes, Porto, Santo Tirso, Trofa, Valongo, Vila do Conde e Vila Nova de Gaia. Fotografias adicionais foram inspecionadas antes da publicação; imagens quebradas ou de sugestões turísticas não foram usadas. A fotografia quebrada de Passinhos foi retirada, preservando a alternativa de satélite.
+
+Em Campelo, a fonte municipal confirma a abertura do cemitério atual em 12 de julho de 1891; esta data não foi atribuída ao cemitério de Ovil. Áreas de parcelas de ampliação permanecem no texto, sem preencher a área total. Gandra, Sanfins, Vilar do Paraíso e outros conjuntos com polígonos contíguos mantêm ressalvas de correspondência entre setores.
+
+O trabalho continua em Gondomar e nos restantes registos documentais. Não se declara o Porto concluído. Não houve indicação de esgotamento do modo Work.
