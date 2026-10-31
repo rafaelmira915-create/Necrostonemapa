@@ -8363,7 +8363,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério de freguesia",
-          "summary": "Recinto de Vermoim I, integrado no conjunto dos quatro cemitérios da Freguesia de Cidade da Maia.",
+          "summary": "Recinto identificado como Vermoim I pela Freguesia de Cidade da Maia. A PGR regista iniciativas de 04-09-1873 para construir igreja e cemitério no passal de São Romão de Vermoim e de 26-08-1879 para expropriar parte do passal para construir cemitério. Os processos documentam propostas na freguesia histórica; não confirmam a execução nem a correspondência com este ponto cartográfico.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -8388,7 +8388,13 @@
               ]
             }
           ],
-          "address": "Rua Nossa Senhora da Caridade e Rua Padre Luís Campos."
+          "address": "Rua Nossa Senhora da Caridade e Rua Padre Luís Campos.",
+          "documentarySource": "https://diariodarepublica.pt/dr/detalhe/edital/805-2014-56388797",
+          "documentarySources": [
+            "https://diariodarepublica.pt/dr/detalhe/edital/805-2014-56388797",
+            "https://arquivohistorico.ministeriopublico.pt/index.php/cftt-pmbw-qfte",
+            "https://arquivohistorico.ministeriopublico.pt/index.php/maia?listLimit=20&onlyDirect=1&sort=lastUpdated&sortDir=desc&subjects=8512"
+          ]
         },
         {
           "id": "osm-way-304809108",
@@ -23070,5 +23076,5 @@
       }
     }
   ],
-  "documentaryReviewAt": "2026-10-29"
+  "documentaryReviewAt": "2026-10-31"
 }
