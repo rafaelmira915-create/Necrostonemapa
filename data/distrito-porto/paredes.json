@@ -10621,7 +10621,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério de Beire. O estudo As Visitações em Beire, baseado no Livro dos Capítulos da paróquia conservado no Arquivo Diocesano do Porto, documenta a visita processional do bispo António de Castro Meireles ao cemitério em 27 de janeiro de 1930. A referência comprova o uso do recinto nessa época, sem estabelecer a inauguração. Área total por confirmar.",
+          "summary": "Cemitério de Beire. Registo da visita episcopal de 27-01-1930 comprova o uso do recinto nessa data. Francisco Queiroz (1998) regista 1884 como data indicada pela epígrafe do portão; esta inscrição não confirma a inauguração formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -10634,7 +10634,19 @@
             "kind": "aerial",
             "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.3259181%2C41.2465387%2C-8.3199181%2C41.2498387&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
           },
-          "documentarySource": "https://www.cronicasparedenses.pt/2023/08/as-visitacoes-em-beire.html?m=1"
+          "documentarySource": "https://www.cronicasparedenses.pt/2023/08/as-visitacoes-em-beire.html?m=1",
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
+          ],
+          "evidence": [
+            {
+              "url": "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "historical"
+              ]
+            }
+          ]
         }
       ],
       "feature": {
