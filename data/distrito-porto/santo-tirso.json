@@ -5954,7 +5954,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Recinto a sul, junto à igreja, distinto da área ampliada a norte que a planta municipal de junho de 2019 delimita no Anexo I do Edital n.º 162/2019 (página 10). A documentação municipal de 2007 distingue o cemitério existente do Novo.",
+          "summary": "Recinto a sul, junto à igreja, distinto da área ampliada a norte que a planta municipal de junho de 2019 delimita no Anexo I do Edital n.º 162/2019 (página 10). A documentação municipal de 2007 distingue o cemitério existente do Novo. Um parecer da PGR de 17 de agosto de 1880 documenta um pedido de expropriação de parte do passal para construir um cemitério em São Miguel das Aves; não confirma abertura nem prova que seja exatamente este recinto.",
           "note": "Correspondência espacial validada com planta municipal. Área total e ano de inauguração por confirmar.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -5979,6 +5979,15 @@
                 "location"
               ],
               "note": "Anexo I, página 10."
+            },
+            {
+              "url": "https://arquivohistorico.ministeriopublico.pt/index.php/a9q4-whmd-bfrr",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "historical-planning",
+                "construction-request"
+              ],
+              "note": "Parecer datado de 1880-08-17; regista pedido de expropriação para construir cemitério, não abertura confirmada."
             }
           ]
         },
