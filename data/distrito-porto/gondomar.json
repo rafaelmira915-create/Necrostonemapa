@@ -8504,7 +8504,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério n.º 1 de Rio Tinto, paroquial e propriedade da Junta de Freguesia, situado na zona do Mosteiro, junto à Igreja Matriz. O regulamento oficial distingue-o do cemitério municipal n.º 2, na Triana. Área total e data de inauguração não indicadas nesta fonte.",
+          "summary": "Cemitério n.º 1 de Rio Tinto, paroquial e junto da Igreja Matriz. História local baseada nas atas da Junta regista ausência de cemitério público em 1851, aquisição do terreno em 1854 e bênção do recinto em 5-07-1857. Queiroz (1998) aponta 1864 para a construção funerária datada mais antiga. A associação destes marcos ao atual n.º 1 é provável, mas não explicitamente demonstrada pela fonte histórica. Bênção e construção não equivalem a inauguração formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -8516,7 +8516,25 @@
             "license": "Fotografia publicada na fonte · créditos do autor",
             "kind": "ground"
           },
-          "documentarySource": "https://www.riotinto.pt/phocadownload/ExecutivoRegulamentos/regulamento%20dos%20cemiterios%20de%20rio%20tinto%20-%202012.pdf"
+          "documentarySource": "https://www.riotinto.pt/phocadownload/ExecutivoRegulamentos/regulamento%20dos%20cemiterios%20de%20rio%20tinto%20-%202012.pdf",
+          "evidence": [
+            {
+              "url": "https://umolharsobreriotinto.wordpress.com/historia-de-rio-tinto/presenca-romana/a-regeneracao/",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "historical chronology",
+                "parish minutes; acquisition and blessing"
+              ]
+            },
+            {
+              "url": "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "historical chronology",
+                "earliest dated funerary construction; not formal inauguration"
+              ]
+            }
+          ]
         },
         {
           "id": "osm-way-161124298",
