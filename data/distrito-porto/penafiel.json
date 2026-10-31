@@ -28319,7 +28319,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério paroquial",
-          "summary": "Cemitério paroquial de Rans. A requalificação noticiada em maio de 2023 melhorou a mobilidade no recinto e foi assinalada numa cerimónia com representantes da Câmara Municipal e da Junta de Freguesia. A data corresponde à intervenção recente; a fundação e a área total permanecem incertas.",
+          "summary": "Cemitério Paroquial de Rans. Município adjudicou a requalificação em 2021 por 99.785,53 € + IVA; notícia de maio de 2023 reporta melhorias de mobilidade e cerimónia no recinto. Área e ano de fundação por confirmar.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -28332,14 +28332,21 @@
             "kind": "aerial",
             "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.3044052%2C41.1677904%2C-8.2984052%2C41.1710904&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
           },
-          "documentarySource": "https://novumcanal.pt/2023/05/bencao-da-requalificacao-do-cemiterio-paroquial-de-rans/",
+          "documentarySource": "https://www.cm-penafiel.pt/wp-content/uploads/2021/03/Boletim-Municipal-31janeiro2021.pdf",
           "evidence": [
+            {
+              "url": "https://www.cm-penafiel.pt/wp-content/uploads/2021/03/Boletim-Municipal-31janeiro2021.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "management",
+                "description"
+              ]
+            },
             {
               "url": "https://novumcanal.pt/2023/05/bencao-da-requalificacao-do-cemiterio-paroquial-de-rans/",
               "accessedAt": "2026-10-31",
               "scope": [
-                "existence",
-                "description"
+                "renovation"
               ]
             }
           ]
