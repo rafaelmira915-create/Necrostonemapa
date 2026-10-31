@@ -8901,7 +8901,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério de freguesia",
-          "summary": "Cemitério de Valongo. A Junta de Freguesia descreve a construção de um edifício de inumação aeróbia com 84 nichos e 30 ossários. A área de 80,81 m² publicada refere-se apenas à implantação deste edifício, não à área total do cemitério.",
+          "summary": "Cemitério de Valongo. Junta descreve 84 nichos e 30 ossários no edifício de inumação aeróbia. Ata municipal refere novo edifício para 51 inumações e 16 sepulturas executado em 2020, e projeto de ampliação a sudoeste com cerca de 7.600 m², acessos, estacionamento e reserva para futuro crematório. Em 2023, o procedimento do estacionamento ficou deserto e o projeto foi revisto. A ampliação global não está confirmada como concluída; 7.600 m² é área projetada, não área total do cemitério.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -8917,14 +8917,33 @@
           "evidence": [
             {
               "url": "https://www.jf-valongo.pt/pt/municipe/cemiterio/",
-              "accessedAt": "2026-10-29",
+              "accessedAt": "2026-10-31",
               "scope": [
-                "existence",
                 "description",
+                "expansion",
+                "management"
+              ]
+            },
+            {
+              "url": "https://www.cm-valongo.pt/cmvalongo/uploads/document/file/5990/ata_camara_15_04_2021.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "description",
+                "expansion",
+                "management"
+              ]
+            },
+            {
+              "url": "https://www.cm-valongo.pt/cmvalongo/uploads/document/file/7901/2023_02_23_ata_da_reuniao_ordinaria.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "description",
+                "expansion",
                 "management"
               ]
             }
-          ]
+          ],
+          "documentarySource": "https://www.cm-valongo.pt/cmvalongo/uploads/document/file/5990/ata_camara_15_04_2021.pdf"
         }
       ],
       "feature": {
