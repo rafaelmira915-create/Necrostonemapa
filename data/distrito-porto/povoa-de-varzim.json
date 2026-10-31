@@ -10138,7 +10138,7 @@
       "district": "Porto",
       "notionPageId": "407f3ddb5a6d81a6be9bd5117b5838de",
       "notionUrl": "https://app.notion.com/407f3ddb5a6d81a6be9bd5117b5838de",
-      "summary": "Cemitério de Navais",
+      "summary": "Cemitério Paroquial de Navais, sob gestão da Junta de Freguesia de Navais, que assumiu a gestão plena após a desagregação da união de freguesias, conforme Regulamento n.º 631/2026. Área e ano de abertura não indicados.",
       "areaM2": null,
       "year": null,
       "cemeteries": [
@@ -10160,7 +10160,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério identificado no inventário geográfico municipal da Póvoa de Varzim como Cemitério de Navais.",
+          "summary": "Cemitério Paroquial de Navais, sob gestão da Junta de Freguesia de Navais, que assumiu a gestão plena após a desagregação da união de freguesias, conforme Regulamento n.º 631/2026. Área e ano de abertura não indicados.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -10182,6 +10182,15 @@
                 "description",
                 "address",
                 "location"
+              ]
+            },
+            {
+              "url": "https://diariodarepublica.pt/dr/detalhe/regulamento/631-2026-1125313371",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "existence",
+                "management",
+                "governance"
               ]
             }
           ],
@@ -12677,7 +12686,7 @@
       "district": "Porto",
       "notionPageId": "407f3ddb5a6d815da7eefb17416d7071",
       "notionUrl": "https://app.notion.com/407f3ddb5a6d815da7eefb17416d7071",
-      "summary": "Cemitério de Terroso",
+      "summary": "A revista municipal de setembro de 2016 documentou a construção de um novo cemitério contíguo ao antigo, então em curso; não confirmou a data de inauguração do espaço atual. Área e ano de abertura permanecem por confirmar.",
       "areaM2": null,
       "year": null,
       "cemeteries": [
@@ -12699,7 +12708,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério identificado no inventário geográfico municipal da Póvoa de Varzim como Cemitério de Terroso.",
+          "summary": "A revista municipal de setembro de 2016 documentou a construção de um novo cemitério contíguo ao antigo, então em curso; não confirmou a data de inauguração do espaço atual. Área e ano de abertura permanecem por confirmar.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -12722,6 +12731,15 @@
                 "address",
                 "name",
                 "location"
+              ]
+            },
+            {
+              "url": "https://www.cm-pvarzim.pt/content/uploads/2019/06/revista-13-web.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "construction",
+                "history",
+                "existence"
               ]
             }
           ],
