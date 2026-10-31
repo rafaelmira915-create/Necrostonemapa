@@ -11973,7 +11973,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Um processo do Arquivo Contemporâneo do Ministério das Finanças documenta que, em 1912, foi autorizada a transferência da Capela do Senhor da Praça para o cemitério paroquial de Rates, então sem capela mortuária nem depósito de cadáveres. O registo confirma a existência do cemitério em 1912, mas não a sua data de inauguração.",
+          "summary": "Um processo do Arquivo Contemporâneo do Ministério das Finanças documenta que, em 1912, foi autorizada a transferência da Capela do Senhor da Praça para o cemitério paroquial de Rates, então sem capela mortuária nem depósito de cadáveres. O registo confirma a existência do cemitério em 1912, mas não a sua data de inauguração. O quadro de Francisco Queiroz de 1998 regista 1907 como data indicada por epígrafe à entrada; esta inscrição não prova por si só a data de inauguração formal.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -12013,7 +12013,10 @@
             41.4203049
           ],
           "officialLocationSource": "https://sigonline.cm-pvarzim.pt/arcgis/rest/services/Internet/TEMATICOS_Turismo/MapServer/5",
-          "documentarySource": "https://portal.arquivos.pt/record?id=oai%3Abadigital.sgmf.pt%3AARQ%2F145901&s=F1xI6"
+          "documentarySource": "https://portal.arquivos.pt/record?id=oai%3Abadigital.sgmf.pt%3AARQ%2F145901&s=F1xI6",
+          "documentarySources": [
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
+          ]
         }
       ],
       "feature": {
