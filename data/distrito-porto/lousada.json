@@ -3796,7 +3796,7 @@
       "district": "Porto",
       "notionPageId": "407f3ddb5a6d817c95e4e53175a47ee1",
       "notionUrl": "https://app.notion.com/407f3ddb5a6d817c95e4e53175a47ee1",
-      "summary": "O cemitério de Aveleda confina a sul com o adro da Igreja de São Salvador, conforme o enquadramento da ficha do Inventário do Património Arquitetónico (IPA PT011305020004). A descrição permite distinguir o recinto funerário do monumento românico vizinho, mas não confirma a abertura nem a área total do cemitério.",
+      "summary": "O cemitério de Aveleda confina a sul com o adro da Igreja de São Salvador, segundo a ficha IPA PT011305020004. A cronologia de Luís Ângelo Vieira Fernandes (2011), no Anexo 1, p. 261, regista a entrada do processo de construção no Governo Civil do Porto em 20 de agosto de 1907. É uma data processual, sem confirmação da abertura ou da área total.",
       "areaM2": null,
       "year": null,
       "cemeteries": [
@@ -3818,7 +3818,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "O cemitério de Aveleda confina a sul com o adro da Igreja de São Salvador, conforme o enquadramento da ficha do Inventário do Património Arquitetónico (IPA PT011305020004). A descrição permite distinguir o recinto funerário do monumento românico vizinho, mas não confirma a abertura nem a área total do cemitério.",
+          "summary": "O cemitério de Aveleda confina a sul com o adro da Igreja de São Salvador, segundo a ficha IPA PT011305020004. A cronologia de Luís Ângelo Vieira Fernandes (2011), no Anexo 1, p. 261, regista a entrada do processo de construção no Governo Civil do Porto em 20 de agosto de 1907. É uma data processual, sem confirmação da abertura ou da área total.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -3833,7 +3833,8 @@
           },
           "documentarySource": "https://portugalromanico.wordpress.com/wp-content/uploads/2010/01/lousada-aveleda.pdf",
           "documentarySources": [
-            "https://portugalromanico.wordpress.com/wp-content/uploads/2010/01/lousada-aveleda.pdf"
+            "https://portugalromanico.wordpress.com/wp-content/uploads/2010/01/lousada-aveleda.pdf",
+            "https://repositorio.upt.pt/bitstreams/75659804-10ab-4aa8-9e99-b2daadf39419/download"
           ]
         }
       ],
@@ -11527,7 +11528,7 @@
       "district": "Porto",
       "notionPageId": "407f3ddb5a6d813d9501ffe3b6bdc5cd",
       "notionUrl": "https://app.notion.com/407f3ddb5a6d813d9501ffe3b6bdc5cd",
-      "summary": "O Cemitério de Torno, na freguesia também conhecida como Aparecida, integra os recintos cuja abertura em Todos os Santos de 2020 foi decidida pela respetiva junta, com medidas sanitárias específicas. A notícia de 23 de outubro de 2020 documenta a sua utilização e gestão local, sem estabelecer a data de fundação nem a área total.",
+      "summary": "O Cemitério de Torno tem um processo de construção cuja entrada no Governo Civil do Porto é situada em 1885 pela cronologia de Luís Ângelo Vieira Fernandes (2011), no Anexo 1. A notícia de outubro de 2020 sobre Todos os Santos documenta a utilização do recinto e decisões da junta sobre o seu funcionamento. A data do processo não equivale à inauguração; a área total permanece por confirmar.",
       "areaM2": null,
       "year": null,
       "cemeteries": [
@@ -11549,7 +11550,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "O Cemitério de Torno, na freguesia também conhecida como Aparecida, integra os recintos cuja abertura em Todos os Santos de 2020 foi decidida pela respetiva junta, com medidas sanitárias específicas. A notícia de 23 de outubro de 2020 documenta a sua utilização e gestão local, sem estabelecer a data de fundação nem a área total.",
+          "summary": "O Cemitério de Torno tem um processo de construção cuja entrada no Governo Civil do Porto é situada em 1885 pela cronologia de Luís Ângelo Vieira Fernandes (2011), no Anexo 1. A notícia de outubro de 2020 sobre Todos os Santos documenta a utilização do recinto e decisões da junta sobre o seu funcionamento. A data do processo não equivale à inauguração; a área total permanece por confirmar.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -11562,10 +11563,10 @@
             "kind": "aerial",
             "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.2166331%2C41.2888183%2C-8.2106331%2C41.2921183&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
           },
-          "documentarySource": "https://www.verdadeiroolhar.pt/juntas-de-lousada-decidem-cemiterios-abertos-a-1-de-novembro-mas-com-regras/",
+          "documentarySource": "https://repositorio.upt.pt/bitstreams/75659804-10ab-4aa8-9e99-b2daadf39419/download",
           "documentarySources": [
-            "https://www.verdadeiroolhar.pt/juntas-de-lousada-decidem-cemiterios-abertos-a-1-de-novembro-mas-com-regras/",
-            "https://www.freguesias.pt/freguesia.php?cod=130525"
+            "https://repositorio.upt.pt/bitstreams/75659804-10ab-4aa8-9e99-b2daadf39419/download",
+            "https://www.verdadeiroolhar.pt/juntas-de-lousada-decidem-cemiterios-abertos-a-1-de-novembro-mas-com-regras/"
           ]
         }
       ],
@@ -12596,7 +12597,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Registo cartográfico associado à freguesia pelos limites administrativos. Nome e situação atual sujeitos a validação.",
+          "summary": "O processo de construção do Cemitério de Santa Margarida deu entrada no Governo Civil em 30 de novembro de 1891, segundo a cronologia de Luís Ângelo Vieira Fernandes, Dia-a-dia com o passado (2011), Anexo 1, p. 372. A referência é a um procedimento de construção, sem prova da inauguração nessa data. A área total e a continuidade exata entre esse processo e o recinto cartografado carecem de confirmação cadastral.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -12608,7 +12609,11 @@
             "caption": "Imagem de satélite do local — Cemitério de Santa Margarida de Lousada. Alternativa: não foi encontrada fotografia confirmada do cemitério nesta recolha. Data da imagem não confirmada.",
             "kind": "aerial",
             "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.2587179%2C41.3026516%2C-8.2527179%2C41.3059516&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
-          }
+          },
+          "documentarySource": "https://repositorio.upt.pt/bitstreams/75659804-10ab-4aa8-9e99-b2daadf39419/download",
+          "documentarySources": [
+            "https://repositorio.upt.pt/bitstreams/75659804-10ab-4aa8-9e99-b2daadf39419/download"
+          ]
         }
       ],
       "feature": {
