@@ -200,7 +200,10 @@
     "municipality": "Lisboa",
     "parish": "Misericórdia",
     "notionUrl": "https://app.notion.com/p/40af3ddb5a6d81c181b8ebb6800f7b06",
-    "bio": "Sepultamentos históricos por confirmar."
+    "bio": "Sepultamentos históricos por confirmar.",
+    "lat": 38.71087,
+    "lng": -9.14276,
+    "address": "Largo do Chiado, Lisboa"
   },
   {
     "name": "Igreja de Nossa Senhora da Encarnação",
@@ -210,8 +213,8 @@
     "parish": "Misericórdia",
     "notionUrl": "https://app.notion.com/p/40af3ddb5a6d8123b250cc26fbc61dcd",
     "bio": "Sepultamentos históricos por confirmar.",
-    "lng": -9.14176662037921,
-    "lat": 38.71437168877768,
+    "lng": -9.14205,
+    "lat": 38.71083,
     "address": "Largo do Chiado, Lisboa"
   },
   {
@@ -234,8 +237,8 @@
     "parish": "Santa Maria Maior",
     "notionUrl": "https://app.notion.com/p/40af3ddb5a6d81aab56de44809634f41",
     "bio": "Sepultamentos históricos por confirmar.",
-    "lng": -9.142093334158226,
-    "lat": 38.71588169169925,
+    "lng": -9.14138,
+    "lat": 38.71034,
     "address": "Rua Garrett, Lisboa"
   },
   {
@@ -245,7 +248,10 @@
     "municipality": "Lisboa",
     "parish": "Santa Maria Maior",
     "notionUrl": "https://app.notion.com/p/40af3ddb5a6d81a293d5d9877aa6df70",
-    "bio": "Sepultamentos históricos por confirmar."
+    "bio": "Sepultamentos históricos por confirmar.",
+    "lat": 38.71121788831013,
+    "lng": -9.140214622020723,
+    "address": "Calçada do Sacramento, Lisboa"
   },
   {
     "name": "Igreja das Chagas",
@@ -254,6 +260,9 @@
     "municipality": "Lisboa",
     "parish": "Misericórdia",
     "notionUrl": "https://app.notion.com/p/40af3ddb5a6d8124bbe2d6322304b17c",
-    "bio": "Sepultamentos históricos por confirmar."
+    "bio": "Sepultamentos históricos por confirmar.",
+    "lat": 38.70905374619551,
+    "lng": -9.145243763923647,
+    "address": "Rua das Chagas, Lisboa"
   }
 ]
