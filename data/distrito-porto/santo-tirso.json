@@ -4834,7 +4834,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério de Agrela, em Santo Tirso. O Plano Municipal de Emergência de Proteção Civil identifica neste recinto uma cameleira (Camellia japonica) entre as árvores classificadas de interesse público do concelho. Esta referência associa o espaço funerário ao património natural local. Área total e data de inauguração do cemitério por confirmar.",
+          "summary": "Cemitério de Agrela, em Santo Tirso. O levantamento de Francisco Queiroz (1998) regista 1888 como data indicada pela epígrafe do cemitério; esta inscrição não fixa uma inauguração formal. O Plano Municipal de Emergência identifica no recinto uma cameleira classificada como árvore de interesse público.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -4849,7 +4849,26 @@
           },
           "documentarySource": "https://www.cm-stirso.pt/cmsantotirso/uploads/writer_file/document/6279/02_pme_sto_tirso_parte_ii_v05_final.pdf",
           "documentarySources": [
-            "https://www.cm-stirso.pt/cmsantotirso/uploads/writer_file/document/6279/02_pme_sto_tirso_parte_ii_v05_final.pdf"
+            "https://www.cm-stirso.pt/cmsantotirso/uploads/writer_file/document/6279/02_pme_sto_tirso_parte_ii_v05_final.pdf",
+            "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
+          ],
+          "evidence": [
+            {
+              "url": "https://www.cm-stirso.pt/cmsantotirso/uploads/writer_file/document/6279/02_pme_sto_tirso_parte_ii_v05_final.pdf",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "historical",
+                "description"
+              ]
+            },
+            {
+              "url": "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte",
+              "accessedAt": "2026-10-31",
+              "scope": [
+                "historical",
+                "description"
+              ]
+            }
           ]
         }
       ],
