@@ -27,7 +27,7 @@ data_source=database or resolve_data_source()
 def query(cursor=None):
     payload={"page_size":100}
     if cursor: payload["start_cursor"]=cursor
-    req=urllib.request.Request("https://api.notion.com/v1/data_sources/"+database+"/query",data=json.dumps(payload).encode(),headers=headers,method="POST")
+    req=urllib.request.Request("https://api.notion.com/v1/data_sources/"+data_source+"/query",data=json.dumps(payload).encode(),headers=headers,method="POST")
     try:
         with urllib.request.urlopen(req,timeout=45) as response:
             return json.load(response)
