@@ -110,6 +110,7 @@ async function openLisbon(){
 function detailText(box,text,className){const p=document.createElement('p');p.textContent=text;if(className)p.className=className;box.append(p);return p}
 function detailLink(parent,text,url){if(!url||!/^https:\/\//.test(url))return;const a=document.createElement('a');a.textContent=text;a.href=url;a.target='_blank';a.rel='noopener';parent.append(a)}
 function evidenceList(value){return Array.isArray(value)?value:value?[value]:[]}
+function sourceUrls(value){if(typeof value==='string')return /^https:\/\//.test(value)?[value]:[];if(Array.isArray(value))return value.flatMap(sourceUrls);if(value&&typeof value==='object')return Object.values(value).flatMap(sourceUrls);return []}
 function showRecord(record,cemetery){
  const box=$('#detail');box.replaceChildren();box.className='detail';
  const h=document.createElement('h2');h.textContent=cemetery?.name||record.name;box.append(h);
@@ -124,7 +125,7 @@ function showRecord(record,cemetery){
   if(c.note)detailText(box,c.note);
   if(c.areaNote)detailText(box,c.areaNote);
   if(c.historicalNote)detailText(box,c.historicalNote);
-  const sources=[...new Set([c.sourceUrl,...evidenceList(c.evidence).map(e=>e.url)].filter(Boolean))];
+  const sources=[...new Set(sourceUrls([c.sourceUrl,c.evidence,c.documentarySource,c.documentarySources,c.historicalEvidence]))];
   for(const url of sources){const p=document.createElement('p');detailLink(p,'Fonte: '+new URL(url).hostname,url);box.append(p)}
   if(c.photo?.url){const p=detailText(box,'Imagem: '+(c.photo.author||'Créditos na fonte')+' · '+(c.photo.license||''));detailLink(p,' · Fonte da imagem',c.photo.sourceUrl)}
  }else{
