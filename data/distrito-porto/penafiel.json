@@ -13753,7 +13753,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério · gestão por confirmar",
-          "summary": "Cemitério da freguesia de Castelões, no concelho de Penafiel. Uma notícia baseada em informação da autarquia documenta a inauguração da ampliação do recinto e da casa mortuária, juntamente com o Espaço do Cidadão.",
+          "summary": "Cemitério da freguesia de Castelões, no lugar da Igreja, concelho de Penafiel. A deliberação municipal n.º 1592, de 4 de outubro de 2012, aprovou iniciar a expropriação de duas parcelas de 260 m² e 277 m², num total de 537 m², para a primeira fase da ampliação. Este valor corresponde às parcelas, não à área total do recinto. A notícia de fevereiro de 2016 documenta a inauguração da ampliação, com 84 sepulturas, 32 ossários e seis jazigos; não estabelece a abertura original.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -13774,6 +13774,15 @@
                 "name",
                 "description"
               ]
+            },
+            {
+              "url": "https://www.cm-penafiel.pt/wp-content/uploads/2016/12/ATA-CM-04outubro-2012.pdf",
+              "accessedAt": "2026-11-01",
+              "scope": [
+                "expansionParcels",
+                "project"
+              ],
+              "note": "Deliberação 1592/2012: parcelas 260 + 277 m²; não equivale à área total."
             }
           ]
         }
