@@ -4226,13 +4226,13 @@
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
           "photo": {
-            "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.5968948%2C41.150322%2C-8.5908948%2C41.153622&bboxSR=4326&imageSR=3857&size=600%2C420&format=jpg&f=image",
-            "sourceUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
-            "author": "Esri, Vantor, Earthstar Geographics e GIS User Community",
-            "license": "Imagem de satélite · créditos do fornecedor",
-            "caption": "Imagem de satélite do local — Cemitério do Bonfim. Alternativa: não foi encontrada fotografia confirmada do cemitério nesta recolha. Data da imagem não confirmada.",
-            "kind": "aerial",
-            "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.5968948%2C41.150322%2C-8.5908948%2C41.153622&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi52POtD_rpAUhAq7vt9J3XiyZQzuEXh1IH-wmY5emYjsUB6_CzDLiigsBxwyiCN3LODGv3NBfP16woNLfPeCwAX7J5TYa2hds4yz7dAHZcUM9tE4rdx_ZOLH_nt-Mlinykxg_yjdm64WLU/s1600/62253508_1789107077856359_7116376379834236928_n.jpg",
+            "thumbnailUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi52POtD_rpAUhAq7vt9J3XiyZQzuEXh1IH-wmY5emYjsUB6_CzDLiigsBxwyiCN3LODGv3NBfP16woNLfPeCwAX7J5TYa2hds4yz7dAHZcUM9tE4rdx_ZOLH_nt-Mlinykxg_yjdm64WLU/s1600/62253508_1789107077856359_7116376379834236928_n.jpg",
+            "sourceUrl": "https://memoriaporto.blogspot.com/2023/10/atualizacao-de-periplo-por-onde-jaz.html",
+            "author": "Memória Portista · autoria fotográfica não indicada",
+            "license": "Licença de reutilização não indicada",
+            "caption": "Cemitério do Bonfim — sepultura de Alfredo Sousa Nunes e sepultura familiar contígua. Fotografia de pormenor; data de captação não indicada.",
+            "kind": "ground"
           },
           "evidence": [
             {
