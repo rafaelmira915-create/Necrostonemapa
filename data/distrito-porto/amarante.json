@@ -35001,7 +35001,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério municipal",
-          "summary": "Cemitério municipal de Amarante. O Município identifica o recinto na Rua Doutor Mário Cal Brandão e publica os seus contactos e horários.",
+          "summary": "Cemitério municipal de Amarante, na Rua Doutor Mário Cal Brandão, identificado pelo Município. Paula André, na Revista de História da Arte, cita 1881 como ano de instalação do cemitério, com base em Vítor Manuel Lopes Dias (1963). Francisco Queiroz distingue o recinto atual do projeto de 1866 para a cerca de Santa Clara, que não teve seguimento, situando-o cerca de quinze anos depois. Estas referências sustentam a cronologia oitocentista, mas não documentam a cerimónia de inauguração.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -35025,6 +35025,20 @@
                 "management",
                 "name"
               ]
+            },
+            {
+              "url": "https://run.unl.pt/server/api/core/bitstreams/63d6f57f-c86e-43c2-a44b-df67914ef060/content#page=10",
+              "scope": [
+                "historicalChronology"
+              ],
+              "accessedAt": "2026-11-01"
+            },
+            {
+              "url": "https://run.unl.pt/server/api/core/bitstreams/c5a9ec6d-8189-41fc-b16a-7144b43bcd42/content",
+              "scope": [
+                "historicalChronology"
+              ],
+              "accessedAt": "2026-11-01"
             }
           ],
           "address": "Rua Doutor Mário Cal Brandão, 4600-758 Amarante."
