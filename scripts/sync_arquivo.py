@@ -4,14 +4,14 @@ Só executar com uma integração Notion autorizada para publicação pública.
 import os,json,time,urllib.request,urllib.error
 from pathlib import Path
 token=os.environ.get("NOTION_TOKEN")
-database=os.environ.get("NOTION_DATABASE_ID")
-if not token or not database:
-    raise SystemExit("Configurar os secrets NOTION_TOKEN e NOTION_DATABASE_ID no GitHub.")
-headers={"Authorization":"Bearer "+token,"Notion-Version":"2022-06-28","Content-Type":"application/json"}
+database=os.environ.get("NOTION_DATABASE_ID","393f3ddb-5a6d-80b1-a9ff-000bdfee1933")
+if not token:
+    raise SystemExit("Configurar o secret NOTION_TOKEN no GitHub.")
+headers={"Authorization":"Bearer "+token,"Notion-Version":"2025-09-03","Content-Type":"application/json"}
 def query(cursor=None):
     payload={"page_size":100}
     if cursor: payload["start_cursor"]=cursor
-    req=urllib.request.Request("https://api.notion.com/v1/databases/"+database+"/query",data=json.dumps(payload).encode(),headers=headers,method="POST")
+    req=urllib.request.Request("https://api.notion.com/v1/data_sources/"+database+"/query",data=json.dumps(payload).encode(),headers=headers,method="POST")
     with urllib.request.urlopen(req,timeout=45) as response: return json.load(response)
 def plain(prop):
     if not prop:return ""
