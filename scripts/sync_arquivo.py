@@ -12,7 +12,20 @@ def query(cursor=None):
     payload={"page_size":100}
     if cursor: payload["start_cursor"]=cursor
     req=urllib.request.Request("https://api.notion.com/v1/data_sources/"+database+"/query",data=json.dumps(payload).encode(),headers=headers,method="POST")
-    with urllib.request.urlopen(req,timeout=45) as response: return json.load(response)
+    try:
+        with urllib.request.urlopen(req,timeout=45) as response:
+            return json.load(response)
+    except urllib.error.HTTPError as exc:
+        body=exc.read().decode("utf-8",errors="replace")
+        try:
+            detail=json.loads(body)
+            # Never log tokens or request headers.
+            code=detail.get("code","unknown")
+            message=detail.get("message","")
+            raise SystemExit(f"Notion API HTTP {exc.code} ({code}): {message}")
+        except (ValueError,TypeError):
+            raise SystemExit(f"Notion API HTTP {exc.code}: resposta inválida")
+
 def plain(prop):
     if not prop:return ""
     kind=prop.get("type","")
