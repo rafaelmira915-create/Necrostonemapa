@@ -19359,7 +19359,7 @@
           "areaM2": null,
           "year": null,
           "kind": "Cemitério municipal",
-          "summary": "Cemitério de Sendim, associado ao Tanatório de Matosinhos. O regulamento municipal de 2025 prevê a instalação dos serviços de registo e expediente geral na secretaria do Tanatório.",
+          "summary": "Cemitério de Sendim, associado ao Tanatório de Matosinhos. O projeto de Luísa Valente organiza a expansão a nascente em duas plataformas: continuidade dos percursos e nichos de decomposição aeróbia numa, e complexo funerário e Jardim da Memória noutra. A memória do projeto distingue o terreno autónomo do tanatório, com cerca de 8 789 m², e a implantação do edifício, de 1 515 m²; nenhum destes valores corresponde à área total do cemitério. O regulamento municipal de 2025 prevê a instalação do registo e expediente geral na secretaria do Tanatório. Área global e inauguração original permanecem por confirmar.",
           "note": "Área e ano de inauguração incertos — não foi encontrada confirmação documental nesta recolha.",
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
@@ -19381,6 +19381,15 @@
                 "description",
                 "management"
               ]
+            },
+            {
+              "url": "https://www.archdaily.com/pt/01-47516/ampliacao-e-conservacao-do-cemiterio-de-sendim-luisa-valente",
+              "accessedAt": "2026-11-01",
+              "scope": [
+                "architecture",
+                "extension"
+              ],
+              "note": "Memória do projeto de Luísa Valente; dimensões do tanatório não são área global cemiterial."
             }
           ]
         },
