@@ -4,10 +4,26 @@ Só executar com uma integração Notion autorizada para publicação pública.
 import os,json,time,urllib.request,urllib.error
 from pathlib import Path
 token=os.environ.get("NOTION_TOKEN")
-database=os.environ.get("NOTION_DATABASE_ID","393f3ddb-5a6d-80b1-a9ff-000bdfee1933")
+database=os.environ.get("NOTION_DATABASE_ID","")
 if not token:
     raise SystemExit("Configurar o secret NOTION_TOKEN no GitHub.")
 headers={"Authorization":"Bearer "+token,"Notion-Version":"2025-09-03","Content-Type":"application/json"}
+def resolve_data_source():
+    # Find the actual API data source ID; connector collection IDs are not API IDs.
+    payload=json.dumps({"query":"Arquivo Necrostone","page_size":100}).encode()
+    req=urllib.request.Request("https://api.notion.com/v1/search",data=payload,headers=headers,method="POST")
+    with urllib.request.urlopen(req,timeout=45) as response:
+        found=json.load(response)
+    matches=[]
+    for item in found.get("results",[]):
+        if item.get("object")!="data_source": continue
+        title="".join(t.get("plain_text","") for t in item.get("title",[]))
+        if title.strip().casefold()=="arquivo necrostone":
+            matches.append(item["id"])
+    if len(matches)!=1:
+        raise SystemExit(f"Encontradas {len(matches)} fontes com o nome Arquivo Necrostone. Verificar acesso ou duplicados.")
+    return matches[0]
+data_source=database or resolve_data_source()
 def query(cursor=None):
     payload={"page_size":100}
     if cursor: payload["start_cursor"]=cursor
