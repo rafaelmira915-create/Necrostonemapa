@@ -4278,7 +4278,19 @@
             "kind": "aerial",
             "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.5990253%2C41.1433983%2C-8.5930253%2C41.1466983&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
           },
-          "documentarySource": "https://www.scmp.pt/assets/misc/Documentos%20Estrat%C3%A9gicos/2026/Relat%C3%B3rio%20de%20Gest%C3%A3o%20e%20Contas%202025.pdf"
+          "documentarySource": "https://www.scmp.pt/assets/misc/Documentos%20Estrat%C3%A9gicos/2026/Relat%C3%B3rio%20de%20Gest%C3%A3o%20e%20Contas%202025.pdf",
+          "evidence": [
+            {
+              "url": "https://ambiente.cm-porto.pt/files/uploads/cms/CMP_Roteiro_Desdobra%CC%81vel_af.pdf#page=1",
+              "accessedAt": "2026-11-01",
+              "scope": [
+                "officialSitePlan",
+                "name",
+                "relativeLocation"
+              ],
+              "note": "Núcleo privativo identificado na planta turística municipal do Prado do Repouso; não constitui complexo independente nem coordenada geográfica certificada."
+            }
+          ]
         },
         {
           "id": "osm-way-546395946",
@@ -4311,7 +4323,19 @@
             "kind": "aerial",
             "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.5996008%2C41.1434426%2C-8.5936008%2C41.1467426&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
           },
-          "documentarySource": "https://www.significantcemeteries.org/2011/11/prado-do-repouso-cemetery-porto-portugal.html"
+          "documentarySource": "https://www.significantcemeteries.org/2011/11/prado-do-repouso-cemetery-porto-portugal.html",
+          "evidence": [
+            {
+              "url": "https://ambiente.cm-porto.pt/files/uploads/cms/CMP_Roteiro_Desdobra%CC%81vel_af.pdf#page=1",
+              "accessedAt": "2026-11-01",
+              "scope": [
+                "officialSitePlan",
+                "name",
+                "relativeLocation"
+              ],
+              "note": "Núcleo privativo identificado na planta turística municipal do Prado do Repouso; não constitui complexo independente nem coordenada geográfica certificada."
+            }
+          ]
         },
         {
           "id": "osm-way-546395950",
@@ -4344,7 +4368,19 @@
             "caption": "Entrada do Cemitério Privativo da Ordem do Terço, integrado no Prado do Repouso. Data de captação não indicada.",
             "kind": "ground"
           },
-          "documentarySource": "https://www.ordemdoterco.pt/index.php/historia/index/12"
+          "documentarySource": "https://www.ordemdoterco.pt/index.php/historia/index/12",
+          "evidence": [
+            {
+              "url": "https://ambiente.cm-porto.pt/files/uploads/cms/CMP_Roteiro_Desdobra%CC%81vel_af.pdf#page=1",
+              "accessedAt": "2026-11-01",
+              "scope": [
+                "officialSitePlan",
+                "name",
+                "relativeLocation"
+              ],
+              "note": "Núcleo privativo identificado na planta turística municipal do Prado do Repouso; não constitui complexo independente nem coordenada geográfica certificada."
+            }
+          ]
         }
       ],
       "feature": {
