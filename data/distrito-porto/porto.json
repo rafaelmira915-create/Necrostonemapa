@@ -7981,6 +7981,27 @@
           },
           "documentarySources": [
             "https://pt.scribd.com/document/732445464/Cemiterios-Oitocentistas-Portugueses-Os-Museus-Da-Morte"
+          ],
+          "additionalPhotos": [
+            {
+              "url": "https://live.staticflickr.com/5060/5530025660_29533370aa_b.jpg",
+              "sourceUrl": "https://www.flickr.com/photos/teodias/5530025660/",
+              "author": "TeoDias",
+              "license": "CC BY-NC-ND 2.0",
+              "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+              "caption": "Cemitério da Foz do Douro — arruamento interior, jazigos e capela.",
+              "kind": "ground"
+            }
+          ],
+          "evidence": [
+            {
+              "url": "https://www.flickr.com/photos/teodias/5530025660/",
+              "accessedAt": "2026-11-01",
+              "scope": [
+                "additionalPhoto"
+              ],
+              "note": "TeoDias, CC BY-NC-ND 2.0; identificação em https://ruasdoporto.blogspot.com/2011/03/cemiterio-da-foz.html."
+            }
           ]
         },
         {
@@ -8041,13 +8062,14 @@
           "areaNote": "A área do cemitério não foi inferida da imagem ou da área da freguesia.",
           "locationSource": "OpenStreetMap; associação espacial aos limites administrativos GEO API PT.",
           "photo": {
-            "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.6796423%2C41.1626183%2C-8.6736423%2C41.1659183&bboxSR=4326&imageSR=3857&size=600%2C420&format=jpg&f=image",
-            "sourceUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer",
-            "author": "Esri, Vantor, Earthstar Geographics e GIS User Community",
-            "license": "Imagem de satélite · créditos do fornecedor",
-            "caption": "Imagem de satélite do local — Cemitério de Nevogilde. Alternativa: não foi encontrada fotografia confirmada do cemitério nesta recolha. Data da imagem não confirmada.",
-            "kind": "aerial",
-            "thumbnailUrl": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/export?bbox=-8.6796423%2C41.1626183%2C-8.6736423%2C41.1659183&bboxSR=4326&imageSR=3857&size=160%2C112&format=jpg&f=image"
+            "url": "https://live.staticflickr.com/3172/2408280139_fa7fe885a2_z.jpg",
+            "thumbnailUrl": "https://live.staticflickr.com/3172/2408280139_fa7fe885a2_z.jpg",
+            "sourceUrl": "https://www.flickr.com/photos/teodias/2408280139/",
+            "author": "TeoDias",
+            "license": "CC BY-NC-ND 2.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+            "caption": "Cemitério de Nevogilde — sepultura e campas. Identificação no blogue Ruas da Minha Terra; data de captação por confirmar.",
+            "kind": "ground"
           },
           "historicalEvidence": {
             "url": "https://aldoarfoznevogilde.pt/servicos/cemiterios/"
