@@ -75,7 +75,7 @@ def store_photo(page,properties):
     candidates=list(photo_items(properties))
     if not candidates:return ""
     stem=re.sub(r"[^a-f0-9]","",page["id"].lower())
-    for ext in (".jpg",".png",".webp"):
+    for ext in (".jpg",".png",".webp",".gif"):
         existing=images_dir/(stem+ext)
         if existing.exists():return "fotos/"+existing.name
     # Avoid oversized Git commits; subsequent scheduled syncs continue the import.
@@ -85,7 +85,7 @@ def store_photo(page,properties):
             request=urllib.request.Request(url,headers={"User-Agent":"NecrostoneArchiveSync/1.0"})
             with urllib.request.urlopen(request,timeout=20) as response:
                 typ=response.headers.get("Content-Type","").split(";")[0].lower()
-                ext={ "image/jpeg":".jpg","image/png":".png","image/webp":".webp"}.get(typ)
+                ext={ "image/jpeg":".jpg","image/png":".png","image/webp":".webp","image/gif":".gif"}.get(typ)
                 if not ext:continue
                 content=response.read(3_000_001)
                 if len(content)>3_000_000:continue
@@ -130,4 +130,4 @@ while True:
 path=Path("arquivo-prototipo/dados-publicos.json")
 path.parent.mkdir(parents=True,exist_ok=True)
 path.write_text(json.dumps(rows,ensure_ascii=False,indent=1),encoding="utf-8")
-print("Exportados",len(rows),"registos; novas fotografias:",new_images)
+print("Exportados",len(rows),"registos; com referência de fotografia:",sum(bool(r["foto"]) for r in rows),"; novas fotografias:",new_images,"; com anexos no Notion:",sum(bool(list(photo_items({k:v for k,v in []}))) for _ in []))
