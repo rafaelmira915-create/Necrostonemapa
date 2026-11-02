@@ -96,6 +96,25 @@ def store_photo(page,properties):
             continue
     return ""
 
+def public_value(prop):
+    kind=prop.get("type","")
+    if kind in ("title","rich_text","date"):return plain(prop)
+    if kind in ("select","multi_select"):return ", ".join(multi(prop))
+    if kind=="number":return str(prop.get("number")) if prop.get("number") is not None else ""
+    if kind=="checkbox":return "Sim" if prop.get("checkbox") else "Não"
+    if kind in ("url","email","phone_number"):return prop.get(kind) or ""
+    if kind=="files":
+        return ", ".join((item.get("external") or {}).get("url","") for item in prop.get("files",[]) if item.get("external"))
+    return ""
+
+def details(properties):
+    output={}
+    for key,prop in properties.items():
+        if prop.get("type") in ("created_by","last_edited_by","people","formula","rollup","relation","unique_id","created_time","last_edited_time","verification","button"):continue
+        value=public_value(prop)
+        if value:output[key.strip()]=value
+    return output
+
 rows=[];cursor=None
 while True:
     batch=query(cursor)
@@ -104,7 +123,7 @@ while True:
         p=page.get("properties",{})
         name=plain(p.get("Nome"))
         if not name:continue
-        rows.append({"nome":name,"areas":multi(p.get("Área ")),"cemiterios":multi(p.get("Cemitério ")),"rotas":multi(p.get("Rota")),"nascimento":plain(p.get("Data de nascimento ")),"morte":plain(p.get("Data de morte")),"foto":store_photo(page,p)})
+        rows.append({"nome":name,"areas":multi(p.get("Área ")),"cemiterios":multi(p.get("Cemitério ")),"rotas":multi(p.get("Rota")),"nascimento":plain(p.get("Data de nascimento ")),"morte":plain(p.get("Data de morte")),"foto":store_photo(page,p),"detalhes":details(p)})
     if not batch.get("has_more"):break
     cursor=batch.get("next_cursor")
     time.sleep(.35)
