@@ -1,5 +1,47 @@
 [
  {
+  "nome": "João Baptista de Castro",
+  "areas": [],
+  "cemiterios": [
+   "Cemitério Alto São João"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Visita 360": "https://kuula.co/share/LZZbp/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
+   "Biografia": "João Baptista de Castro (falecido em 1920) foi magistrado, notário e bibliófilo português, pai da escritora Ana de Castro Osório e marido de Mariana Adelaide Osório de Castro Cabral de Albuquerque. Consta da inscrição do jazigo familiar.",
+   "Localização": "Rua 11",
+   "Informação extra": "Identificado pelo utilizador na inscrição como João Barista de Osório. Fontes biográficas identificam o pai de Ana como João Baptista de Castro. Ano de nascimento divergente nas fontes: 1844 ou 1845; data exata da morte por confirmar.",
+   "Cemitério": "Cemitério Alto São João",
+   "N de jazigo": "4814",
+   "Nome": "João Baptista de Castro"
+  }
+ },
+ {
+  "nome": "Mariana Osório de Castro Cabral de Albuquerque",
+  "areas": [],
+  "cemiterios": [
+   "Cemitério Alto São João"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Visita 360": "https://kuula.co/share/LZZbp/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
+   "Biografia": "Mariana Osório de Castro Cabral de Albuquerque (1842–1917), ativista portuguesa e mãe de Ana de Castro Osório. Casou com João Baptista de Castro, magistrado e bibliófilo. Consta da inscrição do jazigo familiar.",
+   "Localização": "Rua 11",
+   "Informação extra": "Nascimento: 15 de junho de 1842. Falecimento: 17 de novembro de 1917. Identificada na inscrição do jazigo pela informação do utilizador.",
+   "Cemitério": "Cemitério Alto São João",
+   "N de jazigo": "4814",
+   "Nome": "Mariana Osório de Castro Cabral de Albuquerque"
+  }
+ },
+ {
   "nome": "Tomás Duarte da Câmara Oliveira Dias",
   "areas": [
    "Política"
@@ -15650,12 +15692,15 @@
   "rotas": [],
   "nascimento": "1867-09-07",
   "morte": "1926-03-01",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816fadfbfbe22f80a135.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816fadfbfbe22f80a135.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
-   "Biografia": "Poeta simbolista português, autor de Clepsidra, viveu e morreu em Macau.",
+   "Biografia": "Camilo de Almeida Pessanha (Coimbra, 7 de setembro de 1867 – Macau, 1 de março de 1926) foi um poeta português, figura central do simbolismo literário em Portugal. Formou-se em Direito na Universidade de Coimbra e estabeleceu-se em Macau em 1894, onde exerceu funções docentes e jurídicas. A sua poesia, marcada pela musicalidade, pela sugestão e pela reflexão sobre a passagem do tempo, foi reunida em Clepsidra, publicada em 1920. Viveu grande parte da sua vida em Macau, onde faleceu e se encontra sepultado.",
    "Data de morte": "1926-03-01",
+   "Localização": "Cemitério de São Miguel Arcanjo, Macau",
    "Informação extra": "Fonte inicial: https://www.escritas.org/pt/pg/autores . Sepultura e fotografia ainda por investigar; não confundir com ausência comprovada de dados.",
    "Data de nascimento": "1867-09-07",
    "Nome": "Camilo Pessanha"
@@ -33955,8 +34000,10 @@
   "rotas": [],
   "nascimento": "1959-02-10",
   "morte": "2022-08-10",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8037aa06cdbfc62cc682.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8037aa06cdbfc62cc682.jpg"
+  ],
   "detalhes": {
    "Área": "Desporto",
    "Biografia": "Futebolista português. ",
@@ -34005,8 +34052,10 @@
   "rotas": [],
   "nascimento": "05/04/1939",
   "morte": "03/02/2019",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d80709e32ef01e1595342.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d80709e32ef01e1595342.jpg"
+  ],
   "detalhes": {
    "Área": "Teatro, Cinema",
    "Biografia": "Ator e dobrador.",
@@ -34077,8 +34126,10 @@
   "rotas": [],
   "nascimento": "11/05/1930",
   "morte": "24/11/2017",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d801daf24edb2e4bed1bd.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d801daf24edb2e4bed1bd.jpg"
+  ],
   "detalhes": {
    "Área": "Música",
    "Biografia": "Maria Clotilde Belo de Carvalho Rosa Franco, mais conhecida como Clotilde Rosa, foi uma harpista, educadora e compositora portuguesa.",
@@ -34151,8 +34202,10 @@
   "rotas": [],
   "nascimento": "1964",
   "morte": "24/11/2017",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d80429793e6207be10ae5.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d80429793e6207be10ae5.jpg"
+  ],
   "detalhes": {
    "Área": "Jornalismo",
    "Biografia": "Jornalista e editor portugues.",
@@ -34175,8 +34228,10 @@
   "rotas": [],
   "nascimento": "1934-03-14",
   "morte": "2017-05-09",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d80b79619f5bbd51b3865.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d80b79619f5bbd51b3865.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor, Jornalismo",
    "Biografia": "Armando Baptista-Bastos foi um jornalista e escritor português.",
@@ -34225,8 +34280,10 @@
   "rotas": [],
   "nascimento": "1940-07-30",
   "morte": "2016-03-14",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d80da9c2fdf50d67f4a8b.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d80da9c2fdf50d67f4a8b.png"
+  ],
   "detalhes": {
    "Área": "Teatro, Cinema",
    "Biografia": "João Nicolau de Melo Breyner Lopes foi um ator e realizador português.",
@@ -34250,8 +34307,10 @@
   "rotas": [],
   "nascimento": "1939-07-10",
   "morte": "2016-09-03",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8097ae97f517c4ba84fc.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8097ae97f517c4ba84fc.jpg"
+  ],
   "detalhes": {
    "Área": "Jornalismo, Artes",
    "Biografia": "Maria Isabel Barreno de Faria Martins foi uma escritora, ensaísta, artista plástica e jornalista portuguesa.",
@@ -34296,8 +34355,10 @@
   "rotas": [],
   "nascimento": "1947-09-21",
   "morte": "2014-08-13",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8011852ac81e96b21e3e.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8011852ac81e96b21e3e.jpg"
+  ],
   "detalhes": {
    "Área": "Jornalismo",
    "Biografia": "Jornalista.",
@@ -34413,8 +34474,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8092a6fefebfe7b7c7b5.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8092a6fefebfe7b7c7b5.jpg"
+  ],
   "detalhes": {
    "Área": "Música",
    "Biografia": "Musico e compositor.",
@@ -34436,8 +34499,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8080ae6ac2edced694bd.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8080ae6ac2edced694bd.png"
+  ],
   "detalhes": {
    "Área": "Música",
    "Biografia": "Cantor.",
@@ -34459,8 +34524,10 @@
   "rotas": [],
   "nascimento": "30/09/1935",
   "morte": "09/01/2011",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d807a8514e971ea15faf5.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d807a8514e971ea15faf5.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Vítor Manuel Rodrigues Alves foi um militar português que se destacou pelo seu papel no Movimento das Forças Armadas. No Processo Revolucionário Em Curso foi, como moderado apartidário, ministro dos II e III Governos Provisórios, no Verão Quente vindo a assinar o Documento dos Nove.",
@@ -34579,8 +34646,10 @@
   "rotas": [],
   "nascimento": "1944-04-18",
   "morte": "2010-12-15",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d808587e7fef0ec58b174.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d808587e7fef0ec58b174.jpg"
+  ],
   "detalhes": {
    "Área": "Jornalismo",
    "Biografia": "Carlos Nuno de Abreu Pinto Coelho foi um jornalista português. Além da sua carreira jornalística, também se aventurou na fotografia e literatura. Lecionou jornalismo durante dois anos no Instituto Politécnico de Tomar.",
@@ -34771,8 +34840,10 @@
   "rotas": [],
   "nascimento": "1925-05-07",
   "morte": "2008-01-05",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d805b9824cf08e5f0ac6d.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d805b9824cf08e5f0ac6d.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Biografia": "Luiz José Machado Gomes Guerreiro Pacheco foi um escritor, editor, polemista, epistológrafo e crítico de literatura comunista português.",
@@ -34843,8 +34914,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8026bbbaed3c97ac8965.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8026bbbaed3c97ac8965.jpg"
+  ],
   "detalhes": {
    "Área": "Teatro, Cinema",
    "Biografia": "Mulher de Ruy de Carvalho",
@@ -34890,8 +34963,10 @@
   "rotas": [],
   "nascimento": "02/07/1929",
   "morte": "27/01/2006",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d800fa516c29ad4a57c85.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d800fa516c29ad4a57c85.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor, Política",
    "Biografia": "Pai de António Costa e escritor.",
@@ -34913,8 +34988,10 @@
   "rotas": [],
   "nascimento": "1917-12-30",
   "morte": "2006-02-03",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d80c1b226e82dfa5a6608.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d80c1b226e82dfa5a6608.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "José Rodrigues Vitoriano foi um sindicalista, dirigente do Partido Comunista Português, e vice-presidente da Assembleia da República. ",
@@ -35011,8 +35088,10 @@
   "rotas": [],
   "nascimento": "03/10/1917",
   "morte": "04/11/2004",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8072934dd8bc76506f50.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8072934dd8bc76506f50.png"
+  ],
   "detalhes": {
    "Área": "Teatro, Cinema",
    "Biografia": "Jacinto da Silva Ramos foi um ator, realizador e guionista português. Ao longo da sua carreira dedica especial atenção ao teatro amador, criando e/ou dirigindo vários grupos de teatro.",
@@ -35034,8 +35113,10 @@
   "rotas": [],
   "nascimento": "1935-04-30",
   "morte": "2004-10-02",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d804bb721e28e3a621419.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d804bb721e28e3a621419.png"
+  ],
   "detalhes": {
    "Área": "Rádio",
    "Biografia": "José Manuel Bastos Fialho Gouveia foi um apresentador de televisão e radialista português.",
@@ -35180,8 +35261,10 @@
   "rotas": [],
   "nascimento": "28/03/1943",
   "morte": "12/03/2020",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8036863ee90240f79d39.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8036863ee90240f79d39.jpg"
+  ],
   "detalhes": {
    "Área": "Desporto",
    "Biografia": "Conhecido piloto português de ralis, campeão do Rali TAP de 1969. Foi cremado em Lisboa.",
@@ -35203,8 +35286,10 @@
   "rotas": [],
   "nascimento": "20/06/1945",
   "morte": "03/11/2018",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d808ebac8ddc15cd266b9.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d808ebac8ddc15cd266b9.jpg"
+  ],
   "detalhes": {
    "Área": "Música",
    "Biografia": "Cantora, pianista e compositora, representante de Portugal no Festival Eurovisão de 1984. Foi cremada no cemitério de Barcarena. ",
@@ -35301,8 +35386,10 @@
   "rotas": [],
   "nascimento": "1948-06-25",
   "morte": "2007-03-01",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d80f88144fdf73ca8ead5.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d80f88144fdf73ca8ead5.jpg"
+  ],
   "detalhes": {
    "Área": "Desporto",
    "Biografia": "Antigo guarda-redes do Benfica e da Seleção Nacional. Foi cremado no Cemitério dos Olivais, em Lisboa. ",
