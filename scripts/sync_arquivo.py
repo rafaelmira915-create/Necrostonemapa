@@ -130,4 +130,4 @@ while True:
 path=Path("arquivo-prototipo/dados-publicos.json")
 path.parent.mkdir(parents=True,exist_ok=True)
 path.write_text(json.dumps(rows,ensure_ascii=False,indent=1),encoding="utf-8")
-print("Exportados",len(rows),"registos; com referência de fotografia:",sum(bool(r["foto"]) for r in rows),"; novas fotografias:",new_images,"; com anexos no Notion:",sum(bool(list(photo_items({k:v for k,v in []}))) for _ in []))
+print("Exportados",len(rows),"registos; com referência de fotografia:",sum(bool(r["foto"]) for r in rows),"; novas fotografias:",new_images)
