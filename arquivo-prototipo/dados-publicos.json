@@ -1,5 +1,37 @@
 [
  {
+  "nome": "Domingos Monteiro",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "06/11/1903",
+  "morte": "18/08/1980",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Domingos Monteiro (1903–1980), escritor português, autor de romances e contos. Fonte: https://www.escritas.org/pt/domingos-monteiro",
+   "Data de morte": "18/08/1980",
+   "Data de nascimento": "06/11/1903",
+   "Nome": "Domingos Monteiro"
+  }
+ },
+ {
+  "nome": "Manuel António Pina",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "18/11/1943",
+  "morte": "19/10/2012",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Manuel António Pina (1943–2012), poeta, escritor, dramaturgo e ensaísta português. Fonte: https://www.escritas.org/PT/manuel-antonio-pina",
+   "Data de morte": "19/10/2012",
+   "Data de nascimento": "18/11/1943",
+   "Nome": "Manuel António Pina"
+  }
+ },
+ {
   "nome": "João Baptista de Castro",
   "areas": [],
   "cemiterios": [
@@ -3877,8 +3909,10 @@
   "rotas": [],
   "nascimento": "29/04/1881",
   "morte": "15/07/1966",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814eaa34c0532400e5a4.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814eaa34c0532400e5a4.jpg"
+  ],
   "detalhes": {
    "Área": "Política, Militar",
    "Biografia": "Militar e político português, natural de Elvas. Oficial do Exército e participante na Primeira Guerra Mundial. Foi ministro do Comércio e Comunicações e ministro da Guerra, integrou a Assembleia Nacional nas I e II legislaturas (1935–1942) e exerceu funções como adido militar em Madrid. Fonte: https://app.parlamento.pt/PublicacoesOnLine/DeputadosAN_1935-1974/html/pdf/s/sousa_abilio_augusto_valdez_de_passos_e.pdf",
@@ -4429,24 +4463,6 @@
   }
  },
  {
-  "nome": "Abílio Correia da Silva Marçal",
-  "areas": [
-   "Política"
-  ],
-  "cemiterios": [],
-  "rotas": [],
-  "nascimento": "",
-  "morte": "1925",
-  "foto": "",
-  "fotos": [],
-  "detalhes": {
-   "Área": "Política",
-   "Data de morte": "1925",
-   "Informação extra": "Presidente da Câmara dos Deputados da Primeira República. Ano de falecimento documentado: https://pt.wikipedia.org/wiki/Lista_de_presidentes_da_Assembleia_da_Rep%C3%BAblica_Portuguesa . Verificar duplicação com fichas anteriores e confirmar sepultura.",
-   "Nome": "Abílio Correia da Silva Marçal"
-  }
- },
- {
   "nome": "Domingos Leite Pereira",
   "areas": [
    "Política"
@@ -4834,23 +4850,6 @@
   }
  },
  {
-  "nome": "Adolfo Augusto de Oliveira Coutinho",
-  "areas": [
-   "Política"
-  ],
-  "cemiterios": [],
-  "rotas": [],
-  "nascimento": "",
-  "morte": "",
-  "foto": "",
-  "fotos": [],
-  "detalhes": {
-   "Área": "Política",
-   "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
-   "Nome": "Adolfo Augusto de Oliveira Coutinho"
-  }
- },
- {
   "nome": "António Valente de Almeida",
   "areas": [
    "Política"
@@ -5103,23 +5102,6 @@
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
    "Nome": "António Brandão de Vasconcelos"
-  }
- },
- {
-  "nome": "Adriano António Crispiniano da Fonseca",
-  "areas": [
-   "Política"
-  ],
-  "cemiterios": [],
-  "rotas": [],
-  "nascimento": "",
-  "morte": "",
-  "foto": "",
-  "fotos": [],
-  "detalhes": {
-   "Área": "Política",
-   "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
-   "Nome": "Adriano António Crispiniano da Fonseca"
   }
  },
  {
@@ -5705,23 +5687,6 @@
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
    "Nome": "Antonio Maria Malva do Valle"
-  }
- },
- {
-  "nome": "Abel Acácio de Almeida Botelho",
-  "areas": [
-   "Política"
-  ],
-  "cemiterios": [],
-  "rotas": [],
-  "nascimento": "",
-  "morte": "",
-  "foto": "",
-  "fotos": [],
-  "detalhes": {
-   "Área": "Política",
-   "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
-   "Nome": "Abel Acácio de Almeida Botelho"
   }
  },
  {
@@ -7122,23 +7087,6 @@
    "Área": "Política",
    "Informação extra": "Registo nominal da VI Legislatura (1922–1925), Livro 1415, registo R005: https://ahpweb.parlamento.pt/Detalhe/?id=143333 . Possível duplicação com Afonso Costa; confirmar identidade, óbito e sepultura.",
    "Nome": "Afonso Augusto Costa"
-  }
- },
- {
-  "nome": "Adriano António Crispiano da Fonseca",
-  "areas": [
-   "Política"
-  ],
-  "cemiterios": [],
-  "rotas": [],
-  "nascimento": "",
-  "morte": "",
-  "foto": "",
-  "fotos": [],
-  "detalhes": {
-   "Área": "Política",
-   "Informação extra": "Registo nominal no Livro Político da VI Legislatura (1922–1925), Arquivo Histórico Parlamentar, lv. 1415. Fonte: https://ahpweb.parlamento.pt/Detalhe/?id=143333 . Verificar óbito, sepultura e duplicados.",
-   "Nome": "Adriano António Crispiano da Fonseca"
   }
  },
  {
@@ -22059,23 +22007,6 @@
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1352 e 1356.",
    "Nome": "João Afonso (bispo de Évora)"
-  }
- },
- {
-  "nome": "Abiêncio de Évora",
-  "areas": [
-   "Religião"
-  ],
-  "cemiterios": [],
-  "rotas": [],
-  "nascimento": "",
-  "morte": "",
-  "foto": "",
-  "fotos": [],
-  "detalhes": {
-   "Área": "Religião",
-   "Biografia": "Bispo de Évora; episcopado atestado em 653.",
-   "Nome": "Abiêncio de Évora"
   }
  },
  {
