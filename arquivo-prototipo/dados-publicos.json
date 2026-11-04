@@ -5204,23 +5204,6 @@
   }
  },
  {
-  "nome": "Baltasar Teixeira",
-  "areas": [
-   "Política"
-  ],
-  "cemiterios": [],
-  "rotas": [],
-  "nascimento": "",
-  "morte": "",
-  "foto": "",
-  "fotos": [],
-  "detalhes": {
-   "Área": "Política",
-   "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
-   "Nome": "Baltasar Teixeira"
-  }
- },
- {
   "nome": "Fernando da Cunha Macedo",
   "areas": [
    "Política"
@@ -8013,9 +7996,10 @@
   }
  },
  {
-  "nome": "António Silva Gouveia",
+  "nome": "António da Silva Gouveia",
   "areas": [
-   "Política"
+   "Política",
+   "Industrial"
   ],
   "cemiterios": [],
   "rotas": [],
@@ -8024,9 +8008,10 @@
   "foto": "",
   "fotos": [],
   "detalhes": {
-   "Área": "Política",
-   "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
-   "Nome": "António Silva Gouveia"
+   "Área": "Política, Industrial",
+   "Biografia": "António da Silva Gouveia foi um empresário e político republicano português, ligado à Guiné Portuguesa. Fundou a empresa comercial conhecida por Casa Gouveia, com sede em Bolama, que desenvolveu atividade económica na então colónia. Foi eleito deputado pelo círculo da Guiné à Câmara dos Deputados da República Portuguesa, na I Legislatura (1911–1915). Em 1912 aderiu ao Partido Republicano Evolucionista, dirigido por António José de Almeida. A sua atuação parlamentar incluiu intervenções sobre assuntos administrativos e económicos da Guiné.",
+   "Informação extra": "Fontes: Arquivo Histórico Parlamentar, Livro do Pessoal Político 1911–1915 (https://ahpweb.parlamento.pt/Detalhe/?id=143334) e documentação eleitoral de 1911, círculo da Guiné (https://ahpweb.parlamento.pt/Detalhe/?id=35977). Museu da Presidência da República, telegrama de António Silva Gouveia de 31/10/1929 (https://www.arquivo.museu.presidencia.pt/details?detailsType=Description&id=44661). Arquivo dos Portos de Lisboa, Setúbal e Sesimbra, processo da firma António Silva Gouveia, Lda. (1921–1941). Estudo de Carlos Cordeiro reproduzido em Luís Graça & Camaradas da Guiné (14/10/2010). Retrato autêntico não localizado: imagem de fundo preto é marcador identificativo, não fotografia histórica. Datas de nascimento, morte e local de sepultura por confirmar.",
+   "Nome": "António da Silva Gouveia"
   }
  },
  {
@@ -9250,20 +9235,27 @@
   }
  },
  {
-  "nome": "Baltasar Teixeira",
+  "nome": "Baltasar de Almeida Teixeira",
   "areas": [
-   "Política"
+   "Política",
+   "Educação",
+   "Advocacia"
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
-  "foto": "",
-  "fotos": [],
+  "nascimento": "1871-12-12",
+  "morte": "1975-07-17",
+  "foto": "fotos/40bf3ddb5a6d81b79665de2696ba6f25.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b79665de2696ba6f25.png"
+  ],
   "detalhes": {
-   "Área": "Política",
-   "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/Detalhe/?id=32097. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
-   "Nome": "Baltasar Teixeira"
+   "Área": "Política, Educação, Advocacia",
+   "Biografia": "Baltasar de Almeida Teixeira (Leiria, 12 de dezembro de 1871 – Lisboa, 17 de julho de 1975) foi professor liceal, advogado e político republicano português. Lecionou nos liceus de Beja e Portalegre, transferindo-se posteriormente para o Liceu Passos Manuel, onde terminou a carreira docente em 1938. Licenciou-se em Direito na Universidade de Coimbra em 1908. Foi eleito deputado à Assembleia Nacional Constituinte de 1911 pelo círculo de Portalegre e integrou a Mesa como secretário. Exerceu também funções de chefe de gabinete do ministro da Instrução Pública a partir de dezembro de 1914 e de vogal do Conselho de Administração Financeira do Estado em diferentes períodos. Participou na imprensa republicana.",
+   "Data de morte": "1975-07-17",
+   "Informação extra": "Retrato identificado como «Baltasar d'Almeida Teixeira», publicado na obra As Constituintes de 1911 e os seus Deputados (Lisboa: Livraria Ferreira, 1911), obra ilustrada com retratos dos deputados. Imagem proveniente da Biblioteca Nacional de Portugal, disponibilizada no Wikimedia Commons; autor da fotografia não identificado. Fonte da biografia e datas: estudo académico sobre professores do Liceu de Portalegre (https://chi.guimaraes.pt/actas/1CHI/vol5/1chi-vol5-014.pdf), p. 307. Fontes complementares: Assembleia da República, Guia do Fundo da Assembleia Nacional Constituinte de 1911 (https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx); Diário do Governo, 30-03-1911 (https://files.diariodarepublica.pt/1s/1911/03/07300/13411347.pdf). Local de sepultura ainda não confirmado.",
+   "Data de nascimento": "1871-12-12",
+   "Nome": "Baltasar de Almeida Teixeira"
   }
  },
  {
@@ -45290,7 +45282,7 @@
   }
  },
  {
-  "nome": "Barata Salgueiro",
+  "nome": "Adriano Antão Barata Salgueiro",
   "areas": [
    "Advocacia"
   ],
@@ -45307,10 +45299,10 @@
    "Biografia": "Adriano Antão Barata Salgueiro (1814–1895) foi um proprietário e benemérito português, particularmente ligado ao desenvolvimento urbano de Lisboa no século XIX.\nDetentor de extensos terrenos na zona situada a norte do Passeio Público, participou na transformação urbana que acompanhou a abertura da Avenida da Liberdade. Cedeu terrenos à Câmara Municipal de Lisboa, alguns gratuitamente e outros em condições favoráveis, permitindo a abertura de novas ruas e facilitando a expansão da cidade naquela área.\nEm reconhecimento pelo seu contributo, a Câmara atribuiu ainda em vida o seu nome à Rua Barata Salgueiro, em 1882. Faleceu em Lisboa, em 1895, ficando o seu nome definitivamente associado ao crescimento da cidade para norte durante a segunda metade do século XIX.",
    "Data de morte": "06/05/1895",
    "Localização": "Rua 9",
-   "Informação extra": "Fontes: Junta de Freguesia de Santo António, biografia de Adriano Antão Barata Salgueiro; Toponímia de Lisboa.",
+   "Informação extra": "Fontes: Junta de Freguesia de Santo António (https://www.jfsantoantonio.pt/index.php?id=715&option=com_sppagebuilder&view=page); Toponímia de Lisboa (https://toponimialisboa.wordpress.com/2015/05/12/a-rua-do-advogado-barata-salgueiro-que-contribuiu-para-a-urbanizacao-da-avenida-da-liberdade/); Arquivo Histórico do Ministério Público (https://arquivohistorico.ministeriopublico.pt/index.php/ao-ministro-da-justica-acerca-da-posse-do-delegado-do-procurador-regio-na-comarca-de-aldeia-galega-o-bacharel-adriano-antao-barata-salgueiro). Existe divergência entre fontes quanto ao ano de nascimento (1814/1819) e dia de falecimento (5/6 de maio de 1895). Não foi identificado retrato autêntico; imagens disponíveis do palacete não representam a pessoa.",
    "Cemitério": "Cemitério dos Prazeres",
    "Data de nascimento": "1814",
-   "Nome": "Barata Salgueiro"
+   "Nome": "Adriano Antão Barata Salgueiro"
   }
  },
  {
