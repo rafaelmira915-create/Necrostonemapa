@@ -1,5 +1,135 @@
 [
  {
+  "nome": "Victor Hugo Cardinali Mariani",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Nome": "Victor Hugo Cardinali Mariani"
+  }
+ },
+ {
+  "nome": "Irene Cardinali Elisabeth Carvalho Cardigos",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Nascida no Porto em 1926 e falecida em 2017, da família Cardinali. Datas completas e sepultura por confirmar.",
+   "Informação extra": "Dados parciais; consultar fontes genealógicas e registos de óbito. https://geneall.net/pt/familia-nomes/17702/cardinali/",
+   "Nome": "Irene Cardinali Elisabeth Carvalho Cardigos"
+  }
+ },
+ {
+  "nome": "Aida Muñoz Cardinali",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Membro da família circense Muñoz-Cardinali. Falecimento referido em 2004; data e sepultura por confirmar.",
+   "Informação extra": "Dados parciais; consultar fontes genealógicas e registos de óbito. https://geneall.net/pt/familia-nomes/17702/cardinali/",
+   "Nome": "Aida Muñoz Cardinali"
+  }
+ },
+ {
+  "nome": "Paquito Cardinali",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Artista da família circense Cardinali e irmão de Victor Hugo Cardinali. Data de morte e sepultura por confirmar.",
+   "Informação extra": "Dados parciais; consultar fontes genealógicas e registos de óbito. https://geneall.net/pt/familia-nomes/17702/cardinali/",
+   "Nome": "Paquito Cardinali"
+  }
+ },
+ {
+  "nome": "Joanino Cardinali",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Filho de Luigi Cardinali, da família circense. Datas e sepultura por confirmar.",
+   "Informação extra": "Dados parciais; consultar fontes genealógicas e registos de óbito. https://geneall.net/pt/familia-nomes/17702/cardinali/",
+   "Nome": "Joanino Cardinali"
+  }
+ },
+ {
+  "nome": "Josefe Cardinali",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Filho de Luigi Cardinali; membro da família circense. Datas e sepultura por confirmar.",
+   "Informação extra": "Dados parciais; consultar fontes genealógicas e registos de óbito. https://geneall.net/pt/familia-nomes/17702/cardinali/",
+   "Nome": "Josefe Cardinali"
+  }
+ },
+ {
+  "nome": "Maria Hierro",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Mãe de Victor Hugo Cardinali, ligada à família circense Cardinali. O seu falecimento foi noticiado em 1 de outubro de 2004 pelo arquivo Circovivo. Data exata do óbito e sepultura ainda por confirmar.",
+   "Informação extra": "Fonte: https://www.geocities.ws/circovivo/not2004.htm",
+   "Nome": "Maria Hierro"
+  }
+ },
+ {
+  "nome": "Bárbara Virgínia",
+  "areas": [
+   "Cinema",
+   "Teatro"
+  ],
+  "cemiterios": [
+   "Cemitério do Morumbi"
+  ],
+  "rotas": [],
+  "nascimento": "1923-11-15",
+  "morte": "2015-03-07",
+  "foto": "fotos/40ef3ddb5a6d810db3edcd02282ac07c.jpg",
+  "fotos": [
+   "fotos/40ef3ddb5a6d810db3edcd02282ac07c.jpg"
+  ],
+  "detalhes": {
+   "Área": "Cinema, Teatro",
+   "Biografia": "Bárbara Virgínia, nome artístico de Maria de Lourdes Dias Costa (Lisboa, 15 de novembro de 1923 – São Paulo, 7 de março de 2015), foi realizadora, atriz, declamadora e locutora de rádio. Realizou e protagonizou Três Dias sem Deus (1946), primeira longa-metragem sonora dirigida por uma mulher em Portugal, apresentada em Cannes. Realizou também Aldeia dos Rapazes (1946), participou em Aqui Portugal (1947) e mudou-se em 1952 para o Brasil, onde trabalhou em rádio e televisão.",
+   "Data de morte": "2015-03-07",
+   "Localização": "Cemitério do Morumbi, São Paulo, Brasil (sepultura noticiada; localização exata por confirmar)",
+   "Informação extra": "A agência Lusa, reproduzida pela RTP em 12 de março de 2015, informou, citando um amigo da artista, que Bárbara Virgínia estava sepultada no Cemitério do Morumbi, São Paulo, Brasil. Investigação posterior não confirmou a presença dos restos mortais na sepultura familiar indicada; a localização exata permanece por confirmar. Fontes: https://www.rtp.pt/noticias/cultura/morreu-barbara-virginia-92-anos-a-primeira-realizadora-portuguesa-de-cinema_n811660 ; https://revistaminerva.pt/barbara-virginia-sobre-o-percurso-da-primeira-realizadora-de-uma-longa-metragem-sonora-em-portugal/ . Fotografia: Revista Minerva Universitária.",
+   "Cemitério": "Cemitério do Morumbi",
+   "Data de nascimento": "1923-11-15",
+   "Nome": "Bárbara Virgínia"
+  }
+ },
+ {
   "nome": "José Hermano Baptista Saraiva",
   "areas": [
    "Educação",
