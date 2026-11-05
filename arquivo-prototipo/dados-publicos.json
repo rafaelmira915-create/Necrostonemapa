@@ -1,5 +1,49 @@
 [
  {
+  "nome": "Valentim de Barros",
+  "areas": [],
+  "cemiterios": [
+   "Cemitério de Benfica"
+  ],
+  "rotas": [],
+  "nascimento": "11/11/1916",
+  "morte": "03/02/1986",
+  "foto": "fotos/40ff3ddb5a6d8136bbc6d036f37c4e8d.png",
+  "fotos": [
+   "fotos/40ff3ddb5a6d8136bbc6d036f37c4e8d.png"
+  ],
+  "detalhes": {
+   "Biografia": "Valentim de Barros (Lisboa, 11 de novembro de 1916 – Lisboa, 3 de fevereiro de 1986) foi um bailarino português pioneiro na internacionalização da dança nacional. Atuou no teatro de revista e integrou companhias em Espanha e na Alemanha, incluindo a Ópera de Estugarda. Regressado a Portugal, foi perseguido devido à sua homossexualidade e internado no Hospital Miguel Bombarda, onde foi sujeito a tratamentos psiquiátricos violentos, incluindo uma leucotomia. Permaneceu institucionalizado durante décadas e continuou a dedicar-se à pintura e a outras expressões artísticas. A sua história inspirou homenagens, incluindo a Sala Estúdio Valentim de Barros, inaugurada em 2025.",
+   "Data de morte": "03/02/1986",
+   "Informação extra": "Sepultamento referido no Cemitério de Benfica; número de jazigo por confirmar. Fontes: https://dezanove.pt/valentim-de-barros-o-primeiro-bailarino-portugues-a-internacionalizar-se-2144279/ ; https://www.rtp.pt/noticias/cultura/uma-homenagem-a-valentim-de-barros-estreias-e-leituras-encenadas-no-dia-mundial-do_teatro_n1642641 ; https://www.meloteca.com/portfolio-item/valentim-de-barros/",
+   "Cemitério": "Cemitério de Benfica",
+   "Data de nascimento": "11/11/1916",
+   "Nome": "Valentim de Barros"
+  }
+ },
+ {
+  "nome": "Belarmino Fragoso Teixeira",
+  "areas": [],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "15/07/1931",
+  "morte": "19/04/1982",
+  "foto": "fotos/40ff3ddb5a6d81cd89ebe575b973731e.jpg",
+  "fotos": [
+   "fotos/40ff3ddb5a6d81cd89ebe575b973731e.jpg"
+  ],
+  "detalhes": {
+   "Biografia": "Belarmino Fragoso Teixeira (Lisboa, 15 de julho de 1931 – Lisboa, 19 de abril de 1982) foi um pugilista português, natural da Mouraria. De origem humilde, trabalhou como engraxador e destacou-se no boxe, conquistando títulos nacionais nas categorias de pesos pluma e leves. Competiu também no estrangeiro. A sua vida e as dificuldades sociais e económicas que enfrentou foram retratadas no filme documental Belarmino (1964), realizado por Fernando Lopes, uma obra marcante do Cinema Novo português.",
+   "Data de morte": "19/04/1982",
+   "Informação extra": "Natural da Mouraria, Lisboa. Protagonista do filme Belarmino (1964), de Fernando Lopes. Local de sepultura ainda não confirmado. Fontes: https://boxrec.com/wiki/index.php/Belarmino_Fragoso ; https://www.imdb.com/name/nm0289601/bio/ ; https://www.cm-palmela.pt/cmpalmela/uploads/writer_file/document/14025/sinopse_ver.pdf ; https://cinemaportuguesmemoriale.pt/Filmes/id/1439/t/belarmino",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "15/07/1931",
+   "Nome": "Belarmino Fragoso Teixeira"
+  }
+ },
+ {
   "nome": "Maria do Bom Sucesso Furtado Taveira de Medeiros Franco Wallenstein",
   "areas": [
    "Teatro",
@@ -945,8 +989,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8183b87fdf9f71afb804.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8183b87fdf9f71afb804.jpg"
+  ],
   "detalhes": {
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/7/73/Francisco_Alexandre_Lobo.jpg",
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
@@ -1035,8 +1081,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a588f4f4e3a5808098.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a588f4f4e3a5808098.jpg"
+  ],
   "detalhes": {
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/3/32/Francisco_de_Borja_Gar%C3%A7%C3%A3o_Stockler.jpg",
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
@@ -2599,8 +2647,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8145b9b5eecefbacd534.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8145b9b5eecefbacd534.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -15597,8 +15647,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8116995adc44311b1cff.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8116995adc44311b1cff.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Fotografia": "https://bibliotecamunicipal.espinho.pt/fotos/gca/jms_espinho_3_53396928760c756a805f13.jpg",
@@ -19932,8 +19984,10 @@
   "rotas": [],
   "nascimento": "15/01/1897",
   "morte": "07/01/1969",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d810b8571d2f9e290b476.jpg",
+  "fotos": [
+   "fotos/408f3ddb5a6d810b8571d2f9e290b476.jpg"
+  ],
   "detalhes": {
    "Biografia": "Arquiteto português e professor, ligado ao desenvolvimento do modernismo e ao ensino da arquitetura em Portugal.",
    "Data de morte": "07/01/1969",
@@ -20003,7 +20057,9 @@
  },
  {
   "nome": "Cassiano Branco",
-  "areas": [],
+  "areas": [
+   "Arquitetura"
+  ],
   "cemiterios": [],
   "rotas": [],
   "nascimento": "13/08/1897",
@@ -20013,6 +20069,7 @@
    "fotos/408f3ddb5a6d81d59beddcd52e4ce57b.png"
   ],
   "detalhes": {
+   "Área": "Arquitetura",
    "Biografia": "Arquiteto modernista português. Projetou o cinema Éden, o hotel Vitória, o Coliseu do Porto e Portugal dos Pequenitos. A sua obra destacou-se pela experimentação formal e pela modernidade.",
    "Data de morte": "24/04/1970",
    "Informação extra": "Arquitetura. Datas e identificação cruzadas com a base Personalidades do Notion. Sepultura exata e fotografia por confirmar.",
@@ -20022,18 +20079,24 @@
  },
  {
   "nome": "Raul Lino",
-  "areas": [],
-  "cemiterios": [],
+  "areas": [
+   "Arquitetura"
+  ],
+  "cemiterios": [
+   "Cemitério dos Prazeres"
+  ],
   "rotas": [],
   "nascimento": "21/11/1879",
   "morte": "13/07/1974",
   "foto": "",
   "fotos": [],
   "detalhes": {
+   "Área": "Arquitetura",
    "Biografia": "Arquiteto português associado à reflexão sobre a Casa Portuguesa. Projetou a Casa dos Patudos, a Casa do Cipreste, o Cinema Tivoli e diversos edifícios residenciais. Estudou em Inglaterra e na Alemanha e deixou uma extensa obra arquitetónica e escrita.",
    "Data de morte": "13/07/1974",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Raul_Lino_%28Arquivo_Hist%C3%B3rico_de_Almada%29%2C_cropped.png",
    "Informação extra": "Arquitetura. Datas e identificação cruzadas com a base Personalidades do Notion. Sepultura exata e fotografia por confirmar.",
+   "Cemitério": "Cemitério dos Prazeres",
    "Data de nascimento": "21/11/1879",
    "Nome": "Raul Lino"
   }
@@ -24460,8 +24523,10 @@
   "rotas": [],
   "nascimento": "1892",
   "morte": "1930",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/406f3ddb5a6d8171bf7eedf1d7d311be.jpg",
+  "fotos": [
+   "fotos/406f3ddb5a6d8171bf7eedf1d7d311be.jpg"
+  ],
   "detalhes": {
    "Biografia": "Futebolista português e figura fundadora do Sporting CP.",
    "Data de morte": "1930",
@@ -34182,8 +34247,13 @@
  },
  {
   "nome": "Mariana Rey Monteiro",
-  "areas": [],
-  "cemiterios": [],
+  "areas": [
+   "Teatro",
+   "Cinema"
+  ],
+  "cemiterios": [
+   "Cemitério dos Prazeres"
+  ],
   "rotas": [],
   "nascimento": "1922",
   "morte": "2010",
@@ -34192,9 +34262,11 @@
    "fotos/3f2f3ddb5a6d80b78963e0a277f4770c.jpg"
   ],
   "detalhes": {
+   "Área": "Teatro, Cinema",
    "Biografia": "Mariana Rey Monteiro (1922-2010), filha de Robles Monteiro e Amélia Rey Colaço, foi atriz de teatro, cinema e televisão. Estreou-se profissionalmente em 1946, em Antígona, integrando a companhia dos pais. Mais tarde tornou-se também muito conhecida do público através da televisão, participando em produções como Vila Faia, Origens, Cinzas e Vidas de Sal. Após a sua morte, em 2010, foi sepultada no jazigo da família no Cemitério dos Prazeres. \n",
    "Data de morte": "2010",
    "Localização": "Rua 2a",
+   "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "6640",
    "Data de nascimento": "1922",
    "Nome": "Mariana Rey Monteiro"
@@ -36669,8 +36741,10 @@
   "rotas": [],
   "nascimento": "08/02/1960",
   "morte": "09/06/2015",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8050a5b5c79363318aa9.gif",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8050a5b5c79363318aa9.gif"
+  ],
   "detalhes": {
    "Área": "Cinema, Teatro",
    "Biografia": "Ator de teatro, televisão e cinema. Foi cremado no Alto de São João. ",
@@ -36720,8 +36794,10 @@
   "rotas": [],
   "nascimento": "17/09/1971",
   "morte": "12/10/2012",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d804fbea4da3444b768d6.webp",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d804fbea4da3444b768d6.webp"
+  ],
   "detalhes": {
    "Área": "Teatro, Cinema",
    "Biografia": "Ator de teatro, televisão e cinema, conhecido também por Morangos com Açúcar. Foi cremado nos Olivais.\n\n",
@@ -36955,8 +37031,10 @@
   "rotas": [],
   "nascimento": "1867-05-31",
   "morte": "1944-05-28",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8177a74dfb39d05dfbad.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8177a74dfb39d05dfbad.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Maria Ana de Bragança e Jorge da Saxónia; neto/a de Maria II.",
@@ -36978,8 +37056,10 @@
   "rotas": [],
   "nascimento": "1865-05-25",
   "morte": "1932-02-18",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81768f26e51fe7ad230a.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81768f26e51fe7ad230a.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Maria Ana de Bragança e Jorge da Saxónia; neto/a de Maria II.",
@@ -37000,8 +37080,10 @@
   "rotas": [],
   "nascimento": "1863-03-19",
   "morte": "1933-03-27",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81d6b9d1d2b1441da747.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81d6b9d1d2b1441da747.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Maria Ana de Bragança e Jorge da Saxónia; neto/a de Maria II.",
@@ -37280,8 +37362,10 @@
   "rotas": [],
   "nascimento": "1886-08-01",
   "morte": "1934-03-14",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8139bdd2c4fe894937a5.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8139bdd2c4fe894937a5.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Roberto I de Parma e Maria Antónia de Bragança, neto de Miguel I de Portugal. Ficou conhecido pela sua participação nas negociações de paz secretas durante a Primeira Guerra Mundial, designadas caso Sisto.",
@@ -37411,8 +37495,10 @@
   "rotas": [],
   "nascimento": "1896-01-23",
   "morte": "1985-07-09",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d819186dded70ed7fd6cc.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d819186dded70ed7fd6cc.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Guilherme IV do Luxemburgo e Maria Ana de Bragança, neta de Miguel I. Foi grã-duquesa reinante do Luxemburgo entre 1919 e 1964. Morreu em 1985.",
@@ -37434,8 +37520,10 @@
   "rotas": [],
   "nascimento": "1894-06-14",
   "morte": "1924-01-24",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81b0b20fc5f8721e32cf.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81b0b20fc5f8721e32cf.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Maria Ana de Bragança e Guilherme IV do Luxemburgo; neto/a de Miguel I.",
@@ -37480,8 +37568,10 @@
   "rotas": [],
   "nascimento": "1884-01-17",
   "morte": "1968-11-05",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d810e83d0ef1a26205c88.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d810e83d0ef1a26205c88.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Maria José de Bragança e Carlos Teodoro da Baviera; neto/a de Miguel I.",
@@ -37501,8 +37591,10 @@
   "rotas": [],
   "nascimento": "1878-10-09",
   "morte": "1912-10-24",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81c79e83c06929360568.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81c79e83c06929360568.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Maria José de Bragança e Carlos Teodoro da Baviera; neto/a de Miguel I.",
@@ -37522,8 +37614,10 @@
   "rotas": [],
   "nascimento": "1876-07-25",
   "morte": "1965-11-23",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d819b9d35f1a7441fbe08.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d819b9d35f1a7441fbe08.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Maria José de Bragança e Carlos Teodoro da Baviera; neto/a de Miguel I.",
@@ -37679,8 +37773,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81788e65e1811d1e4abf.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81788e65e1811d1e4abf.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Miguel Januário de Bragança e Isabel de Thurn e Taxis / Maria Teresa de Löwenstein-Wertheim-Rosenberg; neto/a de Miguel I.",
@@ -38122,8 +38218,10 @@
   "rotas": [],
   "nascimento": "1786-06-18",
   "morte": "1812-07-04",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81d2866de831a4a497df.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81d2866de831a4a497df.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho do infante Gabriel de Bourbon e de Mariana Vitória de Bragança, neto de Maria I. Casou com Maria Teresa de Bragança, filha de João VI. Morreu no Rio de Janeiro em 1812.",
@@ -38145,8 +38243,10 @@
   "rotas": [],
   "nascimento": "1545-07-08",
   "morte": "1568-07-24",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81ad8f8bf5da372f5427.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81ad8f8bf5da372f5427.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Carlos de Áustria, príncipe das Astúrias, foi filho de Filipe II de Espanha e Maria Manuela de Portugal, neto de João III. Nasceu em 1545 e morreu em 1568.",
@@ -38193,8 +38293,10 @@
   "rotas": [],
   "nascimento": "18/01/1540",
   "morte": "15/11/1614",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81d4bf51ca5c1d8f78e4.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81d4bf51ca5c1d8f78e4.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Duarte de Portugal, duque de Guimarães e Isabel de Bragança; neto/a de Manuel I.",
@@ -38215,8 +38317,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81ef9174f63e7545bced.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81ef9174f63e7545bced.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Duarte de Portugal, duque de Guimarães e Isabel de Bragança; neto/a de Manuel I.",
@@ -38391,8 +38495,10 @@
   "rotas": [],
   "nascimento": "1528-07-08",
   "morte": "1580-08-30",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81d587e0e9cb77e30ffe.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81d587e0e9cb77e30ffe.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Carlos III de Saboia e Beatriz de Portugal, neto de Manuel I. Foi duque de Saboia de 1553 a 1580 e recuperou parte dos territórios da dinastia após a ocupação francesa.",
@@ -38480,8 +38586,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d810fb69de55e8d123192.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d810fb69de55e8d123192.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho do imperador Frederico III e de Leonor de Portugal, neto de Duarte. Morreu na infância; datas exactas e sepultura incertas.",
@@ -39511,8 +39619,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81aa8ee0c6f999cdf097.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81aa8ee0c6f999cdf097.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso Dinis e Maria Pais Ribeira; neto/a de Afonso III.",
@@ -39851,8 +39961,10 @@
   "rotas": [],
   "nascimento": "c. 1219",
   "morte": "1259-05-29",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8124817ef70e091a0116.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8124817ef70e091a0116.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Valdemar II da Dinamarca e Berengária de Portugal, neto de Sancho I. Foi rei da Dinamarca de 1252 até à morte, em 1259.",
@@ -40061,8 +40173,10 @@
   "rotas": [],
   "nascimento": "1887-03-21",
   "morte": "1908-02-01",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81a0bb61f318b7b10924.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81a0bb61f318b7b10924.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho mais velho de Carlos I e Amélia de Orleães, foi príncipe real de Portugal e herdeiro do trono. Morreu no Regicídio de 1 de Fevereiro de 1908, juntamente com o pai.",
@@ -40434,8 +40548,10 @@
   "rotas": [],
   "nascimento": "1857-03-19",
   "morte": "1943-03-11",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81a68287d6f91f883a22.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81a68287d6f91f883a22.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Miguel I e Adelaide de Löwenstein-Wertheim-Rosenberg.",
@@ -40500,8 +40616,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81e5b185ce5e513b578f.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81e5b185ce5e513b578f.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Miguel I e Adelaide de Löwenstein-Wertheim-Rosenberg.",
@@ -40566,8 +40684,10 @@
   "rotas": [],
   "nascimento": "1823-02-17",
   "morte": "1833-01-16",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8133a27dd21d912b6c18.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8133a27dd21d912b6c18.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Pedro IV e Maria Leopoldina de Áustria; princesa do Brasil.",
@@ -40676,8 +40796,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8189b385ed965c3a9acb.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8189b385ed965c3a9acb.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de João VI e Carlota Joaquina de Bourbon; infanta de Portugal.",
@@ -40723,8 +40845,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d819c8546f1d20409b7ce.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d819c8546f1d20409b7ce.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de João VI e Carlota Joaquina de Bourbon; infanta de Portugal.",
@@ -40812,8 +40936,10 @@
   "rotas": [],
   "nascimento": "1766-12-23",
   "morte": "1777-01-14",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8108bdedd57f49a9728d.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8108bdedd57f49a9728d.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Maria I e Pedro III; infanta de Portugal, morreu criança.",
@@ -41338,8 +41464,10 @@
   "rotas": [],
   "nascimento": "1691-05-25",
   "morte": "1742-07-21",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81959b9ec89c3f322ab9.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81959b9ec89c3f322ab9.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Pedro II e Maria Sofia Isabel de Neuburgo; duque de Beja.",
@@ -42032,8 +42160,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1475-06-13",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d812493eecc5cb9dcde59.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d812493eecc5cb9dcde59.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Duarte e Leonor de Aragão; rainha de Castela por casamento.",
@@ -42244,8 +42374,10 @@
   "rotas": [],
   "nascimento": "1394-03-04",
   "morte": "1460-11-13",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81cebbf4efe61957497a.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81cebbf4efe61957497a.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de João I e Filipa de Lencastre; conhecido como Henrique, o Navegador.",
@@ -42407,8 +42539,10 @@
   "rotas": [],
   "nascimento": "1373",
   "morte": "c. 1419–1420",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8196a9b6eda45472a6b7.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8196a9b6eda45472a6b7.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Beatriz de Portugal (1373 - c. 1420), filha de Fernando I de Portugal e de Leonor Teles. Foi a única filha do casal que chegou à idade adulta e a herdeira do trono português. Casou em 1383 com João I de Castela, casamento que esteve no centro da crise dinástica portuguesa de 1383-1385. Após a vitória do partido de João de Avis, permaneceu em Castela e, depois de enviuvar, viveu sobretudo em Toro. A última documentação segura mostra-a viva em 1412, sendo provável que tenha morrido entre 1419 e 1420.\n\n",
@@ -44498,8 +44632,10 @@
   "rotas": [],
   "nascimento": "07/09/1683",
   "morte": "14/08/1754",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8185b656eafb5019b86a.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8185b656eafb5019b86a.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha do imperador Leopoldo I e de Leonor Madalena de Neuburgo, casou com João V de Portugal em 1708. Foi rainha consorte de Portugal e mãe de José I. Morreu em 1754.",
@@ -44726,8 +44862,10 @@
   "rotas": [],
   "nascimento": "1545-04-13",
   "morte": "1568-10-03",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8117bf18f3b889132483.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8117bf18f3b889132483.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Isabel de Valois (1545–1568), filha de Henrique II de França e de Catarina de Médicis, foi rainha consorte de Espanha pelo casamento com Filipe II, em 1559. Foi mãe de Isabel Clara Eugénia e de Catarina Micaela de Espanha.",
@@ -44770,8 +44908,10 @@
   "rotas": [],
   "nascimento": "1527-10-15",
   "morte": "1545-07-12",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81b5abaac78773edc2ad.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81b5abaac78773edc2ad.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Maria Manuela de Portugal (1527–1545), filha de João III e de Catarina de Áustria, foi infanta de Portugal e princesa das Astúrias pelo casamento com o futuro Filipe II de Espanha, em 1543. Morreu pouco depois do nascimento do filho Carlos, príncipe das Astúrias.",
@@ -44885,8 +45025,10 @@
   "rotas": [],
   "nascimento": "1498-11-15",
   "morte": "1558-02-18",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81e9acc0de3e15ef4df8.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81e9acc0de3e15ef4df8.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Filipe I de Castela e Joana de Castela, casou com Manuel I de Portugal e, depois, com Francisco I de França. Foi rainha consorte de Portugal e de França.",
@@ -44974,8 +45116,10 @@
   "rotas": [],
   "nascimento": "1432",
   "morte": "1455-12-02",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81cd9529eba6bfa374b1.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81cd9529eba6bfa374b1.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Isabel de Coimbra (1432-1455), filha do infante Pedro, duque de Coimbra, e de Isabel de Urgel, foi rainha consorte de Portugal pelo casamento com Afonso V. Foi mãe de João II. A sua atuação incluiu o apoio a instituições religiosas e iniciativas de assistência.\n\nFontes: Manuela Santos Silva, Isabel de Coímbra y los modelos de religiosidad reginal en los reinos ibéricos a fines de la Edad Media; Biblioteca Jurídica Digital do Boletín Oficial del Estado.",
@@ -48682,7 +48826,9 @@
  },
  {
   "nome": "Carlos Paredes",
-  "areas": [],
+  "areas": [
+   "Música"
+  ],
   "cemiterios": [
    "Cemitério dos Prazeres"
   ],
@@ -48695,6 +48841,7 @@
   ],
   "detalhes": {
    "Visita 360": "https://kuula.co/share/LbNLH/collection/7TTDF?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
+   "Área": "Música",
    "Biografia": "Carlos Paredes (1925-2004) foi guitarrista e compositor português, figura central na renovação da guitarra portuguesa. Desenvolveu uma linguagem musical própria, ligada à tradição de Coimbra, e contribuiu para a divulgação internacional do instrumento. A sua obra inclui música para cinema, destacando-se a ligação a Os Verdes Anos, de Paulo Rocha.\n\nFontes: Museu do Fado; Arquivo Municipal de Lisboa.",
    "Data de morte": "2004-07-23",
    "Localização": "Talhão dos Artistas",
