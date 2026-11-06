@@ -1350,8 +1350,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d812fa8c4c722a7896dd7.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d812fa8c4c722a7896dd7.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Carlota_Joaquina_de_Borb%C3%B3n%2C_infanta_de_Espa%C3%B1a%2C_reina_de_Portugal_-_Museo_del_Prado.jpg",
@@ -1593,8 +1595,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816ab37ef8b612268386.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816ab37ef8b612268386.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/e/e4/D._Frei_Patr%C3%ADcio_da_Silva%2C_OSA_%281756-1840%29.png",
