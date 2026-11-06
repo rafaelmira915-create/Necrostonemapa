@@ -1152,8 +1152,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d39291f820c6ad2b6e.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d39291f820c6ad2b6e.jpg"
+  ],
   "detalhes": {
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/7/74/Viscount_of_Santarem.jpg",
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
@@ -1305,8 +1307,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8126b870ddc28bdffd36.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8126b870ddc28bdffd36.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Tom%C3%A1s_Ant%C3%B3nio_de_Vila_Nova_Portugal_%28Colec%C3%A7%C3%A3o_Museu_Hist%C3%B3rico_Nacional%2C_Brasil%29.png",
@@ -4911,8 +4915,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "1956",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81fc9400c8d008ab4b42.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81fc9400c8d008ab4b42.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "1956",
@@ -10536,8 +10542,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b5b507d494fbbea285.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b5b507d494fbbea285.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://i0.wp.com/www.avozdetrasosmontes.pt/wp-content/uploads/2021/10/carvalho-araujo.jpg?quality=80&resize=696%2C984&ssl=1",
@@ -14800,8 +14808,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81339682ee6c3c18c18d.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81339682ee6c3c18c18d.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Fotografia": "https://i0.wp.com/funchalnoticias.net/wp-content/uploads/2019/10/exposi%C3%A7%C3%A3o-joel-serr%C3%A3o-fotografias-de-eduardo-gageiro.jpeg?resize=723%2C542&ssl=1",
@@ -40983,8 +40993,10 @@
   "rotas": [],
   "nascimento": "1768-12-15",
   "morte": "1788-11-02",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8168b953f9505fdffe51.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8168b953f9505fdffe51.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Maria I e Pedro III; infanta de Portugal.",
