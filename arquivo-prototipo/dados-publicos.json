@@ -1,5 +1,68 @@
 [
  {
+  "nome": "António Joaquim Correia Vairinhos",
+  "areas": [
+   "Política",
+   "Educação"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "17/06/1955",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política, Educação",
+   "Biografia": "Economista, professor e político português. Deputado à Assembleia da República pelo PSD, eleito pelo círculo de Faro, nas V, VI e VII Legislaturas, entre 1987 e 1999. Fonte: Assembleia da República, Voto de Pesar n.º 197/X.",
+   "Data de nascimento": "17/06/1955",
+   "Nome": "António Joaquim Correia Vairinhos"
+  }
+ },
+ {
+  "nome": "Eugénio de Castro",
+  "areas": [
+   "Escritor"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "04/03/1869",
+  "morte": "17/08/1944",
+  "foto": "fotos/410f3ddb5a6d81aeb801fd77f9e8ee47.png",
+  "fotos": [
+   "fotos/410f3ddb5a6d81aeb801fd77f9e8ee47.png"
+  ],
+  "detalhes": {
+   "Área": "Escritor",
+   "Biografia": "Poeta português associado ao Simbolismo e à renovação formal da poesia portuguesa no final do século XIX. Fonte: Escritas.org, perfil de Eugénio de Castro.",
+   "Data de morte": "17/08/1944",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Eug%C3%A9nio_de_Castro_-_Illustra%C3%A7%C3%A3o_Portugueza_%2814Jul1913%29.png",
+   "Data de nascimento": "04/03/1869",
+   "Nome": "Eugénio de Castro"
+  }
+ },
+ {
+  "nome": "António Manuel Dias Baptista",
+  "areas": [
+   "Política",
+   "Advocacia"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "1958",
+  "morte": "13/03/2021",
+  "foto": "fotos/410f3ddb5a6d81b58f8def97dad6ba51.png",
+  "fotos": [
+   "fotos/410f3ddb5a6d81b58f8def97dad6ba51.png"
+  ],
+  "detalhes": {
+   "Área": "Política, Advocacia",
+   "Biografia": "Jurista e político português, antigo deputado à Assembleia da República pelo Partido Socialista na VIII Legislatura (1999–2002) e antigo vereador da Câmara Municipal de Lisboa. Fonte: Assembleia da República, Projeto de Voto n.º 510/XIV, de pesar pelo seu falecimento.",
+   "Data de morte": "13/03/2021",
+   "Data de nascimento": "1958",
+   "Nome": "António Manuel Dias Baptista"
+  }
+ },
+ {
   "nome": "Valentim de Barros",
   "areas": [],
   "cemiterios": [
@@ -489,12 +552,15 @@
   "rotas": [],
   "nascimento": "1938",
   "morte": "2016",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40cf3ddb5a6d8171befec55f9051eea7.jpg",
+  "fotos": [
+   "fotos/40cf3ddb5a6d8171befec55f9051eea7.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Deputado à Assembleia Constituinte de 1975 e à Assembleia da República entre 1976 e 1991. Fundador do PPD no Algarve.",
    "Data de morte": "2016",
+   "Fotografia": "https://cdn.cmjornal.pt/images/2016-11/img_1500x1000uu2016-11-30-00-58-00-579576.jpg",
    "Informação extra": "Fonte institucional: https://www.parlamento.pt/Paginas/2016/novembro/Faleceu-o-antigo-Deputado-Cristovao-Guerreiro-Norte.aspx",
    "Data de nascimento": "1938",
    "Nome": "Cristóvão Guerreiro Norte"
@@ -972,8 +1038,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81828332da0fabc410aa.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81828332da0fabc410aa.png"
+  ],
   "detalhes": {
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
@@ -1101,9 +1169,12 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81bab8afe94dd2e4c4eb.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81bab8afe94dd2e4c4eb.png"
+  ],
   "detalhes": {
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
    "Nome": "Francisco de Paula Ferreira da Costa"
@@ -1135,9 +1206,12 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c7b2d8fdcb1ce67c72.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c7b2d8fdcb1ce67c72.png"
+  ],
   "detalhes": {
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
    "Nome": "Francisco Lopes de Azevedo Velho da Fonseca de Barbosa Pinheiro Pereira e Sá"
@@ -1373,8 +1447,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8130826ef4e62327d83c.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8130826ef4e62327d83c.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -1535,10 +1611,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816086b1cf70af9dfb8f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816086b1cf70af9dfb8f.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
    "Cemitério": "Incerto",
    "Nome": "Custódio José de Araújo Pereira"
@@ -1846,8 +1925,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b69027dbc213fd9f62.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b69027dbc213fd9f62.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/7/72/Retrato_de_D._Manuel_Francisco_Zacarias_de_Portugal_e_Castro_%281787-1854%29.jpg",
@@ -1867,8 +1948,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c58c02df29cf572af2.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c58c02df29cf572af2.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Conde_de_Oriola_%E2%80%93_Hist%C3%B3ria_de_Portugal%2C_Popular_e_Ilustrada.jpg",
@@ -2052,10 +2135,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81f79cb8c6f1dfe8ad21.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81f79cb8c6f1dfe8ad21.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
    "Cemitério": "Incerto",
    "Nome": "Francisco de Magalhães de Araújo Pimentel"
@@ -3662,8 +3748,10 @@
   "rotas": [],
   "nascimento": "17/04/1925",
   "morte": "06/04/1998",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816088d4c1a48f132ed2.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816088d4c1a48f132ed2.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Economista, professor universitário, político e ministro. Foi deputado à Assembleia Constituinte pelo MDP/CDE. Participou na oposição democrática ao Estado Novo.",
@@ -4624,6 +4712,7 @@
   "detalhes": {
    "Área": "Política",
    "Data de morte": "02/09/1964",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fotografia_oficial_do_Presidente_da_Rep%C3%BAblica_Francisco_Craveiro_Lopes.jpg",
    "Informação extra": "Lista fechada Presidentes da República Portuguesa, posição 11/16 entre falecidos. Fonte institucional: https://www.museu.presidencia.pt/pt/conhecer/presidentes-da-republica-biografias/ ; Guia de arquivos: https://www.museu.presidencia.pt/media/1988/mpr_guia-de-arquivos_v1_2021.pdf . Confirmar duplicados e sepultura posteriormente.",
    "Nome": "Francisco Craveiro Lopes"
   }
@@ -5037,10 +5126,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81098a48c0a43cb9c6ee.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81098a48c0a43cb9c6ee.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
    "Nome": "Evaristo Luís Neves Ferreira Carvalho"
   }
@@ -5071,10 +5163,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8112ba0bd99920b2747c.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8112ba0bd99920b2747c.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
    "Nome": "Djalme de Azevedo"
   }
@@ -5270,10 +5365,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814da464c7c7ca4af495.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814da464c7c7ca4af495.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
    "Nome": "Custódio de Paiva"
   }
@@ -5450,10 +5548,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8195b0d6d2b080061c58.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8195b0d6d2b080061c58.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
    "Nome": "Eduardo Pinto de Queiroz Montenegro"
   }
@@ -5552,10 +5653,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b69a90d94daf422dd3.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b69a90d94daf422dd3.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
    "Nome": "Fernando da Cunha Macedo"
   }
@@ -5607,6 +5711,7 @@
   "fotos": [],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Faustino_da_Fonseca_%28Album_Republicano%2C_1908%29.png",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
    "Nome": "Faustino da Fonseca"
   }
@@ -5819,6 +5924,7 @@
   "fotos": [],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Francisco_Ferreira_do_Amaral_%28Sociedade_de_Geografia_de_Lisboa%29.png",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
    "Nome": "Francisco Joaquim Ferreira do Amaral"
   }
@@ -6001,6 +6107,7 @@
   "fotos": [],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/c/c6/DomingosLeitePereira.png",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
    "Nome": "Domingos Leite Pereira"
   }
@@ -6470,8 +6577,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b59ef5d5a060bd1faa.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b59ef5d5a060bd1faa.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/7/73/Emygdio_Guilherme_Garcia_Mendes_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -7155,10 +7264,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816f9658cc05ab158502.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816f9658cc05ab158502.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
    "Nome": "Eduardo de Almeida"
   }
@@ -7223,10 +7335,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81988d73d6e4b0378fd5.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81988d73d6e4b0378fd5.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
    "Nome": "Francisco Eusebio Leão"
   }
@@ -7705,10 +7820,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d810c95cfd11610cc1572.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d810c95cfd11610cc1572.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://www.cgd.pt/Institucional/Patrimonio-Historico-CGD/Presidentes-Caixa/PublishingImages/Daniel-Rodrigues_480x380.jpg",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
    "Nome": "Daniel José Rodrigues"
   }
@@ -8161,10 +8279,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8158998ecb14b30787e8.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8158998ecb14b30787e8.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
    "Nome": "Damião José Lourenço Júnior"
   }
@@ -8539,10 +8660,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81998a3fe0b55c9ea872.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81998a3fe0b55c9ea872.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
    "Nome": "Eduardo Pinto de Queiroz Montenegro"
   }
@@ -8700,10 +8824,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b19ff8f32885921cbd.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b19ff8f32885921cbd.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
    "Nome": "Cristóvão Moniz"
   }
@@ -8874,10 +9001,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c5a8f0c255af3d9ee1.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c5a8f0c255af3d9ee1.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
    "Nome": "Francisco de Abreu Magalhães Coutinho"
   }
@@ -9443,10 +9573,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8123a864dd4dafaec58f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8123a864dd4dafaec58f.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/Detalhe/?id=32273&t=7. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
    "Nome": "Custódio de Paiva"
   }
@@ -9562,10 +9695,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8172be22e579ebb235a9.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8172be22e579ebb235a9.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/Detalhe/?id=42010. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
    "Nome": "Djalme de Azevedo"
   }
@@ -10090,10 +10226,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d810788a5ec9bef131b65.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d810788a5ec9bef131b65.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
    "Nome": "Fernando da Cunha Macedo"
   }
@@ -10458,6 +10597,7 @@
   "fotos": [],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/3/36/Domingos_Tasso_de_Figueiredo_-_Ilustra%C3%A7%C3%A3o_Portugueza_%2817Mar1919%29.png",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
    "Nome": "Domingos Tasso de Figueiredo"
   }
@@ -10623,6 +10763,7 @@
   "fotos": [],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Retrato_do_Professor_Bissaya_Barreto_-_Jos%C3%A9_Malhoa_%28Casa-Museu_Bissaya_Barreto%29.png",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
    "Nome": "Fernando Baeta Bissaia Barreto Rosa"
   }
@@ -10972,10 +11113,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d811fb3bcd51ee0b6e810.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d811fb3bcd51ee0b6e810.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=35935. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
    "Nome": "Emídio Guilherme Garcia Mendes"
   }
@@ -11916,10 +12060,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81df83ccc2fe40440f69.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81df83ccc2fe40440f69.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=15398. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
    "Nome": "Evaristo Luís Neves Ferreira Carvalho"
   }
@@ -12167,8 +12314,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d811aabf4d4916d8a1b07.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d811aabf4d4916d8a1b07.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Tito_Augusto_de_Moraes_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -12740,8 +12889,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a48900eb76a8912ea0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a48900eb76a8912ea0.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/0/00/Eduardo_d%27Abreu_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -13139,6 +13290,7 @@
   "fotos": [],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Faustino_da_Fonseca_%28Album_Republicano%2C_1908%29.png",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
    "Nome": "Faustino da Fonseca"
   }
@@ -14324,6 +14476,7 @@
   "fotos": [],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fotografia_oficial_do_Presidente_da_Rep%C3%BAblica_Francisco_Craveiro_Lopes.jpg",
    "Informação extra": "Registo nominal inicial de figura política histórica. Verificar datas, identidade, sepultura e fotografia antes de completar.",
    "Nome": "Francisco Craveiro Lopes"
   }
@@ -14341,6 +14494,7 @@
   "fotos": [],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Francisco_Ferreira_do_Amaral_%28Sociedade_de_Geografia_de_Lisboa%29.png",
    "Informação extra": "Registo nominal inicial de figura política histórica. Verificar datas, identidade, sepultura e fotografia antes de completar.",
    "Nome": "Francisco Joaquim Ferreira do Amaral"
   }
@@ -14391,10 +14545,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81918ea9d38dbc1c9529.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81918ea9d38dbc1c9529.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Registo nominal inicial de figura política histórica. Verificar datas, identidade, sepultura e fotografia antes de completar.",
    "Nome": "Domingos Pereira"
   }
@@ -14561,10 +14718,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e2b264ea9bb00dc4fb.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e2b264ea9bb00dc4fb.png"
+  ],
   "detalhes": {
    "Área": "Política",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Registo nominal inicial de figura política histórica. Verificar datas, identidade, sepultura e fotografia antes de completar.",
    "Nome": "Domingos Oliveira"
   }
@@ -15740,6 +15900,7 @@
   "fotos": [],
   "detalhes": {
    "Área": "Escritor",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Retrato_de_E%C3%A7a_de_Queir%C3%B3s_%28transparente%29.png",
    "Informação extra": "Ficha nominal inicial. Confirmar identidade, datas, sepultura e fotografia em fontes documentais.",
    "Nome": "Eça de Queirós"
   }
@@ -17511,10 +17672,13 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81fa95bed9350ed63192.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81fa95bed9350ed63192.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Registo provisório: identidade, ligação à medicina, datas e local de sepultura por confirmar documentalmente.",
    "Cemitério": "Incerto",
    "Nome": "Cassiano Neves"
@@ -17597,12 +17761,15 @@
   "rotas": [],
   "nascimento": "1895",
   "morte": "1974",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81989623d31283f7bbc4.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81989623d31283f7bbc4.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Biografia": "Médico e professor português, ligado à medicina interna e ao ensino universitário.",
    "Data de morte": "1974",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "1895",
    "Nome": "Fernando da Fonseca"
@@ -17648,6 +17815,7 @@
    "Área": "Medicina",
    "Biografia": "Médico obstetra português, associado ao desenvolvimento da obstetrícia e ginecologia.",
    "Data de morte": "1966",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/d/d6/O_Sr._Dr._Costa_Sacadura_-_Ilustra%C3%A7%C3%A3o_Portugueza_%2814Jul1919%29.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "1872",
    "Nome": "Costa Sacadura"
@@ -18006,8 +18174,10 @@
   "rotas": [],
   "nascimento": "1944",
   "morte": "2016",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a28fd9dd43e4a510db.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a28fd9dd43e4a510db.jpg"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Biografia": "Médico neurocirurgião, professor universitário e ensaísta português.",
@@ -19130,11 +19300,14 @@
   "rotas": [],
   "nascimento": "1941",
   "morte": "1998",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d814e89f1f7d982c17e2c.jpg",
+  "fotos": [
+   "fotos/408f3ddb5a6d814e89f1f7d982c17e2c.jpg"
+  ],
   "detalhes": {
    "Biografia": "Historiador e político português, participante no Movimento de Esquerda Socialista, constituído após o 25 de Abril.",
    "Data de morte": "1998",
+   "Fotografia": "https://www.marxists.org/portugues/oliveira/img/oliveira_cesar.jpg",
    "Data de nascimento": "1941",
    "Nome": "César Oliveira"
   }
@@ -20182,11 +20355,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8129b1c4ef8674a50be7.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8129b1c4ef8674a50be7.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado francês que governou a diocese de Lisboa entre 1344 e 1348. Foi depois transferido para outras sedes episcopais francesas.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Bispo de Lisboa, 1344–1348. Fontes: UCP-CEHR, Bispos e arcebispos de Lisboa (2018); índice: https://dspace.uevora.pt/rdpc/bitstream/10174/23460/1/BisposEArcebisposDeLisboa-Indice.pdf",
    "Nome": "Estêvão de la Garde"
   }
@@ -20236,11 +20412,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8161abc8d1cbe68525ea.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8161abc8d1cbe68525ea.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Lisboa nomeado em 1369; a sua passagem pela sé terminou em 1371, quando foi transferido para Sevilha.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Bispo de Lisboa, 1369–1371. Fontes: UCP-CEHR, Bispos e arcebispos de Lisboa (2018); índice: https://dspace.uevora.pt/rdpc/bitstream/10174/23460/1/BisposEArcebisposDeLisboa-Indice.pdf",
    "Nome": "Fernando Álvares (bispo de Lisboa)"
   }
@@ -20420,11 +20599,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81a9a35adff1a299cba6.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81a9a35adff1a299cba6.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Lisboa entre 1286 e 1287. Pertencia à linhagem dos Vasconcelos e governou a diocese por pouco mais de um ano.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Bispo de Lisboa, 1286–1287. Fontes: UCP-CEHR, Bispos e arcebispos de Lisboa (2018); índice: https://dspace.uevora.pt/rdpc/bitstream/10174/23460/1/BisposEArcebisposDeLisboa-Indice.pdf",
    "Nome": "Estêvão Anes de Vasconcelos"
   }
@@ -20658,11 +20840,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d810a8980c78438540461.jpg",
+  "fotos": [
+   "fotos/407f3ddb5a6d810a8980c78438540461.jpg"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1952–1960.",
+   "Fotografia": "https://guimaraesdigital.pt/cache/images/mpmcache/bc03df2322d9734fbc6cbb590f4bcfa5_w800.jpg",
    "Informação extra": "Fonte: Diocese da Guarda, Bispos da Guarda — https://diocesedaguarda.pt/bispos-da-guarda/",
    "Nome": "Domingos da Silva Gonçalves (bispo da Guarda)"
   }
@@ -20935,6 +21120,7 @@
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1639.",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/1/14/Retrato_de_D._Dinis_de_Melo_e_Castro_%281868%29_-_Ant%C3%B3nio_Jos%C3%A9_Pereira.png",
    "Informação extra": "Fonte: Diocese da Guarda, Bispos da Guarda — https://diocesedaguarda.pt/bispos-da-guarda/",
    "Nome": "Dinis de Melo e Castro (bispo da Guarda)"
   }
@@ -21568,11 +21754,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81c886f6c0c28a490132.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81c886f6c0c28a490132.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1314–1316.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Fonte: Diocese da Guarda, Bispos da Guarda — https://diocesedaguarda.pt/bispos-da-guarda/",
    "Nome": "Estêvão I (bispo da Guarda)"
   }
@@ -21786,11 +21975,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81efab4ef03560a1696d.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81efab4ef03560a1696d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1550–1552.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Fonte: Diocese da Guarda, Bispos da Guarda — https://diocesedaguarda.pt/bispos-da-guarda/",
    "Nome": "Cristóvão de Castro (bispo da Guarda)"
   }
@@ -21804,11 +21996,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81f0b9b3cd7123d2a095.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81f0b9b3cd7123d2a095.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1357–c.1360 (data final incerta).",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Fonte: Diocese da Guarda, Bispos da Guarda — https://diocesedaguarda.pt/bispos-da-guarda/",
    "Nome": "Estêvão II Tristão (bispo da Guarda)"
   }
@@ -21894,11 +22089,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8105925dceb379963b15.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8105925dceb379963b15.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1627 e 1634.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Fonte: Sé de Faro, História — https://sedefaro.pt/historia/; contextualização histórica da Diocese do Algarve — https://diocese-algarve.pt/nota-historica/",
    "Nome": "Francisco de Menezes (bispo do Algarve em Faro)"
   }
@@ -21930,8 +22128,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81138c90dcc25e2cb617.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81138c90dcc25e2cb617.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1855 e 1863.",
@@ -22424,11 +22624,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81728cdff0cc6a57a975.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81728cdff0cc6a57a975.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1671 e 1679.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Fonte: Sé de Faro, História — https://sedefaro.pt/historia/; contextualização histórica da Diocese do Algarve — https://diocese-algarve.pt/nota-historica/",
    "Nome": "Francisco Barreto II (bispo do Algarve em Faro)"
   }
@@ -22717,11 +22920,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81ab9180eca8c961d8b0.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81ab9180eca8c961d8b0.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1589 e 1594.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Fonte: Sé de Faro, História — https://sedefaro.pt/historia/; contextualização histórica da Diocese do Algarve — https://diocese-algarve.pt/nota-historica/",
    "Nome": "Francisco Cano (bispo do Algarve em Faro)"
   }
@@ -22844,11 +23050,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81b89ca1e755733b24ca.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81b89ca1e755733b24ca.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Ossónoba; atestado em 666.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Fonte: Sé de Faro, História — https://sedefaro.pt/historia/; contextualização histórica da Diocese do Algarve — https://diocese-algarve.pt/nota-historica/",
    "Nome": "Exarno (bispo de Ossónoba)"
   }
@@ -23143,11 +23352,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81fe8bdbe708c64a13e3.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81fe8bdbe708c64a13e3.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1501 e 1538.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Fonte: Sé de Faro, História — https://sedefaro.pt/historia/; contextualização histórica da Diocese do Algarve — https://diocese-algarve.pt/nota-historica/",
    "Nome": "Fernando Coutinho (bispo do Algarve em Silves)"
   }
@@ -23386,11 +23598,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8141bc0cf3892d3bc918.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8141bc0cf3892d3bc918.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1671 e 1678.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Nome": "Diogo de Sousa II (arcebispo de Évora)"
   }
  },
@@ -23403,11 +23618,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8142aeade715fd09e843.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8142aeade715fd09e843.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1230 e 1237.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Nome": "Fernando II (bispo de Évora)"
   }
  },
@@ -23559,11 +23777,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d815eb80deb673b7fd402.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d815eb80deb673b7fd402.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1678 e 1689.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Nome": "Domingos de Gusmão (arcebispo de Évora)"
   }
  },
@@ -23610,11 +23831,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d816b8db7dbaf45b8e43e.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d816b8db7dbaf45b8e43e.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado atestado em 1179.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Nome": "Fernando I (bispo de Évora)"
   }
  },
@@ -23763,11 +23987,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d817888eace5c91b5201b.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d817888eace5c91b5201b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1845 e 1859.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Nome": "Francisco da Mãe dos Homens Anes de Carvalho (arcebispo de Évora)"
   }
  },
@@ -23888,11 +24115,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8191bd32e53155a7f44f.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8191bd32e53155a7f44f.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1406 e 1415.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Nome": "Diogo Álvares de Brito (bispo de Évora)"
   }
  },
@@ -23922,11 +24152,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d819e97eae18cb1b0c607.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d819e97eae18cb1b0c607.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1284 e 1289.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Nome": "Domingos Anes Jardo (bispo de Évora)"
   }
  },
@@ -24092,11 +24325,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81b99267df05e392749b.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81b99267df05e392749b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado atestado em 1610.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Nome": "Diogo de Sousa I (arcebispo de Évora)"
   }
  },
@@ -24211,11 +24447,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81da9a27c0edcdf8f944.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81da9a27c0edcdf8f944.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1297 e 1313.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Nome": "Fernando Martins (bispo de Évora)"
   }
  },
@@ -24313,11 +24552,14 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81f69ecdfc7d326cbd6d.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81f69ecdfc7d326cbd6d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1267 e 1283.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Nome": "Durando Pais (bispo de Évora)"
   }
  },
@@ -25238,13 +25480,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8104b0d1cca3df7cd975.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8104b0d1cca3df7cd975.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Diogo figura nas listas de bispos de Coimbra entre 913 e 922. O episcopado situa-se no período altomedieval, quando a cidade alternava entre influência cristã e muçulmana. Não estão confirmadas as suas datas de nascimento, morte ou sepultura.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Diogo"
@@ -25305,13 +25550,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1098-06-22",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d810ca951f7ccd1ee69a7.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d810ca951f7ccd1ee69a7.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Crescónio foi bispo de Coimbra entre 1092 e 1098, nos anos seguintes à reconquista definitiva da cidade por Fernando I de Leão, em 1064. O episcopado insere-se na reorganização eclesiástica do território.",
    "Data de morte": "1098-06-22",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Crescónio"
@@ -25771,13 +26019,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d815f94b8d1427842d327.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d815f94b8d1427842d327.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Emila figura na sucessão episcopal de Coimbra no ano de 693, durante o reinado visigótico de Égica. A documentação disponível não permite fixar as datas da sua vida nem o local de sepultura.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Emila"
@@ -25858,13 +26109,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d816cabcfe182e28d1d11.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d816cabcfe182e28d1d11.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Filho de Gonçalo Vasques Coutinho, estudou Direito Canónico em Pádua e governou a Diocese de Coimbra entre 1418 e 1429. Era irmão de Vasco Fernandes Coutinho, conde de Marialva.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Fernando Coutinho"
@@ -26118,13 +26372,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8194894defd3fcc6ae79.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8194894defd3fcc6ae79.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Cântabro é mencionado como bispo de Coimbra em 666, durante o período visigótico. A referência insere-se na sucessão episcopal associada aos concílios toledanos do século VII; os seus dados biográficos permanecem incertos.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Bispo de Coimbra referido em 666; essa referência cronológica não permite confirmar as datas de nascimento e morte ou o local de sepultura.\nFotografia: incerta, por localizar e confirmar.",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -26277,13 +26534,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d819db78bcab7ed89b169.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d819db78bcab7ed89b169.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Mestre Domingos é mencionado na cronologia episcopal de Coimbra entre 1246 e 1247, após Tibúrcio e antes de Egas Fafes. A documentação biográfica disponível é limitada.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Domingos (Mestre Domingos)"
@@ -26340,13 +26600,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81b4ba54d2076f2530e4.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81b4ba54d2076f2530e4.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Durando Pais consta da cronologia episcopal de Coimbra em 1267, no período de transição após o governo de Egas Fafes. A identificação deste nome exige confirmação, pois existe um homónimo que foi bispo de Évora no século XIII.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Durando Pais"
@@ -26408,13 +26671,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1268",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81b9ae1ee60d0644e380.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81b9ae1ee60d0644e380.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Egas Fafes foi bispo de Coimbra entre 1248 e 1267, mantendo relações próximas com a corte de Afonso III. Em Dezembro de 1267 foi promovido a arcebispo de Santiago de Compostela. O seu testamento é conhecido da investigação histórica.",
    "Data de morte": "1268",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Egas Fafes"
@@ -26618,13 +26884,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1303-08-08",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81e39009eed4ad6dbc5c.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81e39009eed4ad6dbc5c.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Fernando governou a Diocese de Coimbra entre 1302 e 1303, tendo sido nomeado em Agosto de 1302. Faleceu no exercício do episcopado.",
    "Data de morte": "1303-08-08",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Fernando"
@@ -26788,13 +27057,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81f0b2e6d75e4e9ef5c1.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81f0b2e6d75e4e9ef5c1.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Ermulfo é mencionado como bispo de Coimbra em 633, durante o reino visigótico. A sua identificação decorre das listas episcopais; não são conhecidas com segurança as datas da sua vida.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Ermulfo"
@@ -27431,13 +27703,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d813bbb46d5033863f4f1.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d813bbb46d5033863f4f1.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga sede de Portucale, incluído no episcopológio histórico da Diocese do Porto.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos do Porto e de Portucale.\nReferência ao episcopado na lista diocesana: Flávio ( 656 ). Os anos de governo não equivalem necessariamente a datas de nascimento ou de morte.\nLocal de sepultura por confirmar.\nFontes: Diocese do Porto, História e lista de bispos. https://www.diocese-porto.pt/pt/diocese/hist%C3%B3ria/diocese-do-porto/",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -27636,13 +27911,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81569603c04ce3a3dd2d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81569603c04ce3a3dd2d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga sede de Portucale, incluído no episcopológio histórico da Diocese do Porto.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos do Porto e de Portucale.\nReferência ao episcopado na lista diocesana: Énego, Nónego ou Diogo ( 1025 ). Os anos de governo não equivalem necessariamente a datas de nascimento ou de morte.\nLocal de sepultura por confirmar.\nFontes: Diocese do Porto, História e lista de bispos. https://www.diocese-porto.pt/pt/diocese/hist%C3%B3ria/diocese-do-porto/",
    "Data de nascimento": "Incerto",
    "Nome": "Énego de Portucale"
@@ -28014,13 +28292,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d818e8847e08e608a814c.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d818e8847e08e608a814c.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Portucale documentado na cronologia do final do século VII. A lista diocesana apresenta-o também sob o nome Félix Torcato.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos do Porto e de Portucale.\nReferência ao episcopado na lista diocesana: São Félix Torcato ou São Torcato Félix ( 693 ) (também Arcebispo de Braga ). Os anos de governo não equivalem necessariamente a datas de nascimento ou de morte. A identificação com São Torcato pertence à tradição e não é aqui assumida como demonstrada.\nLocal de sepultura por confirmar.\nFontes: Diocese do Porto, História e lista de bispos. https://www.diocese-porto.pt/pt/diocese/hist%C3%B3ria/diocese-do-porto/",
    "Data de nascimento": "Incerto",
    "Nome": "Félix de Portucale"
@@ -28079,13 +28360,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8194963de2f6cc22a28c.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8194963de2f6cc22a28c.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado nomeado para a diocese do Porto, sem confirmação pontifícia ou sem tomada de posse, conforme a cronologia diocesana.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos do Porto e de Portucale.\nReferência ao episcopado na lista diocesana: Francisco Pereira Pinto ( 1640 ) (nomeado por D. Filipe IV de Espanha , nunca chegou a tomar posse; a Sé Episcopal permaneceu oficialmente vaga até 1670 , devido ao Papa não ter confirmado os dois bispos nomeados por D. João IV de Portugal ). Os anos de governo não equivalem necessariamente a datas de nascimento ou de morte.\nLocal de sepultura por confirmar.\nFontes: Diocese do Porto, História e lista de bispos. https://www.diocese-porto.pt/pt/diocese/hist%C3%B3ria/diocese-do-porto/",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -28244,13 +28528,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81b2898fe7ec94d42579.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81b2898fe7ec94d42579.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto no século XIV. Integra a sucessão histórica dos prelados da diocese.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos do Porto e de Portucale.\nReferência ao episcopado na lista diocesana: Fernando (II) Ramires ( 1313 - 1322 ). Os anos de governo não equivalem necessariamente a datas de nascimento ou de morte.\nLocal de sepultura por confirmar.\nFontes: Diocese do Porto, História e lista de bispos. https://www.diocese-porto.pt/pt/diocese/hist%C3%B3ria/diocese-do-porto/",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -28338,13 +28625,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1185-11-09",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81bf9cf8f7707359006e.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81bf9cf8f7707359006e.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto no final do reinado de Afonso Henriques. Distingue-se de Fernando Martins, bispo de Évora no século seguinte.",
    "Data de morte": "1185-11-09",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos do Porto e de Portucale.\nReferência ao episcopado na lista diocesana: Fernando (I) Martins ( 1176 - 1185 ). Os anos de governo não equivalem necessariamente a datas de nascimento ou de morte.\nLocal de sepultura por confirmar.\nFontes: Diocese do Porto, História e lista de bispos. https://www.diocese-porto.pt/pt/diocese/hist%C3%B3ria/diocese-do-porto/; GCatholic, Diocese do Porto. https://gcatholic.org/dioceses/diocese/port3; Enrique Flórez, España Sagrada, tomo XXI, 1766, episcopológio do Porto. https://archive.org/details/espaasagradathea21flre",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -28409,13 +28699,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81c2b5f1ea1cf11cefe3.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81c2b5f1ea1cf11cefe3.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Religioso franciscano e confessor de Dinis I. Foi bispo do Porto, de Lisboa e de Cuenca e participou no Concílio de Vienne.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos do Porto e de Portucale.\nReferência ao episcopado na lista diocesana: Frei Estêvão ( 1310 - 1312 ), depois bispo de Lisboa. Os anos de governo não equivalem necessariamente a datas de nascimento ou de morte.\nLocal de sepultura por confirmar.\nFontes: Diocese do Porto, História e lista de bispos. https://www.diocese-porto.pt/pt/diocese/hist%C3%B3ria/diocese-do-porto/",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -28433,13 +28726,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81c5a7b6ca8bf8d50b04.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81c5a7b6ca8bf8d50b04.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado nomeado para a diocese do Porto, sem confirmação pontifícia ou sem tomada de posse, conforme a cronologia diocesana.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos do Porto e de Portucale.\nReferência ao episcopado na lista diocesana: Diogo (II) Álvares da Costa ( 1505 ), sobrinho do cardeal de Alpedrinha , morreu sem tomar posse. Os anos de governo não equivalem necessariamente a datas de nascimento ou de morte.\nLocal de sepultura por confirmar.\nFontes: Diocese do Porto, História e lista de bispos. https://www.diocese-porto.pt/pt/diocese/hist%C3%B3ria/diocese-do-porto/",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -28817,13 +29113,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8103817ae00b6c4347c6.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8103817ae00b6c4347c6.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora na passagem do século XIII para o XIV, incluído na sucessão dos prelados da catedral medieval.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos e arcebispos de Évora.\nLocal de sepultura por confirmar.\nFontes: António Francisco Barata, Memória histórica sobre a fundação da Sé de Évora e suas antiguidades, 2.ª edição, 1903. https://archive.org/details/memoriahistorica00bara_1",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -28915,13 +29214,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1283-04-02",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8113accbff0fe01d5f21.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8113accbff0fe01d5f21.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora no século XIII, associado à construção e à organização da catedral medieval.",
    "Data de morte": "1283-04-02",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos e arcebispos de Évora.\nLocal de sepultura por confirmar.\nFontes: António Francisco Barata, Memória histórica sobre a fundação da Sé de Évora e suas antiguidades, 2.ª edição, 1903. https://archive.org/details/memoriahistorica00bara_1",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -29031,13 +29333,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1610-12-30",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8130982ee23fcbbea890.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8130982ee23fcbbea890.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Foi bispo de Miranda antes de ser transferido para Évora. O seu governo arquiepiscopal terminou no próprio ano de 1610.",
    "Data de morte": "1610-12-30",
    "Localização": "Sé de Évora, sepultura histórica cuja inscrição não era localizável por Barata.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos e arcebispos de Évora.\nFontes: António Francisco Barata, Memória histórica sobre a fundação da Sé de Évora e suas antiguidades, 2.ª edição, 1903. https://archive.org/details/memoriahistorica00bara_1",
    "Cemitério": "Sé de Évora",
    "Data de nascimento": "Incerto",
@@ -29428,13 +29733,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1678-01-23",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d817ba2b5fe1f32f90f55.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d817ba2b5fe1f32f90f55.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Natural de Vila Viçosa, governou a Arquidiocese de Évora na década de 1670 e celebrou um concílio provincial em 1677.",
    "Data de morte": "1678-01-23",
    "Localização": "Sé de Évora, campa rasa diante da antiga Capela do Santíssimo.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos e arcebispos de Évora.\nFontes: António Francisco Barata, Memória histórica sobre a fundação da Sé de Évora e suas antiguidades, 2.ª edição, 1903. https://archive.org/details/memoriahistorica00bara_1",
    "Cemitério": "Sé de Évora",
    "Data de nascimento": "Incerto",
@@ -29597,13 +29905,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d819bb4e5c15ac10faf0f.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d819bb4e5c15ac10faf0f.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo referido na cronologia da diocese de Évora no final do século XII. A relação de Barata admite que possa ter sido coadjutor de Soeiro.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos e arcebispos de Évora.\nIdentificação e duração do episcopado por esclarecer documentalmente.\nLocal de sepultura por confirmar.\nFontes: António Francisco Barata, Memória histórica sobre a fundação da Sé de Évora e suas antiguidades, 2.ª edição, 1903. https://archive.org/details/memoriahistorica00bara_1",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -30010,12 +30321,15 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81c3bdbef66d2d25eb7d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81c3bdbef66d2d25eb7d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Religioso dominicano e arcebispo de Évora a partir de 1678. Pertencia à família dos duques de Medina Sidónia.",
    "Localização": "Sé de Évora, sepultura diante da antiga Capela do Santíssimo.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos e arcebispos de Évora.\nA inscrição transcrita por Barata indica morte em 19 de dezembro de 1689; Catholic-Hierarchy e GCatholic indicam 19 de novembro. Data exata por esclarecer.\nFontes: António Francisco Barata, Memória histórica sobre a fundação da Sé de Évora e suas antiguidades, 2.ª edição, 1903. https://archive.org/details/memoriahistorica00bara_1",
    "Cemitério": "Sé de Évora",
    "Nome": "Domingos de Gusmão (arcebispo de Évora)"
@@ -30121,13 +30435,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81db97e9f80207b3055d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81db97e9f80207b3055d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora durante o reinado de Sancho II, incluído na sucessão episcopal da primeira metade do século XIII.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos e arcebispos de Évora.\nLocal de sepultura por confirmar.\nFontes: António Francisco Barata, Memória histórica sobre a fundação da Sé de Évora e suas antiguidades, 2.ª edição, 1903. https://archive.org/details/memoriahistorica00bara_1",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -30187,13 +30504,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81dfa6c8f8b6d96eec12.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81dfa6c8f8b6d96eec12.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora e posteriormente arcebispo de Lisboa, ligado à administração eclesiástica portuguesa do início do século XV.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos e arcebispos de Évora.\nLocal de sepultura por confirmar.\nFontes: António Francisco Barata, Memória histórica sobre a fundação da Sé de Évora e suas antiguidades, 2.ª edição, 1903. https://archive.org/details/memoriahistorica00bara_1",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -30211,13 +30531,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81e5855ed24c8df8e859.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81e5855ed24c8df8e859.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora e depois de Lisboa, exerceu também funções de chanceler de Dinis I. Pertenceu ao círculo de governo régio do final do século XIII.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos e arcebispos de Évora.\nLocal de sepultura por confirmar.\nFontes: António Francisco Barata, Memória histórica sobre a fundação da Sé de Évora e suas antiguidades, 2.ª edição, 1903. https://archive.org/details/memoriahistorica00bara_1",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -30519,13 +30842,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d810f9ca3deb9285c2462.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d810f9ca3deb9285c2462.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado referido na lista histórica da Arquidiocese de Braga para o ano de 1003.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos e arcebispos de Braga. Referência cronológica ao episcopado: 1003; este ano não representa necessariamente nascimento ou morte.\nFontes: Arquidiocese de Braga, História e Arcebispos; GCatholic, Arquidiocese de Braga.\nLocal de sepultura por confirmar.\nIdentificação e cronologia a aprofundar: não se devem tomar as datas tradicionais como datas de vida comprovadas.",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -30543,13 +30869,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1228-08-27",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81108c25fa28f502dba6.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81108c25fa28f502dba6.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Braga na primeira metade do século XIII.",
    "Data de morte": "1228-08-27",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos e arcebispos de Braga. Referência cronológica ao episcopado: 1212; este ano não representa necessariamente nascimento ou morte.\nFontes: Arquidiocese de Braga, História e Arcebispos; GCatholic, Arquidiocese de Braga.\nLocal de sepultura por confirmar.",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -30731,13 +31060,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d812d8f93f0e0ff30ade2.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d812d8f93f0e0ff30ade2.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado referido na lista histórica da Arquidiocese de Braga para o ano de 1004.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos e arcebispos de Braga. Referência cronológica ao episcopado: 1004; este ano não representa necessariamente nascimento ou morte.\nFontes: Arquidiocese de Braga, História e Arcebispos; GCatholic, Arquidiocese de Braga.\nLocal de sepultura por confirmar.\nIdentificação e cronologia a aprofundar: não se devem tomar as datas tradicionais como datas de vida comprovadas.",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -31074,6 +31406,7 @@
    "Biografia": "Prelado da família real portuguesa escolhido para a Arquidiocese de Braga no século XVI. Distingue-se dos reis e dos restantes infantes homónimos.",
    "Data de morte": "1543-11-11",
    "Localização": "Mosteiro dos Jerónimos (Mosteiro de Belém), Lisboa.",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Duarte_de_Portugal_-_Galeria_dos_Arcebispos_de_Braga.png",
    "Informação extra": "Grupo: Bispos e arcebispos de Braga. Referência cronológica ao episcopado: 1542; este ano não representa necessariamente nascimento ou morte.\nFontes: Arquidiocese de Braga, História e Arcebispos; GCatholic, Arquidiocese de Braga.\nNasceu em Lisboa em 1521; dia e mês não confirmados. Filho natural de D. João III; não chegou a tomar posse da arquidiocese. Fonte: Paróquia de Santa Marinha da Costa, «Dois Infantes na Costa», Manuel Alves de Oliveira. https://paroquiadacosta.pt/historia_det.php?id_produto=7",
    "Cemitério": "Mosteiro dos Jerónimos",
    "Data de nascimento": "1521",
@@ -31474,13 +31807,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8190a371f21218d41d42.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8190a371f21218d41d42.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Metropolita de Braga no final do século VII, referido na tradição conciliar visigótica.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Grupo: Bispos e arcebispos de Braga. Referência cronológica ao episcopado: 693; este ano não representa necessariamente nascimento ou morte.\nFontes: Arquidiocese de Braga, História e Arcebispos; GCatholic, Arquidiocese de Braga.\nLocal de sepultura por confirmar.\nIdentificação e cronologia a aprofundar: não se devem tomar as datas tradicionais como datas de vida comprovadas.",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -35672,8 +36008,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d80d1a39ce15e28dbd316.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d80d1a39ce15e28dbd316.jpg"
+  ],
   "detalhes": {
    "Área": "Teatro, Cinema",
    "Biografia": "Carlos Alberto dos Santos foi um ator português.",
@@ -35749,13 +36087,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d80bca663f9d47c16de6c.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d80bca663f9d47c16de6c.png"
+  ],
   "detalhes": {
    "Área": "Jornalismo",
    "Biografia": "Incerto — ficha identifica apenas «Fernando de Sousa», sem elementos suficientes para determinar a identidade.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Cremação",
    "Data de nascimento": "Incerto",
    "Nome": "Fernando de Sousa"
@@ -35997,13 +36338,16 @@
   "rotas": [],
   "nascimento": "1938",
   "morte": "06/03/2010",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d805bb7bcf038b2642231.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d805bb7bcf038b2642231.jpg"
+  ],
   "detalhes": {
    "Área": "Política, Militar",
    "Biografia": "Elemento dos Movimento das Forças Armadas.",
    "Data de morte": "06/03/2010",
    "Localização": "Incerto",
+   "Fotografia": "https://www.terraruiva.pt/wp-content/uploads/2016/04/Costa-Martins-2-300x225.jpg",
    "Cemitério": "Cremação",
    "Data de nascimento": "1938",
    "Nome": "Costa Martins"
@@ -37923,13 +38267,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8121825ddfbb118961b1.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8121825ddfbb118961b1.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Francisca Carolina de Bragança e Francisco de Orleães, neta de Pedro IV. Datas e sepultura a confirmar.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Francisca Maria de Orleães"
@@ -38284,13 +38631,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81e788f4ceae807b7f32.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81e788f4ceae807b7f32.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Duarte de Portugal, duque de Guimarães e Isabel de Bragança; neto/a de Manuel I.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Duarte de Guimarães"
@@ -38400,13 +38750,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d814e8c0cd0f4a6791d73.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d814e8c0cd0f4a6791d73.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Beatriz de Portugal e Carlos III de Saboia; neto/a de Manuel I.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Emanuel de Saboia (1534)"
@@ -38423,13 +38776,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f7b9ebfb575049dc0a.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f7b9ebfb575049dc0a.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Beatriz de Portugal e Carlos III de Saboia; neto/a de Manuel I.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Emanuel de Saboia (1533)"
@@ -38695,13 +39051,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8104889dd418894e76e4.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8104889dd418894e76e4.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho do imperador Frederico III e de Leonor de Portugal, neto de Duarte. Morreu na infância; datas exactas e sepultura incertas.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Sepultura: Igreja da Abadia de Neukloster, Wiener Neustadt, Áustria.\n\nFontes: Museum Niederösterreich, Zisterzienserstift Neukloster; Município de Wiener Neustadt.",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
@@ -38739,13 +39098,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f28624dbf3a87830e8.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f28624dbf3a87830e8.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Fernando de Portugal, duque de Viseu e Beatriz de Portugal; neto/a de Duarte.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Dinis de Viseu"
@@ -38805,13 +39167,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81c3b829f5b3c6b39e1c.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81c3b829f5b3c6b39e1c.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Fernando de Portugal, duque de Viseu e Beatriz de Portugal; neto/a de Duarte.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Duarte de Viseu"
@@ -38835,6 +39200,7 @@
    "Biografia": "Filho de Fernando de Portugal, duque de Viseu e Beatriz de Portugal; neto/a de Duarte.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/7/74/Diogo%2C_Duque_de_Viseu.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Diogo de Viseu"
@@ -38871,13 +39237,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81909017e7fdae994afa.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81909017e7fdae994afa.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso de Bragança e Beatriz Pereira de Alvim; neto/a de João I.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://pacodosduques.gov.pt/wp-content/uploads/2020/04/PD1187.jpg",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Fernando de Bragança"
@@ -38940,13 +39309,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8178836eed836a7fa30d.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8178836eed836a7fa30d.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de João de Portugal, condestável e Isabel de Bragança; neto/a de João I.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Filipa de Portugal"
@@ -39009,13 +39381,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81d8a3c9f5fa2f2e9b50.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81d8a3c9f5fa2f2e9b50.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de João de Portugal, condestável e Isabel de Bragança; neto/a de João I.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Diogo de Portugal"
@@ -39032,8 +39407,10 @@
   "rotas": [],
   "nascimento": "1433-11-10",
   "morte": "1477-01-05",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81b8b181dea0d3f7a252.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81b8b181dea0d3f7a252.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Isabel de Portugal e Filipe III da Borgonha; neto/a de João I.",
@@ -39123,13 +39500,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d817392e7f56da2084403.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d817392e7f56da2084403.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Pedro de Portugal, duque de Coimbra e Isabel de Urgel; neto/a de João I.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Filipa de Coimbra"
@@ -39337,13 +39717,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81bebba0e25851c644b1.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81bebba0e25851c644b1.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de João de Portugal, duque de Valência de Campos e mãe identificada nas genealogias do ramo; neto/a de Pedro I.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Fernando de Eça"
@@ -39380,13 +39763,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81a5b68ecda1b82007cd.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81a5b68ecda1b82007cd.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Beatriz de Portugal e Sancho de Castela, conde de Albuquerque; neto/a de Pedro I.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Fernando de Albuquerque"
@@ -39422,12 +39808,15 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d810c8acef460770c7099.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d810c8acef460770c7099.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Maria de Portugal e Fernando de Aragão, marquês de Tortosa, neto de Pedro I de Portugal. Datas de nascimento e morte e sepultura incertas.",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Datas de nascimento e/ou morte: incertas; não preencher sem confirmação documental.",
    "Cemitério": "Incerto",
    "Nome": "Fernando de Aragão"
@@ -39486,13 +39875,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d816e8975d6ee55479a9f.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d816e8975d6ee55479a9f.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso Sanches e Teresa Martins de Meneses; neto/a de Dinis.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Fernando Afonso Sanches"
@@ -39678,13 +40070,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d811bb617d84bb8390d27.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d811bb617d84bb8390d27.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso Dinis e Maria Pais Ribeira; neto/a de Afonso III.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Diogo Afonso de Sousa"
@@ -40073,13 +40468,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d818abb9fc20333fa7e14.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d818abb9fc20333fa7e14.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Teresa Sanches de Portugal e Afonso IX de Leão; neto/a de Sancho I.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Fernando de Leão"
@@ -40096,13 +40494,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81dd9ec6ea97c7ee76b8.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81dd9ec6ea97c7ee76b8.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Teresa Sanches de Portugal e Afonso IX de Leão; neto/a de Sancho I.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Dulce de Leão"
@@ -40238,13 +40639,16 @@
   "rotas": [],
   "nascimento": "1853-11-15",
   "morte": "1853-11-15",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d814689fdebf84ceea687.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d814689fdebf84ceea687.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Maria II e Fernando II; morreu à nascença.",
    "Data de morte": "1853-11-15",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Mosteiro São Vicente de Fora",
    "Data de nascimento": "1853-11-15",
    "Nome": "Eugénio de Bragança"
@@ -40913,6 +41317,7 @@
    "Biografia": "Filho de João VI e Carlota Joaquina de Bourbon; príncipe da Beira, morreu criança.",
    "Data de morte": "1801-06-11",
    "Localização": "Incerto",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Francisco_Ant%C3%B4nio_Pio_-_Infante_de_Portugal.jpg",
    "Cemitério": "Mosteiro São Vicente de Fora",
    "Data de nascimento": "1795-03-21",
    "Nome": "Francisco António Pio de Bragança"
@@ -41395,6 +41800,7 @@
    "Biografia": "Filha de Pedro II e Maria Sofia Isabel de Neuburgo; infanta de Portugal.",
    "Data de morte": "1736-07-15",
    "Localização": "Incerto",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Infanta_D._Francisca_Josefa_filha_do_Rei_D._Pedro_II_e_irm%C3%A3_do_Rei_D._Jo%C3%A3o_V.jpg",
    "Cemitério": "Mosteiro São Vicente de Fora",
    "Data de nascimento": "1699-01-30",
    "Nome": "Francisca Josefa de Bragança"
@@ -41716,6 +42122,7 @@
    "Biografia": "Filho natural documentado de João III; arcebispo de Braga.",
    "Data de morte": "1543-11-11",
    "Localização": "Incerto",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Duarte_de_Portugal_-_Galeria_dos_Arcebispos_de_Braga.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Duarte de Portugal"
@@ -41780,13 +42187,16 @@
   "rotas": [],
   "nascimento": "1535-04-06",
   "morte": "1537-01-01",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81b58858c09efd793f37.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81b58858c09efd793f37.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de João III e Catarina de Áustria; morreu criança.",
    "Data de morte": "1537-01-01",
    "Localização": "Mosteiro dos Jerónimos, Lisboa",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Sepultura: Mosteiro dos Jerónimos, Lisboa, Portugal.\n\nFontes: Portal da História, ficha genealógica de João III.",
    "Cemitério": "Mosteiro dos Jerónimos",
    "Data de nascimento": "1535-04-06",
@@ -41804,13 +42214,16 @@
   "rotas": [],
   "nascimento": "1533-03-25",
   "morte": "1539-04-29",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d814cb5dfe828dd92606e.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d814cb5dfe828dd92606e.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de João III e Catarina de Áustria; príncipe herdeiro, morreu criança.",
    "Data de morte": "1539-04-29",
    "Localização": "Mosteiro dos Jerónimos, Lisboa",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Sepultura: Mosteiro dos Jerónimos, Lisboa, Portugal.\n\nFontes: Portal da História, ficha genealógica de João III.",
    "Cemitério": "Mosteiro dos Jerónimos",
    "Data de nascimento": "1533-03-25",
@@ -41993,13 +42406,16 @@
   "rotas": [],
   "nascimento": "1515-10-07",
   "morte": "1540-09-20",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d813d8e54fa6e75c32b21.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d813d8e54fa6e75c32b21.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Manuel I e Maria de Aragão; duque de Guimarães.",
    "Data de morte": "1540-09-20",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "1515-10-07",
    "Nome": "Duarte de Portugal"
@@ -42061,13 +42477,16 @@
   "rotas": [],
   "nascimento": "1507-06-05",
   "morte": "1534-11-07",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81358788d0cd05cac927.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81358788d0cd05cac927.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Manuel I e Maria de Aragão; duque da Guarda e de Trancoso.",
    "Data de morte": "1534-11-07",
    "Localização": "Mosteiro dos Jerónimos, Lisboa.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Mosteiro dos Jerónimos",
    "Data de nascimento": "1507-06-05",
    "Nome": "Fernando de Portugal"
@@ -42252,6 +42671,7 @@
    "Biografia": "Filho de Duarte e Leonor de Aragão; 2.º duque de Viseu.",
    "Data de morte": "1470-09-18",
    "Localização": "Incerto",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Fernando_de_Portugal%2C_Duque_de_Viseu.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "1433-11-17",
    "Nome": "Fernando de Portugal"
@@ -42582,13 +43002,16 @@
   "rotas": [],
   "nascimento": "1354",
   "morte": "1397",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81a1bf7aca452dbdd012.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81a1bf7aca452dbdd012.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Pedro I e Inês de Castro.",
    "Data de morte": "1397",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "1354",
    "Nome": "Dinis de Portugal"
@@ -42773,13 +43196,16 @@
   "rotas": [],
   "nascimento": "1317-01-12",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81bd8a51f2a66c1c6f9b.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81bd8a51f2a66c1c6f9b.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso IV e Beatriz de Castela; morreu jovem.",
    "Data de morte": "Incerto",
    "Localização": "Mosteiro de Alcobaça, Portugal",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Sepultura: Mosteiro de Alcobaça, Portugal.\n\nFontes: Jaime de Salazar y Acha, Las dinastías reales de España en la Edad Media, 2021; Portal da História, ficha genealógica de Afonso IV.",
    "Cemitério": "Incerto",
    "Data de nascimento": "1317-01-12",
@@ -42994,8 +43420,10 @@
   "rotas": [],
   "nascimento": "1290-01-03",
   "morte": "1313-11-18",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81228096e998cfaf0fe4.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81228096e998cfaf0fe4.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Dinis e Isabel de Aragão; rainha de Castela por casamento.",
@@ -43183,13 +43611,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81039ed4e2752cfcf224.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81039ed4e2752cfcf224.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural de Afonso III, de mãe não identificada na fonte usada; distingue-se do filho legítimo homónimo.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Fernando Afonso de Portugal"
@@ -43313,13 +43744,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8181b06bcdd0660cb9ec.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8181b06bcdd0660cb9ec.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso III e Beatriz de Castela; distingue-se dos homónimos pela filiação.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Fernando Afonso de Portugal"
@@ -43442,13 +43876,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d817097cefd35d70cb03d.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d817097cefd35d70cb03d.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso II e Urraca de Castela; senhor de Serpa.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Fernando Afonso de Portugal"
@@ -43767,13 +44204,16 @@
   "rotas": [],
   "nascimento": "1188-03-24",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81c683edef7f4cefe2a7.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81c683edef7f4cefe2a7.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Sancho I e Dulce de Aragão; conde da Flandres por casamento.",
    "Data de morte": "Incerto",
    "Localização": "Abadia de Marquette, França.",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Informação extra": "Sepultura: Abadia de Marquette, França.\n\nFontes: Jaime de Salazar y Acha, Las dinastías reales de España en la Edad Media, Real Academia de la Historia e Boletín Oficial del Estado, 2021.",
    "Cemitério": "Incerto",
    "Data de nascimento": "1188-03-24",
@@ -43920,13 +44360,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d810f89cfc8ed78e947a6.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d810f89cfc8ed78e947a6.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural de Afonso Henriques, primeiro rei de Portugal, de mãe não identificada com segurança. Ligado à Ordem de São João do Hospital, alcançou o cargo de Grão-Mestre dos Hospitalários no início do século XIII, exercendo-o entre 1202 e 1206. Era meio-irmão de Sancho I.\n",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Igreja São João de Alporão",
    "Data de nascimento": "Incerto",
    "Nome": "Fernando Afonso"
@@ -43964,13 +44407,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81c9b630c40a3c9886be.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81c9b630c40a3c9886be.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural documentado de Afonso Henriques; mãe não identificada com segurança na fonte usada.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Fernando Afonso de Portugal"
@@ -44950,13 +45396,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8195954adba8e6d29078.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8195954adba8e6d29078.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Identidade e filiação por confirmar, devido à existência de vários membros da Casa de Habsburgo chamados Filipe. Datas e sepultura incertas.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Filipe de Habsburgo"
@@ -45182,13 +45631,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8107b9c2df942022fc93.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8107b9c2df942022fc93.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Incerto — identidade e dados biográficos por confirmar.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Duarte de Portugal"
@@ -45273,13 +45725,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81fe910dc5aee55011ed.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81fe910dc5aee55011ed.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Incerto — homónimo sem dados suficientes para distinguir esta ficha.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Fernando de Portugal"
@@ -45386,13 +45841,16 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81cb83b8f65083271466.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81cb83b8f65083271466.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Incerto — homónimo sem informação suficiente para o distinguir dos restantes registos de Dinis de Portugal.",
    "Data de morte": "Incerto",
    "Localização": "Incerto",
+   "Fotografia": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Solid_black.svg/500px-Solid_black.svg.png",
    "Cemitério": "Incerto",
    "Data de nascimento": "Incerto",
    "Nome": "Dinis de Portugal"
