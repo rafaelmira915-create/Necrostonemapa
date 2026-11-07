@@ -1,5 +1,62 @@
 [
  {
+  "nome": "Políbio Gomes dos Santos",
+  "areas": [
+   "Escritor"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "07/08/1911",
+  "morte": "03/08/1939",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Escritor",
+   "Biografia": "Poeta português natural de Ansião, associado à geração do Novo Cancioneiro. Publicou As Três Pessoas (1938); Voz que Escuta foi editado postumamente. Fontes: Bertrand (bertrand.pt/autor/polibio-gomes-dos-santos/21652); RTP Arquivos (Cancioneiro, episódio 6).",
+   "Data de morte": "03/08/1939",
+   "Data de nascimento": "07/08/1911",
+   "Nome": "Políbio Gomes dos Santos"
+  }
+ },
+ {
+  "nome": "Luís Miguel de Oliveira Perry Nava",
+  "areas": [
+   "Escritor"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "29/09/1957",
+  "morte": "09/05/1995",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Escritor",
+   "Biografia": "Poeta, ensaísta e tradutor português, nascido em Viseu. Foi docente na Faculdade de Letras de Lisboa e leitor de português em Oxford; trabalhou como tradutor em Bruxelas, onde faleceu em maio de 1995. Autor de Películas e Vulcão. Fontes: Assírio & Alvim (assirio.pt/autor/luis-miguel-nava/6549); Fundação Luís Miguel Nava (relampago.pt).",
+   "Data de morte": "09/05/1995",
+   "Data de nascimento": "29/09/1957",
+   "Nome": "Luís Miguel de Oliveira Perry Nava"
+  }
+ },
+ {
+  "nome": "Alexandre Maria Pinheiro Torres",
+  "areas": [
+   "Escritor"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "27/12/1921",
+  "morte": "03/08/1999",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Escritor",
+   "Biografia": "Escritor, poeta, ensaísta, crítico literário e professor português, ligado ao neorrealismo. Natural de Amarante, colaborou na divulgação do Novo Cancioneiro e foi afastado do ensino pelo Estado Novo em 1965. Fontes: Centro de Estudos Amarantinos (ceamt.pt); Bertrand (bertrand.pt/autor/alexandre-pinheiro-torres/12555).",
+   "Data de morte": "03/08/1999",
+   "Data de nascimento": "27/12/1921",
+   "Nome": "Alexandre Maria Pinheiro Torres"
+  }
+ },
+ {
   "nome": "António Joaquim Correia Vairinhos",
   "areas": [
    "Política",
@@ -6045,8 +6102,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8128a77feff71d9fd7ba.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8128a77feff71d9fd7ba.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/2/23/Fernando_Baeta_Bissaya_Barreto_Rosa_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -6276,8 +6335,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81698121d3f2e3498621.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81698121d3f2e3498621.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Evaristo_Luiz_das_Neves_Ferreira_de_Carvalho_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -13202,8 +13263,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d38ff6c451c06f46cb.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d38ff6c451c06f46cb.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Alvaro_Poppe_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -19027,8 +19090,10 @@
   "rotas": [],
   "nascimento": "25 de novembro de 1845",
   "morte": "16 de agosto de 1900",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d819dbc5cd237b819313f.jpg",
+  "fotos": [
+   "fotos/408f3ddb5a6d819dbc5cd237b819313f.jpg"
+  ],
   "detalhes": {
    "Biografia": "José Maria de Eça de Queiroz foi escritor e diplomata português, um dos principais representantes do realismo literário. Autor de O Crime do Padre Amaro, O Primo Basílio e Os Maias, integrou a Geração de 70. Faleceu em Paris. Os seus restos mortais foram trasladados para o Panteão Nacional em 2025.",
    "Data de morte": "16 de agosto de 1900",
