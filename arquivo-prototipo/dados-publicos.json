@@ -5714,8 +5714,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c496d1d7adf8d7caf1.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c496d1d7adf8d7caf1.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Faustino_da_Fonseca_%28Album_Republicano%2C_1908%29.png",
@@ -5927,8 +5929,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d811680acfee7fa7cb8f2.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d811680acfee7fa7cb8f2.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Francisco_Ferreira_do_Amaral_%28Sociedade_de_Geografia_de_Lisboa%29.png",
@@ -13312,8 +13316,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81efb65ccb10a1452e58.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81efb65ccb10a1452e58.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Faustino_da_Fonseca_%28Album_Republicano%2C_1908%29.png",
@@ -14525,8 +14531,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81798ef8e4596bc83ee8.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81798ef8e4596bc83ee8.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Francisco_Ferreira_do_Amaral_%28Sociedade_de_Geografia_de_Lisboa%29.png",
