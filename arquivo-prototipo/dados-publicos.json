@@ -4712,8 +4712,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "02/09/1964",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ec87ceca0f1da281c5.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ec87ceca0f1da281c5.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "02/09/1964",
@@ -6108,8 +6110,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813ebccbd9e45ccf4bb6.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813ebccbd9e45ccf4bb6.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/c/c6/DomingosLeitePereira.png",
@@ -8763,8 +8767,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81aa93c8e44d56f8b964.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81aa93c8e44d56f8b964.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/1/10/Jos%C3%A9_Machado_de_Serpa_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -13682,8 +13688,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e6a748dfa575aa3eac.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e6a748dfa575aa3eac.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Jo%C3%A3o_C%C3%A2mara-RN.jpg",
@@ -14042,8 +14050,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ad99cbf09b935379ad.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ad99cbf09b935379ad.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Leonardo_Jos%C3%A9_Coimbra_%28Arquivo_Hist%C3%B3rico_Parlamentar%29.png",
@@ -14286,8 +14296,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81229439c14cd5e09c6f.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81229439c14cd5e09c6f.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Jos%C3%A9_Domingues_dos_Santos_%28Arquivo_Hist%C3%B3rico_Parlamentar%29.jpg",
@@ -38051,8 +38063,10 @@
   "rotas": [],
   "nascimento": "1875-02-22",
   "morte": "1957-09-04",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8163beebf97183ce2eaf.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8163beebf97183ce2eaf.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Maria José de Bragança e Carlos Teodoro da Baviera; neto/a de Miguel I.",
