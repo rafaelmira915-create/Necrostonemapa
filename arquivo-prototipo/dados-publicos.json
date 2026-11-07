@@ -6408,8 +6408,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81729842de2226c35d7e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81729842de2226c35d7e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Jo%C3%A3o_Duarte_de_Menezes_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -6443,8 +6445,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8178a2cfe646340cecf8.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8178a2cfe646340cecf8.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Philemon_da_Silveira_Duarte_d%27Almeida_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -10684,8 +10688,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8182b8c3e19f9e007ef1.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8182b8c3e19f9e007ef1.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/3/36/Domingos_Tasso_de_Figueiredo_-_Ilustra%C3%A7%C3%A3o_Portugueza_%2817Mar1919%29.png",
@@ -17184,8 +17190,10 @@
   "rotas": [],
   "nascimento": "1861",
   "morte": "1908",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816e8fccf373e5ba3afc.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816e8fccf373e5ba3afc.png"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Biografia": "Escritor e magistrado português, autor de Os Meus Amores, obra de contos de inspiração transmontana.",
