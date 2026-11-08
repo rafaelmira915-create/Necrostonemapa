@@ -1,5 +1,267 @@
 [
  {
+  "nome": "João Marques de Oliveira",
+  "areas": [
+   "Pintura"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "23/08/1853",
+  "morte": "1927",
+  "foto": "fotos/411f3ddb5a6d811a9341c6e70ae92c5b.jpg",
+  "fotos": [
+   "fotos/411f3ddb5a6d811a9341c6e70ae92c5b.jpg"
+  ],
+  "detalhes": {
+   "Área": "Pintura",
+   "Biografia": "Pintor portuense e um dos introdutores do naturalismo em Portugal. Estudou em Paris, onde contactou com a pintura da Escola de Barbizon, e dirigiu o Museu Nacional Soares dos Reis a partir de 1913.",
+   "Data de morte": "1927",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/1/15/Jo%C3%A3o_Marques_de_Oliveira_-_auto-retrato.jpg",
+   "Informação extra": "https://museuartecontemporanea.gov.pt/pt/artistas/ver/22/artists\nhttps://museusoaresdosreis.gov.pt/170-aniversario-de-nascimento-de-joao-marques-de-oliveira/",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "23/08/1853",
+   "Nome": "João Marques de Oliveira"
+  }
+ },
+ {
+  "nome": "António Ramalho",
+  "areas": [
+   "Pintura"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1859",
+  "morte": "1916",
+  "foto": "fotos/411f3ddb5a6d81ae8947d4a3aaf3e866.jpg",
+  "fotos": [
+   "fotos/411f3ddb5a6d81ae8947d4a3aaf3e866.jpg"
+  ],
+  "detalhes": {
+   "Área": "Pintura",
+   "Biografia": "Pintor português, aluno de Silva Porto e participante nas primeiras exposições do Grupo do Leão. Distinguiu-se no retrato e na pintura decorativa, com trabalhos no Teatro Garcia de Resende e no Palace Hotel do Buçaco.",
+   "Data de morte": "1916",
+   "Fotografia": "https://www.csarmento.uminho.pt/site/files/original/949ade5cfc1b9b3b4ae8f762d6df562f9ca3ea9a.jpg",
+   "Informação extra": "https://museuartecontemporanea.gov.pt/pt/artistas/ver/29/artists",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1859",
+   "Nome": "António Ramalho"
+  }
+ },
+ {
+  "nome": "Francisco José Resende de Vasconcelos",
+  "areas": [
+   "Pintura"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "03/12/1825",
+  "morte": "30/11/1893",
+  "foto": "fotos/411f3ddb5a6d81bda7e1dafe8af30125.jpg",
+  "fotos": [
+   "fotos/411f3ddb5a6d81bda7e1dafe8af30125.jpg"
+  ],
+  "detalhes": {
+   "Área": "Pintura",
+   "Biografia": "Pintor portuense ligado ao romantismo e à representação dos costumes populares. Estudou com Auguste Roquemont e, em Paris, com Adolphe Yvon. Ensinou Pintura Histórica na Academia Portuense de Belas-Artes.",
+   "Data de morte": "30/11/1893",
+   "Fotografia": "https://journals.openedition.org/ceroart/docannexe/image/1775/img-1-small580.jpg",
+   "Informação extra": "https://museusoaresdosreis.gov.pt/130o-aniversario-da-morte-de-francisco-jose-resende/\nhttps://museuartecontemporanea.gov.pt/pt/pecas/ver/428/artist",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "03/12/1825",
+   "Nome": "Francisco José Resende de Vasconcelos"
+  }
+ },
+ {
+  "nome": "Henrique César de Araújo Pousão",
+  "areas": [
+   "Pintura"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "01/01/1859",
+  "morte": "20/03/1884",
+  "foto": "fotos/411f3ddb5a6d81e0aa8dcffc8bff2381.jpg",
+  "fotos": [
+   "fotos/411f3ddb5a6d81e0aa8dcffc8bff2381.jpg"
+  ],
+  "detalhes": {
+   "Área": "Pintura",
+   "Biografia": "Conhecido como Henrique Pousão, estudou pintura no Porto e prosseguiu a formação em Paris. Trabalhou em Roma e em Capri, onde pintou paisagens em que explorou os efeitos da luz e da cor.",
+   "Data de morte": "20/03/1884",
+   "Fotografia": "https://2.bp.blogspot.com/-UzhoZeQQIwk/VFbKjDJxLvI/AAAAAAAAIK4/AtWAQM7GtCw/s1600/HPous%C3%A3o1.jpg",
+   "Informação extra": "https://museuartecontemporanea.gov.pt/pt/artistas/ver/28/artists\nhttps://museusoaresdosreis.gov.pt/evocacao-dos-140-anos-da-morte-de-henrique-pousao/\nhttps://adevr.dglab.gov.pt/wp-content/uploads/sites/4/2017/07/8.pdf",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "01/01/1859",
+   "Nome": "Henrique César de Araújo Pousão"
+  }
+ },
+ {
+  "nome": "Francisco Augusto Metrass",
+  "areas": [
+   "Pintura"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1825",
+  "morte": "1861",
+  "foto": "fotos/411f3ddb5a6d81f49d4ef3b0c035b15f.png",
+  "fotos": [
+   "fotos/411f3ddb5a6d81f49d4ef3b0c035b15f.png"
+  ],
+  "detalhes": {
+   "Área": "Pintura",
+   "Biografia": "Pintor português do romantismo. Estudou em Roma e passou por Paris antes de regressar a Lisboa. Dedicou-se à pintura histórica e morreu no Funchal.",
+   "Data de morte": "1861",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Auto-retrato_%281851%29_-_Francisco_Metrass_%28MNAC%29.png",
+   "Informação extra": "https://museuartecontemporanea.gov.pt/pt/artistas/ver/24/artists\nhttps://raiz.museusemonumentos.pt/DetalhesAutor?authorId=35050",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1825",
+   "Nome": "Francisco Augusto Metrass"
+  }
+ },
+ {
+  "nome": "Adelino Lyon de Castro",
+  "areas": [
+   "Fotografia"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1910",
+  "morte": "1953",
+  "foto": "fotos/411f3ddb5a6d811ea94cda0e0ac78052.png",
+  "fotos": [
+   "fotos/411f3ddb5a6d811ea94cda0e0ac78052.png"
+  ],
+  "detalhes": {
+   "Área": "Fotografia",
+   "Biografia": "Fotógrafo e editor português. Cofundou as Publicações Europa-América com o irmão Francisco, em 1945. O Museu do Chiado recebeu o seu espólio fotográfico em 2009 e apresentou-o na exposição O Fardo das Imagens.",
+   "Data de morte": "1953",
+   "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/6/68/Solid_black.png",
+   "Informação extra": "https://museuartecontemporanea.gov.pt/pt/programacao/1001",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1910",
+   "Nome": "Adelino Lyon de Castro"
+  }
+ },
+ {
+  "nome": "Maria Helena de Castro Neves de Almeida",
+  "areas": [
+   "Artes",
+   "Fotografia"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1934",
+  "morte": "25/09/2018",
+  "foto": "fotos/411f3ddb5a6d81249939f6ab0eeb81e3.webp",
+  "fotos": [
+   "fotos/411f3ddb5a6d81249939f6ab0eeb81e3.webp"
+  ],
+  "detalhes": {
+   "Área": "Artes, Fotografia",
+   "Biografia": "Conhecida como Helena Almeida, estudou pintura em Lisboa. Explorou as relações entre o corpo, o espaço e a obra, recorrendo à fotografia, à pintura, à instalação e ao vídeo.",
+   "Data de morte": "25/09/2018",
+   "Fotografia": "https://images.impresa.pt/expresso/2016-10-10-helena-Almeida-/original",
+   "Informação extra": "https://gulbenkian.pt/biblioteca-arte/artist/helena-almeida/\nhttps://nac.cm-tomar.pt/helena-almeida-no-nucleo-de-arte-contemporanea-em-tomar",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1934",
+   "Nome": "Maria Helena de Castro Neves de Almeida"
+  }
+ },
+ {
+  "nome": "Adriano de Sousa Lopes",
+  "areas": [
+   "Pintura"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1879",
+  "morte": "21/04/1944",
+  "foto": "fotos/411f3ddb5a6d81359a54cc749b87bf60.jpg",
+  "fotos": [
+   "fotos/411f3ddb5a6d81359a54cc749b87bf60.jpg"
+  ],
+  "detalhes": {
+   "Área": "Pintura",
+   "Biografia": "Pintor e gravador português. Estudou em Lisboa e em Paris. Em 1917 acompanhou o Corpo Expedicionário Português em França como artista oficial e documentou a guerra em pinturas e gravuras.",
+   "Data de morte": "21/04/1944",
+   "Fotografia": "https://portugal1914.org/portal/media/k2/items/cache/5709ab37f70d899bd3794356bcaad57a_XL.jpg?t=1427754916",
+   "Informação extra": "https://museuartecontemporanea.gov.pt/pt/artistas/ver/48/artists\nhttps://www.portugal1914.org/portal/pt/historia/biografias/item/2630-lopes-adriano-sousa\nNascimento: o catálogo RAIZ indica 13 de fevereiro de 1879 e o Museu da Assembleia da República indica 20 de fevereiro de 1879.",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1879",
+   "Nome": "Adriano de Sousa Lopes"
+  }
+ },
+ {
+  "nome": "António Dacosta",
+  "areas": [
+   "Pintura"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "03/11/1914",
+  "morte": "1990",
+  "foto": "fotos/411f3ddb5a6d817f9452d7da49e6e7a9.jpg",
+  "fotos": [
+   "fotos/411f3ddb5a6d817f9452d7da49e6e7a9.jpg"
+  ],
+  "detalhes": {
+   "Área": "Pintura",
+   "Biografia": "Pintor açoriano e um dos pioneiros do surrealismo em Portugal. Em 1940 expôs com António Pedro e Pamela Boden em Lisboa. Mudou-se para Paris em 1947.",
+   "Data de morte": "1990",
+   "Fotografia": "https://gulbenkian.pt/wp-content/uploads/2022/07/Dacosta_1600x1000-1536x960.jpg",
+   "Informação extra": "https://gulbenkian.pt/cam/artist/antonio-dacosta/\nhttps://gulbenkian.pt/cam/en/artist/antonio-dacosta-2/",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "03/11/1914",
+   "Nome": "António Dacosta"
+  }
+ },
+ {
+  "nome": "João Navarro Hogan",
+  "areas": [
+   "Pintura",
+   "Artes"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "04/02/1914",
+  "morte": "1988",
+  "foto": "fotos/411f3ddb5a6d818988bedce13da89dd2.jpg",
+  "fotos": [
+   "fotos/411f3ddb5a6d818988bedce13da89dd2.jpg"
+  ],
+  "detalhes": {
+   "Área": "Pintura, Artes",
+   "Biografia": "Pintor e gravador lisboeta, conhecido como João Hogan. Foi sócio fundador da Sociedade Cooperativa de Gravadores Portugueses e ensinou na Ar.Co. A paisagem ocupa um lugar central na sua pintura.",
+   "Data de morte": "1988",
+   "Fotografia": "https://www.cps.pt/media/filer_public_thumbnails/filer_public/62/34/62344f8d-01af-488c-99a3-c95255f562e2/joao-hogan.jpg__940x0_q85_subsampling-2.jpg",
+   "Informação extra": "https://museuartecontemporanea.gov.pt/pt/artistas/ver/51/artists\nhttps://raiz.museusemonumentos.pt/DetalhesAutor?authorId=68178",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "04/02/1914",
+   "Nome": "João Navarro Hogan"
+  }
+ },
+ {
   "nome": "Políbio Gomes dos Santos",
   "areas": [
    "Escritor"
@@ -6465,8 +6727,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d817b8d38d0391f6f34bb.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d817b8d38d0391f6f34bb.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/2/26/Christovam_Moniz_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -6747,8 +7011,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d7b1f8fc95c975ecdb.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d7b1f8fc95c975ecdb.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Manuel_de_Brito_Camacho_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -12681,8 +12947,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814f8d57cf74b47180a5.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814f8d57cf74b47180a5.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/d/de/Jo%C3%A3o_Fiel_Stockler_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -34900,8 +35168,10 @@
   "rotas": [],
   "nascimento": "1929-10-19",
   "morte": "2009-08-08",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3f2f3ddb5a6d80d197f3e3c1d39d76f6.png",
+  "fotos": [
+   "fotos/3f2f3ddb5a6d80d197f3e3c1d39d76f6.png"
+  ],
   "detalhes": {
    "Área": "Teatro, Cinema",
    "Biografia": "Raul Solnado foi ator, humorista e apresentador português, considerado uma das grandes figuras do humor nacional. Alcançou enorme popularidade com números como A Guerra de 1908 e Ida ao Médico, desenvolvendo também uma extensa carreira no teatro, cinema e televisão. Foi ainda um dos fundadores da Casa do Artista.",
