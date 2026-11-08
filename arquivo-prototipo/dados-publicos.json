@@ -1,5 +1,22 @@
 [
  {
+  "nome": "Manuel Alfredo Tito de Morais",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Manuel Alfredo Tito de Morais (1910–1999) foi engenheiro e político português, fundador do Partido Socialista. Participou no Movimento de Unidade Democrática, foi deputado à Assembleia Constituinte e à Assembleia da República e presidiu à Assembleia da República entre 1983 e 1984. Fonte: Assembleia da República, https://www.parlamento.pt/VisitaParlamento/Paginas/BiogTitodeMorais.aspx",
+   "Nome": "Manuel Alfredo Tito de Morais"
+  }
+ },
+ {
   "nome": "Padre Julián Butron (Julião Butron)",
   "areas": [],
   "cemiterios": [
@@ -4762,8 +4779,10 @@
   "rotas": [],
   "nascimento": "1820",
   "morte": "1886",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/412f3ddb5a6d81fd97c9f14c55a4f24e.png",
+  "fotos": [
+   "fotos/412f3ddb5a6d81fd97c9f14c55a4f24e.png"
+  ],
   "detalhes": {
    "Área": "Escritor, Política",
    "Biografia": "Escritor, dramaturgo e político português. Dirigiu a Biblioteca Nacional de Lisboa e publicou poesia, teatro e crónicas. Entre as suas obras figuram Os Homens de Mármore e O Pavilhão Negro.",
@@ -12563,8 +12582,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e786f9c8621085eb3b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e786f9c8621085eb3b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/1/19/Jos%C3%A9_Nunes_da_Matta_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -12615,8 +12636,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d810ab464e2e05cd5505b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d810ab464e2e05cd5505b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Jos%C3%A9_Montez_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -18975,8 +18998,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ce9550e9190313f144.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ce9550e9190313f144.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Marianno_Martins_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -26155,8 +26180,10 @@
   "rotas": [],
   "nascimento": "21/11/1879",
   "morte": "13/07/1974",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d81fa9d86e728859fc053.png",
+  "fotos": [
+   "fotos/408f3ddb5a6d81fa9d86e728859fc053.png"
+  ],
   "detalhes": {
    "Área": "Arquitetura",
    "Biografia": "Arquiteto português associado à reflexão sobre a Casa Portuguesa. Projetou a Casa dos Patudos, a Casa do Cipreste, o Cinema Tivoli e diversos edifícios residenciais. Estudou em Inglaterra e na Alemanha e deixou uma extensa obra arquitetónica e escrita.",
@@ -28906,8 +28933,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81b3a82ece275afa5f10.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81b3a82ece275afa5f10.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1595 e 1616.",
