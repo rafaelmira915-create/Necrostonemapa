@@ -422,5 +422,18 @@
     "parish": "União das freguesias de Faro (Sé e São Pedro)",
     "notionUrl": "https://app.notion.com/p/412f3ddb5a6d81fb9c0fc2ea600d8584?pvs=204",
     "bio": "A Câmara Municipal de Faro destaca a Capela dos Ossos, construída em 1816 no antigo cemitério anexo à Igreja do Carmo. A ficha patrimonial nacional assinala a capela-ossuário contígua ao templo. Fontes: Câmara Municipal de Faro — https://www.cm-faro.pt/5941/igreja-da-ordem-terceira-do-carmo.aspx; Património Cultural — https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=73245"
+  },
+  {
+    "name": "Capela de Santo António (Padre Julián Butron)",
+    "type": "Capela com sepultamento venerado",
+    "address": "Travessa Padre Julião 6, Vila Chã da Beira, Tarouca",
+    "lng": -7.68734,
+    "lat": 41.02978,
+    "district": "Viseu",
+    "municipality": "Tarouca",
+    "parish": "União das freguesias de Granja Nova e Vila Chã da Beira",
+    "notionUrl": "https://app.notion.com/p/412f3ddb5a6d81da809dc0b98985d03c?pvs=204",
+    "bio": "Na Capela de Santo António encontra-se depositado e é venerado o corpo do Padre Julián (Julião) Butron. A coordenada do marcador é aproximada, ao centro de Vila Chã da Beira. Fonte: Diocese de Lamego — https://www.diocese-lamego.pt/noticias/1080-visita-pastoral-de-dom-antonio-couto-a-paroquia-de-s-sebastiao-de-vila-cha-da-beira",
+    "coordinatePrecision": "locality"
   }
 ]
