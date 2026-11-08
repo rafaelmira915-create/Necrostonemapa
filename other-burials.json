@@ -374,5 +374,53 @@
     "lng": -8.61646,
     "notionUrl": "https://app.notion.com/p/40af3ddb5a6d815fbcf8e13abdbdd3d7",
     "bio": "Edifício religioso anterior a 1833. Sepultamentos históricos por confirmar."
+  },
+  {
+    "name": "Igreja da Graça (Santo Agostinho)",
+    "type": "Igreja e panteão funerário",
+    "address": "Largo Pedro Álvares Cabral, Santarém",
+    "lng": -8.680247,
+    "lat": 39.234815,
+    "district": "Santarém",
+    "municipality": "Santarém",
+    "parish": "União de freguesias da cidade de Santarém",
+    "notionUrl": "https://app.notion.com/p/412f3ddb5a6d81b08b38e1bdfc013221?pvs=204",
+    "bio": "A igreja serviu de panteão aos seus fundadores e conserva vários monumentos funerários. Na Capela de São João Evangelista encontra-se o túmulo de Pedro Álvares Cabral, com longa legenda epigráfica. Fonte: Património Cultural — https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=70431"
+  },
+  {
+    "name": "Sé de Braga",
+    "type": "Igreja catedral e panteão",
+    "address": "Rua D. Paio Mendes, Braga",
+    "lng": -8.427312,
+    "lat": 41.550253,
+    "district": "Braga",
+    "municipality": "Braga",
+    "parish": "União das freguesias de Braga (Maximinos, Sé e Cividade)",
+    "notionUrl": "https://app.notion.com/p/412f3ddb5a6d81b0a270fdc283f8d03f?pvs=204",
+    "bio": "A Sé conserva na Capela de Nossa Senhora da Piedade o túmulo do arcebispo D. Diogo de Sousa, esculpido cerca de 1530. O inventário patrimonial identifica ainda, entre os túmulos associados à Sé, os do Conde D. Henrique, D. Teresa, do Infante D. Afonso e do arcebispo D. Gonçalo Pereira. Fonte: Património Cultural — https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=21301840"
+  },
+  {
+    "name": "Capela de Nossa Senhora do Espinheiro",
+    "type": "Capela tumular",
+    "address": "EN 802, Évora–Estremoz, cerca do Convento de Nossa Senhora do Espinheiro",
+    "lng": -7.887479,
+    "lat": 38.602878,
+    "district": "Évora",
+    "municipality": "Évora",
+    "parish": "Canaviais",
+    "notionUrl": "https://app.notion.com/p/412f3ddb5a6d8144a300faee2920cdff?pvs=204",
+    "bio": "Capela tumular ligada a Garcia de Resende. O inventário patrimonial identifica a campa de Garcia na nave e a campa do irmão, Jorge de Resende, no nártex. A ficha refere que as ossadas de Garcia foram retiradas e depois recuperadas, mas não esclarece a localização atual dos restos mortais; essa localização fica por confirmar. Fonte: Património Cultural — https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=69806"
+  },
+  {
+    "name": "Igreja do Carmo e Capela dos Ossos (Faro)",
+    "type": "Igreja e capela-ossuário",
+    "address": "Largo do Carmo, Faro",
+    "lng": -7.934787,
+    "lat": 37.020179,
+    "district": "Faro",
+    "municipality": "Faro",
+    "parish": "União das freguesias de Faro (Sé e São Pedro)",
+    "notionUrl": "https://app.notion.com/p/412f3ddb5a6d81fb9c0fc2ea600d8584?pvs=204",
+    "bio": "A Câmara Municipal de Faro destaca a Capela dos Ossos, construída em 1816 no antigo cemitério anexo à Igreja do Carmo. A ficha patrimonial nacional assinala a capela-ossuário contígua ao templo. Fontes: Câmara Municipal de Faro — https://www.cm-faro.pt/5941/igreja-da-ordem-terceira-do-carmo.aspx; Património Cultural — https://imovel.patrimoniocultural.gov.pt/detalhes.php?code=73245"
   }
 ]
