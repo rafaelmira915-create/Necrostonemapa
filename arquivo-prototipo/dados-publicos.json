@@ -14021,8 +14021,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81319de7c89e4567f25d.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81319de7c89e4567f25d.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Joaquim_Jos%C3%A9_Cerqueira_da_Rocha_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -14132,8 +14134,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81418cb5deef71cfcbbf.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81418cb5deef71cfcbbf.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Guilherme_Nunes_Godinho_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -29692,8 +29696,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8149b9f6fac8e5ab315c.jpg",
+  "fotos": [
+   "fotos/407f3ddb5a6d8149b9f6fac8e5ab315c.jpg"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1760 e 1783.",
