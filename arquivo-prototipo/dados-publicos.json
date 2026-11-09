@@ -13496,8 +13496,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81fbaab1f97d85354693.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81fbaab1f97d85354693.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/9/98/Jos%C3%A9_Augusto_Simas_Machado_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -13597,8 +13599,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8104a037e6b7246fe660.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8104a037e6b7246fe660.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Gast%C3%A3o_Raphael_Rodrigues_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
