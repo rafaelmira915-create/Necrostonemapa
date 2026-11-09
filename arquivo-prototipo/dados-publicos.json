@@ -13418,8 +13418,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81dead7aff14501a869e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81dead7aff14501a869e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Pedro_Januario_do_Valle_S%C3%A1_Pereira_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -13455,8 +13457,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81f1a74be9b038dce425.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81f1a74be9b038dce425.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Fern%C3%A3o_Botto_Machado_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -24228,8 +24232,10 @@
   "rotas": [],
   "nascimento": "12 de junho de 1850",
   "morte": "28 de janeiro de 1898",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/409f3ddb5a6d81969a0dfb84449a6a88.jpg",
+  "fotos": [
+   "fotos/409f3ddb5a6d81969a0dfb84449a6a88.jpg"
+  ],
   "detalhes": {
    "Área": "Militar",
    "Biografia": "Roberto Ivens, oficial da Marinha e explorador português, nascido em Ponta Delgada. Participou nas expedições em África com Hermenegildo Capelo, incluindo a travessia de Angola à costa do Índico, documentada na obra De Angola à Contra-Costa.",
