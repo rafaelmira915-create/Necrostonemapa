@@ -1,5 +1,97 @@
 [
  {
+  "nome": "Narana Sinai Coissoró",
+  "areas": [
+   "Política",
+   "Advocacia"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "29/08/2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política, Advocacia",
+   "Biografia": "Jurista e político português. Foi deputado à Assembleia Constituinte e à Assembleia da República, líder parlamentar do CDS e vice-presidente do Parlamento. Fonte: Assembleia da República, mensagem de pesar de 29/08/2026: https://www.parlamento.pt/sites/PARXVIL/Paginas/2026/agosto/Mensagem-de-Pesar-do-Presidente-da-Assembleia-da-Republica-pelo-falecimento-de-Narana-Sinai-Coissoro.aspx",
+   "Data de morte": "29/08/2026",
+   "Nome": "Narana Sinai Coissoró"
+  }
+ },
+ {
+  "nome": "Carlos Jorge Pereira Miguel",
+  "areas": [
+   "Desporto"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "21/01/2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Desporto",
+   "Biografia": "Conhecido como Carlão, foi guarda-redes português de futebol de praia. Campeão nacional pelo Vitória Futebol Clube de Setúbal, esteve ligado ao Olímpico do Montijo e a estágios da seleção nacional. Fonte: Assembleia da República, Diário de 30/01/2026: https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/053/2026-01-30?org=PLC&pgs=35-56&plcdf=true&sft=true",
+   "Data de morte": "21/01/2026",
+   "Nome": "Carlos Jorge Pereira Miguel"
+  }
+ },
+ {
+  "nome": "Fernando Mamede",
+  "areas": [
+   "Desporto"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "27/01/2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Desporto",
+   "Biografia": "Atleta português de fundo, nascido em Beja. Representou o Sporting e Portugal em três Jogos Olímpicos. Em 1984 estabeleceu o recorde mundial dos 10 000 metros; foi medalha de bronze no Mundial de Corta-Mato de 1981. Fonte: Assembleia da República, Diário de 30/01/2026: https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/053/2026-01-30?org=PLC&pgs=35-56&plcdf=true&sft=true",
+   "Data de morte": "27/01/2026",
+   "Nome": "Fernando Mamede"
+  }
+ },
+ {
+  "nome": "Sérgio Fernandez",
+  "areas": [
+   "Arquitetura",
+   "Educação"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "26/03/2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Arquitetura, Educação",
+   "Biografia": "Arquiteto português, nascido no Porto em 1937. Professor da Escola do Porto, participou no programa SAAL e trabalhou na requalificação do Cinema Batalha e do Mosteiro de Santa Clara-a-Velha, em parceria com Alexandre Alves Costa. Fonte: Assembleia da República, Diário de 01/04/2026: https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/073/2026-04-01?org=PLC&pgs=49-50&plcdf=true&sft=true",
+   "Data de morte": "26/03/2026",
+   "Nome": "Sérgio Fernandez"
+  }
+ },
+ {
+  "nome": "Clara Pinto Correia",
+  "areas": [
+   "Escritor",
+   "Educação"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Escritor, Educação",
+   "Biografia": "Escritora e investigadora portuguesa, homenageada pela Assembleia da República em janeiro de 2026, após o seu falecimento, pelo contributo à literatura e à investigação científica. Fonte: Assembleia da República, Diário de 10/01/2026: https://app.parlamento.pt/webutils/docs/doc.pdf?Inline=true&fich=DAR-I-047.pdf",
+   "Nome": "Clara Pinto Correia"
+  }
+ },
+ {
   "nome": "Manuel Alfredo Tito de Morais",
   "areas": [
    "Política"
@@ -13853,8 +13945,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81258d57d1a08b630c8f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81258d57d1a08b630c8f.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Francisco_Manuel_Pereira_Coelho_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -13907,8 +14001,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d812f8e1dfb0af74978c6.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d812f8e1dfb0af74978c6.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/4/45/Jo%C3%A3o_Carlos_Rodrigues_d%27Azevedo_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -16755,8 +16851,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e197fef358850d959e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e197fef358850d959e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Jo%C3%A3o_Pereira_Bastos_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -47082,8 +47180,10 @@
   "rotas": [],
   "nascimento": "1822-03-11",
   "morte": "1901-03-13",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81b88c79c13257fa8c67.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81b88c79c13257fa8c67.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Pedro IV e Maria Leopoldina de Áustria; princesa do Brasil.",
