@@ -14417,8 +14417,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816991b0fe90f4c463bf.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816991b0fe90f4c463bf.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/0/01/Joaquim_Ribeiro_de_Carvalho_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -14435,8 +14437,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816d97ffde3df0545b12.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816d97ffde3df0545b12.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Jo%C3%A3o_Gon%C3%A7alves_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
