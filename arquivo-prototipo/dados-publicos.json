@@ -14232,8 +14232,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8156bc6de597fd96f57e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8156bc6de597fd96f57e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/6/66/Jos%C3%A9_Miguel_Lamartine_Prazeres_da_Costa_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -14270,8 +14272,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8158a4defe60133165a8.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8158a4defe60133165a8.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Joaquim_Jos%C3%A9_d%27Oliveira_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -26134,8 +26138,10 @@
   "rotas": [],
   "nascimento": "1925",
   "morte": "2022",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d8193a560da77ba104943.jpg",
+  "fotos": [
+   "fotos/408f3ddb5a6d8193a560da77ba104943.jpg"
+  ],
   "detalhes": {
    "Biografia": "Arquiteto português ligado à Escola do Porto. Autor do Edifício Parnaso, no Porto, e de outros projetos de equipamentos e habitação. Foi também professor de arquitetura.",
    "Data de morte": "2022",
@@ -43603,8 +43609,10 @@
   "rotas": [],
   "nascimento": "1899-12-05",
   "morte": "1967-12-04",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d818ba9fcf3fbc7e91d28.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d818ba9fcf3fbc7e91d28.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Roberto I de Parma e Maria Antónia de Bragança, neto de Miguel I de Portugal. Príncipe de Bourbon-Parma, nasceu em 1899 e morreu em 1967.",
