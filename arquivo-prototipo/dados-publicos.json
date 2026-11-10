@@ -14929,8 +14929,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81aeb7d9ebdd15a2a534.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81aeb7d9ebdd15a2a534.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Jos%C3%A9_Affonso_Palla_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -15003,8 +15005,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b7a124f8fdac3166b7.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b7a124f8fdac3166b7.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Jos%C3%A9_de_Freitas_Ribeiro_%28Archaeological_Survey_of_India%2C_Goa%29.jpg",
@@ -59943,6 +59947,7 @@
    "Biografia": "Oliveira Marreca (1805–1889) foi economista, professor, escritor e político português. Liberal e defensor do desenvolvimento económico do país, exerceu funções parlamentares e governativas e destacou-se pelos seus trabalhos sobre economia política e administração pública.",
    "Data de morte": "1889-03-09",
    "Localização": "Rua 6",
+   "Informação extra": "Fonte primária: Aurora do Minho, ano II, n.º 95, 24 de março de 1889, artigo «Oliveira Marreca». O jornal noticia o falecimento, refere que o funeral foi muito concorrido e regista intervenções de Sousa Brandão, Elias Garcia e Nunes da Motta junto da sepultura. Foram fornecidas pelo utilizador imagens da página integral, do recorte da notícia e um retrato histórico. Atenção: há divergência entre as datas de falecimento registadas em arquivos (9 e 19 de março de 1889); verificar antes de corrigir a data existente.",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
    "Data de nascimento": "1805-03-26",
