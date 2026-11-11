@@ -1,5 +1,67 @@
 [
  {
+  "nome": "José Luís Tinoco",
+  "areas": [
+   "Música",
+   "Arquitetura",
+   "Artes"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "fotos/415f3ddb5a6d81238ce9cd02ec60ff27.jpg",
+  "fotos": [
+   "fotos/415f3ddb5a6d81238ce9cd02ec60ff27.jpg"
+  ],
+  "detalhes": {
+   "Área": "Música, Arquitetura, Artes",
+   "Biografia": "Compositor, pianista autodidata, arquiteto e artista plástico português, natural de Leiria, nascido em 1932. Autor de canções como «No teu poema», «Um homem na cidade» e «Madrugada», vencedora do Festival da Canção de 1975. Faleceu em 15 de abril de 2026. Fonte: Diário da Assembleia da República, I Série, n.º 89, 8 de maio de 2026.",
+   "Nome": "José Luís Tinoco"
+  }
+ },
+ {
+  "nome": "José Santa-Bárbara",
+  "areas": [
+   "Artes",
+   "Pintura",
+   "Escultura"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "fotos/415f3ddb5a6d8170a1bbd241acdc966c.jpg",
+  "fotos": [
+   "fotos/415f3ddb5a6d8170a1bbd241acdc966c.jpg"
+  ],
+  "detalhes": {
+   "Área": "Artes, Pintura, Escultura",
+   "Biografia": "Artista plástico e designer português, nascido em 1936 nas Caldas da Rainha. Frequentou a Escola António Arroio e a Escola Superior de Belas Artes de Lisboa. Trabalhou em escultura, pintura, medalhística e design industrial; realizou quadros relacionados com «Memorial do Convento». Falecimento assinalado pela Assembleia da República em maio de 2026. Fonte: Diário da Assembleia da República, I Série, n.º 89, 8 de maio de 2026.",
+   "Nome": "José Santa-Bárbara"
+  }
+ },
+ {
+  "nome": "Joana Lopes",
+  "areas": [
+   "Educação"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "11/10/1938",
+  "morte": "",
+  "foto": "fotos/415f3ddb5a6d81bcaf3acd76bdc110f8.jpg",
+  "fotos": [
+   "fotos/415f3ddb5a6d81bcaf3acd76bdc110f8.jpg"
+  ],
+  "detalhes": {
+   "Área": "Educação",
+   "Biografia": "Licenciada e doutorada em Filosofia pela Universidade de Lovaina, foi docente na Faculdade de Letras da Universidade de Lisboa e pioneira na direção da IBM portuguesa. Participou no movimento dos católicos progressistas e em iniciativas de oposição ao Estado Novo. Fonte: Assembleia da República, Projeto de Voto de Pesar n.º 369/XVII/1.ª (2026).",
+   "Data de nascimento": "11/10/1938",
+   "Nome": "Joana Lopes"
+  }
+ },
+ {
   "nome": "Rui Namorado",
   "areas": [
    "Política"
@@ -8,8 +70,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "13/01/2025",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/414f3ddb5a6d814c9b2ec44f36d70214.jpg",
+  "fotos": [
+   "fotos/414f3ddb5a6d814c9b2ec44f36d70214.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Antigo deputado, professor emérito da Faculdade de Economia da Universidade de Coimbra, escritor, poeta e ensaísta. Nasceu em Coimbra em 1941.",
@@ -27,8 +91,10 @@
   "rotas": [],
   "nascimento": "02/05/1945",
   "morte": "05/07/2025",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/414f3ddb5a6d817f8b07e6b6eee0a30e.jpg",
+  "fotos": [
+   "fotos/414f3ddb5a6d817f8b07e6b6eee0a30e.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Biografia": "Escritor açoriano, nascido no Raminho, ilha Terceira. Publicou 43 livros em vários géneros e foi sócio fundador, diretor, encenador e ator do grupo de teatro Alpendre.",
@@ -66,8 +132,10 @@
   "rotas": [],
   "nascimento": "04/07/1950",
   "morte": "04/07/2025",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/414f3ddb5a6d81968760cb56f93ba760.jpg",
+  "fotos": [
+   "fotos/414f3ddb5a6d81968760cb56f93ba760.jpg"
+  ],
   "detalhes": {
    "Área": "Música",
    "Biografia": "Percussionista, músico e produtor madeirense com carreira internacional. Colaborou com numerosos artistas internacionais e participou em bandas sonoras cinematográficas.",
@@ -86,8 +154,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/414f3ddb5a6d81cd8670e507976735e0.jpg",
+  "fotos": [
+   "fotos/414f3ddb5a6d81cd8670e507976735e0.jpg"
+  ],
   "detalhes": {
    "Área": "Desporto",
    "Biografia": "Ginasta olímpico português que integrou a equipa de ginástica artística masculina nos Jogos Olímpicos de Helsínquia de 1952. Foi também professor e treinador.",
@@ -124,8 +194,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "04/07/2025",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/414f3ddb5a6d81f98d23c774d1fb487f.jpg",
+  "fotos": [
+   "fotos/414f3ddb5a6d81f98d23c774d1fb487f.jpg"
+  ],
   "detalhes": {
    "Área": "Música",
    "Biografia": "Fadista natural do Barreiro, vencedora por duas vezes da Grande Noite do Fado. Desenvolveu uma carreira nacional e internacional, atuando em casas de fado e salas de espetáculo.",
@@ -144,8 +216,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "29/08/2026",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/413f3ddb5a6d811f80f4e7ddeff88aea.jpg",
+  "fotos": [
+   "fotos/413f3ddb5a6d811f80f4e7ddeff88aea.jpg"
+  ],
   "detalhes": {
    "Área": "Política, Advocacia",
    "Biografia": "Jurista e político português. Foi deputado à Assembleia Constituinte e à Assembleia da República, líder parlamentar do CDS e vice-presidente do Parlamento. Fonte: Assembleia da República, mensagem de pesar de 29/08/2026: https://www.parlamento.pt/sites/PARXVIL/Paginas/2026/agosto/Mensagem-de-Pesar-do-Presidente-da-Assembleia-da-Republica-pelo-falecimento-de-Narana-Sinai-Coissoro.aspx",
@@ -162,8 +236,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "21/01/2026",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/413f3ddb5a6d816688a9d854c1d76231.jpg",
+  "fotos": [
+   "fotos/413f3ddb5a6d816688a9d854c1d76231.jpg"
+  ],
   "detalhes": {
    "Área": "Desporto",
    "Biografia": "Conhecido como Carlão, foi guarda-redes português de futebol de praia. Campeão nacional pelo Vitória Futebol Clube de Setúbal, esteve ligado ao Olímpico do Montijo e a estágios da seleção nacional. Fonte: Assembleia da República, Diário de 30/01/2026: https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/053/2026-01-30?org=PLC&pgs=35-56&plcdf=true&sft=true",
@@ -180,8 +256,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "27/01/2026",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/413f3ddb5a6d816bb3dbd74ef7baa4ec.jpg",
+  "fotos": [
+   "fotos/413f3ddb5a6d816bb3dbd74ef7baa4ec.jpg"
+  ],
   "detalhes": {
    "Área": "Desporto",
    "Biografia": "Atleta português de fundo, nascido em Beja. Representou o Sporting e Portugal em três Jogos Olímpicos. Em 1984 estabeleceu o recorde mundial dos 10 000 metros; foi medalha de bronze no Mundial de Corta-Mato de 1981. Fonte: Assembleia da República, Diário de 30/01/2026: https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/053/2026-01-30?org=PLC&pgs=35-56&plcdf=true&sft=true",
@@ -199,8 +277,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "26/03/2026",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/413f3ddb5a6d8193be60f51490ac429b.jpg",
+  "fotos": [
+   "fotos/413f3ddb5a6d8193be60f51490ac429b.jpg"
+  ],
   "detalhes": {
    "Área": "Arquitetura, Educação",
    "Biografia": "Arquiteto português, nascido no Porto em 1937. Professor da Escola do Porto, participou no programa SAAL e trabalhou na requalificação do Cinema Batalha e do Mosteiro de Santa Clara-a-Velha, em parceria com Alexandre Alves Costa. Fonte: Assembleia da República, Diário de 01/04/2026: https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/073/2026-04-01?org=PLC&pgs=49-50&plcdf=true&sft=true",
@@ -235,8 +315,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/412f3ddb5a6d818990c1c3d081007059.jpg",
+  "fotos": [
+   "fotos/412f3ddb5a6d818990c1c3d081007059.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Manuel Alfredo Tito de Morais (1910–1999) foi engenheiro e político português, fundador do Partido Socialista. Participou no Movimento de Unidade Democrática, foi deputado à Assembleia Constituinte e à Assembleia da República e presidiu à Assembleia da República entre 1983 e 1984. Fonte: Assembleia da República, https://www.parlamento.pt/VisitaParlamento/Paginas/BiogTitodeMorais.aspx",
@@ -357,8 +439,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/412f3ddb5a6d8119bf99fdc6e68e372b.jpg",
+  "fotos": [
+   "fotos/412f3ddb5a6d8119bf99fdc6e68e372b.jpg"
+  ],
   "detalhes": {
    "Biografia": "Conde de Portugal. O inventário patrimonial da Sé de Braga inclui o seu túmulo entre os monumentos funerários associados à catedral.",
    "Localização": "Túmulo associado à Sé de Braga; identificação patrimonial confirmada.",
@@ -376,8 +460,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/412f3ddb5a6d813ea5f7d7e5a0e8b870.jpg",
+  "fotos": [
+   "fotos/412f3ddb5a6d813ea5f7d7e5a0e8b870.jpg"
+  ],
   "detalhes": {
    "Biografia": "Navegador português. O inventário patrimonial da Igreja da Graça identifica o seu túmulo na Capela de São João Evangelista, em Santarém.",
    "Localização": "Túmulo na Capela de São João Evangelista, Igreja da Graça (Santo Agostinho), Santarém.",
@@ -395,8 +481,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/412f3ddb5a6d816499b1c4ab8c53de77.jpg",
+  "fotos": [
+   "fotos/412f3ddb5a6d816499b1c4ab8c53de77.jpg"
+  ],
   "detalhes": {
    "Biografia": "Poeta, cronista e cortesão português. O inventário patrimonial identifica uma campa sua na nave da Capela de Nossa Senhora do Espinheiro. A ficha refere remoção e recuperação das ossadas, sem esclarecer a localização atual dos restos mortais.",
    "Localização": "Campa na nave da Capela de Nossa Senhora do Espinheiro, Évora. Localização atual dos restos mortais por confirmar.",
@@ -433,8 +521,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/412f3ddb5a6d81bf9d3efaedfb6634b9.jpg",
+  "fotos": [
+   "fotos/412f3ddb5a6d81bf9d3efaedfb6634b9.jpg"
+  ],
   "detalhes": {
    "Biografia": "Condessa de Portugal e mãe de Afonso Henriques. O inventário patrimonial da Sé de Braga inclui o seu túmulo entre os monumentos funerários associados à catedral.",
    "Localização": "Túmulo associado à Sé de Braga; identificação patrimonial confirmada.",
@@ -6041,8 +6131,10 @@
   "rotas": [],
   "nascimento": "27/12/1921",
   "morte": "03/08/1999",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/411f3ddb5a6d81daa2d1ddfe7bec0123.jpg",
+  "fotos": [
+   "fotos/411f3ddb5a6d81daa2d1ddfe7bec0123.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Biografia": "Escritor, poeta, ensaísta, crítico literário e professor português, ligado ao neorrealismo. Natural de Amarante, colaborou na divulgação do Novo Cancioneiro e foi afastado do ensino pelo Estado Novo em 1965. Fontes: Centro de Estudos Amarantinos (ceamt.pt); Bertrand (bertrand.pt/autor/alexandre-pinheiro-torres/12555).",
@@ -7935,8 +8027,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b0af20f4bc0c82c567.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b0af20f4bc0c82c567.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -9058,8 +9152,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d815ab8c1dda995b9daef.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d815ab8c1dda995b9daef.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9138,8 +9234,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d819fa8e3ca90b41e02bb.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d819fa8e3ca90b41e02bb.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -10540,8 +10638,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "05/03/1917",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8111932cd1da2bfcf7ac.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8111932cd1da2bfcf7ac.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "05/03/1917",
@@ -10558,8 +10658,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "07/01/2017",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d812e9521c679ba7aec92.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d812e9521c679ba7aec92.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "07/01/2017",
@@ -10576,8 +10678,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "14/12/1918",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8136a32cd93af3f96f6d.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8136a32cd93af3f96f6d.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "14/12/1918",
@@ -10635,8 +10739,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "17/10/1941",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814b930dca811b067e3a.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814b930dca811b067e3a.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "17/10/1941",
@@ -10653,8 +10759,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "18/04/1951",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d815abba8f0b0b095a3fc.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d815abba8f0b0b095a3fc.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "18/04/1951",
@@ -10671,8 +10779,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "28/01/1924",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81869797da666169fab6.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81869797da666169fab6.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "28/01/1924",
@@ -10689,8 +10799,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "17/12/1929",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8198ad48cdc21553ab0c.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8198ad48cdc21553ab0c.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "17/12/1929",
@@ -10728,8 +10840,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "14/03/1934",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c2a595cc2eac85f2d6.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c2a595cc2eac85f2d6.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "14/03/1934",
@@ -10746,8 +10860,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "11/06/1965",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ccae8ffb661791739c.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ccae8ffb661791739c.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "11/06/1965",
@@ -10803,8 +10919,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "05/05/1926",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d815f9425d33f22069a1a.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d815f9425d33f22069a1a.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "05/05/1926",
@@ -11049,8 +11167,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "1955",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81eda02bc181cbefa7e4.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81eda02bc181cbefa7e4.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "1955",
@@ -11088,8 +11208,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "05/05/1926",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81779af1e7f688134d8c.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81779af1e7f688134d8c.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "05/05/1926",
@@ -11892,8 +12014,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e7b13fc42adc526c88.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e7b13fc42adc526c88.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -12275,8 +12399,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81628503fc05fef15b41.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81628503fc05fef15b41.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12386,8 +12512,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816c9dddf9849c94cf80.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816c9dddf9849c94cf80.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12423,8 +12551,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8174bcf2d767d90fea8b.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8174bcf2d767d90fea8b.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12584,8 +12714,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d819891d1fe07db623411.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d819891d1fe07db623411.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12601,8 +12733,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d819cb0a2e42fdf8c17ed.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d819cb0a2e42fdf8c17ed.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12689,8 +12823,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c4b5bbe63713642ae7.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c4b5bbe63713642ae7.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -13174,8 +13310,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814488faf90fa8ff391f.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814488faf90fa8ff391f.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13403,8 +13541,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d818a87c6e818d6a1f8c6.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d818a87c6e818d6a1f8c6.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -14027,8 +14167,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8121b768ce65ac77f314.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8121b768ce65ac77f314.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -14233,8 +14375,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8136a894d9058e37b330.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8136a894d9058e37b330.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15457,8 +15601,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e785dcd69d47b25af4.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e785dcd69d47b25af4.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15584,8 +15730,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81fba5bcc3d66dd2d19c.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81fba5bcc3d66dd2d19c.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Jos%C3%A9_Maria_Cardoso_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -15602,8 +15750,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81fbb9fdfc422451533d.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81fbb9fdfc422451533d.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/8/82/Henrique_Jos%C3%A9_dos_Santos_Cardoso_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -15762,8 +15912,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814a8804dc82f364d639.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814a8804dc82f364d639.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/imgfile.aspx?f=d&nome=R1_CD_L1_SL2_PPP163.pdf&p=9023. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
@@ -16049,8 +16201,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8100833dc6f4ef28ccc0.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8100833dc6f4ef28ccc0.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome mencionado em documentação parlamentar da Primeira República; confirmar mandato específico, identidade, óbito, sepultura e eventual duplicação. Fontes: https://ahpweb.parlamento.pt/Detalhe/?id=31197 ; https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx",
@@ -16280,8 +16434,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c297cec3287154d671.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c297cec3287154d671.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome mencionado em documentação parlamentar da Primeira República; confirmar mandato específico, identidade, óbito, sepultura e eventual duplicação. Fontes: https://ahpweb.parlamento.pt/Detalhe/?id=31197 ; https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx",
@@ -17073,8 +17229,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ffbcc1e717aba8728a.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ffbcc1e717aba8728a.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
@@ -18503,8 +18661,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d811cbc21f880837fd795.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d811cbc21f880837fd795.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -18972,8 +19132,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8181b63bf256fcc74ec1.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8181b63bf256fcc74ec1.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -19881,8 +20043,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81f2956fe909324702dd.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81f2956fe909324702dd.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Informação extra": "Registo nominal de importação em massa. Identidade, datas, sepultura e eventual duplicação por verificar posteriormente.",
@@ -19918,8 +20082,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d810d94c7ef222bb1fded.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d810d94c7ef222bb1fded.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Ficha nominal inicial; confirmar datas, identidade, biografia, sepultura e fotografia com documentação antes de completar.",
@@ -20109,8 +20275,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a0920fc25a3e0347d2.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a0920fc25a3e0347d2.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Ficha nominal inicial; confirmar datas, identidade, biografia, sepultura e fotografia com documentação antes de completar.",
@@ -20204,8 +20372,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81baa38fdb0295a26be0.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81baa38fdb0295a26be0.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Ficha nominal inicial; confirmar datas, identidade, biografia, sepultura e fotografia com documentação antes de completar.",
@@ -20532,8 +20702,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813cb620ec5696893f9b.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813cb620ec5696893f9b.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal inicial de figura política histórica. Verificar datas, identidade, sepultura e fotografia antes de completar.",
@@ -20568,8 +20740,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8151a972f26d7a1e9f9d.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8151a972f26d7a1e9f9d.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal inicial de figura política histórica. Verificar datas, identidade, sepultura e fotografia antes de completar.",
@@ -21165,8 +21339,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8144ba16d072d3da332a.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8144ba16d072d3da332a.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Informação extra": "Registo nominal preliminar para investigação. Datas, sepultura e fotografia ainda não verificadas; confirmar identidade e evitar homónimos.",
@@ -21241,8 +21417,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8163bb2aff63344d6bbd.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8163bb2aff63344d6bbd.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Informação extra": "Registo nominal preliminar para investigação. Datas, sepultura e fotografia ainda não verificadas; confirmar identidade e evitar homónimos.",
@@ -21394,8 +21572,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d817dbff3c885bd2d4d54.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d817dbff3c885bd2d4d54.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Informação extra": "Registo nominal preliminar para investigação. Datas, sepultura e fotografia ainda não verificadas; confirmar identidade e evitar homónimos.",
@@ -21491,8 +21671,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d818ca7dbf2240002ab0b.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d818ca7dbf2240002ab0b.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Informação extra": "Registo nominal preliminar para investigação. Datas, sepultura e fotografia ainda não verificadas; confirmar identidade e evitar homónimos.",
@@ -21584,8 +21766,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a59f1efcea9d845031.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a59f1efcea9d845031.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Informação extra": "Registo nominal preliminar para investigação. Datas, sepultura e fotografia ainda não verificadas; confirmar identidade e evitar homónimos.",
@@ -21977,8 +22161,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d810ea7a6d562d368754f.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d810ea7a6d562d368754f.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Informação extra": "Ficha nominal inicial. Confirmar identidade, datas, sepultura e fotografia em fontes documentais.",
@@ -22239,8 +22425,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8116a1f1fbd2caf34a85.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8116a1f1fbd2caf34a85.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Informação extra": "Ficha inicial de recolha nominal. Confirmar datas, homónimos, biografia, sepultura e fotografia em fontes documentais antes de completar.",
@@ -22315,8 +22503,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813c97a0cdc1d184feb3.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813c97a0cdc1d184feb3.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Informação extra": "Ficha inicial de recolha nominal. Confirmar datas, homónimos, biografia, sepultura e fotografia em fontes documentais antes de completar.",
@@ -22653,8 +22843,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b18dd6e10d4adb1d16.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b18dd6e10d4adb1d16.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Informação extra": "Ficha inicial de recolha nominal. Confirmar datas, homónimos, biografia, sepultura e fotografia em fontes documentais antes de completar.",
@@ -22748,8 +22940,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81cf81d0f51355369fad.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81cf81d0f51355369fad.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Informação extra": "Ficha inicial de recolha nominal. Confirmar datas, homónimos, biografia, sepultura e fotografia em fontes documentais antes de completar.",
@@ -23890,8 +24084,10 @@
   "rotas": [],
   "nascimento": "1835",
   "morte": "1899",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8177bc99f27d8a876126.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8177bc99f27d8a876126.jpg"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Biografia": "Médico e escritor português, ligado ao ensino e à prática da medicina em Lisboa.",
@@ -25706,8 +25902,10 @@
   "rotas": [],
   "nascimento": "1933",
   "morte": "1986",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d81b7ad13ea60e0fee940.jpg",
+  "fotos": [
+   "fotos/408f3ddb5a6d81b7ad13ea60e0fee940.jpg"
+  ],
   "detalhes": {
    "Biografia": "Diplomata e político português, um dos subscritores da declaração de princípios fundadora do CDS em 1974.",
    "Data de morte": "1986",
@@ -25722,8 +25920,10 @@
   "rotas": [],
   "nascimento": "1938",
   "morte": "2006",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d81dcb499d10e77fa6ac4.jpg",
+  "fotos": [
+   "fotos/408f3ddb5a6d81dcb499d10e77fa6ac4.jpg"
+  ],
   "detalhes": {
    "Biografia": "Jurista e político português, subscritor da declaração de princípios fundadora do CDS em 1974.",
    "Data de morte": "2006",
@@ -25986,8 +26186,10 @@
   "rotas": [],
   "nascimento": "1953",
   "morte": "2021",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d81d48f58f767ace62092.jpg",
+  "fotos": [
+   "fotos/408f3ddb5a6d81d48f58f767ace62092.jpg"
+  ],
   "detalhes": {
    "Biografia": "Ator e dobrador português.",
    "Data de morte": "2021",
@@ -27822,8 +28024,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81afb5d6ecebc54c8ef9.jpg",
+  "fotos": [
+   "fotos/407f3ddb5a6d81afb5d6ecebc54c8ef9.jpg"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1903–1914.",
@@ -28363,8 +28567,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81209611c6d1d470a06d.jpg",
+  "fotos": [
+   "fotos/407f3ddb5a6d81209611c6d1d470a06d.jpg"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1741 e 1751.",
@@ -28618,8 +28824,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8156badef37ef1e995c6.jpg",
+  "fotos": [
+   "fotos/407f3ddb5a6d8156badef37ef1e995c6.jpg"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1864 e 1871.",
@@ -28692,8 +28900,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8163ba0af3e82fe3621b.jpg",
+  "fotos": [
+   "fotos/407f3ddb5a6d8163ba0af3e82fe3621b.jpg"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1955 e 1966.",
@@ -29898,8 +30108,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d814db81adfdc38c027b3.jpg",
+  "fotos": [
+   "fotos/407f3ddb5a6d814db81adfdc38c027b3.jpg"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1920 e 1955.",
@@ -30130,8 +30342,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8171b9d0c124fcc8e24f.jpg",
+  "fotos": [
+   "fotos/407f3ddb5a6d8171b9d0c124fcc8e24f.jpg"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1981 e 2008.",
@@ -30454,8 +30668,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81a997dcf551aff4e621.jpg",
+  "fotos": [
+   "fotos/407f3ddb5a6d81a997dcf551aff4e621.jpg"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1463 e 1464.",
@@ -30627,8 +30843,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81c78d20c4a9958f7cb6.jpg",
+  "fotos": [
+   "fotos/407f3ddb5a6d81c78d20c4a9958f7cb6.jpg"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1802 e 1814.",
@@ -30681,8 +30899,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81e6b4efde5e7b141f69.jpg",
+  "fotos": [
+   "fotos/407f3ddb5a6d81e6b4efde5e7b141f69.jpg"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1955 e 1965.",
@@ -34725,8 +34945,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1136-09-07",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81ab8e9ae6d47b5b24bf.jpg",
+  "fotos": [
+   "fotos/401f3ddb5a6d81ab8e9ae6d47b5b24bf.jpg"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Clérigo de origem francesa e antigo arcediago de Santiago de Compostela. Foi o primeiro bispo da diocese do Porto restaurada no início do século XII e participou na afirmação da sua autonomia.",
@@ -35125,8 +35347,10 @@
   "rotas": [],
   "nascimento": "1581-12-06",
   "morte": "1672-12-20",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81e286acc46537c7a0c9.jpg",
+  "fotos": [
+   "fotos/401f3ddb5a6d81e286acc46537c7a0c9.jpg"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Natural do Porto, foi prior de Cedofeita e exerceu funções junto da família real. Assumiu o bispado já em idade avançada, após a longa vacância da sede.",
@@ -35461,8 +35685,10 @@
   "rotas": [],
   "nascimento": "1932-08-05",
   "morte": "2019-03-19",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8118a51eecbfcb38d702.jpg",
+  "fotos": [
+   "fotos/401f3ddb5a6d8118a51eecbfcb38d702.jpg"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Natural do Funchal, foi bispo auxiliar de Lisboa e arcebispo de Évora entre 1981 e 2008.",
@@ -39898,8 +40124,10 @@
   "rotas": [],
   "nascimento": "18/08/1867",
   "morte": "29/01/1930",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8191bdf0c8ecdefc4081.jpg",
+  "fotos": [
+   "fotos/401f3ddb5a6d8191bdf0c8ecdefc4081.jpg"
+  ],
   "detalhes": {
    "Biografia": "Militar e político português, ministro das Finanças durante a Ditadura Militar.",
    "Data de morte": "29/01/1930",
@@ -40230,8 +40458,10 @@
   "rotas": [],
   "nascimento": "1908-01-23",
   "morte": "1992-09-28",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81ce826cd0360e533703.jpg",
+  "fotos": [
+   "fotos/401f3ddb5a6d81ce826cd0360e533703.jpg"
+  ],
   "detalhes": {
    "Biografia": "Historiador, jornalista e oposicionista ao Estado Novo, associado à investigação sobre a história contemporânea portuguesa.",
    "Data de morte": "1992-09-28",
@@ -42661,8 +42891,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d80989241ce280f785e8f.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d80989241ce280f785e8f.jpg"
+  ],
   "detalhes": {
    "Área": "Jornalismo",
    "Biografia": "Jornalista",
@@ -43524,8 +43756,10 @@
   "rotas": [],
   "nascimento": "1864-03-07",
   "morte": "1927-10-22",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81d98e3bc2431b1d898a.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81d98e3bc2431b1d898a.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Antónia de Bragança e Leopoldo de Hohenzollern-Sigmaringen; neto/a de Maria II.",
@@ -43831,8 +44065,10 @@
   "rotas": [],
   "nascimento": "1894-10-17",
   "morte": "1962-07-30",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d812bba25e21eac471fb8.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d812bba25e21eac471fb8.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Roberto I de Parma e Maria Antónia de Bragança, neto de Miguel I de Portugal. Príncipe de Bourbon-Parma, casou com Margarida da Dinamarca e morreu em 1962.",
@@ -43987,8 +44223,10 @@
   "rotas": [],
   "nascimento": "1902-02-14",
   "morte": "1941-05-24",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81e4ba5fe62802c78f9c.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81e4ba5fe62802c78f9c.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Maria Ana de Bragança e Guilherme IV do Luxemburgo; neto/a de Miguel I.",
@@ -44471,8 +44709,10 @@
   "rotas": [],
   "nascimento": "1845-11-04",
   "morte": "1919-07-17",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f0bc20e2c3715f2174.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f0bc20e2c3715f2174.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Francisco de Orleães, príncipe de Joinville, e Francisca Carolina de Bragança, neto de Pedro IV de Portugal. Príncipe de Orleães, nasceu em 1845 e morreu em 1919.",
@@ -45778,8 +46018,10 @@
   "rotas": [],
   "nascimento": "1433-09-17",
   "morte": "1459-08-27",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8111aca4c63ec4b7e68a.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8111aca4c63ec4b7e68a.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Pedro de Portugal, duque de Coimbra e Isabel de Urgel; neto/a de João I.",
@@ -45969,8 +46211,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d819b8741e397b3e39c1e.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d819b8741e397b3e39c1e.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Beatriz de Portugal e Sancho de Castela, conde de Albuquerque; neto/a de Pedro I.",
@@ -47562,8 +47806,10 @@
   "rotas": [],
   "nascimento": "1793-04-29",
   "morte": "1874-01-17",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d817ba1b5e96883b5d8c4.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d817ba1b5e96883b5d8c4.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de João VI e Carlota Joaquina de Bourbon; princesa da Beira.",
@@ -52096,8 +52342,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1259",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d811cb82ff01207ab218d.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d811cb82ff01207ab218d.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Matilde II de Bolonha (falecida em 1259), filha de Reinaldo de Dammartin e Ida de Bolonha, foi condessa de Bolonha e rainha consorte de Portugal pelo casamento com Afonso III, celebrado quando este ainda vivia em França. O casamento foi posteriormente anulado, na sequência da união de Afonso III com Beatriz de Castela.",
@@ -52116,8 +52364,10 @@
   "rotas": [],
   "nascimento": "c. 1209",
   "morte": "c. 1271",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81069a33c38160efbd19.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81069a33c38160efbd19.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Mécia Lopes de Haro (c. 1209–c. 1271), filha de Lopo Dias de Haro, senhor de Biscaia, e de Urraca Afonso de Leão, foi rainha consorte de Portugal pelo casamento com Sancho II. Viúva de Álvaro Peres de Castro, casou com o monarca por volta de 1245. Durante os conflitos que antecederam a deposição de Sancho II, foi afastada da corte e acabou por regressar a Castela.",
@@ -52185,8 +52435,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d818dbc49cc94834be360.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d818dbc49cc94834be360.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Amadeu III de Saboia, casou com Afonso Henriques e foi a primeira rainha consorte de Portugal. Mãe de Sancho I, morreu no século XII; a data exacta é discutida.",
