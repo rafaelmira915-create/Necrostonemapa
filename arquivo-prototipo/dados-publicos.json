@@ -15167,8 +15167,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c7bc69d0a1a3c0690e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c7bc69d0a1a3c0690e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Carlos_Richter_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -15325,8 +15327,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81dd8a9efe7aa78b93f8.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81dd8a9efe7aa78b93f8.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Jose_Pereira_da_Costa_Basto_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -20575,8 +20579,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8152b00aee39ed575ec0.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8152b00aee39ed575ec0.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/8/84/Pimenta_de_Castro.jpg",
