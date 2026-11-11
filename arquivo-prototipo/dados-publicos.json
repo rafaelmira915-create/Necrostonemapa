@@ -15508,8 +15508,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ef9b4dd0fc9b755bf2.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ef9b4dd0fc9b755bf2.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Jo%C3%A3o_Pedro_de_Almeida_%28Album_Republicano%2C_1908%29.png",
@@ -15545,8 +15547,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81f48c30ec1e856ca3f2.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81f48c30ec1e856ca3f2.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Pedro_Alfredo_de_Moraes_Rosa_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -18442,8 +18446,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8117ad43ca7a505ffd95.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8117ad43ca7a505ffd95.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Innocencio_Camacho_Rodrigues_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
