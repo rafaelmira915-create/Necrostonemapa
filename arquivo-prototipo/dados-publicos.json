@@ -15821,8 +15821,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8100b979c62615e7b507.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8100b979c62615e7b507.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/5/52/Severiano_Jos%C3%A9_da_Silva_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -16264,8 +16266,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d812bbec3c21e04245724.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d812bbec3c21e04245724.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Francisco_da_Cruz_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -19719,8 +19723,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d810fa67fc4fb3702260a.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d810fa67fc4fb3702260a.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/0/01/Santaritapintor.JPG",
@@ -24953,8 +24959,10 @@
   "rotas": [],
   "nascimento": "19 de agosto de 1883",
   "morte": "11 de junho de 1965",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d8191b45cf511d8bf755b.jpg",
+  "fotos": [
+   "fotos/408f3ddb5a6d8191b45cf511d8bf755b.jpg"
+  ],
   "detalhes": {
    "Biografia": "José Mendes Cabeçadas Júnior foi oficial da Marinha e participou na implantação da República em 1910 e no movimento militar de 28 de Maio de 1926. Exerceu brevemente as funções de presidente da República e chefe do Governo em 1926.",
    "Data de morte": "11 de junho de 1965",
@@ -25466,8 +25474,10 @@
   "rotas": [],
   "nascimento": "30 de março de 1879",
   "morte": "23 de maio de 1952",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d812092a9f37532afb7d7.jpg",
+  "fotos": [
+   "fotos/408f3ddb5a6d812092a9f37532afb7d7.jpg"
+  ],
   "detalhes": {
    "Biografia": "Francisco José da Rocha Martins nasceu em Belém, Lisboa, e faleceu em Sintra. Jornalista, escritor e historiador autodidata, colaborou em numerosos periódicos e dirigiu as revistas ABC e Arquivo Nacional. Publicou obras de história portuguesa e romances históricos, incluindo trabalhos sobre D. Manuel II, a Monarquia do Norte e a Restauração. Monárquico liberal, foi posteriormente opositor do Estado Novo, escrevendo no jornal República. Foi sócio correspondente da Academia das Ciências de Lisboa. Está sepultado no Cemitério da Ajuda, em Lisboa.",
    "Data de morte": "23 de maio de 1952",
