@@ -17169,8 +17169,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81daabffda531e79b6a9.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81daabffda531e79b6a9.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Rodrigo_Fernandes_Fontinha_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
