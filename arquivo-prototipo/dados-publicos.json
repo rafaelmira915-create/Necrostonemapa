@@ -1,5 +1,43 @@
 [
  {
+  "nome": "José Manuel Matos Fernandes",
+  "areas": [
+   "Advocacia"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "1940-06-06",
+  "morte": "2026-04-10",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Advocacia",
+   "Biografia": "José Manuel Matos Fernandes (1940–2026) foi magistrado português, juiz conselheiro jubilado. Licenciou-se em Direito em Lisboa em 1962, tendo participado na crise académica desse ano. Exerceu funções como delegado do Procurador da República em Valença, Águeda e Porto. Fonte: Diário da Assembleia da República, I Série, n.º 83 (2026), voto de pesar n.º 498/XVII/1.ª.",
+   "Data de morte": "2026-04-10",
+   "Data de nascimento": "1940-06-06",
+   "Nome": "José Manuel Matos Fernandes"
+  }
+ },
+ {
+  "nome": "José Manuel Pinto Albuquerque Pessoa",
+  "areas": [
+   "Fotografia"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "1948",
+  "morte": "2025-12-06",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Fotografia",
+   "Biografia": "José Pessoa (1948–2025) foi especialista português em fotografia e exame científico de obras de arte. Trabalhou no Instituto José de Figueiredo, no Arquivo Nacional de Fotografia e no Museu de Lamego. Participou no Inventário Fotográfico Nacional de Obras de Arte e lecionou conservação e restauro. Fonte: Assembleia da República, Projeto de Voto de Pesar n.º 330/XVII/1.ª.",
+   "Data de morte": "2025-12-06",
+   "Data de nascimento": "1948",
+   "Nome": "José Manuel Pinto Albuquerque Pessoa"
+  }
+ },
+ {
   "nome": "José Luís Tinoco",
   "areas": [
    "Música",
@@ -17037,8 +17075,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81bc9d83fc9f3421078f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81bc9d83fc9f3421078f.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Sebasti%C3%A3o_Peres_Rodrigues_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -17055,8 +17095,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81bdb43bdca16baffcc8.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81bdb43bdca16baffcc8.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Jos%C3%A9_Estevam_de_Vasconcellos_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
