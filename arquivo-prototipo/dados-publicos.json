@@ -16286,8 +16286,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813dbaa1f1af93bdabf9.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813dbaa1f1af93bdabf9.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Francisco_Jos%C3%A9_Pereira_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -16603,8 +16605,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8126a63ef3cd30be3d33.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8126a63ef3cd30be3d33.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Casimiro_Rodrigues_de_S%C3%A1_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -19915,8 +19919,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8182b28dce8bfdea985f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8182b28dce8bfdea985f.png"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/3/36/Lu%C3%ADs_de_Montalvor.png",
@@ -21851,8 +21857,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b7a8e4c8e2b64de906.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b7a8e4c8e2b64de906.png"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Gon%C3%A7alves_Dias_%28CAP%29.png",
