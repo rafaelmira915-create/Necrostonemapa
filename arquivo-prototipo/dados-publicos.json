@@ -16883,8 +16883,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8181a79bcb37e1b96bf6.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8181a79bcb37e1b96bf6.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Helder_Armando_dos_Santos_Ribeiro_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -16921,8 +16923,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81899fdfdd9060772cad.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81899fdfdd9060772cad.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Jos%C3%A9CarlosDaMaia.png",
@@ -17696,8 +17700,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d815dba0dd43b18a8f800.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d815dba0dd43b18a8f800.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Francisco_Jos%C3%A9_de_Meneses_Fernandes_Costa.jpg",
