@@ -348,7 +348,7 @@ async function switchBurialMode(mode){
    for(const id of ['cemeteries'])if(map.getLayer(id))map.setLayoutProperty(id,'visibility','none');
    otherPath=[];document.querySelector('#other-search').value='';
    document.querySelector('#other-detail').replaceChildren();
-   try{if(!otherPlaces.length)otherPlaces=await json('./other-burials.json?v=20261113a');await renderOtherList();await renderOtherGeography();updateOtherMarkers();}
+   try{if(!otherPlaces.length)otherPlaces=await json('./other-burials.json?v=20261113b');await renderOtherList();await renderOtherGeography();updateOtherMarkers();}
    catch(e){document.querySelector('#other-list').textContent='Não foi possível carregar os locais: '+e.message;}
  }else{
    ++otherGeoSerial;otherGeoItems=[];
