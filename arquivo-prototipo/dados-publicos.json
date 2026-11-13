@@ -1,5 +1,426 @@
 [
  {
+  "nome": "Henrique Teixeira Queirós de Barros",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1904",
+  "morte": "2000",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Engenheiro agrónomo, eleito pelo PS por Coimbra. Presidiu à Assembleia Constituinte.",
+   "Data de morte": "2000",
+   "Informação extra": "https://www.parlamento.pt/sites/PARXVL/AntigosPAR/Paginas/HenriquedeBarros.aspx\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1904",
+   "Nome": "Henrique Teixeira Queirós de Barros"
+  }
+ },
+ {
+  "nome": "Carlos Manuel Natividade da Costa Candal",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "Incerto",
+  "morte": "2009-06-18",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Cofundador do PS e deputado constituinte eleito por Aveiro.",
+   "Data de morte": "2009-06-18",
+   "Informação extra": "https://www.rtp.pt/noticias/politica/morreu-carlos-candal-um-dos-fundadores-do-partido_n227216\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "Incerto",
+   "Nome": "Carlos Manuel Natividade da Costa Candal"
+  }
+ },
+ {
+  "nome": "Teófilo Carvalho dos Santos",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1906",
+  "morte": "1986",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Constituinte pelo PS e antigo presidente da Assembleia da República.",
+   "Data de morte": "1986",
+   "Informação extra": "https://www.parlamento.pt/VisitaParlamento/Paginas/BiogTeofiloCarvalhoSantos.aspx\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1906",
+   "Nome": "Teófilo Carvalho dos Santos"
+  }
+ },
+ {
+  "nome": "Carlos Matos Chaves de Macedo",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "Incerto",
+  "morte": "2017",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Constituinte pelo PPD eleito por Vila Real e ministro dos Assuntos Sociais no VII Governo Constitucional.",
+   "Data de morte": "2017",
+   "Informação extra": "https://www.psd.pt/pt/noticias/nota-de-pesar-pelo-falecimento-do-dr-carlos-macedo\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "Incerto",
+   "Nome": "Carlos Matos Chaves de Macedo"
+  }
+ },
+ {
+  "nome": "José Augusto Baptista Lopes Seabra",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1937-02-24",
+  "morte": "2004-05-27",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Poeta, professor e diplomata. Foi eleito constituinte pelo PPD pelo Porto.",
+   "Data de morte": "2004-05-27",
+   "Informação extra": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=3203\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1937-02-24",
+   "Nome": "José Augusto Baptista Lopes Seabra"
+  }
+ },
+ {
+  "nome": "Artur Morgado Ferreira Santos Silva",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1910-04-05",
+  "morte": "1980-06-07",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Opositor do Estado Novo e constituinte eleito pelo PPD pelo Porto.",
+   "Data de morte": "1980-06-07",
+   "Informação extra": "https://www.parlamento.pt/arquivodocumentacao/documents/candidatos_oposicao.pdf\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1910-04-05",
+   "Nome": "Artur Morgado Ferreira Santos Silva"
+  }
+ },
+ {
+  "nome": "Mário Augusto Sotto Mayor Leal Cardia",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1941-05-19",
+  "morte": "2006",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Constituinte eleito pelo PS por Lisboa e ministro da Educação.",
+   "Data de morte": "2006",
+   "Informação extra": "https://www.rtp.pt/noticias/pais/perfil-de-sottomayor-cardia_n36911\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1941-05-19",
+   "Nome": "Mário Augusto Sotto Mayor Leal Cardia"
+  }
+ },
+ {
+  "nome": "Pedro Amadeu de Albuquerque Santos Coelho",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "Incerto",
+  "morte": "2016",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Fundador do PS e deputado constituinte eleito por Lisboa.",
+   "Data de morte": "2016",
+   "Informação extra": "https://ps.pt/pedro-coelho/\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "Incerto",
+   "Nome": "Pedro Amadeu de Albuquerque Santos Coelho"
+  }
+ },
+ {
+  "nome": "Abel Augusto Carneiro",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1926-03-21",
+  "morte": "1976-12-11",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Advogado e constituinte eleito pelo PPD por Viana do Castelo.",
+   "Data de morte": "1976-12-11",
+   "Informação extra": "https://pt.wikipedia.org/wiki/Abel_Carneiro\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1926-03-21",
+   "Nome": "Abel Augusto Carneiro"
+  }
+ },
+ {
+  "nome": "Etelvina Lopes de Almeida",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1916-03-17",
+  "morte": "2004-04-30",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Opositora do Estado Novo e deputada constituinte eleita pelo PS por Évora.",
+   "Data de morte": "2004-04-30",
+   "Informação extra": "https://www.parlamento.pt/ArquivoDocumentacao/Documents/Candidatos_Oposicao.pdf\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1916-03-17",
+   "Nome": "Etelvina Lopes de Almeida"
+  }
+ },
+ {
+  "nome": "Olívio da Silva França",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1901-12-11",
+  "morte": "1981",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Opositor do Estado Novo e deputado constituinte eleito pelo PPD pelo Porto.",
+   "Data de morte": "1981",
+   "Informação extra": "https://www.parlamento.pt/ArquivoDocumentacao/Documents/Candidatos_Oposicao.pdf\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1901-12-11",
+   "Nome": "Olívio da Silva França"
+  }
+ },
+ {
+  "nome": "António Duarte Arnaut",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1936",
+  "morte": "2018-05-21",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Advogado, constituinte pelo PS eleito por Coimbra e ministro dos Assuntos Sociais no II Governo Constitucional.",
+   "Data de morte": "2018-05-21",
+   "Informação extra": "https://portugal.gov.pt/gc21/comunicacao/comunicados/governo-decreta-luto-nacional\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1936",
+   "Nome": "António Duarte Arnaut"
+  }
+ },
+ {
+  "nome": "Fernando Monteiro do Amaral",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1925",
+  "morte": "2009",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Jurista, constituinte pelo PPD eleito por Viseu e antigo presidente da Assembleia da República.",
+   "Data de morte": "2009",
+   "Informação extra": "https://www.parlamento.pt/VisitaParlamento/Paginas/BiogFernandoAmaral.aspx\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1925",
+   "Nome": "Fernando Monteiro do Amaral"
+  }
+ },
+ {
+  "nome": "Francisco Igrejas Caeiro",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "Incerto",
+  "morte": "2012",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Ator e profissional da rádio e da televisão, eleito constituinte pelo PS por Lisboa.",
+   "Data de morte": "2012",
+   "Informação extra": "https://www.rtp.pt/noticias/cultura/morreu-igrejas-caeiro_v528621\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "Incerto",
+   "Nome": "Francisco Igrejas Caeiro"
+  }
+ },
+ {
+  "nome": "António Pereira de Castro Norton de Matos",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "Incerto",
+  "morte": "2021",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Cofundador do CDS e constituinte eleito por Viana do Castelo.",
+   "Data de morte": "2021",
+   "Informação extra": "https://www.rtp.pt/noticias/politica/morreu-o-fundador-do-cds-antonio-norton-de-matos_n1337405\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "Incerto",
+   "Nome": "António Pereira de Castro Norton de Matos"
+  }
+ },
+ {
+  "nome": "Joaquim Jorge Magalhães Saraiva da Mota",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Cemitério Alto São João"
+  ],
+  "rotas": [],
+  "nascimento": "1935-11-17",
+  "morte": "2007-09-26",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Advogado, cofundador do PPD e deputado constituinte eleito por Lisboa. O funeral seguiu para o Cemitério do Alto de São João.",
+   "Data de morte": "2007-09-26",
+   "Fotografia": "https://forumcen.psd.pt/sites/default/files/styles/people_card_735x825/public/2020-09/joaquim-magalhaes-mota-psd.jpg?itok=P3rxoVFc",
+   "Informação extra": "https://gen.psd.pt/pt/joaquim-magalhaes-mota",
+   "Cemitério": "Cemitério Alto São João",
+   "Data de nascimento": "1935-11-17",
+   "Nome": "Joaquim Jorge Magalhães Saraiva da Mota"
+  }
+ },
+ {
+  "nome": "Carlos Alberto Mota Pinto",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1936-07-25",
+  "morte": "1985-05-07",
+  "foto": "fotos/417f3ddb5a6d81ba843ff813197dab9c.jpg",
+  "fotos": [
+   "fotos/417f3ddb5a6d81ba843ff813197dab9c.jpg"
+  ],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Professor de Direito, deputado constituinte pelo PPD eleito por Coimbra e primeiro-ministro entre 1978 e 1979.",
+   "Data de morte": "1985-05-07",
+   "Fotografia": "https://www.psd.pt/sites/default/files/styles/people_card_735x825/public/2020-09/carlos-mota-pinto-psd.jpg?itok=rxc-ESnk",
+   "Informação extra": "https://www.psd.pt/pt/carlos-mota-pinto",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1936-07-25",
+   "Nome": "Carlos Alberto Mota Pinto"
+  }
+ },
+ {
+  "nome": "Emídio Guerreiro",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1899-09-06",
+  "morte": "2005-06-29",
+  "foto": "fotos/417f3ddb5a6d81eb940ad97a36246f92.jpg",
+  "fotos": [
+   "fotos/417f3ddb5a6d81eb940ad97a36246f92.jpg"
+  ],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Professor de Matemática, opositor do Estado Novo e deputado constituinte eleito pelo PPD no Porto.",
+   "Data de morte": "2005-06-29",
+   "Fotografia": "https://www.nicolinos.pt/uploads/imagens/Emidio_Guerreiro.jpg",
+   "Informação extra": "https://www.cm-guimaraes.pt/cmguimaraes/uploads/document/file/13981/ata_n_n_o_13___de_30_de_junho_de_2005.pdf",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1899-09-06",
+   "Nome": "Emídio Guerreiro"
+  }
+ },
+ {
   "nome": "Luís Baena",
   "areas": [],
   "cemiterios": [
@@ -19395,8 +19816,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d812bb716f6a2f3274641.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d812bb716f6a2f3274641.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Henrique_Jos%C3%A9_Caldeira_Queiroz_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -19433,8 +19856,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8130858ceb4b7301f74f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8130858ceb4b7301f74f.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Victorino_Maximo_de_Carvalho_Guimar%C3%A3es_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -35883,8 +36308,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1600-12-12",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d817f80b4ea81732a10d8.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d817f80b4ea81732a10d8.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Foi bispo de Miranda e do Porto. Depois de falecer em Lisboa, o seu corpo foi trasladado para a catedral portuense.",
@@ -35979,8 +36406,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1260-10-30",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d818e8e5bc2f7069b0c2a.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d818e8e5bc2f7069b0c2a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto em meados do século XIII, entre Pedro Salvadores e Vicente Mendes na sucessão diocesana.",
@@ -36000,8 +36429,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8192b47ff4c66cf9c177.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8192b47ff4c66cf9c177.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga sede de Portucale, incluído no episcopológio histórico da Diocese do Porto.",
@@ -36048,8 +36479,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1639-07-13",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8196bc55e0fa9a10e45b.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8196bc55e0fa9a10e45b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Foi bispo titular de Targa e auxiliar de Lisboa antes de governar a diocese do Porto.",
@@ -36146,8 +36579,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1591-09-13",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81a8a9a1ee94e7ba35a9.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81a8a9a1ee94e7ba35a9.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Religioso franciscano, cronista e bispo do Porto. Autor das Crónicas da Ordem dos Frades Menores, promoveu reformas sinodais e obras na catedral.",
@@ -36244,8 +36679,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81b4a518ea3e2ca14073.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81b4a518ea3e2ca14073.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto durante o Cisma do Ocidente. No seu governo foram discutidos os direitos e a jurisdição dos bispos sobre a cidade.",
@@ -36341,8 +36778,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81c2815fc788ec71002f.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81c2815fc788ec71002f.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto durante mais de três décadas do século XIII. Batizou Dinis I e manteve uma relação próxima com o monarca, referido no seu testamento como afilhado e compadre.",
@@ -36416,8 +36855,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81c686a6c58a10d7a89a.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81c686a6c58a10d7a89a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado nomeado para a diocese do Porto, sem confirmação pontifícia ou sem tomada de posse, conforme a cronologia diocesana.",
@@ -36437,8 +36878,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81cab6cbde8dfbef5d6a.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81cab6cbde8dfbef5d6a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto na segunda metade do século XV, entre Luís Pires e Diogo de Sousa na sucessão diocesana.",
@@ -36484,8 +36927,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81d6a6d6d38703eeda1a.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81d6a6d6d38703eeda1a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado nomeado para a diocese do Porto, sem confirmação pontifícia ou sem tomada de posse, conforme a cronologia diocesana.",
@@ -36505,8 +36950,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81deb0d4fafc29627c97.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81deb0d4fafc29627c97.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga sede de Portucale, incluído no episcopológio histórico da Diocese do Porto.",
@@ -36526,8 +36973,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81dfb9b0e33afb33c38a.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81dfb9b0e33afb33c38a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto na passagem do século XIV para o XV, posteriormente transferido para Coimbra.",
@@ -36547,8 +36996,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1563-02-20",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81e1bd0dcec89d6abcc2.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81e1bd0dcec89d6abcc2.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto, de Leão e de Osma. Pertencia à família do cardeal Jorge da Costa.",
@@ -36594,8 +37045,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1300-01-07",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81e8b4c9d59c74ed94cc.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81e8b4c9d59c74ed94cc.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto no final do século XIII, sucessor de Vicente Mendes e antecessor de Geraldo Domingues.",
@@ -36615,8 +37068,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81eaa387cf520945436b.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81eaa387cf520945436b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Foi bispo de Lamego e depois do Porto, no período da crise dinástica de 1580.",
@@ -36660,8 +37115,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81f18f88e9fa5d9ef95e.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81f18f88e9fa5d9ef95e.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto na passagem do século XII para o XIII. O seu governo foi marcado por conflitos entre a autoridade episcopal, a Coroa e a comunidade urbana.",
@@ -36756,8 +37213,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81feae59ddfdba8c4942.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81feae59ddfdba8c4942.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Religioso beneditino e bispo do Porto. Promoveu importantes obras na Sé, incluindo a capela-mor, e reuniu sepulturas episcopais na Capela de Nossa Senhora da Saúde.",
@@ -36932,8 +37391,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1229-01-10",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d811d95bdd04a11925c91.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d811d95bdd04a11925c91.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora no início do século XIII, distinto do primeiro prelado da diocese restaurada.",
@@ -36979,8 +37440,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1574-08-06",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8123b0a1c8fcabbf292a.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8123b0a1c8fcabbf292a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Natural de Vila Viçosa, filho de Pedro de Castro e Brites de Melo. Foi bispo de Silves e arcebispo de Évora, onde promoveu obras na Sé e no paço episcopal.",
@@ -37027,8 +37490,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d813fa90cd8afd5158a41.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d813fa90cd8afd5158a41.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora no século XIV, incluído nos episcopológios da diocese.",
@@ -37100,8 +37565,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d814bb68af8652be61866.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d814bb68af8652be61866.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora no final do século XIII, posteriormente transferido para a diocese de Coimbra.",
@@ -37121,8 +37588,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8155b1c8e589d411d1d1.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8155b1c8e589d411d1d1.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo referido na sucessão eborense do século XV sob a forma latina Juan Roderici.",
@@ -37166,8 +37635,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1204-09-08",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8157ac8dd14adcce01eb.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8157ac8dd14adcce01eb.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo medieval de Évora, sucessor de Soeiro na reorganização da diocese restaurada.",
@@ -37187,8 +37658,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8160badad028ecce6345.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8160badad028ecce6345.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora na década de 1420, anterior a Álvaro de Abreu. Surge também identificado como Vasco Petri.",
@@ -37232,8 +37705,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1463-02-27",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8162bc59e8242fbf0a8d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8162bc59e8242fbf0a8d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora no século XV, também referido como Vasco de São Cosme.",
@@ -37281,8 +37756,10 @@
   "rotas": [],
   "nascimento": "1626-10-27",
   "morte": "1703-01-13",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8172b120fccf64ca475c.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8172b120fccf64ca475c.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Religioso da Ordem da Santíssima Trindade, bispo de Lamego e da Guarda e arcebispo de Évora. Exerceu também funções na Capela Real.",
@@ -37331,8 +37808,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1340-07-01",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8177939ffedb9447a89b.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8177939ffedb9447a89b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora no século XIV, responsável pela construção do claustro da Sé. O seu túmulo gótico conserva-se na capela do claustro.",
@@ -37379,8 +37858,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8179aa39eaef07b8ecee.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8179aa39eaef07b8ecee.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga diocese de Évora, incluído na relação histórica de prelados anteriores à restauração medieval.",
@@ -37478,8 +37959,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8186bb11e6db10410e6b.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8186bb11e6db10410e6b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga diocese de Évora, incluído na relação histórica de prelados anteriores à restauração medieval.",
@@ -37551,8 +38034,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8196b9c3ec7e104fe690.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8196b9c3ec7e104fe690.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga diocese de Évora, incluído na relação histórica de prelados anteriores à restauração medieval.",
@@ -37599,8 +38084,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d819bbf9de4d2fc4d74ed.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d819bbf9de4d2fc4d74ed.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora em meados do século XIV, antecessor de João Gomes de Chaves.",
@@ -37620,8 +38107,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d819d9e9dca69f987ead7.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d819d9e9dca69f987ead7.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado que governou a diocese de Évora no início do século XV, sendo depois transferido para Silves. Distingue-se de Martinho Gil de Basto.",
@@ -37641,8 +38130,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d819db1c3e60a1e0e24c2.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d819db1c3e60a1e0e24c2.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora e figura da vida política e diplomática portuguesa do século XV.",
@@ -37664,8 +38155,10 @@
   "rotas": [],
   "nascimento": "1683-11-09",
   "morte": "1759-09-16",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d819dbd2ee7b586f983b9.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d819dbd2ee7b586f983b9.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Religioso agostinho e arcebispo de Évora. Após a condenação da família Távora passou a usar o apelido Sousa.",
@@ -37712,8 +38205,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81a0ad93edce556b1c8d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81a0ad93edce556b1c8d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora na segunda metade do século XIV. A documentação do período deve ser lida no contexto do Cisma do Ocidente.",
@@ -37807,8 +38302,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1321-03-05",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81b78102db077511ba57.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81b78102db077511ba57.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado que governou as dioceses do Porto e de Évora no início do século XIV.",
@@ -37878,8 +38375,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81b9bdc5fae3316d46dc.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81b9bdc5fae3316d46dc.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga diocese de Évora, incluído na relação histórica de prelados anteriores à restauração medieval.",
@@ -37899,8 +38398,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1180-02-25",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81baaf24e5d75421e3b0.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81baaf24e5d75421e3b0.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Primeiro bispo de Évora depois da conquista cristã da cidade. Participou na reorganização da diocese no século XII.",
@@ -37920,8 +38421,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1266-10-30",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81bbb5e0e256968b929b.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81bbb5e0e256968b929b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora em meados do século XIII. Distingue-se do arcebispo homónimo de Braga.",
@@ -37967,8 +38470,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81bfb8f9ede047e7820d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81bfb8f9ede047e7820d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga diocese de Évora, incluído na relação histórica de prelados anteriores à restauração medieval.",
@@ -38013,8 +38518,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81c8b90dd013f3d0c6fc.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81c8b90dd013f3d0c6fc.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga diocese de Évora, incluído na relação histórica de prelados anteriores à restauração medieval.",
@@ -38060,8 +38567,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81d0a0f1e57d067c8165.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81d0a0f1e57d067c8165.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga diocese de Évora, incluído na relação histórica de prelados anteriores à restauração medieval.",
@@ -38081,8 +38590,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81d98d50c61f8f1f21cf.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81d98d50c61f8f1f21cf.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora no final do século XIV, também referido como João Eanes ou João Anes do Amaral.",
@@ -38129,8 +38640,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81dc9b68e5ef99f8a9d3.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81dc9b68e5ef99f8a9d3.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora na primeira metade do século XIV, predecessor de Afonso Dinis.",
@@ -38150,8 +38663,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81ddb728d90df0197df1.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81ddb728d90df0197df1.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora e depois arcebispo de Lisboa, membro da alta nobreza portuguesa do século XV.",
@@ -38251,8 +38766,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81f9a543dacafce94857.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81f9a543dacafce94857.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado associado à sede de Évora durante o Cisma do Ocidente.",
@@ -38272,8 +38789,10 @@
   "rotas": [],
   "nascimento": "1608",
   "morte": "1673-04-23",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81fb9550c024067b934a.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81fb9550c024067b934a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Quinto duque de Aveiro e prelado nomeado para as sedes de Évora e Braga, sem confirmação pontifícia dessas nomeações. Foi posteriormente arcebispo titular de Side.",
@@ -38295,8 +38814,10 @@
   "rotas": [],
   "nascimento": "1739-05-08",
   "morte": "1827-08-21",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d810187d4d4fcaf3ab11b.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d810187d4d4fcaf3ab11b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Religioso franciscano e arcebispo de Braga no primeiro quartel do século XIX.",
@@ -38317,8 +38838,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8101974bcaf32c1529d4.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8101974bcaf32c1529d4.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado referido na lista histórica da Arquidiocese de Braga para o ano de 1017. Distingue-se de Pedro, responsável pela restauração da sede na segunda metade do mesmo século.",
@@ -38336,8 +38859,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8103a6c2f1eeddb884c6.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8103a6c2f1eeddb884c6.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado incluído na lista histórica da Arquidiocese de Braga com referência ao ano de 1482.",
@@ -38357,8 +38882,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1285-12-21",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8104981ae93ff5a59da3.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8104981ae93ff5a59da3.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Braga no século XIII. Foi posteriormente elevado ao cardinalato.",
@@ -38406,8 +38933,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1416-03-28",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8107a356de98057da500.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8107a356de98057da500.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Antigo bispo de Coimbra e arcebispo de Braga na transição dos séculos XIV e XV.",
@@ -38428,8 +38957,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81088113c430aaaf9298.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81088113c430aaaf9298.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado referido na lista histórica da Arquidiocese de Braga para o ano de 1058.",
@@ -38447,8 +38978,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d810b8094e604801f2a81.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d810b8094e604801f2a81.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado de Braga no século VII, incluído na sucessão episcopal do período visigótico.",
@@ -38470,8 +39003,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d810baebbce8cd827788a.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d810baebbce8cd827788a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Dume e metropolita de Braga, de origem panónica. Fundou o Mosteiro de Dume e destacou-se na organização da Igreja do reino suevo e na produção de obras religiosas e morais.",
@@ -38490,8 +39025,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d810f9acce54b4579672d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d810f9acce54b4579672d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado bracarense do século VII, incluído nas cronologias da sede durante o período visigótico.",
@@ -38563,8 +39100,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d811181f3c2ce08726923.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d811181f3c2ce08726923.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Metropolita de Braga no século VII. O seu afastamento da sede antecedeu a eleição de Frutuoso.",
@@ -38582,8 +39121,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1188-07-31",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81118ef3c5fadc0f2421.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81118ef3c5fadc0f2421.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Braga na segunda metade do século XII, sucessor de João Peculiar.",
@@ -38603,8 +39144,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d811aaf7cf68092c1c5c1.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d811aaf7cf68092c1c5c1.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Antigo bispo de Coimbra e arcebispo de Braga. Tornou-se antipapa com o nome de Gregório VIII, no contexto do conflito entre o papado e o poder imperial.",
@@ -38800,8 +39343,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1292-11-23",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81328635d6a2822e4091.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81328635d6a2822e4091.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Religioso franciscano e arcebispo de Braga no final do século XIII.",
@@ -38821,8 +39366,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81339759dc41450bd184.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81339759dc41450bd184.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Braga na primeira metade do século XII, no período de formação do reino de Portugal.",
@@ -38896,8 +39443,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1587-07-14",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81369b26ec8dbd83d153.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81369b26ec8dbd83d153.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Braga no século XVI, sucessor de Bartolomeu dos Mártires.",
@@ -38917,8 +39466,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8137bd76fe9c82a72401.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8137bd76fe9c82a72401.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Lamego escolhido para a sede de Braga no início do século XIII. A cronologia e a efetiva tomada de posse da sede bracarense apresentam reservas nas fontes.",
@@ -38940,8 +39491,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d813a800cf80e6c5d4873.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d813a800cf80e6c5d4873.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Braga na segunda metade do século XIV. Fundou a capela atualmente conhecida como Capela dos Reis, na Sé de Braga, onde se conserva a sua sepultura.",
@@ -39091,8 +39644,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8163b19ed54f388317a6.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8163b19ed54f388317a6.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Braga entre o final do século XII e o início do século XIII.",
@@ -39114,8 +39669,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8164b0edf5628f83eea0.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8164b0edf5628f83eea0.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve escolhido para Braga em 1481. As fontes hierárquicas indicam que não chegou a tomar posse da sede bracarense.",
@@ -39162,8 +39719,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1255-11-16",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d816db77be24d4fe67597.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d816db77be24d4fe67597.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado incluído na sucessão de Braga em meados do século XIII.",
@@ -39233,8 +39792,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d817ebddcd0100546362d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d817ebddcd0100546362d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado referido na lista histórica da Arquidiocese de Braga para o ano de 1251. A distinção face a outros homónimos requer investigação documental.",
@@ -39277,8 +39838,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8180b852ea87c3ce746d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8180b852ea87c3ce746d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado referido na lista histórica da Arquidiocese de Braga para o ano de 986.",
@@ -39295,8 +39858,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8183a239c5b67078d55e.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8183a239c5b67078d55e.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado referido na lista histórica da Arquidiocese de Braga para o ano de 1397. A cronologia do seu episcopado requer confirmação adicional.",
@@ -39342,8 +39907,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8184bb79d2765bb7bdbc.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8184bb79d2765bb7bdbc.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Braga documentado nas atas do I Concílio de Toledo, realizado em 400. É o primeiro bispo bracarense cuja existência a Arquidiocese considera comprovada.",
@@ -39387,8 +39954,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d818b9935e24b03c9a4fc.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d818b9935e24b03c9a4fc.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado associado às sedes de Braga e Lugo no século XI.",
@@ -39406,8 +39975,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d818bb8e7e71bdc318269.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d818bb8e7e71bdc318269.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo responsável pela restauração da sede de Braga no século XI. O seu governo pertence ao período de reorganização eclesiástica anterior à formação do reino de Portugal.",
@@ -39453,8 +40024,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d818f8573ddf72bc0cdd0.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d818f8573ddf72bc0cdd0.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado incluído na sucessão dos arcebispos de Braga na segunda metade do século XIV.",
@@ -39503,8 +40076,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8191b169ec01ea4a8171.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8191b169ec01ea4a8171.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Antigo bispo do Porto e de Évora e arcebispo de Braga na segunda metade do século XV.",
@@ -39575,8 +40150,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d819b956bc64d2b6cdf23.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d819b956bc64d2b6cdf23.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado de Braga no século VII, anterior ao episcopado de Potâmio.",
@@ -39648,8 +40225,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81ae804dd4e1c5790f3a.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81ae804dd4e1c5790f3a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado incluído na lista histórica da Arquidiocese de Braga com referência ao ano de 1181. A sua identificação e a cronologia do governo requerem confirmação documental adicional.",
@@ -39669,8 +40248,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1501-08-30",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81aeaaf6d1d86ab26cd6.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81aeaaf6d1d86ab26cd6.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Braga no final do século XV. Distingue-se do cardeal Jorge da Costa, conhecido como cardeal de Alpedrinha.",
@@ -39691,8 +40272,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81afa75dc8ac4acd4bd0.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81afa75dc8ac4acd4bd0.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado referido na lista histórica da Arquidiocese de Braga para o ano de 1275. A sua identificação deve ser distinguida dos outros homónimos da cronologia.",
@@ -39712,8 +40295,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1325-05-01",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81b4a7bdc3d41666c18d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81b4a7bdc3d41666c18d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Antigo bispo de Lisboa e arcebispo de Braga no início do século XIV.",
@@ -39734,8 +40319,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81b6a1c9c08d1d27473d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81b6a1c9c08d1d27473d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado francês e arcebispo de Braga no século XIV. A sua carreira eclesiástica incluiu outras sedes fora de Portugal.",
@@ -39807,8 +40394,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81c581f3e9ccfdcb7d8b.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81c581f3e9ccfdcb7d8b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Braga no período visigótico, documentado na tradição conciliar do final do século VI.",
@@ -39828,8 +40417,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1390-10-07",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81c69ad0c0458fb743f3.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81c69ad0c0458fb743f3.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado francês e arcebispo de Braga no século XIV. Exerceu posteriormente outras funções eclesiásticas fora de Portugal.",
@@ -39874,8 +40465,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81c89fe8c5a9bb1da08d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81c89fe8c5a9bb1da08d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado incluído na lista histórica de Braga como Sancho, com referência ao ano de 1226. Distingue-se neste registo dos outros prelados homónimos apresentados na mesma lista.",
@@ -39895,8 +40488,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1271-09-01",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81cfa4f4e94d0858612c.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81cfa4f4e94d0858612c.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Braga no século XIII, anterior à passagem de Pedro Julião pela sede.",
@@ -39943,8 +40538,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81d2a8fefd23270a5823.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81d2a8fefd23270a5823.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado incluído na lista histórica da Arquidiocese de Braga com referência ao ano de 1240.",
@@ -39992,8 +40589,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1549-07-18",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81dc8037de07828a4801.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81dc8037de07828a4801.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Antigo bispo de Silves e arcebispo de Braga em meados do século XVI.",
@@ -40066,8 +40665,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81e0be38e0733478f7cb.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81e0be38e0733478f7cb.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Braga no século VI. O seu episcopado antecede o primeiro Concílio de Braga.",
@@ -40111,8 +40712,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81e39aadf3bddbe7ad31.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81e39aadf3bddbe7ad31.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Metropolita de Braga no século VI. Presidiu ao I Concílio de Braga, em 561.",
@@ -40184,8 +40787,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1313-03-25",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81e9aba5fc2bd56dbecc.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81e9aba5fc2bd56dbecc.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Braga entre o final do século XIII e o início do século XIV.",
@@ -40231,8 +40836,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1244-07-08",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81ee8b7ed49b52d01a7a.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81ee8b7ed49b52d01a7a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Braga na primeira metade do século XIII, incluído na sucessão histórica da Arquidiocese.",
@@ -40278,8 +40885,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81fb9e3bf9bf53e431ae.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81fb9e3bf9bf53e431ae.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado referido na lista histórica da Arquidiocese de Braga para o ano de 1060.",
@@ -40974,8 +41583,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8146a1b7c1dda649b290.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8146a1b7c1dda649b290.png"
+  ],
   "detalhes": {
    "Biografia": "Escritor, jornalista e dramaturgo português.",
    "Data de morte": "Incerto",
@@ -41114,8 +41725,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d816e9355efc883c779bb.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d816e9355efc883c779bb.png"
+  ],
   "detalhes": {
    "Biografia": "Incerto — identidade e dados biográficos por confirmar.",
    "Data de morte": "Incerto",
@@ -41150,8 +41763,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8176beeacdfa812d51c8.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8176beeacdfa812d51c8.png"
+  ],
   "detalhes": {
    "Biografia": "Militar de origem britânica ao serviço de Portugal, associado às guerras liberais.",
    "Data de morte": "Incerto",
@@ -41367,8 +41982,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81949a80de88e0e3428a.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81949a80de88e0e3428a.png"
+  ],
   "detalhes": {
    "Biografia": "Incerto — identidade e dados biográficos por confirmar.",
    "Data de morte": "Incerto",
@@ -42451,8 +43068,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3f2f3ddb5a6d80a49444e80b630a1196.png",
+  "fotos": [
+   "fotos/3f2f3ddb5a6d80a49444e80b630a1196.png"
+  ],
   "detalhes": {
    "Área": "Teatro, Cinema",
    "Biografia": "Josefina Silva foi atriz portuguesa, com uma carreira ligada sobretudo ao teatro, à revista e ao cinema. Participou em várias produções populares portuguesas ao longo do século XX, destacando-se pela sua presença em papéis de carácter e comédia. Foi também mulher do ator António Silva, com quem partilhou parte da sua vida ligada ao meio artístico português.",
@@ -43837,8 +44456,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d80c2989dd516813081dd.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d80c2989dd516813081dd.png"
+  ],
   "detalhes": {
    "Área": "Jornalismo",
    "Biografia": "Jornalista.",
@@ -44065,8 +44686,10 @@
   "rotas": [],
   "nascimento": "1931-07-23",
   "morte": "2010-01-31",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8077a0c9e62845dbd754.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8077a0c9e62845dbd754.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Manuel Serra foi um líder socialista católico, antifascista, ex-dirigente do Partido Socialista e revolucionário português.",
@@ -44216,8 +44839,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8090a3edd54995b81043.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8090a3edd54995b81043.png"
+  ],
   "detalhes": {
    "Área": "Jornalismo",
    "Biografia": "Jornalista.",
@@ -44265,8 +44890,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d806684acef63d12fd371.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d806684acef63d12fd371.png"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Biografia": "Fundou a Ulisseia em 1948, editora que em 1972 foi comprada pelo grupo Verbo. ",
@@ -44314,8 +44941,10 @@
   "rotas": [],
   "nascimento": "27/11/1939",
   "morte": "13/11/2008",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d80608531c2e2587c8780.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d80608531c2e2587c8780.jpg"
+  ],
   "detalhes": {
    "Área": "Teatro, Cinema",
    "Biografia": "Ator, encenador e dramaturgo.\n",
@@ -44675,8 +45304,10 @@
   "rotas": [],
   "nascimento": "1938-05-05",
   "morte": "2020-03-25",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8033acc1c10c8e0bd518.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8033acc1c10c8e0bd518.jpg"
+  ],
   "detalhes": {
    "Área": "Comércio",
    "Biografia": "Conhecido gastrónomo e empresário da restauração alentejana. Foi cremado em Elvas. ",
@@ -45140,8 +45771,10 @@
   "rotas": [],
   "nascimento": "1862-02-14",
   "morte": "1863-05-18",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f59bb0c436ac04395c.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f59bb0c436ac04395c.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Maria Ana de Bragança e Jorge da Saxónia; neto/a de Maria II.",
@@ -45160,8 +45793,10 @@
   "rotas": [],
   "nascimento": "1860-06-19",
   "morte": "1861-03-02",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f58391ebfd65cd22f5.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f58391ebfd65cd22f5.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Maria Ana de Bragança e Jorge da Saxónia; neto/a de Maria II.",
@@ -45205,8 +45840,10 @@
   "rotas": [],
   "nascimento": "1903-03-08",
   "morte": "1987-06-13",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d816eb239fcd2d719f357.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d816eb239fcd2d719f357.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Maria Antónia de Bragança e Roberto I de Parma; neto/a de Miguel I.",
@@ -45248,8 +45885,10 @@
   "rotas": [],
   "nascimento": "1898-06-14",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81d699abc76c9cbe46d0.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81d699abc76c9cbe46d0.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Roberto I, duque de Parma, e Maria Antónia de Bragança, neta de Miguel I de Portugal. Data de morte e sepultura incertas.",
@@ -45268,8 +45907,10 @@
   "rotas": [],
   "nascimento": "1895",
   "morte": "1977",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8194bcb2c28bb3f67617.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8194bcb2c28bb3f67617.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Maria Antónia de Bragança e Roberto I de Parma; neto/a de Miguel I.",
@@ -45359,8 +46000,10 @@
   "rotas": [],
   "nascimento": "1890-04-22",
   "morte": "1978-10-07",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d810b97b6e064a72d91b6.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d810b97b6e064a72d91b6.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Roberto I, duque de Parma, e Maria Antónia de Bragança, neta de Miguel I de Portugal. Pertenceu à extensa descendência da Casa de Bourbon-Parma. Morreu em 1978.",
@@ -45426,8 +46069,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81759d6fc026780964a2.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81759d6fc026780964a2.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Maria Antónia de Bragança e Roberto I de Parma; neto/a de Miguel I.",
@@ -45468,8 +46113,10 @@
   "rotas": [],
   "nascimento": "1901-03-07",
   "morte": "1950-08-02",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d817c82baf301a0828b70.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d817c82baf301a0828b70.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Guilherme IV do Luxemburgo e Maria Ana de Bragança, neta de Miguel I de Portugal. Princesa do Luxemburgo, nasceu em 1901 e morreu em 1950.",
@@ -45798,8 +46445,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d811dba69df7b873a7705.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d811dba69df7b873a7705.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Miguel Januário de Bragança e Isabel de Thurn e Taxis / Maria Teresa de Löwenstein-Wertheim-Rosenberg; neto/a de Miguel I.",
@@ -45980,8 +46629,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81319df4ec6f6569e339.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81319df4ec6f6569e339.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Januária Maria de Bragança e Luís Carlos de Bourbon-Duas Sicílias; neto/a de Pedro IV.",
@@ -46002,8 +46653,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d817b927ad7fda0d0b12d.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d817b927ad7fda0d0b12d.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Januária Maria de Bragança e Luís Carlos de Bourbon-Duas Sicílias; neto/a de Pedro IV.",
@@ -46023,8 +46676,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8124bf95d46a00b2f154.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8124bf95d46a00b2f154.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Januária Maria de Bragança e Luís Carlos de Bourbon-Duas Sicílias; neto/a de Pedro IV.",
@@ -46043,8 +46698,10 @@
   "rotas": [],
   "nascimento": "1845-07-18",
   "morte": "1909-11-27",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81a4b898f03a9e324787.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81a4b898f03a9e324787.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Januária Maria de Bragança e Luís Carlos de Bourbon-Duas Sicílias; neto/a de Pedro IV.",
@@ -46086,8 +46743,10 @@
   "rotas": [],
   "nascimento": "1832-04-27",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d810ea2f7e6ac4e07e388.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d810ea2f7e6ac4e07e388.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Ana de Jesus Maria de Bragança e Nuno José Severo de Mendóça Rolim de Moura Barreto; neto/a de João VI.",
@@ -46106,8 +46765,10 @@
   "rotas": [],
   "nascimento": "1830-10-07",
   "morte": "1909-03-02",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d815b89f9e1270f10dc71.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d815b89f9e1270f10dc71.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Ana de Jesus Maria de Bragança e Nuno José Severo de Mendóça Rolim de Moura Barreto; neto/a de João VI.",
@@ -46126,8 +46787,10 @@
   "rotas": [],
   "nascimento": "1829",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81dbb8e0f47c4d01eabb.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81dbb8e0f47c4d01eabb.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Ana de Jesus Maria de Bragança e Nuno José Severo de Mendóça Rolim de Moura Barreto; neto/a de João VI.",
@@ -46198,8 +46861,10 @@
   "rotas": [],
   "nascimento": "1822-05-15",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d816b8e4ff5686bb24c78.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d816b8e4ff5686bb24c78.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Carlos Maria Isidro de Bourbon e Maria Francisca de Bragança, neto de João VI. Pertenceu à linha carlista da Casa de Bourbon. Data de morte e local de sepultura a confirmar.",
@@ -46417,8 +47082,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d811691dbf33748973f11.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d811691dbf33748973f11.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Carlos III de Saboia e Beatriz de Portugal, neto de Manuel I. Datas exactas e sepultura incertas.",
@@ -46489,8 +47156,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81c587efd22fce3972c7.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81c587efd22fce3972c7.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Carlos III de Saboia e Beatriz de Portugal, neta de Manuel I. Datas exactas e sepultura incertas.",
@@ -46509,8 +47178,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8117b4e6ea0e84d54663.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8117b4e6ea0e84d54663.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Carlos III de Saboia e Beatriz de Portugal, neta de Manuel I. Datas exactas e local de sepultura incertos.",
@@ -46578,8 +47249,10 @@
   "rotas": [],
   "nascimento": "1523-12-04",
   "morte": "1536-11-25",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8138908ce455348537c8.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8138908ce455348537c8.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Carlos III, duque de Saboia, e Beatriz de Portugal, neto de Manuel I. Príncipe da Casa de Saboia, nasceu em 1523 e morreu em 1536.",
@@ -46694,8 +47367,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81eab5f8fe62901933f0.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81eab5f8fe62901933f0.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha do imperador Frederico III e de Leonor de Portugal, neta de Duarte. Morreu na infância; datas exactas e sepultura incertas.",
@@ -46765,8 +47440,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81128450f1e1ccc0dfa3.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81128450f1e1ccc0dfa3.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Fernando de Portugal, duque de Viseu e Beatriz de Portugal; neto/a de Duarte.",
@@ -46834,8 +47511,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d810d9852fde367ba19c0.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d810d9852fde367ba19c0.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Fernando de Portugal, duque de Viseu e Beatriz de Portugal; neto/a de Duarte.",
@@ -46906,8 +47585,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d816d9cd3fac432806b7d.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d816d9cd3fac432806b7d.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Fernando de Portugal, duque de Viseu e Beatriz de Portugal; neto/a de Duarte.",
@@ -46978,8 +47659,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81cd9766f42a93ecd5b5.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81cd9766f42a93ecd5b5.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Afonso de Bragança e Beatriz Pereira de Alvim; neto/a de João I.",
@@ -47050,8 +47733,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8144b20aed3abaa8f4f8.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8144b20aed3abaa8f4f8.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de João de Portugal, condestável e Isabel de Bragança; neto/a de João I.",
@@ -47122,8 +47807,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8174bf7cf09e510375a4.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8174bf7cf09e510375a4.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Isabel de Portugal e Filipe III da Borgonha; neto/a de João I.",
@@ -47263,8 +47950,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81cd99fcf401184ba03b.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81cd99fcf401184ba03b.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Pedro de Portugal, duque de Coimbra e Isabel de Urgel; neto/a de João I.",
@@ -47283,8 +47972,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1466-06-29",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d818da405f84b625fd5d3.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d818da405f84b625fd5d3.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Pedro de Portugal, duque de Coimbra e Isabel de Urgel; neto/a de João I.",
@@ -47303,8 +47994,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d813ea4eae084dcb83c8a.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d813ea4eae084dcb83c8a.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Beatriz de Portugal e João I de Castela, neto de Fernando I de Portugal. As datas de nascimento e morte e o local de sepultura permanecem incertos.",
@@ -47322,8 +48015,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8172adb4d793ea7f5b1a.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8172adb4d793ea7f5b1a.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de João de Portugal, duque de Valência de Campos e mãe identificada nas genealogias do ramo; neto/a de Pedro I.",
@@ -47342,8 +48037,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8152aeeff6c3b49032cf.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8152aeeff6c3b49032cf.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de João de Portugal, duque de Valência de Campos e mãe identificada nas genealogias do ramo; neto/a de Pedro I.",
@@ -47362,8 +48059,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d818da6dad17db221ee5f.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d818da6dad17db221ee5f.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de João de Portugal, duque de Valência de Campos e mãe identificada nas genealogias do ramo; neto/a de Pedro I.",
@@ -47482,8 +48181,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8190a626d03a48b23112.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8190a626d03a48b23112.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Maria de Portugal e Fernando de Aragão, marquês de Tortosa, neto de Pedro I de Portugal. Datas de nascimento e morte e sepultura incertas.",
@@ -47548,8 +48249,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8133bc1eda277176a409.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8133bc1eda277176a409.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Afonso Sanches e Teresa Martins de Meneses; neto/a de Dinis.",
@@ -47594,8 +48297,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8191b01bd211b2d49452.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8191b01bd211b2d49452.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso Sanches e Teresa Martins de Meneses; neto/a de Dinis.",
@@ -47661,8 +48366,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81808e2cd2615323b715.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81808e2cd2615323b715.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Fernando IV de Castela e Constança de Portugal, neta de Dinis I de Portugal. Datas de nascimento e morte e sepultura incertas.",
@@ -47680,8 +48387,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f3a645d978bb026d8a.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f3a645d978bb026d8a.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso Dinis e Maria Pais Ribeira; neto/a de Afonso III.",
@@ -47700,8 +48409,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81fda1f0cccc29db31a1.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81fda1f0cccc29db31a1.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Afonso Dinis e Maria Pais Ribeira; neto/a de Afonso III.",
@@ -47743,8 +48454,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81b09c14ee3c7529f1f4.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81b09c14ee3c7529f1f4.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso Dinis e Maria Pais Ribeira; neto/a de Afonso III.",
@@ -47789,8 +48502,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81d19992d84048dcd462.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81d19992d84048dcd462.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Martim Afonso Chichorro e Inês Lourenço de Valadares; neto/a de Afonso III.",
@@ -47809,8 +48524,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d812cbed6d439299c26b6.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d812cbed6d439299c26b6.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Martim Afonso Chichorro e Inês Lourenço de Valadares; neto/a de Afonso III.",
@@ -47852,8 +48569,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81ddb169da7989eccc6e.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81ddb169da7989eccc6e.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Martim Afonso Chichorro e Inês Lourenço de Valadares; neto/a de Afonso III.",
@@ -47872,8 +48591,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d812b886ae417a175717d.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d812b886ae417a175717d.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Martim Afonso Chichorro e Inês Lourenço de Valadares; neto/a de Afonso III.",
@@ -47939,8 +48660,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f1bec0e4cc3164dfa2.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f1bec0e4cc3164dfa2.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Afonso Afonso de Portugal e Violante Manuel de Castela; neto/a de Afonso III.",
@@ -47959,8 +48682,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81d5a624d47137fa243e.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81d5a624d47137fa243e.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Afonso Afonso de Portugal e Violante Manuel de Castela; neto/a de Afonso III.",
@@ -48003,8 +48728,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8165a5a8d61f339cb792.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8165a5a8d61f339cb792.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Fernando Afonso de Portugal e Sancha Fernandes de Lara; neto/a de Afonso II.",
@@ -48023,8 +48750,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8175a809ec67112b6c6e.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8175a809ec67112b6c6e.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Fernando Afonso de Portugal e Sancha Fernandes de Lara; neto/a de Afonso II.",
@@ -48043,8 +48772,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f9b9d3ea9591760423.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f9b9d3ea9591760423.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Fernando Sanches de Portugal e Joana de Constantinopla; neto/a de Sancho I.",
@@ -48116,8 +48847,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d810d8f37ccdd354dd644.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d810d8f37ccdd354dd644.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Valdemar II da Dinamarca e Berengária de Portugal, neta de Sancho I. Datas exactas e sepultura incertas.",
@@ -48213,8 +48946,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81d6b1e5dbfb40dd3fa5.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81d6b1e5dbfb40dd3fa5.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filhoa de Teresa Sanches de Portugal e Afonso IX de Leão; neto/a de Sancho I.",
@@ -48260,8 +48995,10 @@
   "rotas": [],
   "nascimento": "1887",
   "morte": "1887",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8186aff6d2f215d74ce1.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8186aff6d2f215d74ce1.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Carlos I e Amélia de Orleães; nasceu e morreu em 1887, distinguindo-se das várias homónimas pela filiação.",
@@ -48360,8 +49097,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d816595f6dd068af31cd6.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d816595f6dd068af31cd6.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Maria II e Fernando II; morreu à nascença.",
@@ -48383,8 +49122,10 @@
   "rotas": [],
   "nascimento": "1849-05-07",
   "morte": "1849-05-07",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8100b465fd9b2809edf1.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8100b465fd9b2809edf1.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Maria II e Fernando II; morreu à nascença.",
@@ -48530,8 +49271,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d814ba9cbf33da313ab64.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d814ba9cbf33da313ab64.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Maria II e Fernando II; morreu à nascença.",
@@ -48551,8 +49294,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d819c9ae6c5d931b0ea09.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d819c9ae6c5d931b0ea09.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha natural atribuída a Miguel I; mãe não identificada na genealogia consultada.",
@@ -48571,8 +49316,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81b3970ecc5a5b4c3b1b.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81b3970ecc5a5b4c3b1b.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha natural atribuída a Miguel I e Antónia Francisca Ribeiro do Carmo; filiação materna indicada como incerta na genealogia consultada.",
@@ -48843,8 +49590,10 @@
   "rotas": [],
   "nascimento": "1821-03-06",
   "morte": "1822-02-04",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d815c9e83ebe383ce8b75.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d815c9e83ebe383ce8b75.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Pedro IV e Maria Leopoldina de Áustria; morreu criança.",
@@ -48863,8 +49612,10 @@
   "rotas": [],
   "nascimento": "1820-04-24",
   "morte": "1820-04-24",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d815490c7d62eccce2ae1.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d815490c7d62eccce2ae1.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Pedro IV e Maria Leopoldina de Áustria; morreu criança, distinguindo-se de outros Miguel de Bragança.",
@@ -49080,8 +49831,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81dca1eaefde46010cd7.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81dca1eaefde46010cd7.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Maria I e Pedro III; infanta de Portugal, morreu criança.",
@@ -49126,8 +49879,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1763-10-10",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f99e55e7cb28776122.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f99e55e7cb28776122.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Maria I e Pedro III; infante de Portugal, morreu criança.",
@@ -49244,8 +49999,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f1a0bdfab96b86172f.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f1a0bdfab96b86172f.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha natural de João V e Luísa Clara de Portugal, conhecida como Flor da Murta.",
@@ -49266,8 +50023,10 @@
   "rotas": [],
   "nascimento": "1720-09-08",
   "morte": "1801-07-31",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81e0a2effc48dad1bf88.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81e0a2effc48dad1bf88.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural de João V e Paula de Odivelas (Madre Paula); um dos Meninos de Palhavã.",
@@ -49388,8 +50147,10 @@
   "rotas": [],
   "nascimento": "1712-10-19",
   "morte": "1714-10-29",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8158bbc4c1e052fff065.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8158bbc4c1e052fff065.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de João V e Maria Ana Josefa de Áustria; príncipe herdeiro, morreu criança.",
@@ -49430,8 +50191,10 @@
   "rotas": [],
   "nascimento": "1679-01-09",
   "morte": "1732-12-23",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81e0b4abc78eb6e6b7df.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81e0b4abc78eb6e6b7df.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha natural de Pedro II e Maria da Cruz Mascarenhas.",
@@ -49450,8 +50213,10 @@
   "rotas": [],
   "nascimento": "1703-05-06",
   "morte": "1756-06-03",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d812ab92fe4ec4ceadf7a.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d812ab92fe4ec4ceadf7a.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural de Pedro II e Francisca Clara da Silva; arcebispo de Braga.",
@@ -49470,8 +50235,10 @@
   "rotas": [],
   "nascimento": "1699-10-15",
   "morte": "1724-01-13",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d812c99f0c09329f8f4b6.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d812c99f0c09329f8f4b6.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural de Pedro II e Anne Armande de Verger.",
@@ -49514,8 +50281,10 @@
   "rotas": [],
   "nascimento": "1697-08-03",
   "morte": "1766-08-03",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81bf9431f6589af77f68.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81bf9431f6589af77f68.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Pedro II e Maria Sofia Isabel de Neuburgo; infante de Portugal.",
@@ -49536,8 +50305,10 @@
   "rotas": [],
   "nascimento": "1696-02-24",
   "morte": "1704-02-16",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d813ea7e8c73a4b2c7192.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d813ea7e8c73a4b2c7192.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Pedro II e Maria Sofia Isabel de Neuburgo; morreu criança.",
@@ -49609,8 +50380,10 @@
   "rotas": [],
   "nascimento": "1688-08-30",
   "morte": "1688-09-17",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8173b6cbdfba12be752f.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8173b6cbdfba12be752f.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Pedro II e Maria Sofia Isabel de Neuburgo; príncipe do Brasil, morreu criança.",
@@ -49654,8 +50427,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81918fd9fd64464110b3.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81918fd9fd64464110b3.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha atribuída a João IV; a genealogia consultada regista-a separadamente dos sete filhos do casamento.",
@@ -49674,8 +50449,10 @@
   "rotas": [],
   "nascimento": "1640-09-06",
   "morte": "1640-09-06",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8180aca6fd5225060bce.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8180aca6fd5225060bce.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de João IV e Luísa de Gusmão; morreu jovem.",
@@ -49722,8 +50499,10 @@
   "rotas": [],
   "nascimento": "18/09/1636",
   "morte": "1653-11-17",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8137bb20fc58953064d2.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8137bb20fc58953064d2.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de João IV e Luísa de Gusmão.",
@@ -49792,8 +50571,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81c0bc93e6c9c5a1f690.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81c0bc93e6c9c5a1f690.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural documentado de João III; distingue-se do filho legítimo homónimo pela filiação natural.",
@@ -49940,8 +50721,10 @@
   "rotas": [],
   "nascimento": "1531-11-01",
   "morte": "1537-04-14",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8166a804fc75375455aa.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8166a804fc75375455aa.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de João III e Catarina de Áustria; príncipe herdeiro, morreu criança.",
@@ -49988,8 +50771,10 @@
   "rotas": [],
   "nascimento": "1529-04-28",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d816b972af9f9b26d3eef.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d816b972af9f9b26d3eef.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de João III e Catarina de Áustria; morreu criança.",
@@ -50035,8 +50820,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1577",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f49fe4f28132a1a27c.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f49fe4f28132a1a27c.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Manuel I e Leonor de Áustria; duquesa de Viseu, distinguindo-se da meia-irmã homónima.",
@@ -50129,8 +50916,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f7a7d3f8666e861939.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f7a7d3f8666e861939.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Manuel I e Maria de Aragão.",
@@ -50274,8 +51063,10 @@
   "rotas": [],
   "nascimento": "1498-08-24",
   "morte": "1500-07-19",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8174a7c5fee5a3fd3764.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8174a7c5fee5a3fd3764.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Manuel I e Isabel de Aragão; príncipe herdeiro de Portugal, Castela e Aragão.",
@@ -50340,8 +51131,10 @@
   "rotas": [],
   "nascimento": "1434-09-18",
   "morte": "1467-09-03",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f2b201e0d00516e7da.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f2b201e0d00516e7da.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Duarte e Leonor de Aragão; imperatriz do Sacro Império por casamento.",
@@ -50463,8 +51256,10 @@
   "rotas": [],
   "nascimento": "1400-01-13",
   "morte": "1442-10-18",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81e08c1df9d898bbef43.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81e08c1df9d898bbef43.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de João I e Filipa de Lencastre; condestável de Portugal.",
@@ -50536,8 +51331,10 @@
   "rotas": [],
   "nascimento": "1392-12-09",
   "morte": "1449-05-20",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81649775e90456f2fedc.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81649775e90456f2fedc.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de João I e Filipa de Lencastre; duque de Coimbra e regente.",
@@ -50608,8 +51405,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d818995cfc3ac1587d819.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d818995cfc3ac1587d819.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha natural atribuída a Fernando I; identificada pela filiação para a distinguir das várias homónimas.",
@@ -50652,8 +51451,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8104a684d40bb8c2c6d5.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8104a684d40bb8c2c6d5.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Fernando I e Leonor Teles de Meneses; morreu criança.",
@@ -50725,8 +51526,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81719d97f6c6848181fc.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81719d97f6c6848181fc.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Pedro I e Inês de Castro; duque de Valência de Campos.",
@@ -50771,8 +51574,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81c1a52ffa8bb2e14416.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81c1a52ffa8bb2e14416.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Pedro I e Constança Manuel.",
@@ -50791,8 +51596,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d814eb9deeec5e9a2340e.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d814eb9deeec5e9a2340e.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Pedro I e Constança Manuel; morreu na infância.",
@@ -50811,8 +51618,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d813c903ff3032992f11e.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d813c903ff3032992f11e.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha natural documentada de Afonso IV; distingue-se da filha legítima homónima.",
@@ -50831,8 +51640,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8156a8e7e8ae41a0206c.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8156a8e7e8ae41a0206c.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Afonso IV e Beatriz de Castela; rainha de Aragão por casamento.",
@@ -50851,8 +51662,10 @@
   "rotas": [],
   "nascimento": "1326-09-23",
   "morte": "1327-06-21",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81fdbaf9eb4282a78b71.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81fdbaf9eb4282a78b71.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso IV e Beatriz de Castela.",
@@ -50872,8 +51685,10 @@
   "rotas": [],
   "nascimento": "1324-12-21",
   "morte": "1326-07-11",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81658cb8d7bd2e21f1c8.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81658cb8d7bd2e21f1c8.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Afonso IV e Beatriz de Castela.",
@@ -50946,8 +51761,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81da8869e4c442d363bd.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81da8869e4c442d363bd.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Afonso IV e Beatriz de Castela; rainha de Castela por casamento.",
@@ -50966,8 +51783,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81cfbad1f467b7c3e31a.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81cfbad1f467b7c3e31a.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha natural documentada de Dinis; distingue-se da filha de Marinha Gomes, sendo a maternidade não indicada na fonte usada.",
@@ -50986,8 +51805,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81aebe2dff0d944e2b9b.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81aebe2dff0d944e2b9b.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha natural de Dinis e Marinha Gomes; distingue-se de outra Maria Afonso atribuída ao mesmo rei.",
@@ -51054,8 +51875,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81b78f14da717f65fb60.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81b78f14da717f65fb60.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural de Dinis; um dos filhos homónimos registados nas genealogias.",
@@ -51098,8 +51921,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d810f85d6c5240b04e33a.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d810f85d6c5240b04e33a.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural de Dinis; senhor da Lousã.",
@@ -51169,8 +51994,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81e7995dd603f8329cb3.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81e7995dd603f8329cb3.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha natural de Afonso III e Madragana; distingue-se da outra filha natural homónima do mesmo rei pela mãe.",
@@ -51189,8 +52016,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81708333fde9c6bd6997.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81708333fde9c6bd6997.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural de Afonso III e Madragana, depois chamada Mor Afonso.",
@@ -51209,8 +52038,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81fbba74ffa5b816e8c7.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81fbba74ffa5b816e8c7.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural de Afonso III, de mãe não identificada na fonte usada.",
@@ -51229,8 +52060,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81a5b269fcd9518da74c.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81a5b269fcd9518da74c.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha natural de Afonso III, de mãe não identificada na fonte usada.",
@@ -51249,8 +52082,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1291-02-26",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d811cb225c179e78144d4.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d811cb225c179e78144d4.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha natural de Afonso III, de mãe não identificada na fonte usada.",
@@ -51269,8 +52104,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d813294a2d110cd003e7b.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d813294a2d110cd003e7b.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural de Afonso III, de mãe não identificada na fonte usada.",
@@ -51289,8 +52126,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8119b28cee6753dccf8d.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8119b28cee6753dccf8d.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural de Afonso III, de mãe não identificada na fonte usada.",
@@ -51335,8 +52174,10 @@
   "rotas": [],
   "nascimento": "1268-01-22",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81e585a4dbef1ce22496.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81e585a4dbef1ce22496.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso III e Beatriz de Castela; distingue-se do filho de Afonso II.",
@@ -51378,8 +52219,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d819eb0c3f8d35dc1837d.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d819eb0c3f8d35dc1837d.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Afonso III e Beatriz de Castela; distingue-se de outras Maria Afonso pela filiação.",
@@ -51398,8 +52241,10 @@
   "rotas": [],
   "nascimento": "1264-02-02",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d815aa9d1c76e074e264f.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d815aa9d1c76e074e264f.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Afonso III e Beatriz de Castela; distingue-se da filha de Afonso Henriques.",
@@ -51494,8 +52339,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8194a4b2f0d15ea38db8.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8194a4b2f0d15ea38db8.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho atribuído ao casamento de Afonso III com Matilde II de Bolonha.",
@@ -51514,8 +52361,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8184a322f9b7cd2390a5.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8184a322f9b7cd2390a5.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural documentado de Afonso II; distingue-se dos numerosos homónimos pelo pai.",
@@ -51534,8 +52383,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8158bdd1f1821d05dfd5.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8158bdd1f1821d05dfd5.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural documentado de Afonso II; distingue-se dos numerosos homónimos pelo pai.",
@@ -51554,8 +52405,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d810bba2df2e785107009.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d810bba2df2e785107009.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso II e Urraca de Castela.",
@@ -51600,8 +52453,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8110a634dc5b520de14c.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8110a634dc5b520de14c.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Afonso II e Urraca de Castela; rainha da Dinamarca por casamento.",
@@ -51642,8 +52497,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8181983bd9b8f03de2ab.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8181983bd9b8f03de2ab.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural de Sancho I e Maria Aires de Fornelos; conde de Trastâmara.",
@@ -51685,8 +52542,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d816585c7f7e474595b7f.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d816585c7f7e474595b7f.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha natural de Sancho I e Maria Pais Ribeira; distingue-se da filha legítima homónima.",
@@ -51705,8 +52564,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f58783e1da5ce2c968.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f58783e1da5ce2c968.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha natural de Sancho I e Maria Pais Ribeira.",
@@ -51725,8 +52586,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8172bc1be79d3faeb439.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8172bc1be79d3faeb439.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural de Sancho I e Maria Pais Ribeira.",
@@ -51745,8 +52608,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81c8a84dfb07fa0a4ea2.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81c8a84dfb07fa0a4ea2.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural de Sancho I e Maria Pais Ribeira.",
@@ -51787,8 +52652,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1256-05-01",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81d48a89f2e96cedadad.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81d48a89f2e96cedadad.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Sancho I e Dulce de Aragão; rainha de Castela por casamento.",
@@ -51882,8 +52749,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8159b16dee8f642d6f17.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8159b16dee8f642d6f17.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Sancho I e Dulce de Aragão; morreu jovem.",
@@ -51929,8 +52798,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1258-06-02",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8174b633ed86da694b81.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8174b633ed86da694b81.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Sancho I e Dulce de Aragão; conde de Urgel e associado ao reino de Maiorca.",
@@ -51950,8 +52821,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81df8df0f15f336998b8.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81df8df0f15f336998b8.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Sancho I e Dulce de Aragão; morreu criança.",
@@ -52038,8 +52911,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81a7abb0dc6dad7b88cc.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81a7abb0dc6dad7b88cc.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha natural documentada de Afonso Henriques; distingue-se da infanta Teresa/Matilde, filha de Mafalda de Saboia.",
@@ -52084,8 +52959,10 @@
   "rotas": [],
   "nascimento": "c. 1140",
   "morte": "1175-05-09",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8178b4cfe466010ba038.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8178b4cfe466010ba038.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho natural documentado de Afonso Henriques; mestre da Ordem de Avis.",
@@ -52131,8 +53008,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d810aa126e666c80faf57.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d810aa126e666c80faf57.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Afonso Henriques e Mafalda de Saboia; infanta de Portugal.",
@@ -52151,8 +53030,10 @@
   "rotas": [],
   "nascimento": "1157",
   "morte": "1218-05-06",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81f69310f7e019cd4391.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81f69310f7e019cd4391.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Afonso Henriques e Mafalda de Saboia; também conhecida como Matilde.",
@@ -52172,8 +53053,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81a2b653c6f847066025.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81a2b653c6f847066025.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso Henriques e Mafalda de Saboia; infante de Portugal.",
@@ -52192,8 +53075,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d818a860ac87a214e4dc4.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d818a860ac87a214e4dc4.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Afonso Henriques e Mafalda de Saboia; infanta de Portugal.",
@@ -52212,8 +53097,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81df9871c421495a6e1a.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81df9871c421495a6e1a.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filha de Afonso Henriques e Mafalda de Saboia; casou com Fernando II de Leão.",
@@ -52232,8 +53119,10 @@
   "rotas": [],
   "nascimento": "1147-03-05",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81089ca1eb1e415d47ff.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81089ca1eb1e415d47ff.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Afonso Henriques e Mafalda de Saboia; infante, morreu jovem.",
@@ -52868,8 +53757,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81818142d2c0a00c0d20.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81818142d2c0a00c0d20.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Incerto — identidade e dados biográficos por confirmar.",
@@ -52938,8 +53829,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d818a8150e3a8f367555a.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d818a8150e3a8f367555a.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Incerto — homónimo sem informação suficiente para identificar esta ficha.",
@@ -52958,8 +53851,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d818ba782e027dd6176c9.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d818ba782e027dd6176c9.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Incerto — ficha sem informação suficiente para identificar esta pessoa.",
@@ -52978,8 +53873,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d810db71cd85f3e92174b.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d810db71cd85f3e92174b.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Identidade e filiação exactas por confirmar, dada a existência de várias figuras históricas chamadas Margarida de Áustria. Datas e sepultura incertas.",
@@ -53120,8 +54017,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81ff98e9c40268b9e701.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81ff98e9c40268b9e701.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Incerto — ficha sem informação suficiente para identificar qual Henrique de Portugal está registado.",
@@ -53238,8 +54137,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81ad8c2ae68c076380ce.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81ad8c2ae68c076380ce.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Incerto — homónimo sem informação suficiente para identificar esta ficha.",
@@ -53381,8 +54282,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d817ea6edc8f93e75db5a.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d817ea6edc8f93e75db5a.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Incerto — homónimo sem informação suficiente para identificar esta ficha.",
@@ -53496,8 +54399,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81719e76c1724242f265.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81719e76c1724242f265.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Incerto — identidade e dados biográficos por confirmar.",
@@ -53636,8 +54541,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8196af1be3df81202cf0.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8196af1be3df81202cf0.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Incerto — identidade e dados biográficos por confirmar.",
