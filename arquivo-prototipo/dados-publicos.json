@@ -1,5 +1,156 @@
 [
  {
+  "nome": "Luís Baena",
+  "areas": [],
+  "cemiterios": [
+   "Cremação"
+  ],
+  "rotas": [],
+  "nascimento": "20/04/1958",
+  "morte": "10/11/2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Chef português ligado à renovação da cozinha portuguesa. Criou o hambúrguer de bacalhau conhecido como McSilva e foi distinguido pelo Diário de Notícias como cozinheiro do ano em 2006.",
+   "Data de morte": "10/11/2026",
+   "Localização": "Olivais, Lisboa",
+   "Informação extra": "Cremação anunciada para 14/11/2026 nos Olivais. Fontes: Servilusa e Jornal de Negócios.",
+   "Cemitério": "Cremação",
+   "Data de nascimento": "20/04/1958",
+   "Nome": "Luís Baena"
+  }
+ },
+ {
+  "nome": "Mike Carter (basquetebolista)",
+  "areas": [
+   "Desporto"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "07/11/2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Desporto",
+   "Biografia": "Poste norte-americano de basquetebol. Ajudou o Sporting a conquistar o bicampeonato nacional em 1981/82.",
+   "Data de morte": "07/11/2026",
+   "Informação extra": "Óbito a 7 de novembro, anunciado pelo Sporting a 9 de novembro. Fonte: Dia de Jogo, 09/11/2026.",
+   "Cemitério": "Incerto",
+   "Nome": "Mike Carter (basquetebolista)"
+  }
+ },
+ {
+  "nome": "Celestino da Silva Martins Bárbara",
+  "areas": [
+   "Desporto"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Desporto",
+   "Biografia": "Defesa internacional português. Jogou pelo Montijo, pela Académica e pelo Sporting, ao serviço do qual foi campeão nacional em 1969/70. Marcou pela Académica na final da Taça de Portugal de 1966/67.",
+   "Data de morte": "2026",
+   "Informação extra": "Falecimento comunicado pela Académica a 12/11/2026. Natural de São Brás de Alportel.",
+   "Cemitério": "Incerto",
+   "Nome": "Celestino da Silva Martins Bárbara"
+  }
+ },
+ {
+  "nome": "Manuel Fernandes (Escurinho)",
+  "areas": [
+   "Bombeiro"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Bombeiro",
+   "Biografia": "Bombeiro de 2.ª do quadro ativo dos Bombeiros Voluntários Famalicenses, onde era o voluntário n.º 78. Conhecido como Escurinho, foi homenageado pela corporação pela sua dedicação ao socorro e pela camaradagem no quartel.",
+   "Data de morte": "2026",
+   "Informação extra": "Óbito anunciado a 12 de novembro de 2026. Despedida anunciada para 13 de novembro na Igreja Paroquial de Gavião.",
+   "Cemitério": "Incerto",
+   "Nome": "Manuel Fernandes (Escurinho)"
+  }
+ },
+ {
+  "nome": "Rui Alves (psicólogo)",
+  "areas": [
+   "Educação"
+  ],
+  "cemiterios": [
+   "Cemitério Prado do Repouso"
+  ],
+  "rotas": [],
+  "nascimento": "1972",
+  "morte": "2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Educação",
+   "Biografia": "Professor associado de Psicologia na Universidade do Porto. Investigou os processos cognitivos e afetivos da escrita, o desenvolvimento da literacia e as dificuldades de aprendizagem. Participou no desenvolvimento do programa HandSpy, usado para estudar a produção de texto.",
+   "Data de morte": "2026",
+   "Informação extra": "A FPCEUP anunciou o falecimento a 9 de novembro de 2026 e indicou o Prado do Repouso como destino do cortejo fúnebre.",
+   "Cemitério": "Cemitério Prado do Repouso",
+   "Data de nascimento": "1972",
+   "Nome": "Rui Alves (psicólogo)"
+  }
+ },
+ {
+  "nome": "Mónica Afonso",
+  "areas": [
+   "Militar"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "09/11/2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Militar",
+   "Biografia": "Militar da Guarda Nacional Republicana e residente em São Brás de Alportel. O jornal regional POSTAL documentou em 2019 o seu esforço para proporcionar maior autonomia à filha. Faleceu aos 45 anos num acidente rodoviário em Boliqueime, no concelho de Loulé.",
+   "Data de morte": "09/11/2026",
+   "Cemitério": "Incerto",
+   "Nome": "Mónica Afonso"
+  }
+ },
+ {
+  "nome": "Maria Alzira Semião dos Santos Seixo",
+  "areas": [
+   "Educação",
+   "Escritor"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "1941-04-29",
+  "morte": "2026-01-20",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Educação, Escritor",
+   "Biografia": "Maria Alzira Seixo (1941–2026) foi professora catedrática da Faculdade de Letras da Universidade de Lisboa, investigadora em literatura francesa e comparada e crítica literária. Dirigiu a Faculdade entre 1996 e 1998 e recebeu duas vezes o Prémio PEN de ensaio. Fonte: Assembleia da República, Projeto de Voto de Pesar n.º 333/XVI/1.ª.",
+   "Data de morte": "2026-01-20",
+   "Data de nascimento": "1941-04-29",
+   "Nome": "Maria Alzira Semião dos Santos Seixo"
+  }
+ },
+ {
   "nome": "José Manuel Matos Fernandes",
   "areas": [
    "Advocacia"
@@ -19128,8 +19279,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d811297bed106527f0157.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d811297bed106527f0157.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/3/36/Ernesto_Carneiro_Franco_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -19146,8 +19299,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8114a97ce8b04dea0560.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8114a97ce8b04dea0560.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/0/04/Eus%C3%A9bio_Le%C3%A3o.png",
@@ -19315,8 +19470,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8132b69ff4f84b1696d7.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8132b69ff4f84b1696d7.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -19351,8 +19508,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813a9413c32479285942.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813a9413c32479285942.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -19422,8 +19581,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814bbe8fcc9808108df1.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814bbe8fcc9808108df1.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -19439,8 +19600,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814db274faf5bdd91eb8.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814db274faf5bdd91eb8.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -19476,8 +19639,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81539ff3cda3dba3174b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81539ff3cda3dba3174b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -19567,8 +19732,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8168832fe1082167a791.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8168832fe1082167a791.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -19602,8 +19769,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8174a169dd504133656c.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8174a169dd504133656c.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -19928,8 +20097,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81bfa77fca4c059e572a.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81bfa77fca4c059e572a.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -19945,8 +20116,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c49848dc9810c6cfa7.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c49848dc9810c6cfa7.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -19962,8 +20135,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81cbad09dc364be4a6a1.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81cbad09dc364be4a6a1.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -20017,8 +20192,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d1aa26f6dca84a4452.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d1aa26f6dca84a4452.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -20072,8 +20249,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d68c86f03f266775b2.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d68c86f03f266775b2.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -20114,8 +20293,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e68255c670d8a7c81c.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e68255c670d8a7c81c.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -20225,8 +20406,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ffab7acd8f71d87d15.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ffab7acd8f71d87d15.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
@@ -20766,8 +20949,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d815eab29c9c2a344c27f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d815eab29c9c2a344c27f.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Ficha nominal inicial; confirmar datas, identidade, biografia, sepultura e fotografia com documentação antes de completar.",
@@ -21092,8 +21277,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81f9a582e7b329ce19aa.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81f9a582e7b329ce19aa.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Ficha nominal inicial; confirmar datas, identidade, biografia, sepultura e fotografia com documentação antes de completar.",
@@ -21669,8 +21856,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81f59aa8efbdc6512eaa.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81f59aa8efbdc6512eaa.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal inicial de figura política histórica. Verificar datas, identidade, sepultura e fotografia antes de completar.",
@@ -22841,8 +23030,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81aeaecacda764aabf81.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81aeaecacda764aabf81.png"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Informação extra": "Ficha nominal inicial. Confirmar identidade, datas, sepultura e fotografia em fontes documentais.",
@@ -23527,8 +23718,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d3b79cdaf3b4a81e10.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d3b79cdaf3b4a81e10.png"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Informação extra": "Ficha inicial de recolha nominal. Confirmar datas, homónimos, biografia, sepultura e fotografia em fontes documentais antes de completar.",
@@ -23690,8 +23883,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ef9003ffd238d53acc.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ef9003ffd238d53acc.png"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Biografia": "Poeta português dos séculos XV e XVI, representado no Cancioneiro Geral de Garcia de Resende.",
@@ -24331,8 +24526,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8122b66afc6b3553dfc2.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8122b66afc6b3553dfc2.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Informação extra": "Registo provisório: identidade, ligação à medicina, datas e local de sepultura por confirmar documentalmente.",
@@ -24351,8 +24548,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d812396b5f5940b1ad7b6.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d812396b5f5940b1ad7b6.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Informação extra": "Registo provisório: identidade, ligação à medicina, datas e local de sepultura por confirmar documentalmente.",
@@ -24371,8 +24570,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813b9f88fc8032a56152.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813b9f88fc8032a56152.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Informação extra": "Registo provisório: identidade, ligação à medicina, datas e local de sepultura por confirmar documentalmente.",
@@ -24436,8 +24637,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81868759f0b912a7ee44.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81868759f0b912a7ee44.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Biografia": "Médico identificado pela Ordem dos Médicos entre os profissionais envolvidos na Assistência Nacional aos Tuberculosos, nomeadamente na atividade dos dispensários impulsionados pela rainha D. Amélia.",
@@ -24457,8 +24660,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d818cb5b5e7eb2123f2e7.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d818cb5b5e7eb2123f2e7.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Informação extra": "Registo provisório: identidade, ligação à medicina, datas e local de sepultura por confirmar documentalmente.",
@@ -24527,8 +24732,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c0acf1f202c7dd5a1b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c0acf1f202c7dd5a1b.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Informação extra": "Registo provisório: identidade, ligação à medicina, datas e local de sepultura por confirmar documentalmente.",
@@ -24547,8 +24754,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c6bdd1cd38c5cc9db3.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c6bdd1cd38c5cc9db3.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Informação extra": "Registo provisório: identidade, ligação à medicina, datas e local de sepultura por confirmar documentalmente.",
@@ -24567,8 +24776,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c7a514f4de4e0953e4.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c7a514f4de4e0953e4.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Informação extra": "Registo provisório: identidade, ligação à medicina, datas e local de sepultura por confirmar documentalmente.",
@@ -24587,8 +24798,10 @@
   "rotas": [],
   "nascimento": "1870",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d99ea0ea4ecf454423.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d99ea0ea4ecf454423.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Biografia": "Sofia Graça Afreixo, médica nascida em Lisboa em 1870, licenciada pela Escola Médico-Cirúrgica de Lisboa em 1899, com tese sobre a posição da mulher em trabalho de parto. Exerceu medicina em Sines entre 1906 e 1910, incluindo assistência no Montepio local.",
@@ -24632,8 +24845,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81fb8cbbf843aa797eb5.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81fb8cbbf843aa797eb5.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Informação extra": "Registo provisório: identidade, ligação à medicina, datas e local de sepultura por confirmar documentalmente.",
@@ -24725,8 +24940,10 @@
   "rotas": [],
   "nascimento": "1888",
   "morte": "1958-09-08",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a7aef1c00c930c76e9.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a7aef1c00c930c76e9.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Biografia": "José Alberto de Faria (1888–1958), médico higienista, sucessor de Ricardo Jorge na Direção-Geral de Saúde. Impulsionou a organização de centros de saúde e políticas de saúde pública em Portugal.",
@@ -24771,8 +24988,10 @@
   "rotas": [],
   "nascimento": "1851",
   "morte": "1904",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81cbb207fa9b3e365afe.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81cbb207fa9b3e365afe.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Biografia": "Médico anatomista e professor português, destacado no ensino da anatomia.",
@@ -25614,8 +25833,10 @@
   "rotas": [],
   "nascimento": "1952",
   "morte": "9 de outubro de 1975",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d81e8bbd8eef7d2ea12e6.png",
+  "fotos": [
+   "fotos/408f3ddb5a6d81e8bbd8eef7d2ea12e6.png"
+  ],
   "detalhes": {
    "Biografia": "José Alexandrino de Sousa (1952–1975), natural de São Pedro dos Arcos, Ponte de Lima, foi estudante de Direito em Lisboa e militante da Federação dos Estudantes Marxistas-Leninistas, ligada ao MRPP. Dirigia o jornal Guarda Vermelha. Morreu afogado no rio Tejo, junto ao Cais das Colunas, durante confrontos entre militantes de organizações políticas quando participava numa colagem de cartazes em 9 de outubro de 1975. O seu funeral realizou-se em 11 de outubro, no Cemitério da Ajuda, Lisboa. Fontes: RTP Arquivos, registos de 9 e 11 de outubro de 1975; documentação histórica sobre o caso Alexandrino de Sousa.",
    "Data de morte": "9 de outubro de 1975",
@@ -25748,8 +25969,10 @@
   "rotas": [],
   "nascimento": "25 de novembro de 1929",
   "morte": "1981",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d8110b009e8a45033c5be.png",
+  "fotos": [
+   "fotos/408f3ddb5a6d8110b009e8a45033c5be.png"
+  ],
   "detalhes": {
    "Biografia": "Fernando Octávio dos Santos Pinto Serrão nasceu em Viana do Castelo em 1929. Engenheiro químico-industrial formado na Faculdade de Engenharia da Universidade do Porto, foi docente universitário e subsecretário de Estado da Juventude e dos Desportos. Participou em visita oficial a Angola em julho de 1966, documentada pelos arquivos da RTP. Faleceu em 1981.",
    "Data de morte": "1981",
@@ -26173,8 +26396,10 @@
   "rotas": [],
   "nascimento": "1925",
   "morte": "04/08/2003",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d81f498edcbb14d4281ec.png",
+  "fotos": [
+   "fotos/408f3ddb5a6d81f498edcbb14d4281ec.png"
+  ],
   "detalhes": {
    "Biografia": "Médico e resistente antifascista português, um dos fundadores da União Democrática Popular em 1974. Foi eleito deputado à Assembleia Constituinte em 1975 e renunciou ao mandato por motivos de saúde.",
    "Data de morte": "04/08/2003",
@@ -26705,8 +26930,10 @@
   "rotas": [],
   "nascimento": "1974",
   "morte": "2014",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d8103aacecc843f0299e7.jpg",
+  "fotos": [
+   "fotos/408f3ddb5a6d8103aacecc843f0299e7.jpg"
+  ],
   "detalhes": {
    "Biografia": "Ator português de televisão e teatro.",
    "Data de morte": "2014",
@@ -26795,8 +27022,10 @@
   "rotas": [],
   "nascimento": "1950",
   "morte": "2009",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d81288a04c88d51d1668b.png",
+  "fotos": [
+   "fotos/408f3ddb5a6d81288a04c88d51d1668b.png"
+  ],
   "detalhes": {
    "Biografia": "Cavaleiro tauromáquico português.",
    "Data de morte": "2009",
@@ -26847,8 +27076,10 @@
   "rotas": [],
   "nascimento": "1935",
   "morte": "2021",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d816eb7b9f9cee97b7885.png",
+  "fotos": [
+   "fotos/408f3ddb5a6d816eb7b9f9cee97b7885.png"
+  ],
   "detalhes": {
    "Biografia": "Matador de toiros português.",
    "Data de morte": "2021",
@@ -26918,8 +27149,10 @@
   "rotas": [],
   "nascimento": "1901",
   "morte": "1976",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/408f3ddb5a6d81cabc56d1690fdf8a8f.png",
+  "fotos": [
+   "fotos/408f3ddb5a6d81cabc56d1690fdf8a8f.png"
+  ],
   "detalhes": {
    "Biografia": "Cavaleiro tauromáquico português, conhecido como Califa de Alcácer.",
    "Data de morte": "1976",
@@ -27299,8 +27532,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8126b65dfde9eb3fb97e.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8126b65dfde9eb3fb97e.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Lisboa entre 1211 e 1233. O seu episcopado ocorreu durante os reinados de Afonso II e Sancho II.",
@@ -27338,8 +27573,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d812ab241cb2188a20f4a.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d812ab241cb2188a20f4a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo francês associado à sé de Lisboa entre 1378 e 1380, no contexto do Cisma do Ocidente e das obediências rivais de Roma e Avinhão.",
@@ -27356,8 +27593,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d812db9fad5d01d1e1810.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d812db9fad5d01d1e1810.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Primeiro arcebispo de Lisboa. Elevado à dignidade metropolitana em 1393, permaneceu à frente da sé até à morte, em 1402.",
@@ -27415,8 +27654,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81669ec4f488737df9f7.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81669ec4f488737df9f7.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Lisboa entre 1262 e 1282. O seu governo da diocese atravessou os reinados de Afonso III e Dinis.",
@@ -27453,8 +27694,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8179b8b0f56ef2e3ff8a.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8179b8b0f56ef2e3ff8a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Lisboa entre 1586 e 1625. Foi também governador do reino e vice-rei de Portugal; fundou uma capela na Sé de Lisboa, onde foi sepultado.",
@@ -27471,8 +27714,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8182bb2eed0bb3fa515d.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8182bb2eed0bb3fa515d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Lisboa em 1632–1633, num mandato muito curto. Antes, fora bispo de Viseu e de Coimbra.",
@@ -27489,8 +27734,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d819085ead0c6c27bfffc.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d819085ead0c6c27bfffc.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Lisboa por um breve período em 1452–1453. Antes, tinha sido bispo de Viseu e de Coimbra.",
@@ -27525,8 +27772,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d819995cff2c9a2088d3d.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d819995cff2c9a2088d3d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado português que foi arcebispo de Lisboa entre 1402 e 1415. Tinha anteriormente governado as dioceses do Algarve, Porto e Coimbra e foi criado cardeal em 1411.",
@@ -27543,8 +27792,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d819ab0bae0b43ba7dcdf.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d819ab0bae0b43ba7dcdf.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado francês, bispo de Lisboa entre 1348 e 1356. Antes da nomeação lisboeta, fora bispo de Sées.",
@@ -27582,8 +27833,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81aa8b48f2bd6e164c1f.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81aa8b48f2bd6e164c1f.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Lisboa de 1239 a 1241, num período marcado por disputas entre a Coroa e a hierarquia eclesiástica.",
@@ -27600,8 +27853,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81abbfe4c4f6aa3c0ae7.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81abbfe4c4f6aa3c0ae7.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Lisboa documentado no século IV. É o primeiro bispo lisboeta de que existe notícia segura; as referências situam a sua atividade por volta de 356.",
@@ -27618,8 +27873,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81b59d31ec6aadd72f55.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81b59d31ec6aadd72f55.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Lisboa entre 1358 e 1364. Antes de chegar à capital, tinha governado a diocese de Coimbra.",
@@ -27636,8 +27893,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81c38db9cfa4a9073709.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81c38db9cfa4a9073709.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Lisboa entre 1500 e 1521. Era irmão do cardeal Jorge da Costa, seu antecessor na sé.",
@@ -27654,8 +27913,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81ce9621f3e884853606.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81ce9621f3e884853606.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Clérigo inglês escolhido para restaurar a diocese de Lisboa após a conquista cristã. Governou a sé entre 1147 e 1163/1165.",
@@ -27691,8 +27952,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81dc8549cf4169f57edc.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81dc8549cf4169f57edc.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado francês que ocupou a sé de Lisboa entre 1356 e 1358, antes de ser transferido para Autun.",
@@ -27751,8 +28014,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81f78c3ff276ffe83747.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81f78c3ff276ffe83747.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Lisboa entre 1326 e 1342. Antes da nomeação, era deão da Sé de Évora; durante o seu episcopado promoveu reformas do clero diocesano.",
@@ -27769,8 +28034,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81feb6dcdfef27e3c5a0.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81feb6dcdfef27e3c5a0.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Lisboa no final do século XII e início do século XIII. Sucedeu a Álvaro e governou a diocese entre 1185 e 1209.",
@@ -27787,8 +28054,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8109983ad1d013a5a531.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8109983ad1d013a5a531.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1477–1478.",
@@ -27826,8 +28095,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d810e994dc281d5a0c184.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d810e994dc281d5a0c184.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1692–1693.",
@@ -27864,8 +28135,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8110a193f437b80d9ccd.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8110a193f437b80d9ccd.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Egitânia; atestado em 683 e 688.",
@@ -27882,8 +28155,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8111bfc4d25ddb7c330d.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8111bfc4d25ddb7c330d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1669–1672.",
@@ -27900,8 +28175,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8116a814cd3247f767a9.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8116a814cd3247f767a9.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1593–1608; também bispo de Viseu.",
@@ -27918,8 +28195,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d811baa96d0291e5bd3bd.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d811baa96d0291e5bd3bd.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1313.",
@@ -27972,8 +28251,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d812084e7d29505c4adf5.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d812084e7d29505c4adf5.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1360–1362.",
@@ -27990,8 +28271,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8120abbfc0bf50009e48.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8120abbfc0bf50009e48.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Também registado como Montésio, Montênsis ou Mentésio; atestado em 633 e 638.",
@@ -28008,8 +28291,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8126ba53caf886768886.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8126ba53caf886768886.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1199.",
@@ -28026,8 +28311,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d812ab706fdb6004b7e3f.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d812ab706fdb6004b7e3f.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1883–1903.",
@@ -28044,8 +28331,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d812fab79cea51fb3a3b9.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d812fab79cea51fb3a3b9.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1248–1267.",
@@ -28062,8 +28351,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8130ae51fd4a9568b072.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8130ae51fd4a9568b072.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1349–1356; depois bispo de Coimbra e Lisboa.",
@@ -28099,8 +28390,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8137b0d8cd1a32897498.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8137b0d8cd1a32897498.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1459–1476.",
@@ -28117,8 +28410,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d813ea162d790b4d188ee.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d813ea162d790b4d188ee.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1832–1857.",
@@ -28135,8 +28430,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81409a62ce9915bf9744.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81409a62ce9915bf9744.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado a partir de 1384; data final não indicada.",
@@ -28153,8 +28450,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8145b4b1c7c52f772aeb.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8145b4b1c7c52f772aeb.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Também registado como Selua; atestado em 653 e 666.",
@@ -28171,8 +28470,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8149b2eacaeaf7dcbb4d.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8149b2eacaeaf7dcbb4d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1397–1426.",
@@ -28189,8 +28490,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d814f8336d3186de82b98.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d814f8336d3186de82b98.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1319–1322.",
@@ -28207,8 +28510,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8159a091db21289c89a9.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8159a091db21289c89a9.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1267–1278.",
@@ -28245,8 +28550,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d815faf86c1134363e13a.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d815faf86c1134363e13a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1797–1822.",
@@ -28263,8 +28570,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d816cac05eee9341e0df2.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d816cac05eee9341e0df2.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1397.",
@@ -28281,8 +28590,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d816cad9ec2f69395094f.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d816cad9ec2f69395094f.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1960–1979.",
@@ -28317,8 +28628,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8172928cff0b3c486a86.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8172928cff0b3c486a86.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1322–1326.",
@@ -28335,8 +28648,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8172a4bdd715db61121b.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8172a4bdd715db61121b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1824–1828.",
@@ -28353,8 +28668,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8173a3dfd96d8e4dc4c4.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8173a3dfd96d8e4dc4c4.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1302–1313; antes bispo de Lamego.",
@@ -28371,8 +28688,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8175a980c343b95b6985.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8175a980c343b95b6985.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1713–1736.",
@@ -28389,8 +28708,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8177961ad4eba925ca48.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8177961ad4eba925ca48.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1672–1684.",
@@ -28431,8 +28752,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d817e8b4fd53bccf05e1a.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d817e8b4fd53bccf05e1a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1694–1704; também arcebispo de Braga.",
@@ -28449,8 +28772,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d817f9a0ed9f9ef9cca8e.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d817f9a0ed9f9ef9cca8e.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1632–1636.",
@@ -28485,8 +28810,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d818e97e4e3715f82633d.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d818e97e4e3715f82633d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1226–1248.",
@@ -28503,8 +28830,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d819bbf99f98b9bf28c95.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d819bbf99f98b9bf28c95.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1367.",
@@ -28521,8 +28850,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d819d96d8e086aa90acfd.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d819d96d8e086aa90acfd.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1278–1301.",
@@ -28539,8 +28870,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81a7b318e2baf726e444.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81a7b318e2baf726e444.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado administrador apostólico da Guarda, 1481–1484.",
@@ -28578,8 +28911,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81ab909dfb3008cec003.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81ab909dfb3008cec003.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1362–1367.",
@@ -28634,8 +28969,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81b68be4e507563edfbf.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81b68be4e507563edfbf.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado administrador apostólico da Guarda, 1516–1519.",
@@ -28652,8 +28989,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81b6b1defd717d43ca1c.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81b6b1defd717d43ca1c.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1739–1741.",
@@ -28670,8 +29009,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81b7992cd06ec14893a0.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81b7992cd06ec14893a0.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1519–1548.",
@@ -28706,8 +29047,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81c39366f54472b597fa.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81c39366f54472b597fa.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1427–1458.",
@@ -28765,8 +29108,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81d0b62cf328f07c77d8.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81d0b62cf328f07c77d8.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Egitânia; atestado em 597 e 610.",
@@ -28801,8 +29146,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81dab391d5aea608ab2e.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81dab391d5aea608ab2e.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1200–1225.",
@@ -28819,8 +29166,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81dbbab1c9a7d84d7b1b.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81dbbab1c9a7d84d7b1b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1914–1952.",
@@ -28837,8 +29186,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81dd93ffea60f72aeda4.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81dd93ffea60f72aeda4.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1858–1878.",
@@ -28873,8 +29224,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81e19d69ca617ce44565.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81e19d69ca617ce44565.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1556–1585.",
@@ -28891,8 +29244,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81e897cace8117535549.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81e897cace8117535549.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1685–1691.",
@@ -28909,8 +29264,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81ed90d0d3a1b428b515.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81ed90d0d3a1b428b515.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1585–1593.",
@@ -29008,8 +29365,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81f4ab3be7608678a662.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81f4ab3be7608678a662.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1775–1797.",
@@ -29026,8 +29385,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81f8a072cac3a4192708.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81f8a072cac3a4192708.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1496–1516.",
@@ -29044,8 +29405,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81048908ce048ba26e06.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81048908ce048ba26e06.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1404 e 1407.",
@@ -29121,8 +29484,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8118bff0e2dbf61d6cbb.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8118bff0e2dbf61d6cbb.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1354 e 1367.",
@@ -29177,8 +29542,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8128af80ec34f80fb49a.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8128af80ec34f80fb49a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1486 e 1501.",
@@ -29195,8 +29562,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d812980cae3e70a7a29cb.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d812980cae3e70a7a29cb.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1752 e 1783.",
@@ -29213,8 +29582,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8129b061ce41d1dc9631.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8129b061ce41d1dc9631.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1371 e 1379.",
@@ -29231,8 +29602,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d812b95eef7991cd73679.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d812b95eef7991cd73679.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1333 e 1352.",
@@ -29269,8 +29642,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d813185d1d3c948b171fb.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d813185d1d3c948b171fb.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1617 e 1626.",
@@ -29287,8 +29662,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8134b0e7f4690bbf12e4.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8134b0e7f4690bbf12e4.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1429 e 1440.",
@@ -29305,8 +29682,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8137bca1dee6161a477b.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8137bca1dee6161a477b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1407 e 1409.",
@@ -29323,8 +29702,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d814b9756df0eb63aec78.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d814b9756df0eb63aec78.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; atestado em 1384.",
@@ -29341,8 +29722,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d814bac56cc6eab2074e9.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d814bac56cc6eab2074e9.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Ossónoba; atestado em 306 e 314.",
@@ -29359,8 +29742,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8151892ad7609d0dd192.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8151892ad7609d0dd192.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1389 e 1390.",
@@ -29416,8 +29801,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d815a8243ca8087d2a5e5.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d815a8243ca8087d2a5e5.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1685 e 1703.",
@@ -29454,8 +29841,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81608835c67dcf86d7a2.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81608835c67dcf86d7a2.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Ossónoba; atestado em 653.",
@@ -29492,8 +29881,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8163ba3bd6eea7a9f49e.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8163ba3bd6eea7a9f49e.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1585 e 1589.",
@@ -29510,8 +29901,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d816487d5f5e0c76dfbcf.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d816487d5f5e0c76dfbcf.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1367 e 1370.",
@@ -29528,8 +29921,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81689479cae342e885de.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81689479cae342e885de.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1253 e 1261.",
@@ -29546,8 +29941,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d816ab6a7cfecc05729cb.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d816ab6a7cfecc05729cb.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1418 e 1421.",
@@ -29624,8 +30021,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81728d25fb7848c5f72f.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81728d25fb7848c5f72f.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1297 e 1310.",
@@ -29642,8 +30041,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81759338edc30d3d4af8.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81759338edc30d3d4af8.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1189 e 1191.",
@@ -29678,8 +30079,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81779231e635998b0169.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81779231e635998b0169.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1786 e 1789.",
@@ -29715,8 +30118,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8187b558cafabcd99e4e.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8187b558cafabcd99e4e.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado em 1824.",
@@ -29733,8 +30138,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8188b7a2ed7fd98cd780.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8188b7a2ed7fd98cd780.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1261 e 1268.",
@@ -29751,8 +30158,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8188bcf8cd1c8e702849.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8188bcf8cd1c8e702849.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1292 e 1297.",
@@ -29808,8 +30217,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8190bc70e7e7b03f6a5d.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8190bc70e7e7b03f6a5d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1467 e 1480.",
@@ -29826,8 +30237,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d819f880bc90d49a13960.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d819f880bc90d49a13960.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1414 e 1418.",
@@ -29864,8 +30277,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81a4ba63f7ac90ef6018.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81a4ba63f7ac90ef6018.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1920 e 1955.",
@@ -29921,8 +30336,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81ac8c59da7b44ced7cd.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81ac8c59da7b44ced7cd.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1820 e 1823.",
@@ -29939,8 +30356,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81adb619f4469c7d6eb7.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81adb619f4469c7d6eb7.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Ossónoba; atestado em 380.",
@@ -29957,8 +30376,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81b092f6cd9e05e9bc94.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81b092f6cd9e05e9bc94.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Ossónoba; atestado em 589.",
@@ -30017,8 +30438,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81b5b5bfe6b2affe2a58.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81b5b5bfe6b2affe2a58.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1268 e 1292.",
@@ -30056,8 +30479,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81bb86b5eb776c8ccade.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81bb86b5eb776c8ccade.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1450 e 1453.",
@@ -30074,8 +30499,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81cf8206d4bfc75bc7cf.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81cf8206d4bfc75bc7cf.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1538 e 1545.",
@@ -30111,8 +30538,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81d3bba2fc8b36cd2f07.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81d3bba2fc8b36cd2f07.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1322 e 1333.",
@@ -30149,8 +30578,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81daa5c8deba74757b98.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81daa5c8deba74757b98.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1481 e 1485.",
@@ -30167,8 +30598,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81dd8848f546de69599c.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81dd8848f546de69599c.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1391 e 1401.",
@@ -30185,8 +30618,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81de8a68ed7d3f28961d.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81de8a68ed7d3f28961d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Faro; episcopado entre 1679 e 1685.",
@@ -30227,8 +30662,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81e98e35d1c997a40357.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81e98e35d1c997a40357.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado iniciado em 1441; data final incerta.",
@@ -30245,8 +30682,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81ec9d31f8a1f0717142.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81ec9d31f8a1f0717142.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; episcopado entre 1549 e 1564.",
@@ -30263,8 +30702,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81eca28df8964fcf7d36.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81eca28df8964fcf7d36.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Algarve, com sede em Silves; atestado em 1383.",
@@ -30361,8 +30802,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81008617fce9baa8d5fe.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81008617fce9baa8d5fe.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1611 e 1633.",
@@ -30416,8 +30859,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d810bafffebb406df23b8.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d810bafffebb406df23b8.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1816 e 1818.",
@@ -30433,8 +30878,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d810da94cf0d229954041.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d810da94cf0d229954041.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1341 e 1347.",
@@ -30450,8 +30897,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81138a16ca1f81ee8c5e.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81138a16ca1f81ee8c5e.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado atestado em 666.",
@@ -30467,8 +30916,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d811c8441eb771f23a680.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d811c8441eb771f23a680.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1464 e 1468.",
@@ -30484,8 +30935,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81239796feb1b35c16e6.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81239796feb1b35c16e6.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1740 e 1759.",
@@ -30501,8 +30954,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8125a113e0d126d41e87.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8125a113e0d126d41e87.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1423 e 1428.",
@@ -30535,8 +30990,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81359738c2d578b34bdf.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81359738c2d578b34bdf.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado atestado em 303.",
@@ -30552,8 +31009,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81359740d365fccf67ea.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81359740d365fccf67ea.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1352 e 1356.",
@@ -30569,8 +31028,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d813c81ced9577c72aec8.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d813c81ced9577c72aec8.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1204 e 1229.",
@@ -30626,8 +31087,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8142bca1c623100a0d04.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8142bca1c623100a0d04.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; atribuição episcopal por confirmar; data associada: 711.",
@@ -30663,8 +31126,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d814a9f86d723823091d4.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d814a9f86d723823091d4.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1166 e 1179.",
@@ -30718,8 +31183,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8158b91fd5307e3e6b87.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8158b91fd5307e3e6b87.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1578 e 1602.",
@@ -30735,8 +31202,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d815aba70ef5bf0423d18.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d815aba70ef5bf0423d18.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo eleito de Évora em 1313.",
@@ -30752,8 +31221,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d815e9953d6969d04ad5f.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d815e9953d6969d04ad5f.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1368 e 1382.",
@@ -30789,8 +31260,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8162a29cfb2f437912c2.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8162a29cfb2f437912c2.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1871 e 1890.",
@@ -30806,8 +31279,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81668746f96b6f3a5214.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81668746f96b6f3a5214.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado atestado em 566.",
@@ -30843,8 +31318,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d816ba42be59f00f0fa0d.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d816ba42be59f00f0fa0d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado c. 1382–1404.",
@@ -30860,8 +31337,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d816e866fe8e058983e58.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d816e866fe8e058983e58.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1820 e 1826.",
@@ -30877,8 +31356,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d816eb70ceca531e8557b.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d816eb70ceca531e8557b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1356 e 1368.",
@@ -30950,8 +31431,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8177824ffa496b0add5f.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8177824ffa496b0add5f.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1860 e 1869.",
@@ -30967,8 +31450,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81779992f80e44668d91.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81779992f80e44668d91.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 681 e 688.",
@@ -31004,8 +31489,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8181b280cb4f1c872a5d.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8181b280cb4f1c872a5d.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo eleito de Évora em 1321.",
@@ -31040,8 +31527,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8188a198f26375991632.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8188a198f26375991632.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 633 e 646.",
@@ -31057,8 +31546,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d818ba1d2d4e766545835.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d818ba1d2d4e766545835.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1180 e 1204.",
@@ -31132,8 +31623,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d8199a837c56c7f506ccb.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d8199a837c56c7f506ccb.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1419 e 1423.",
@@ -31169,8 +31662,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81a0b900d546aa394d78.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81a0b900d546aa394d78.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1703 e 1715.",
@@ -31186,8 +31681,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81a38617d316f79e88d1.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81a38617d316f79e88d1.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1564 e 1574.",
@@ -31223,8 +31720,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81a39523d88203f95a71.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81a39523d88203f95a71.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado atestado em 656.",
@@ -31259,8 +31758,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81ad9c0af4330c40b71a.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81ad9c0af4330c40b71a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado atestado em 597.",
@@ -31276,8 +31777,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81afa41ddb77d2d4fa63.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81afa41ddb77d2d4fa63.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1472 e 1485.",
@@ -31293,8 +31796,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81b08efbec22559fc3a4.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81b08efbec22559fc3a4.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1322 e 1340.",
@@ -31310,8 +31815,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81b1b354ea0d5ecaac01.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81b1b354ea0d5ecaac01.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1404 e 1406.",
@@ -31347,8 +31854,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81ba8548ed673382f634.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81ba8548ed673382f634.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1691 e 1703.",
@@ -31364,8 +31873,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81bb9aa3ff7a34f83fc7.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81bb9aa3ff7a34f83fc7.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; atribuição episcopal por confirmar; data associada: 715.",
@@ -31381,8 +31892,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81c0ac5adc897114a71b.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81c0ac5adc897114a71b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1635 e 1643.",
@@ -31398,8 +31911,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81c78394c31108b0de22.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81c78394c31108b0de22.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1237 e 1266.",
@@ -31434,8 +31949,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81cb8c32c5164357cfe4.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81cb8c32c5164357cfe4.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1289 e 1297.",
@@ -31527,8 +32044,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81ee9267d3274105840f.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81ee9267d3274105840f.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Arcebispo de Évora; episcopado entre 1783 e 1800.",
@@ -31544,8 +32063,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81f1bdc2dd0e77f10fa1.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81f1bdc2dd0e77f10fa1.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1442 e 1463.",
@@ -31581,8 +32102,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81f985fceb758de20003.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81f985fceb758de20003.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Évora; episcopado entre 1313 e 1321.",
@@ -32467,8 +32990,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8103a33bd47e094dfb2e.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8103a33bd47e094dfb2e.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Vilulfo é referido como bispo de Coimbra entre 968 e 982, durante o período de domínio islâmico da cidade. A sua presença nas listas episcopais atesta a continuidade da memória da antiga diocese, embora a documentação biográfica seja escassa.",
@@ -32513,8 +33038,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1416-03-25",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81058dbec3bc172ed120.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81058dbec3bc172ed120.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Martinho Afonso Pires da Charneca, bispo de Coimbra e depois arcebispo de Braga. Acompanhou João I na batalha de Aljubarrota. Faleceu em Lisboa em 25 de março de 1416.",
@@ -32583,8 +33110,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d810ebc4ae72c0eba0d84.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d810ebc4ae72c0eba0d84.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Martinho Simões é mencionado na cronologia dos bispos de Coimbra em 1088, após a reconquista definitiva da cidade em 1064. A documentação conservada não permite estabelecer com segurança a duração do seu episcopado.",
@@ -32603,8 +33132,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81189084f0eeb36ddc17.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81189084f0eeb36ddc17.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Gonçalo foi bispo de Coimbra entre 1109 e 1125, no período em que o Condado Portucalense era governado por Teresa de Leão. Sucedeu a Maurício no episcopado conimbricense.",
@@ -32623,8 +33154,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d811e86d1ff833923eca8.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d811e86d1ff833923eca8.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "João des Prez, também conhecido como Jean des Prés-Montpezat, foi um dos prelados franceses da Diocese de Coimbra no século XIV. Nomeado em 1333, foi transferido para a Diocese de Castres em 3 de dezembro de 1337.",
@@ -32643,8 +33176,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d811f991ef6bffb7309c5.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d811f991ef6bffb7309c5.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Gundesindo figura como bispo de Coimbra entre 932 e 944, num período em que a cidade se encontrava sob influência política islâmica. As fontes disponíveis não permitem reconstituir com segurança a sua vida ou o local de sepultura.",
@@ -32663,8 +33198,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1636-02-02",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d811fbadec2d9e9340d6b.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d811fbadec2d9e9340d6b.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Jorge de Melo foi bispo de Miranda antes de assumir a Diocese de Coimbra, que governou entre 1634 e 1636. Faleceu em 2 de fevereiro de 1636.",
@@ -32683,8 +33220,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1357-02-20",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8121a72bcaec13e996eb.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8121a72bcaec13e996eb.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Jorge Eanes foi bispo de Coimbra a partir de 1338, no reinado de Afonso IV. Faleceu em 20 de fevereiro de 1357, após cerca de duas décadas à frente da diocese.",
@@ -32751,8 +33290,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8126a5f6f221a806e9d3.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8126a5f6f221a806e9d3.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Martim Gonçalves foi bispo de Coimbra entre 1183 e 1193, no reinado de Sancho I. Sucedeu ao breve episcopado registado em 1182 e antecedeu Pedro Soeiro.",
@@ -32771,8 +33312,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8128881bca62637b24b0.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8128881bca62637b24b0.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Prelado medieval, referido também como Gil Almada. Foi nomeado bispo de Coimbra em 5 de Abril de 1407 e exerceu o episcopado até cerca de 1415. A documentação atesta a sua actividade pelo menos até Agosto desse ano.",
@@ -32791,8 +33334,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d812f9491c0812e5bc340.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d812f9491c0812e5bc340.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Renato figura na sucessão episcopal de Coimbra no ano de 638, durante o período visigótico. A documentação conservada não permite estabelecer as suas datas biográficas ou sepultura.",
@@ -32833,8 +33378,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1416-03-25",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d813f8dbdc9f29b964b87.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d813f8dbdc9f29b964b87.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Martinho Afonso Pires da Charneca, bispo de Coimbra entre cerca de 1386 e 1398, posteriormente arcebispo de Braga. Este registo poderá duplicar o de Martinho Pires da Charneca e exige consolidação.",
@@ -32853,8 +33400,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "c. 1333",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8144a7eaccf2ceccb7ce.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8144a7eaccf2ceccb7ce.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Raimundo Ebrard II, prelado francês ligado à família Ébrard, foi nomeado bispo de Coimbra em Abril de 1325. Governou a diocese até cerca de 1333, data apontada como ano da sua morte.",
@@ -32923,8 +33472,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1301",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d815580e6c9cb5c3eb5d4.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d815580e6c9cb5c3eb5d4.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Pedro Martins, também identificado como Pedro Colaço, foi bispo de Évora antes de ser transferido para Coimbra em 1296. Exerceu o episcopado até falecer em 1301. O seu testamento é conhecido através de fontes medievais.",
@@ -32943,8 +33494,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8155a125ff71e42ca158.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8155a125ff71e42ca158.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Pedro Soeiro, também identificado como Pedro Soares, foi bispo de Coimbra entre 1193 e 1232. O seu longo episcopado atravessou os reinados de Sancho I, Afonso II e o início do de Sancho II.",
@@ -32989,8 +33542,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1623-08-30",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d815cac68ee9d21533c5a.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d815cac68ee9d21533c5a.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Estudou e ensinou em Salamanca. Foi bispo de Leiria e Lamego antes de Coimbra, onde governou de 1619 a 1623. Faleceu em Lisboa.",
@@ -33009,8 +33564,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d815e9582dc0d8395cd0b.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d815e9582dc0d8395cd0b.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Miro é mencionado como bispo de Coimbra entre 683 e 688, no período visigótico. O seu nome integra as listas episcopais anteriores à conquista islâmica da Península Ibérica.",
@@ -33055,8 +33612,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8163a9f2cc0be7be05f6.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8163a9f2cc0be7be05f6.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Pedro é referido como bispo de Coimbra em 1080, na fase de reorganização eclesiástica posterior à conquista da cidade por Fernando I de Leão. A identificação pessoal e a duração do mandato são incertas.",
@@ -33075,8 +33634,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1324-07-15",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8165867be8f213c61c4d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8165867be8f213c61c4d.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Raimundo Ebrard, primeiro bispo de Coimbra deste nome, exerceu o episcopado entre 1318 e 1324. A documentação testamentária medieval regista-o entre os prelados da cidade.",
@@ -33145,8 +33706,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1374-06-02",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8173948bf3c27c331a0d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8173948bf3c27c331a0d.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Pedro Gomes Barroso, o Jovem, foi bispo de Sigüenza e de Coimbra (1358-1364), transferido depois para Lisboa e Sevilha. Foi criado cardeal em 1371 e faleceu em Avinhão a 2 de junho de 1374.",
@@ -33165,8 +33728,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81769a9bd6147a185e4f.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81769a9bd6147a185e4f.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Bispo de Coimbra entre 1444 e 1452. Foi depois nomeado arcebispo de Lisboa, em 15 de Novembro de 1452. A transferência de diocese não corresponde ao seu falecimento.",
@@ -33185,8 +33750,10 @@
   "rotas": [],
   "nascimento": "c. 1340",
   "morte": "1415-01-23",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d817893f1e08315d85f3f.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d817893f1e08315d85f3f.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Nascido em Lisboa por volta de 1340, foi bispo do Algarve e do Porto antes de assumir Coimbra em 1399. Em 1402 foi promovido a arcebispo de Lisboa. Recebeu a dignidade cardinalícia durante o Cisma do Ocidente e morreu em Bruges em 23 de Janeiro de 1415.",
@@ -33251,8 +33818,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1870-03-26",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d817eab54ca5e38381435.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d817eab54ca5e38381435.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "José Manuel de Lemos exerceu o episcopado em Viseu antes de ser transferido para Coimbra em 1858. Governou a diocese até falecer em 26 de março de 1870.",
@@ -33296,8 +33865,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8180967ceb5c973e6ca5.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8180967ceb5c973e6ca5.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "João Anaia, também referido como João Cirita, foi bispo de Coimbra entre 1147 e 1155. O seu episcopado coincidiu com a conquista de Lisboa e a reorganização eclesiástica do reino de Afonso Henriques.",
@@ -33362,8 +33933,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8190b370c0a05df51e08.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8190b370c0a05df51e08.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Pelágio figura na cronologia episcopal de Coimbra em 986, no final do século X, quando a região atravessava uma fase de forte instabilidade militar. Não se conhecem com segurança as suas datas biográficas.",
@@ -33435,8 +34008,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1646-07-01",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8196a559dff128b1f106.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8196a559dff128b1f106.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "João Mendes de Távora foi bispo de Coimbra entre 1638 e 1646. Faleceu em 1 de julho de 1646 e foi sepultado na Sé Velha de Coimbra.",
@@ -33456,8 +34031,10 @@
   "rotas": [],
   "nascimento": "1859-03-26",
   "morte": "1936-03-19",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8197b931dccb7f9bd8e8.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8197b931dccb7f9bd8e8.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Manuel Luís Coelho da Silva foi bispo de Coimbra entre 1914 e 1936, durante a Primeira República e os primeiros anos do Estado Novo. Faleceu em 19 de março de 1936.",
@@ -33498,8 +34075,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8199a783d387f3819e3e.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8199a783d387f3819e3e.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Maurício Burdino foi bispo de Coimbra de 1099 a 1109, tendo depois sido arcebispo de Braga. Envolveu-se na disputa entre o papado e o imperador Henrique V e foi eleito antipapa com o nome Gregório VIII, em 1118.",
@@ -33570,8 +34149,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81a8b1a7e0cb68186b3f.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81a8b1a7e0cb68186b3f.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Lucêncio figura na sucessão dos bispos de Coimbra entre 561 e 580, no período suevo e visigótico. A atribuição episcopal consta das listas históricas, mas os dados pessoais são escassos.",
@@ -33590,8 +34171,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81aea06ce624f1bf2e9c.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81aea06ce624f1bf2e9c.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Pedro figura na cronologia episcopal de Coimbra no ano de 1182. A documentação disponível não permite estabelecer com segurança as suas datas de nascimento e morte nem o local de sepultura.",
@@ -33661,8 +34244,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "0912-11-21",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81b9a322e01add4da4b4.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81b9a322e01add4da4b4.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Nausto foi bispo de Coimbra entre 867 e 906, durante a Alta Idade Média. O seu episcopado insere-se na reorganização cristã do território a sul do Douro.",
@@ -33707,8 +34292,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81bea755ef4ed2474a93.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81bea755ef4ed2474a93.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Siseberto é referido como bispo de Coimbra entre 653 e 656, durante o reino visigótico. A sua presença nas listas episcopais está associada à organização conciliar da Igreja peninsular.",
@@ -33727,8 +34314,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81c1ba47ff0a04824716.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81c1ba47ff0a04824716.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Eclesiástico castelhano, referido como João Garcia Manrique ou Juan García Manrique. Exerceu a administração apostólica da Diocese de Coimbra a partir de 1402, durante a vacância da sé, até cerca de 1407. Não deve ser confundido com um bispo residencial confirmado.",
@@ -33747,8 +34336,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81c2b28edd4a73aa8691.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81c2b28edd4a73aa8691.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Paterno consta da cronologia episcopal de Coimbra em 1080, após a reconquista definitiva da cidade em 1064. A identificação deste prelado e as datas do seu episcopado exigem confirmação em documentação medieval.",
@@ -33767,8 +34358,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81c69ab2e9845eb756f3.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81c69ab2e9845eb756f3.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Miguel Pais Salomão foi bispo de Coimbra entre 1158 e 1176. O seu episcopado decorreu durante o reinado de Afonso Henriques, numa fase de consolidação das instituições eclesiásticas do reino.",
@@ -33787,8 +34380,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1671-05-11",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81ca9282d1a7d2250bb8.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81ca9282d1a7d2250bb8.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Antigo bispo eleito de São Tomé e bispo de Viseu, foi nomeado bispo de Coimbra após longa vacância da sé relacionada com a interrupção das relações diplomáticas entre Portugal e a Santa Sé.",
@@ -33831,8 +34426,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81d3969feddb2da98b04.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81d3969feddb2da98b04.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Pelágio é mencionado como bispo de Coimbra entre 928 e 931. A documentação da época não permite fixar com segurança as datas do nascimento e morte nem o local de sepultura.",
@@ -33853,8 +34450,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1971-05-19",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81d5a70de7796aeff7f8.jpg",
+  "fotos": [
+   "fotos/401f3ddb5a6d81d5a70de7796aeff7f8.jpg"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Religioso dominicano e antigo bispo do Algarve. Governou a Diocese de Coimbra entre 1967 e 1971, ano em que faleceu.",
@@ -33874,8 +34473,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1246-11-22",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81dbb064fc22b075542e.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81dbb064fc22b075542e.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Tibúrcio foi nomeado bispo de Coimbra em 1234 e governou a diocese durante o reinado de Sancho II. Morreu no exercício do cargo em 22 de Novembro de 1246.",
@@ -33920,8 +34521,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81e49c80f1ee41475a1d.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81e49c80f1ee41475a1d.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Vermudo, também referido como Bermudo, foi bispo de Coimbra entre 1177 e 1182. Governou a diocese nos últimos anos do reinado de Afonso Henriques.",
@@ -33940,8 +34543,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81e4ad70f1a3410fd3a0.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81e4ad70f1a3410fd3a0.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Servando figura na cronologia episcopal de Coimbra em 760, durante o domínio islâmico da cidade. Os dados sobre a sua actividade e biografia são escassos.",
@@ -34004,8 +34609,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1287",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81e9abacfe60e2fd6517.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81e9abacfe60e2fd6517.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Mateus Martins foi bispo de Viseu antes de ser transferido para Coimbra em 1268. O seu governo enfrentou oposição do cabido da Sé. Regressou à Diocese de Viseu em 1275, onde permaneceu até morrer, em 1287.",
@@ -34115,8 +34722,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1364-06-19",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81f79ab8dc6d6f235f7a.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81f79ab8dc6d6f235f7a.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Lourenço Rodrigues, também referido como Lourenço Martins de Barbudo, foi bispo da Guarda antes de governar Coimbra entre 1356 e 1358. Transferido para Lisboa em agosto de 1358, aí permaneceu até falecer em 19 de junho de 1364.",
@@ -34135,8 +34744,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81f8b325d829fc0dfe10.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81f8b325d829fc0dfe10.png"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Prelado castelhano que sucedeu a Pedro Tenório no governo da Diocese de Coimbra, em 1377. O seu episcopado decorreu durante a instabilidade política e militar luso-castelhana do final do século XIV. As fontes divergem quanto ao termo exacto do mandato.",
@@ -34297,8 +34908,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8109913be6333d8d8e14.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8109913be6333d8d8e14.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado que governou as dioceses de Silves e Porto no início do século XV.",
@@ -34370,8 +34983,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81129668c037f679e4be.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81129668c037f679e4be.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga sede de Portucale, incluído no episcopológio histórico da Diocese do Porto.",
@@ -34392,8 +35007,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d811493b1ef7e7b876263.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d811493b1ef7e7b876263.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga sede de Portucale, incluído no episcopológio histórico da Diocese do Porto.",
@@ -34415,8 +35032,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8116aab0c92a03a986b1.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8116aab0c92a03a986b1.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga sede de Portucale, incluído no episcopológio histórico da Diocese do Porto.",
@@ -34488,8 +35107,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1840-01-24",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8118bf16c1104e07cbc6.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8118bf16c1104e07cbc6.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Religioso agostinho, governador e bispo eleito do Porto durante as lutas liberais. A sua eleição não obteve confirmação pontifícia.",
@@ -34510,8 +35131,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1635-05-23",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d811bb658c06a438d242b.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d811bb658c06a438d242b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Religioso agostinho, bispo de Miranda e depois do Porto na primeira metade do século XVII.",
@@ -34531,8 +35154,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d811db0afffc4a424b399.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d811db0afffc4a424b399.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto em meados do século XII, ligado ao período da conquista de Lisboa em 1147.",
@@ -34552,8 +35177,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d811f8e29cb79cb7baf70.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d811f8e29cb79cb7baf70.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado que governou as dioceses de Silves, Astorga e Porto no século XIV.",
@@ -34573,8 +35200,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8121a19cd4b61886a79a.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8121a19cd4b61886a79a.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Angra e posteriormente do Porto, cuja diocese governou em meados do século XVI.",
@@ -34618,8 +35247,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1145-06-29",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d812cb8aaf2c6532e9ba8.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d812cb8aaf2c6532e9ba8.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto no reinado de Afonso Henriques, sucessor de João Peculiar na sede portucalense.",
@@ -34641,8 +35272,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81309776e8b2be70b221.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d81309776e8b2be70b221.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado que governou brevemente a diocese do Porto no início do século XIV. Faleceu na cúria pontifícia de Avinhão, antes da nomeação de Estêvão.",
@@ -34740,8 +35373,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1344-06-25",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d813ebcd7e5f63a3802a2.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d813ebcd7e5f63a3802a2.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto no segundo quartel do século XIV, depois transferido para Lisboa.",
@@ -34787,8 +35422,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8141ad7fd9a6c81d7d3f.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8141ad7fd9a6c81d7d3f.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo de Meinedo, documentado no II Concílio de Braga, em 572. Meinedo é apontada como a primeira sede da diocese que viria a fixar-se no Porto.",
@@ -34808,8 +35445,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1415-01-23",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8146945acd194661553e.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8146945acd194661553e.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Prelado e diplomata, foi bispo de Silves, Porto e Coimbra e arcebispo de Lisboa. Foi criado cardeal por João XXIII durante o Cisma do Ocidente.",
@@ -34855,8 +35494,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d814abf1df3a6a142205b.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d814abf1df3a6a142205b.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto em meados do século XV. O seu governo conheceu um conflito com os dominicanos sobre a confraria de Jesus.",
@@ -34876,8 +35517,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d814e858eeeb53aba97fd.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d814e858eeeb53aba97fd.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga sede de Portucale, incluído no episcopológio histórico da Diocese do Porto.",
@@ -35046,8 +35689,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1327-12-05",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8161adcef7880fc20f93.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8161adcef7880fc20f93.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto na década de 1320, sucessor de Fernando Ramires e antecessor de Vasco Martins.",
@@ -35067,8 +35712,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8162a51ef4bed3a37f08.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8162a51ef4bed3a37f08.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da antiga sede de Portucale, incluído no episcopológio histórico da Diocese do Porto.",
@@ -35140,8 +35787,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d816fb598e4a914acdc43.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d816fb598e4a914acdc43.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto na segunda metade do século XII. É distinguido nos episcopológios de Pedro Rabaldes e Pedro Pitões.",
@@ -35161,8 +35810,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1247-06-24",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d8171ac4ed7da16bcc0c1.png",
+  "fotos": [
+   "fotos/401f3ddb5a6d8171ac4ed7da16bcc0c1.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo do Porto no século XIII, envolvido nos conflitos entre o poder episcopal e Sancho II.",
