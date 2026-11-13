@@ -17189,8 +17189,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81db8eaef27db92f4a2b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81db8eaef27db92f4a2b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Julio_do_Patrocinio_Martins_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -19135,8 +19137,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d817eb84cc20531785ed6.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d817eb84cc20531785ed6.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sebasti%C3%A3o_de_Sousa_Dantas_Baracho_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
