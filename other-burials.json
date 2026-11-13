@@ -559,5 +559,22 @@
     "photoCredit": "Wikimedia Commons · autoria e licença na ficha da imagem",
     "archiveUrl": "https://app.notion.com/p/417f3ddb5a6d81a89dade497e8fe6ec0?pvs=204",
     "notionUrl": "https://app.notion.com/p/417f3ddb5a6d81a89dade497e8fe6ec0?pvs=204"
+  },
+  {
+    "name": "Igreja de São João de Deus (Praça de Londres)",
+    "type": "Igreja paroquial",
+    "district": "Lisboa",
+    "municipality": "Lisboa",
+    "parish": "Areeiro",
+    "address": "Praça de Londres, Lisboa",
+    "lat": 38.740519,
+    "lng": -9.137449,
+    "bio": "Igreja paroquial do Areeiro, projetada por António Lino e inaugurada em 1953. Há uma indicação de sepultamentos na casa mortuária. A existência de sepulturas permanentes e a identidade das pessoas estão por confirmar.",
+    "source": "https://www.quovadislisboa.pt/pt/place/sao-joao-de-deus",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Igreja_de_S%C3%A3o_Jo%C3%A3o_de_Deus_em_Lisboa%2C_Portugal.jpg?width=960",
+    "photoSource": "https://commons.wikimedia.org/wiki/File:Igreja_de_S%C3%A3o_Jo%C3%A3o_de_Deus_em_Lisboa%2C_Portugal.jpg",
+    "photoCredit": "Exterior da igreja · autoria e licença no Wikimedia Commons",
+    "notionUrl": "https://app.notion.com/p/417f3ddb5a6d819daad7cb23a5f86743?pvs=204",
+    "archiveUrl": "https://app.notion.com/p/417f3ddb5a6d819daad7cb23a5f86743?pvs=204"
   }
 ]
