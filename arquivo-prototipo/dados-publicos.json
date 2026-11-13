@@ -8,8 +8,10 @@
   "rotas": [],
   "nascimento": "1940-06-06",
   "morte": "2026-04-10",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/416f3ddb5a6d8104842be60199dd554d.png",
+  "fotos": [
+   "fotos/416f3ddb5a6d8104842be60199dd554d.png"
+  ],
   "detalhes": {
    "Área": "Advocacia",
    "Biografia": "José Manuel Matos Fernandes (1940–2026) foi magistrado português, juiz conselheiro jubilado. Licenciou-se em Direito em Lisboa em 1962, tendo participado na crise académica desse ano. Exerceu funções como delegado do Procurador da República em Valença, Águeda e Porto. Fonte: Diário da Assembleia da República, I Série, n.º 83 (2026), voto de pesar n.º 498/XVII/1.ª.",
@@ -27,8 +29,10 @@
   "rotas": [],
   "nascimento": "1948",
   "morte": "2025-12-06",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/416f3ddb5a6d8116a516d647e8841a2c.png",
+  "fotos": [
+   "fotos/416f3ddb5a6d8116a516d647e8841a2c.png"
+  ],
   "detalhes": {
    "Área": "Fotografia",
    "Biografia": "José Pessoa (1948–2025) foi especialista português em fotografia e exame científico de obras de arte. Trabalhou no Instituto José de Figueiredo, no Arquivo Nacional de Fotografia e no Museu de Lamego. Participou no Inventário Fotográfico Nacional de Obras de Arte e lecionou conservação e restauro. Fonte: Assembleia da República, Projeto de Voto de Pesar n.º 330/XVII/1.ª.",
@@ -151,8 +155,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "23/01/2026",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/414f3ddb5a6d8183aa62d54d9bd6b0f0.jpg",
+  "fotos": [
+   "fotos/414f3ddb5a6d8183aa62d54d9bd6b0f0.jpg"
+  ],
   "detalhes": {
    "Área": "Militar",
    "Biografia": "Major-general do Exército português, natural de Sobreira Formosa. Participou no movimento dos Capitães de Abril e presidiu a organismos nacionais de bombeiros e proteção civil.",
@@ -212,8 +218,10 @@
   "rotas": [],
   "nascimento": "23/07/1941",
   "morte": "12/02/2025",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/414f3ddb5a6d81d8a018db8dc6a39708.png",
+  "fotos": [
+   "fotos/414f3ddb5a6d81d8a018db8dc6a39708.png"
+  ],
   "detalhes": {
    "Área": "Ativista",
    "Biografia": "Sindicalista português ligado ao setor bancário. Participou na fundação da União Geral de Trabalhadores em 1978 e exerceu funções de secretário-geral.",
@@ -336,8 +344,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/413f3ddb5a6d81ef80f7c6acbe559f5c.jpg",
+  "fotos": [
+   "fotos/413f3ddb5a6d81ef80f7c6acbe559f5c.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor, Educação",
    "Biografia": "Escritora e investigadora portuguesa, homenageada pela Assembleia da República em janeiro de 2026, após o seu falecimento, pelo contributo à literatura e à investigação científica. Fonte: Assembleia da República, Diário de 10/01/2026: https://app.parlamento.pt/webutils/docs/doc.pdf?Inline=true&fich=DAR-I-047.pdf",
@@ -372,8 +382,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1901",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/412f3ddb5a6d81bf8750e182840ad848.png",
+  "fotos": [
+   "fotos/412f3ddb5a6d81bf8750e182840ad848.png"
+  ],
   "detalhes": {
    "Biografia": "Missionário espanhol que morreu em Vila Chã, Tarouca, em 1901. Foi exumado em 1922 e passou a ser venerado localmente; a Diocese de Lamego confirma que o seu corpo se encontra depositado na Capela de Santo António, em Vila Chã da Beira.",
    "Data de morte": "1901",
@@ -393,8 +405,10 @@
   "rotas": [],
   "nascimento": "1835",
   "morte": "1885",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/412f3ddb5a6d81019f09cd691bf840e2.png",
+  "fotos": [
+   "fotos/412f3ddb5a6d81019f09cd691bf840e2.png"
+  ],
   "detalhes": {
    "Biografia": "Conhecida como Santa Maria Adelaide ou Santinha de Arcozelo, é objeto de devoção popular em Arcozelo, Vila Nova de Gaia. Depois da morte e exumação, o corpo foi exposto numa capela junto ao cemitério local. A Igreja Católica não a canonizou.",
    "Data de morte": "1885",
@@ -414,8 +428,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "17/06/1878",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/412f3ddb5a6d810382e0ef7b37fc03e6.png",
+  "fotos": [
+   "fotos/412f3ddb5a6d810382e0ef7b37fc03e6.png"
+  ],
   "detalhes": {
    "Biografia": "Conhecida localmente como Servinha de Barcos. Faleceu em 1878 e, após a descoberta do corpo em 1916, passou a ser venerada localmente; o levantamento do GIFI documenta a exposição na Capela de Santa Bárbara, junto ao cemitério de Barcos.",
    "Data de morte": "17/06/1878",
@@ -435,8 +451,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1907",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/412f3ddb5a6d8181ac1bdc1ec05b95d4.png",
+  "fotos": [
+   "fotos/412f3ddb5a6d8181ac1bdc1ec05b95d4.png"
+  ],
   "detalhes": {
    "Biografia": "Conhecido como Santinho ou Santo Antoninho de Beire. O Município de Paredes indica que faleceu em 1907 e foi exumado em 1978; o corpo passou a ser venerado localmente e exposto numa capela.",
    "Data de morte": "1907",
@@ -456,8 +474,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "Incerto",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/412f3ddb5a6d818eae74fb96da2edff7.png",
+  "fotos": [
+   "fotos/412f3ddb5a6d818eae74fb96da2edff7.png"
+  ],
   "detalhes": {
    "Biografia": "Figura de identidade civil desconhecida, venerada em Lalim, concelho de Lamego. O levantamento do GIFI regista versões orais divergentes sobre a descoberta e a história do corpo, e documenta a sua exposição numa capela próxima da igreja à época da investigação.",
    "Data de morte": "Incerto",
@@ -540,8 +560,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/412f3ddb5a6d81a3af5dff78a37a39cf.png",
+  "fotos": [
+   "fotos/412f3ddb5a6d81a3af5dff78a37a39cf.png"
+  ],
   "detalhes": {
    "Biografia": "Irmão de Garcia de Resende. O inventário patrimonial identifica a sua campa no nártex da Capela de Nossa Senhora do Espinheiro, em Évora.",
    "Localização": "Campa no nártex da Capela de Nossa Senhora do Espinheiro, Évora.",
@@ -6131,8 +6153,10 @@
   "rotas": [],
   "nascimento": "07/08/1911",
   "morte": "03/08/1939",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/411f3ddb5a6d81338a35ef5f72bc2451.png",
+  "fotos": [
+   "fotos/411f3ddb5a6d81338a35ef5f72bc2451.png"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Biografia": "Poeta português natural de Ansião, associado à geração do Novo Cancioneiro. Publicou As Três Pessoas (1938); Voz que Escuta foi editado postumamente. Fontes: Bertrand (bertrand.pt/autor/polibio-gomes-dos-santos/21652); RTP Arquivos (Cancioneiro, episódio 6).",
@@ -6150,8 +6174,10 @@
   "rotas": [],
   "nascimento": "29/09/1957",
   "morte": "09/05/1995",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/411f3ddb5a6d818caecaff871100957c.png",
+  "fotos": [
+   "fotos/411f3ddb5a6d818caecaff871100957c.png"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Biografia": "Poeta, ensaísta e tradutor português, nascido em Viseu. Foi docente na Faculdade de Letras de Lisboa e leitor de português em Oxford; trabalhou como tradutor em Bruxelas, onde faleceu em maio de 1995. Autor de Películas e Vulcão. Fontes: Assírio & Alvim (assirio.pt/autor/luis-miguel-nava/6549); Fundação Luís Miguel Nava (relampago.pt).",
@@ -6300,8 +6326,10 @@
   "rotas": [],
   "nascimento": "1927-06-17",
   "morte": "2007-01-15",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40ff3ddb5a6d81d19696cb644506fa02.png",
+  "fotos": [
+   "fotos/40ff3ddb5a6d81d19696cb644506fa02.png"
+  ],
   "detalhes": {
    "Área": "Teatro, Educação",
    "Biografia": "Maria Wallenstein (Ribeira Grande, ilha de São Miguel, 17 de junho de 1927 – Lisboa, 15 de janeiro de 2007) foi atriz de teatro, professora e tradutora portuguesa. Estudou no Colégio de São Francisco Xavier e no Liceu Antero de Quental, licenciando-se em Filologia Românica na Faculdade de Letras de Lisboa, com uma tese sobre o teatro popular de São Miguel. Desenvolveu atividades de teatro e expressão dramática no ensino e traduziu peças de Jean Cocteau, Samuel Beckett, Eugène Ionesco e Jean Tardieu. Casou com o ator e encenador Carlos Wallenstein, com quem teve quatro filhos, entre eles José e Pedro Wallenstein. Entre 1997 e 2000 organizou a edição de quatro volumes da obra do marido.",
@@ -6341,8 +6369,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40ef3ddb5a6d81e48fc5c90f3cf12e1e.png",
+  "fotos": [
+   "fotos/40ef3ddb5a6d81e48fc5c90f3cf12e1e.png"
+  ],
   "detalhes": {
    "Nome": "Victor Hugo Cardinali Mariani"
   }
@@ -6354,8 +6384,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40ef3ddb5a6d810eac29ced4d7175dbb.png",
+  "fotos": [
+   "fotos/40ef3ddb5a6d810eac29ced4d7175dbb.png"
+  ],
   "detalhes": {
    "Biografia": "Nascida no Porto em 1926 e falecida em 2017, da família Cardinali. Datas completas e sepultura por confirmar.",
    "Informação extra": "Dados parciais; consultar fontes genealógicas e registos de óbito. https://geneall.net/pt/familia-nomes/17702/cardinali/",
@@ -6386,8 +6418,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40ef3ddb5a6d81759973df4529cb617d.png",
+  "fotos": [
+   "fotos/40ef3ddb5a6d81759973df4529cb617d.png"
+  ],
   "detalhes": {
    "Biografia": "Artista da família circense Cardinali e irmão de Victor Hugo Cardinali. Data de morte e sepultura por confirmar.",
    "Informação extra": "Dados parciais; consultar fontes genealógicas e registos de óbito. https://geneall.net/pt/familia-nomes/17702/cardinali/",
@@ -6401,8 +6435,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40ef3ddb5a6d818f8510f81e99e9926e.png",
+  "fotos": [
+   "fotos/40ef3ddb5a6d818f8510f81e99e9926e.png"
+  ],
   "detalhes": {
    "Biografia": "Filho de Luigi Cardinali, da família circense. Datas e sepultura por confirmar.",
    "Informação extra": "Dados parciais; consultar fontes genealógicas e registos de óbito. https://geneall.net/pt/familia-nomes/17702/cardinali/",
@@ -6416,8 +6452,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40ef3ddb5a6d81348ce4fa22e59e21fa.png",
+  "fotos": [
+   "fotos/40ef3ddb5a6d81348ce4fa22e59e21fa.png"
+  ],
   "detalhes": {
    "Biografia": "Filho de Luigi Cardinali; membro da família circense. Datas e sepultura por confirmar.",
    "Informação extra": "Dados parciais; consultar fontes genealógicas e registos de óbito. https://geneall.net/pt/familia-nomes/17702/cardinali/",
@@ -6431,8 +6469,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40ef3ddb5a6d8197bf9fe712a5f5f51f.png",
+  "fotos": [
+   "fotos/40ef3ddb5a6d8197bf9fe712a5f5f51f.png"
+  ],
   "detalhes": {
    "Biografia": "Mãe de Victor Hugo Cardinali, ligada à família circense Cardinali. O seu falecimento foi noticiado em 1 de outubro de 2004 pelo arquivo Circovivo. Data exata do óbito e sepultura ainda por confirmar.",
    "Informação extra": "Fonte: https://www.geocities.ws/circovivo/not2004.htm",
@@ -6526,8 +6566,10 @@
   "rotas": [],
   "nascimento": "04/02/1885",
   "morte": "29/08/1962",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40ef3ddb5a6d816faefeec6c214a450d.png",
+  "fotos": [
+   "fotos/40ef3ddb5a6d816faefeec6c214a450d.png"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Biografia": "Diplomata, escritor e poeta português, nascido em Taubaté e falecido no Rio de Janeiro. Fonte: https://www.escritas.org/PT/luiz-pinto-d-albuquerque-bello",
@@ -6605,8 +6647,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40cf3ddb5a6d81ec9161f3e2806e2bbe.png",
+  "fotos": [
+   "fotos/40cf3ddb5a6d81ec9161f3e2806e2bbe.png"
+  ],
   "detalhes": {
    "Visita 360": "https://kuula.co/share/LZZbp/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Biografia": "Mariana Osório de Castro Cabral de Albuquerque (1842–1917), ativista portuguesa e mãe de Ana de Castro Osório. Casou com João Baptista de Castro, magistrado e bibliófilo. Consta da inscrição do jazigo familiar.",
@@ -6714,8 +6758,10 @@
   "rotas": [],
   "nascimento": "1946",
   "morte": "20/06/2013",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40cf3ddb5a6d8162adcdf0a11db8e749.png",
+  "fotos": [
+   "fotos/40cf3ddb5a6d8162adcdf0a11db8e749.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Jurista e deputado pelo PCP e pelo PS. Presidiu à Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias e foi Secretário de Estado do Comércio.",
@@ -6779,8 +6825,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "2026",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40cf3ddb5a6d818798a1c004c9203323.png",
+  "fotos": [
+   "fotos/40cf3ddb5a6d818798a1c004c9203323.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Deputado às I, II e III Legislaturas, Secretário de Estado das Comunidades, Governador Civil de Faro e Presidente da Câmara Municipal de Faro.",
@@ -6820,8 +6868,10 @@
   "rotas": [],
   "nascimento": "11/07/1966",
   "morte": "23/06/2023",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40cf3ddb5a6d81caa675f70be9945798.png",
+  "fotos": [
+   "fotos/40cf3ddb5a6d81caa675f70be9945798.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Advogado, autarca de Paços de Ferreira e deputado do Partido Socialista pelo círculo do Porto entre 1995 e 1999.",
@@ -6983,8 +7033,10 @@
   "rotas": [],
   "nascimento": "1785",
   "morte": "1854-03-23",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81099554f5c3ccd9d0bf.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81099554f5c3ccd9d0bf.png"
+  ],
   "detalhes": {
    "Biografia": "Luís de Meireles do Canto e Castro (1785–1854) foi político e escritor açoriano, natural de Angra. Fidalgo da Casa Real, vereador e oficial das Ordenanças, integrou a Junta Governativa absolutista de Angra em 1823. Exilou-se em França e publicou, em 1834, uma memória sobre a administração, a economia e a educação nos Açores. O dia de nascimento apresenta divergência entre fontes (15 ou 16 de maio).",
    "Data de morte": "1854-03-23",
@@ -7003,8 +7055,10 @@
   "rotas": [],
   "nascimento": "1776-02-11",
   "morte": "1854-03-31",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8115b870e7bffb4a71e7.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8115b870e7bffb4a71e7.png"
+  ],
   "detalhes": {
    "Biografia": "João Galvão Mexia de Sousa Mascarenhas (1776–1854) foi oficial de cavalaria do Exército português, atingindo o posto de coronel. Serviu em diferentes unidades e comandos militares e esteve ligado à causa miguelista durante a Guerra Civil portuguesa. Escreveu sobre os acontecimentos e operações militares de 1833–1834.",
    "Data de morte": "1854-03-31",
@@ -7023,8 +7077,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8119aae8c41933000014.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8119aae8c41933000014.png"
+  ],
   "detalhes": {
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
@@ -7040,8 +7096,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d811c9868d0d95780d85a.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d811c9868d0d95780d85a.jpg"
+  ],
   "detalhes": {
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
@@ -7077,8 +7135,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813cb3e0dae9023a812b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813cb3e0dae9023a812b.png"
+  ],
   "detalhes": {
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
@@ -7132,8 +7192,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8155aca7c0a2284c98a3.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8155aca7c0a2284c98a3.png"
+  ],
   "detalhes": {
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
@@ -7169,8 +7231,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81679d12fd55d08e555b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81679d12fd55d08e555b.png"
+  ],
   "detalhes": {
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
@@ -7186,8 +7250,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81698f29ff572427bdb2.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81698f29ff572427bdb2.png"
+  ],
   "detalhes": {
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
@@ -7203,8 +7269,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d817ab924f74c43de4acb.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d817ab924f74c43de4acb.png"
+  ],
   "detalhes": {
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
@@ -7259,8 +7327,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d818a9d13d9004c6ef3e0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d818a9d13d9004c6ef3e0.png"
+  ],
   "detalhes": {
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
@@ -7276,8 +7346,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8194a554ea8098f79b59.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8194a554ea8098f79b59.png"
+  ],
   "detalhes": {
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
@@ -7371,8 +7443,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81bd88abe7112920bb65.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81bd88abe7112920bb65.png"
+  ],
   "detalhes": {
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
@@ -7428,8 +7502,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d79f02c2b7a6fad488.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d79f02c2b7a6fad488.png"
+  ],
   "detalhes": {
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
@@ -7445,8 +7521,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d991cee07e085349ce.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d991cee07e085349ce.png"
+  ],
   "detalhes": {
    "Informação extra": "Categoria: Escritores miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Escritores_miguelistas",
    "Cemitério": "Incerto",
@@ -7503,8 +7581,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d810991e8dae69bc04748.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d810991e8dae69bc04748.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -7523,8 +7603,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d810a9ba7e8efcce0ee21.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d810a9ba7e8efcce0ee21.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -7543,8 +7625,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81149bb6db1a10602f99.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81149bb6db1a10602f99.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -7586,8 +7670,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d812bbff3dd0f0cecffc7.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d812bbff3dd0f0cecffc7.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -7651,8 +7737,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81309e15e7773d674491.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81309e15e7773d674491.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -7671,8 +7759,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8133ab96ccd274bf676f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8133ab96ccd274bf676f.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -7691,8 +7781,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813887f8da3c8278e0a4.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813887f8da3c8278e0a4.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -7711,8 +7803,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813c8474cf96b1c00fc1.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813c8474cf96b1c00fc1.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -7773,8 +7867,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8160804adb3b590829e3.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8160804adb3b590829e3.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -7816,8 +7912,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8161aff0d1f277e84074.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8161aff0d1f277e84074.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -7836,8 +7934,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8167a184ff1cc518776b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8167a184ff1cc518776b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -7901,8 +8001,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8179879ddc890c279338.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8179879ddc890c279338.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -7921,8 +8023,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d817c980df5384a99a7b0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d817c980df5384a99a7b0.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -7961,8 +8065,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81888b4de7e9ff43227e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81888b4de7e9ff43227e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -8045,8 +8151,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a68ca5c62303e7b1e4.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a68ca5c62303e7b1e4.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -8177,8 +8285,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d49c75e40d9b9366eb.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d49c75e40d9b9366eb.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -8197,8 +8307,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d4a0a7fd8a7a20e347.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d4a0a7fd8a7a20e347.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -8237,8 +8349,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e68621fda1fbd4d234.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e68621fda1fbd4d234.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -8257,8 +8371,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e6a02df8347fc9fb1e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e6a02df8347fc9fb1e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -8277,8 +8393,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e6b28efe1df32c13c7.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e6b28efe1df32c13c7.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Categoria: Miguelistas. Fonte: https://pt.wikipedia.org/wiki/Categoria:Miguelistas",
@@ -8363,8 +8481,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81059100dc69b19e372b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81059100dc69b19e372b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8383,8 +8503,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d810b951bcfd43bb83feb.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d810b951bcfd43bb83feb.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8403,8 +8525,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8118b51be0f42f43874c.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8118b51be0f42f43874c.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8444,8 +8568,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8126850fd0c16bc24095.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8126850fd0c16bc24095.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8464,8 +8590,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8127b1f7cef31b3b5256.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8127b1f7cef31b3b5256.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8484,8 +8612,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8139a72dc6c981c7706b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8139a72dc6c981c7706b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8504,8 +8634,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813a94cfd28874b4a2c3.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813a94cfd28874b4a2c3.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8524,8 +8656,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813eb1d0ed356ac65bca.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813eb1d0ed356ac65bca.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8544,8 +8678,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814ea3c8ce8d19254373.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814ea3c8ce8d19254373.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8564,8 +8700,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8163a563c28ed6764aca.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8163a563c28ed6764aca.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8584,8 +8722,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8171ae43e208e013e47c.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8171ae43e208e013e47c.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8604,8 +8744,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81739360e00b66a3e8b0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81739360e00b66a3e8b0.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8624,8 +8766,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8185b881f67492cbc4b8.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8185b881f67492cbc4b8.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8644,8 +8788,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8191ae64d1b6ba37fe62.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8191ae64d1b6ba37fe62.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8664,8 +8810,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8198afecefe176e951e7.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8198afecefe176e951e7.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8684,8 +8832,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a7a144e6a501f24a32.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a7a144e6a501f24a32.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8704,8 +8854,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c29debc034460d6976.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c29debc034460d6976.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8724,8 +8876,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c2b1d3cb2b1e7fd317.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c2b1d3cb2b1e7fd317.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8744,8 +8898,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c48310d5c3f8547f1f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c48310d5c3f8547f1f.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8764,8 +8920,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d6a43fee1406dffb89.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d6a43fee1406dffb89.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8805,8 +8963,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e7af58ebabec03c3bb.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e7af58ebabec03c3bb.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8825,8 +8985,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ff8f1bc644bf2ea642.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ff8f1bc644bf2ea642.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Fonte: https://pt.wikipedia.org/wiki/Categoria:Pol%C3%ADticos_portugueses_do_s%C3%A9culo_XIX",
@@ -8845,8 +9007,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8124b6b4c8a6bd03d37d.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8124b6b4c8a6bd03d37d.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -8865,8 +9029,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d812faa9cc82f93947b6e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d812faa9cc82f93947b6e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -8885,8 +9051,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813eaf2fe054e5ef08ac.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813eaf2fe054e5ef08ac.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -8905,8 +9073,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81418c0dd487609764c6.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81418c0dd487609764c6.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -8948,8 +9118,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d815d8a9bc90a9741aff6.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d815d8a9bc90a9741aff6.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -8968,8 +9140,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8163a3c7c482cfa78678.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8163a3c7c482cfa78678.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9009,8 +9183,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d817c8998caf62506cb36.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d817c8998caf62506cb36.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9029,8 +9205,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d819d8423f0d26847c1e3.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d819d8423f0d26847c1e3.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9049,8 +9227,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ac838ede1e028a4c29.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ac838ede1e028a4c29.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9069,8 +9249,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81bda03cee6e74a39780.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81bda03cee6e74a39780.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9089,8 +9271,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c09f4ddb81550b5a08.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c09f4ddb81550b5a08.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9109,8 +9293,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ea93d2d5f141e16771.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ea93d2d5f141e16771.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9129,8 +9315,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81f38a92ecc72bd96729.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81f38a92ecc72bd96729.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9149,8 +9337,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8146beb6d2db9c5c239b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8146beb6d2db9c5c239b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9212,8 +9402,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d815c802af9cb066bb8a0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d815c802af9cb066bb8a0.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9232,8 +9424,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816bb096c603a612a846.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816bb096c603a612a846.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9252,8 +9446,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8172852df71ead9aaeb9.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8172852df71ead9aaeb9.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9294,8 +9490,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c89f17da9c69638c40.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c89f17da9c69638c40.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9314,8 +9512,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e18b44c2b30537e93e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e18b44c2b30537e93e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9334,8 +9534,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81fdab9cf5d7f1a401b8.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81fdab9cf5d7f1a401b8.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9354,8 +9556,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8169b929f9627e83c4fd.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8169b929f9627e83c4fd.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -9548,8 +9752,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ee9703d450df5bc7d3.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ee9703d450df5bc7d3.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Figura política portuguesa incluída na categoria histórica do século XIX; dados biográficos adicionais por verificar.",
@@ -10005,8 +10211,10 @@
   "rotas": [],
   "nascimento": "04/05/1922",
   "morte": "01/10/2004",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814a8dace254b7311d39.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814a8dace254b7311d39.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Engenheiro químico, resistente antifascista e dirigente do PCP. Foi preso político e deputado à Assembleia Constituinte por Coimbra, tendo renunciado ao mandato por razões de saúde.",
@@ -10047,8 +10255,10 @@
   "rotas": [],
   "nascimento": "04/08/1931",
   "morte": "15/05/2026",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d810dbdb3e88419940584.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d810dbdb3e88419940584.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Resistente antifascista e dirigente do PCP. Conhecido como «preso sem nome», foi o último funcionário do partido detido pela PIDE antes do 25 de Abril. Deputado à Assembleia Constituinte pelo Porto.",
@@ -10939,8 +11149,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "21/06/1950",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81258c8ae2e7b32c1ee5.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81258c8ae2e7b32c1ee5.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "21/06/1950",
@@ -11037,8 +11249,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "1956",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81549f5cc9cb6588182e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81549f5cc9cb6588182e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "1956",
@@ -11055,8 +11269,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "1934",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d815a96d4da0860a35c67.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d815a96d4da0860a35c67.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "1934",
@@ -11093,8 +11309,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "1924",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8176869af8f385999c51.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8176869af8f385999c51.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "1924",
@@ -11131,8 +11349,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "1952",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d817fb39ae777031fa679.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d817fb39ae777031fa679.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "1952",
@@ -11149,8 +11369,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "1936",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81829a40d68eff353efe.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81829a40d68eff353efe.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "1936",
@@ -11167,8 +11389,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "1927",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c8bb8bfb76c45f242f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c8bb8bfb76c45f242f.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Data de morte": "1927",
@@ -11365,8 +11589,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8109ab0fecd8bc05d777.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8109ab0fecd8bc05d777.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -11480,8 +11706,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8134a745c16d0e477a99.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8134a745c16d0e477a99.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -11516,8 +11744,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8147af18fac35f7fd393.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8147af18fac35f7fd393.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -11567,8 +11797,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814c97fbed86feecd102.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814c97fbed86feecd102.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -11642,8 +11874,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816b9356da406d8103c0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816b9356da406d8103c0.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -11678,8 +11912,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81779317fc229404ad53.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81779317fc229404ad53.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -11695,8 +11931,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d818dae68e21f79ca8411.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d818dae68e21f79ca8411.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -11750,8 +11988,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81928e25fe9a59a35ac1.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81928e25fe9a59a35ac1.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -11804,8 +12044,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8198b606e3b9547c498b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8198b606e3b9547c498b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -11821,8 +12063,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d819cb3b8f81b31226486.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d819cb3b8f81b31226486.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -11838,8 +12082,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a082c3c26f3a8380ba.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a082c3c26f3a8380ba.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -11892,8 +12138,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b9bd86d6bd36861eaf.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b9bd86d6bd36861eaf.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -11946,8 +12194,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c5895fd05d14077edf.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c5895fd05d14077edf.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -11963,8 +12213,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c698ebcc4a7e1818b9.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c698ebcc4a7e1818b9.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -11999,8 +12251,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c984a7c4af7d74df5a.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c984a7c4af7d74df5a.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -12016,8 +12270,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d3a2e3dc1d614a372a.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d3a2e3dc1d614a372a.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -12109,8 +12365,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81f899fcc41ed8648ec7.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81f899fcc41ed8648ec7.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado identificado em listas históricas da Primeira República (1911–1926). Falecimento certo pelo período do mandato (mais de um século decorrido), data exata por confirmar. Fonte geral: https://ahpweb.parlamento.pt/Detalhe/?id=30608 . Possível duplicação com importações anteriores; confirmar identidade e sepultura.",
@@ -12126,8 +12384,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81098afcfb188e862c45.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81098afcfb188e862c45.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12223,8 +12483,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d811e8c68e34a30336fb7.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d811e8c68e34a30336fb7.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12279,8 +12541,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d812d8d36f808aaa01883.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d812d8d36f808aaa01883.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12296,8 +12560,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81308b96ca11dc1f0956.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81308b96ca11dc1f0956.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12313,8 +12579,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813b9d33c366fd678c70.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813b9d33c366fd678c70.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12350,8 +12618,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8140af88c45c0ce1886c.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8140af88c45c0ce1886c.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12367,8 +12637,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8146a585c6176070656c.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8146a585c6176070656c.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12401,8 +12673,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81509fddfabf1b1f8318.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81509fddfabf1b1f8318.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12514,8 +12788,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816a9ea7f29c47562d02.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816a9ea7f29c47562d02.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12648,8 +12924,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d817eb193d25f94fc3fe0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d817eb193d25f94fc3fe0.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12665,8 +12943,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d817fa86eeb2406c2d19a.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d817fa86eeb2406c2d19a.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12682,8 +12962,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d818cb3e8dad4845fe1c3.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d818cb3e8dad4845fe1c3.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12735,8 +13017,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8193b256f116f2f5dcf0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8193b256f116f2f5dcf0.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12790,8 +13074,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a484f1dcc951170f79.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a484f1dcc951170f79.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12807,8 +13093,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81acbc29f2e28a26c9af.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81acbc29f2e28a26c9af.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -12844,8 +13132,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c1b5a5e5d2403f5a92.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c1b5a5e5d2403f5a92.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -13003,8 +13293,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81fd97b1ee1501074369.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81fd97b1ee1501074369.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome transcrito da relação oficial de deputados do Livro do Pessoal Político 1911–1915 (I Legislatura), Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334 . Registo nominal sujeito a confirmação de óbito, sepultura e duplicados.",
@@ -13020,8 +13312,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8103aadaec9787346efb.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8103aadaec9787346efb.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13076,8 +13370,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81118c60fe38d4aac1a0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81118c60fe38d4aac1a0.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13112,8 +13408,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81129dabe85fd357aabe.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81129dabe85fd357aabe.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13174,8 +13472,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d811f9dfcf97b7323d7a2.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d811f9dfcf97b7323d7a2.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13191,8 +13491,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d812190cfc763aeb6adc8.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d812190cfc763aeb6adc8.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13227,8 +13529,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d812b9a8de6d2c092865a.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d812b9a8de6d2c092865a.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13263,8 +13567,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813880b3c737a5fa6d58.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813880b3c737a5fa6d58.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13280,8 +13586,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8139b998dbe5ec5bdd6c.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8139b998dbe5ec5bdd6c.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13297,8 +13605,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813ab995fae2ddd3c29d.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813ab995fae2ddd3c29d.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13314,8 +13624,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d813dad28e0c5b72a6e47.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d813dad28e0c5b72a6e47.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13384,8 +13696,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814590ced0498ed5f902.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814590ced0498ed5f902.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13401,8 +13715,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814aa183dc49d72c1a3d.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814aa183dc49d72c1a3d.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13418,8 +13734,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8151a5a9d0473e132719.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8151a5a9d0473e132719.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13435,8 +13753,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d815ea590fac73026b97b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d815ea590fac73026b97b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13471,8 +13791,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816b8d5ecb2bc007cb9f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816b8d5ecb2bc007cb9f.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13508,8 +13830,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816e8607c7670efddecc.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816e8607c7670efddecc.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13545,8 +13869,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8187b826cd787aec9ac3.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8187b826cd787aec9ac3.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13562,8 +13888,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8189b3c9ccda0298d1fc.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8189b3c9ccda0298d1fc.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13657,8 +13985,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d819fae51dd64d7f75ced.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d819fae51dd64d7f75ced.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13674,8 +14004,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a0afcecc713dc618f0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a0afcecc713dc618f0.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13730,8 +14062,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81aca023f770e018dea6.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81aca023f770e018dea6.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13747,8 +14081,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b0a8e1eeddb1d69027.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b0a8e1eeddb1d69027.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -13764,8 +14100,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c9a668f2f4a69811f9.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c9a668f2f4a69811f9.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Registo nominal da I Legislatura 1911–1915, Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=143334&pesq=ps&t=6&tx=nascimento . Possíveis duplicados com lotes anteriores; óbito e sepultura por verificar.",
@@ -14062,8 +14400,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d810889d9d2655cbc8a81.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d810889d9d2655cbc8a81.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -14079,8 +14419,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8109bf05f5eb5c45509a.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8109bf05f5eb5c45509a.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -14116,8 +14458,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d810da197fa25091f1634.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d810da197fa25091f1634.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -14243,8 +14587,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81248e5df21d3b4fa233.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81248e5df21d3b4fa233.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -14280,8 +14626,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81289a34e93392c9fb7a.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81289a34e93392c9fb7a.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -14515,8 +14863,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814a8072d3066cdcaae4.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814a8072d3066cdcaae4.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -14609,8 +14959,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8163b54ec52e436efebb.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8163b54ec52e436efebb.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -14626,8 +14978,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8164a24ccf84e2a5be5e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8164a24ccf84e2a5be5e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -14643,8 +14997,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8165a175e67364716567.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8165a175e67364716567.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -14679,8 +15035,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8167a562e185cadf0b15.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8167a562e185cadf0b15.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -14812,8 +15170,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d817392f7cabc230d0595.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d817392f7cabc230d0595.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -14849,8 +15209,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8176b855e78092baad15.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8176b855e78092baad15.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -14983,8 +15345,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8199bdcdeec617748b1e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8199bdcdeec617748b1e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15094,8 +15458,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ad93a4d7d7b69ee9f3.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ad93a4d7d7b69ee9f3.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15170,8 +15536,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b39325f68e33064891.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b39325f68e33064891.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15207,8 +15575,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b7ac4ec9aca4945cc2.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b7ac4ec9aca4945cc2.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15241,8 +15611,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81bd8e55d5708a50396b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81bd8e55d5708a50396b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15258,8 +15630,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c29593d0996b5969ad.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c29593d0996b5969ad.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15369,8 +15743,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81c98594e904e61056e8.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81c98594e904e61056e8.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15386,8 +15762,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ca8333e5dba08f09f5.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ca8333e5dba08f09f5.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15403,8 +15781,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81cca279fe527167a115.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81cca279fe527167a115.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15420,8 +15800,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81cdb6a4d53ca20216c3.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81cdb6a4d53ca20216c3.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15456,8 +15838,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d49fcbc948a4e4f50c.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d49fcbc948a4e4f50c.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15529,8 +15913,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81dd8c6ec15ecb522dd2.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81dd8c6ec15ecb522dd2.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15569,8 +15955,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81dfb8f3cbe42a67d8f1.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81dfb8f3cbe42a67d8f1.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15586,8 +15974,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e4843ccd8c7e1d4183.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e4843ccd8c7e1d4183.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15603,8 +15993,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e4bd73ca2b5367672f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e4bd73ca2b5367672f.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15658,8 +16050,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81edaea1e739933fa523.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81edaea1e739933fa523.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15675,8 +16069,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ef963bf66a552a22c1.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ef963bf66a552a22c1.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15751,8 +16147,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81f6861beef23876cab7.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81f6861beef23876cab7.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15808,8 +16206,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81fc8e50ec2bca1136a7.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81fc8e50ec2bca1136a7.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15825,8 +16225,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81fdacaef8d5d4a198ae.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81fdacaef8d5d4a198ae.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
@@ -15842,8 +16244,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8100a15fea5370e2da2e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8100a15fea5370e2da2e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/Detalhe/?id=32273&t=7. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
@@ -15918,8 +16322,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d812e9ccee9b92789e8b4.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d812e9ccee9b92789e8b4.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/Detalhe/?id=32273&t=7. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
@@ -15935,8 +16341,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d812ebe47e0c920c102e4.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d812ebe47e0c920c102e4.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/Detalhe/?id=41977. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
@@ -15971,8 +16379,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81589523d54fb0caa93e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81589523d54fb0caa93e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/imgfile.aspx?f=d&nome=R1_CD_L1_SL2_PPP163.pdf&p=9023. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
@@ -16005,8 +16415,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d815e9185df71772a2482.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d815e9185df71772a2482.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/Detalhe/?id=32273&t=7. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
@@ -16062,8 +16474,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d819984a5d75610a7dd93.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d819984a5d75610a7dd93.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/Detalhe/?id=42010. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
@@ -16079,8 +16493,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d819f8dcfdf5cc1310555.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d819f8dcfdf5cc1310555.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/Detalhe/?id=32273&t=7. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
@@ -16139,8 +16555,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e6bd60f7992517a0e1.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e6bd60f7992517a0e1.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/Detalhe/?id=32273&t=7. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
@@ -16156,8 +16574,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ecbe58e6f008feb169.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ecbe58e6f008feb169.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/Detalhe/?id=32273&t=7. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
@@ -16173,8 +16593,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81f2a77ae76b897a9826.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81f2a77ae76b897a9826.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/Detalhe/?id=32273&t=7. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
@@ -16190,8 +16612,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81f9aac7c57cdbc805e0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81f9aac7c57cdbc805e0.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/Detalhe/?id=32273&t=7. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
@@ -16207,8 +16631,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81fa9c98daf8a1e7893f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81fa9c98daf8a1e7893f.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/Detalhe/?id=32273&t=7. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
@@ -16224,8 +16650,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81fa9fbbed49ef059750.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81fa9fbbed49ef059750.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Identificado como deputado em documento do Arquivo Histórico Parlamentar da Primeira República: https://ahpweb.parlamento.pt/imgfile.aspx?f=d&nome=R1_CD_L1_SL2_PPP163.pdf&p=9023. Nome tal como na fonte; identidade completa, óbito, sepultura e duplicação por verificar.",
@@ -16381,8 +16809,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81538cfeeae514e2d56e.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81538cfeeae514e2d56e.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome mencionado em documentação parlamentar da Primeira República; confirmar mandato específico, identidade, óbito, sepultura e eventual duplicação. Fontes: https://ahpweb.parlamento.pt/Detalhe/?id=31197 ; https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx",
@@ -16533,8 +16963,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d5ab86eb1b1539050f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d5ab86eb1b1539050f.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Nome mencionado em documentação parlamentar da Primeira República; confirmar mandato específico, identidade, óbito, sepultura e eventual duplicação. Fontes: https://ahpweb.parlamento.pt/Detalhe/?id=31197 ; https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx",
@@ -16590,8 +17022,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8111a095d40c27ad49b8.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8111a095d40c27ad49b8.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
@@ -16626,8 +17060,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d811db0bcfa3a67371978.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d811db0bcfa3a67371978.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
@@ -16699,8 +17135,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8137bb3dcbc4adfd9575.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8137bb3dcbc4adfd9575.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
@@ -16735,8 +17173,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8143a381debb8c2008dc.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8143a381debb8c2008dc.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
@@ -16811,8 +17251,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d815cb7cfd7f951de6d4b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d815cb7cfd7f951de6d4b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
@@ -16828,8 +17270,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816aa0b2d98978919acb.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816aa0b2d98978919acb.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
@@ -17004,8 +17448,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d819ab7e1d84fbd4bbc6b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d819ab7e1d84fbd4bbc6b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
@@ -17021,8 +17467,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a8bd15ece24ada9192.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a8bd15ece24ada9192.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
@@ -17058,8 +17506,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81bc8a59c004d8392378.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81bc8a59c004d8392378.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
@@ -17152,8 +17602,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d3b340ceb03938cdfb.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d3b340ceb03938cdfb.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
@@ -17426,8 +17878,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8104a8bef1cfe0a55a9c.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8104a8bef1cfe0a55a9c.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=35955. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -17443,8 +17897,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8112a85de8316a730f28.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8112a85de8316a730f28.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=9804. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -17657,8 +18113,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81469432db0c7db612f6.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81469432db0c7db612f6.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=9860. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -17710,8 +18168,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8148a58bd19ff7fd90b0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8148a58bd19ff7fd90b0.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=9880. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -17766,8 +18226,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81619bfcefcd10a20252.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81619bfcefcd10a20252.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=35953. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -17783,8 +18245,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81649750cd2d8e6ef858.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81649750cd2d8e6ef858.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=9703. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -17851,8 +18315,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816ab5abc02494469284.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816ab5abc02494469284.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=9869. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -17885,8 +18351,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816e8eccd7371d1d1e8f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816e8eccd7371d1d1e8f.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=35938. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -17940,8 +18408,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d817d8edfcb1b0e1665dd.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d817d8edfcb1b0e1665dd.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/7/79/Jos%C3%A9_Perdig%C3%A3o_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -17958,8 +18428,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d817ea02eee007ee77a61.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d817ea02eee007ee77a61.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=35953. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -18104,8 +18576,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a8924cde7ec9457813.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a8924cde7ec9457813.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=9742. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -18121,8 +18595,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ab8795fde35c28db58.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ab8795fde35c28db58.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=35935. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -18157,8 +18633,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81acabaad35ae0fb8a7d.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81acabaad35ae0fb8a7d.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/1/14/Joaquim_Brand%C3%A3o_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -18175,8 +18653,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81aebbefc9ec4324134d.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81aebbefc9ec4324134d.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=9755. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -18192,8 +18672,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b39309efc0d59c7d38.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b39309efc0d59c7d38.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=35935. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -18209,8 +18691,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b3bdd1c6fb867975fe.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b3bdd1c6fb867975fe.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=9755. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -18226,8 +18710,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b4bd14da349eb1dc89.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b4bd14da349eb1dc89.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=36512. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -18243,8 +18729,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b7bdcacee77c4a0027.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b7bdcacee77c4a0027.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=9860. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -18352,8 +18840,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ccb5d7ef3439a83ca9.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ccb5d7ef3439a83ca9.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=35935. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -18411,8 +18901,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81ddb6bce8e63bb8066b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81ddb6bce8e63bb8066b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=9755. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -18448,8 +18940,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e8bceefcbdaf252720.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e8bceefcbdaf252720.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=9755. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -18501,8 +18995,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81eab3dbcee0dadbe58c.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81eab3dbcee0dadbe58c.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=9859. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -18518,8 +19014,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81f18a92de5dc94525d1.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81f18a92de5dc94525d1.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=9859. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
@@ -18535,8 +19033,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81f8b1d9c96e3c2c0d2f.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81f8b1d9c96e3c2c0d2f.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Informação extra": "Deputado eleito durante a Primeira República; fonte nominal do Arquivo Histórico Parlamentar: https://ahpweb.parlamento.pt/Detalhe/?id=9880. Registo inicial; duplicação, datas, óbito, fotografia e sepultura por verificar.",
