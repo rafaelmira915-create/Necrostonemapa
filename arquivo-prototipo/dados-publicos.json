@@ -21632,8 +21632,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d818cb817e0cf26f8afff.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d818cb817e0cf26f8afff.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Jos%C3%A9_Barbosa_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -21650,8 +21652,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d819eb031e022cd5bb1e1.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d819eb031e022cd5bb1e1.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Jos%C3%A9_Luiz_dos_Santos_Moita_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
