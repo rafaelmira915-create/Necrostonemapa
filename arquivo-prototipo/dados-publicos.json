@@ -1,5 +1,1253 @@
 [
  {
+  "nome": "Henrique Júlio Martins Santana",
+  "areas": [
+   "Teatro",
+   "Cinema"
+  ],
+  "cemiterios": [
+   "Cemitério Alto São João"
+  ],
+  "rotas": [],
+  "nascimento": "1922",
+  "morte": "1995-07-01",
+  "foto": "fotos/418f3ddb5a6d8125b933d78c15b5f31d.jpg",
+  "fotos": [
+   "fotos/418f3ddb5a6d8125b933d78c15b5f31d.jpg",
+   "fotos/418f3ddb5a6d8125b933d78c15b5f31d-3.jpg"
+  ],
+  "detalhes": {
+   "Área": "Teatro, Cinema",
+   "Biografia": "Henrique Júlio Martins Santana (1922–1995) foi um ator português, filho do ator Vasco Santana. Desenvolveu carreira no teatro e no cinema. Faleceu em 1 de julho de 1995, aos 71 anos, e foi sepultado no Cemitério do Alto de São João, em Lisboa.",
+   "Data de morte": "1995-07-01",
+   "Cemitério": "Cemitério Alto São João",
+   "Data de nascimento": "1922",
+   "Nome": "Henrique Júlio Martins Santana"
+  }
+ },
+ {
+  "nome": "Herculano Henriques Cordeiro de Carvalho",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1943-08-24",
+  "morte": "1976-01-10",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte pelo PCP, eleito pelo círculo de Lisboa.",
+   "Data de morte": "1976-01-10",
+   "Informação extra": "https://www.jornaltornado.pt/herculano-de-carvalho/",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1943-08-24",
+   "Nome": "Herculano Henriques Cordeiro de Carvalho"
+  }
+ },
+ {
+  "nome": "Eugénio Augusto Marques da Mota",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2024",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Lisboa.",
+   "Data de morte": "2024",
+   "Informação extra": "https://qa.psd.pt/pt/noticias/nota-de-pesar-eugenio-augusto-marques-da-mota",
+   "Cemitério": "Incerto",
+   "Nome": "Eugénio Augusto Marques da Mota"
+  }
+ },
+ {
+  "nome": "Alberto Marques de Oliveira e Silva",
+  "areas": [
+   "Política",
+   "Advocacia"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1924-10-09",
+  "morte": "2011-02-10",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política, Advocacia",
+   "Biografia": "Advogado e deputado à Assembleia Constituinte por Viana do Castelo. Foi governador civil e ministro da Administração Interna.",
+   "Data de morte": "2011-02-10",
+   "Informação extra": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=233",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1924-10-09",
+   "Nome": "Alberto Marques de Oliveira e Silva"
+  }
+ },
+ {
+  "nome": "Vasco Francisco do Rosário Moniz",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "1988-11-29",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Lisboa.",
+   "Data de morte": "1988-11-29",
+   "Cemitério": "Incerto",
+   "Nome": "Vasco Francisco do Rosário Moniz"
+  }
+ },
+ {
+  "nome": "António José de Sousa Pereira",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1908-03-07",
+  "morte": "2004-05-01",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Porto.",
+   "Data de morte": "2004-05-01",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1908-03-07",
+   "Nome": "António José de Sousa Pereira"
+  }
+ },
+ {
+  "nome": "Luís Fernando Argel de Melo e Silva Biscaia",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Coimbra.",
+   "Cemitério": "Incerto",
+   "Nome": "Luís Fernando Argel de Melo e Silva Biscaia"
+  }
+ },
+ {
+  "nome": "Amílcar de Pinho",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1921-03-07",
+  "morte": "1992-06-15",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Leiria.",
+   "Data de morte": "1992-06-15",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1921-03-07",
+   "Nome": "Amílcar de Pinho"
+  }
+ },
+ {
+  "nome": "António Cândido Miranda Macedo",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1906",
+  "morte": "1989",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Porto.",
+   "Data de morte": "1989",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1906",
+   "Nome": "António Cândido Miranda Macedo"
+  }
+ },
+ {
+  "nome": "João Alfredo Félix Vieira de Lima",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2024",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Viseu.",
+   "Data de morte": "2024",
+   "Cemitério": "Incerto",
+   "Nome": "João Alfredo Félix Vieira de Lima"
+  }
+ },
+ {
+  "nome": "Francisco Manuel Marcelo Monteiro Curto",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1939",
+  "morte": "2001",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Lisboa.",
+   "Data de morte": "2001",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1939",
+   "Nome": "Francisco Manuel Marcelo Monteiro Curto"
+  }
+ },
+ {
+  "nome": "Manuel João Vieira",
+  "areas": [
+   "Política",
+   "Advocacia"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1926-02-20",
+  "morte": "2014",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política, Advocacia",
+   "Biografia": "Advogado, professor e opositor ao Estado Novo. Foi eleito deputado à Assembleia Constituinte em 1975 pelo círculo de Castelo Branco.",
+   "Data de morte": "2014",
+   "Informação extra": "https://research.unl.pt/ws/portalfiles/portal/26716561/Manuel_Joa_o_Vieira.pdf",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1926-02-20",
+   "Nome": "Manuel João Vieira"
+  }
+ },
+ {
+  "nome": "José António Camacho",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2025-07-13",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte eleito em 1975 pelo PPD no círculo do Funchal.",
+   "Data de morte": "2025-07-13",
+   "Informação extra": "Breve História de José António Camacho | Funchal Notícias | Notícias da Madeira - Informação de todos para todos! | Notícias da Madeira e do Porto Santo (https://funchalnoticias.net/2025/07/14/breve-historia-de-jose-antonio-camacho/)",
+   "Cemitério": "Incerto",
+   "Nome": "José António Camacho"
+  }
+ },
+ {
+  "nome": "Gualter Viriato Nunes Basílio",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2007-08-11",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Lisboa.",
+   "Data de morte": "2007-08-11",
+   "Informação extra": "https://www.rtp.pt/noticias/pais/parlamento-aprova-voto-de-pesar-pela-morte-de-magalhaes-mota_n50360",
+   "Cemitério": "Incerto",
+   "Nome": "Gualter Viriato Nunes Basílio"
+  }
+ },
+ {
+  "nome": "Sebastião Dias Marques",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1926-03-27",
+  "morte": "2014-05-12",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Aveiro.",
+   "Data de morte": "2014-05-12",
+   "Informação extra": "https://www.noticiasdeaveiro.pt/sebastiao-marques-um-construtor-da-nossa-democracia/",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1926-03-27",
+   "Nome": "Sebastião Dias Marques"
+  }
+ },
+ {
+  "nome": "José Maria Barbosa de Magalhães Godinho",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "1994",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Lisboa.",
+   "Data de morte": "1994",
+   "Informação extra": "https://www.provedor-jus.pt/quem-somos/historia/anteriores-provedores/conselheiro-jose-maria-barbosa-de-magalhaes-godinho/",
+   "Cemitério": "Incerto",
+   "Nome": "José Maria Barbosa de Magalhães Godinho"
+  }
+ },
+ {
+  "nome": "João Pedro Miller de Lemos Guerra",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1912-05-11",
+  "morte": "1993",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Guarda.",
+   "Data de morte": "1993",
+   "Informação extra": "https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?BID=4783",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1912-05-11",
+   "Nome": "João Pedro Miller de Lemos Guerra"
+  }
+ },
+ {
+  "nome": "Júlio Pereira dos Reis",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1937",
+  "morte": "2025",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Castelo Branco.",
+   "Data de morte": "2025",
+   "Informação extra": "https://apah.pt/julio_pereira_reis/",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1937",
+   "Nome": "Júlio Pereira dos Reis"
+  }
+ },
+ {
+  "nome": "Germano da Silva Domingos",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Horta.",
+   "Informação extra": "DetalheIntervencao (https://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheIntervencao.aspx?BID=198572)",
+   "Cemitério": "Incerto",
+   "Nome": "Germano da Silva Domingos"
+  }
+ },
+ {
+  "nome": "Arnaldo Ângelo de Brito Lhamas",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1914-01-15",
+  "morte": "1991-09-29",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Aveiro.",
+   "Data de morte": "1991-09-29",
+   "Informação extra": "SUN1%T6:BOOKCAND000:0033-Q (https://www.parlamento.pt/ArquivoDocumentacao/Documents/Candidatos_Oposicao.pdf)",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1914-01-15",
+   "Nome": "Arnaldo Ângelo de Brito Lhamas"
+  }
+ },
+ {
+  "nome": "José Manuel Nisa Antunes Mendes",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2011-09-23",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Santarém.",
+   "Data de morte": "2011-09-23",
+   "Informação extra": "Livros: autor José Niza (https://ultramar.terraweb.biz/06livros_joseniza.htm)",
+   "Cemitério": "Incerto",
+   "Nome": "José Manuel Nisa Antunes Mendes"
+  }
+ },
+ {
+  "nome": "Luís Patrício Rosado Gonçalves",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Santarém.",
+   "Informação extra": "O MIRANTE | Voto de pesar pela morte de Luís Patrício Gonçalves (https://omirante.pt/semanario/2018-06-14/politica/2018-06-13-Voto-de-pesar-pela-morte-de-Luis-Patricio-Goncalves)",
+   "Cemitério": "Incerto",
+   "Nome": "Luís Patrício Rosado Gonçalves"
+  }
+ },
+ {
+  "nome": "Emídio Pedro Águedo Serrano",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Faro.",
+   "Informação extra": "Luto municipal pela morte de antigo autarca de Portimão e Lagoa (https://jornaldoalgarve.pt/luto-municipal-pela-morte-de-antigo-autarca-de-portimao-e-lagoa/)",
+   "Cemitério": "Incerto",
+   "Nome": "Emídio Pedro Águedo Serrano"
+  }
+ },
+ {
+  "nome": "Luís Maria Kalidas Costa Barreto",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1932-10-16",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Leiria.",
+   "Informação extra": "Mensagem de Pesar do Presidente da Assembleia da República (https://www.parlamento.pt/sites/PARXIIIL/Paginas/2020/outubro/Mensagem-de-Pesar-do-Presidente-da-Assembleia-da-Republica-Kalidas-Barreto.aspx)",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1932-10-16",
+   "Nome": "Luís Maria Kalidas Costa Barreto"
+  }
+ },
+ {
+  "nome": "Alberto Augusto Martins da Silva Andrade",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1927-10-29",
+  "morte": "2006-07-17",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Porto.",
+   "Data de morte": "2006-07-17",
+   "Informação extra": "SUN1%T6:BOOKCAND000:0033-Q (https://www.parlamento.pt/arquivodocumentacao/documents/candidatos_oposicao.pdf)",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1927-10-29",
+   "Nome": "Alberto Augusto Martins da Silva Andrade"
+  }
+ },
+ {
+  "nome": "Mário José Pimentel Saraiva Salvado",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1932-02-15",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Guarda.",
+   "Informação extra": "--------- Luto Municipal pelo falecimento de Dr.º Mário José Pimentel Saraiva Salvado ----------------------- (https://www.cm-fcr.pt/wp-content/uploads/2020/11/1-rc-06-janeiro-2017.pdf)",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1932-02-15",
+   "Nome": "Mário José Pimentel Saraiva Salvado"
+  }
+ },
+ {
+  "nome": "Emanuel Nascimento dos Santos Rodrigues",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Funchal.",
+   "Informação extra": "REGIÃO AUTÓNOMA DA MADEIRA (https://joram.madeira.gov.pt/joram/1serie/Ano%20de%202019/ISerie-134-2019-08-20sup3.pdf)",
+   "Cemitério": "Incerto",
+   "Nome": "Emanuel Nascimento dos Santos Rodrigues"
+  }
+ },
+ {
+  "nome": "Nuno Aires Rodrigues dos Santos",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1910-03-13",
+  "morte": "1984-04-05",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Lisboa.",
+   "Data de morte": "1984-04-05",
+   "Informação extra": "Emídio Guerreiro (https://www.psd.pt/sites/default/files/povo-livre/ficheiro1516202605.pdf)",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1910-03-13",
+   "Nome": "Nuno Aires Rodrigues dos Santos"
+  }
+ },
+ {
+  "nome": "Carlos Alberto Andrade Neves",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Lisboa.",
+   "Informação extra": "Assembleia Municipal da Amadora (https://am-amadora.pt/ws/images/resumos/DEL_2021_05.pdf)",
+   "Cemitério": "Incerto",
+   "Nome": "Carlos Alberto Andrade Neves"
+  }
+ },
+ {
+  "nome": "Eurico Faustino Correia",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Faro.",
+   "Informação extra": "Câmara Municipal de Lagos aprova voto de pesar pela morte de Eurico Faustino Correia (https://correiodelagos.com/politica-ambiente/camara-municipal-de-lagos-aprova-voto-de-pesar-pela-morte-de-eurico-faustino-correia/)",
+   "Cemitério": "Incerto",
+   "Nome": "Eurico Faustino Correia"
+  }
+ },
+ {
+  "nome": "Nuno Guimarães Taveira da Gama",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Viseu.",
+   "Informação extra": "RPOA0051_1001.indd (https://portal.oa.pt/media/118121/n%C2%BA51-fev-2009.pdf)",
+   "Cemitério": "Incerto",
+   "Nome": "Nuno Guimarães Taveira da Gama"
+  }
+ },
+ {
+  "nome": "João Joaquim Gomes",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Lisboa.",
+   "Informação extra": "Morreu João Joaquim Gomes, ex-presidente da Casa da Imprensa - Notícia - | Casa da Imprensa (https://casadaimprensa.pt/NoticiaDetalhe/Morreu-Joao-Joaquim-Gomes-ex-presidente-da-Casa-da-Imprensa/24)",
+   "Cemitério": "Incerto",
+   "Nome": "João Joaquim Gomes"
+  }
+ },
+ {
+  "nome": "Carlos Francisco Cerejeira Pereira Bacelar",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1920-10-04",
+  "morte": "1979-12-13",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Braga.",
+   "Data de morte": "1979-12-13",
+   "Informação extra": "Homenagem aos Democratas de Braga - Carlos Bacelar (https://sites.google.com/view/homenagem-democratas-de-braga/biografias/carlos-bacelar)",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1920-10-04",
+   "Nome": "Carlos Francisco Cerejeira Pereira Bacelar"
+  }
+ },
+ {
+  "nome": "Alcides Strecht Monteiro",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1910-04-02",
+  "morte": "1977-06-15",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Aveiro.",
+   "Data de morte": "1977-06-15",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1910-04-02",
+   "Nome": "Alcides Strecht Monteiro"
+  }
+ },
+ {
+  "nome": "Joaquim Antero Romero Magalhães",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Coimbra.",
+   "Cemitério": "Incerto",
+   "Nome": "Joaquim Antero Romero Magalhães"
+  }
+ },
+ {
+  "nome": "Luís da Silva Lopes Roseira",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1924",
+  "morte": "2015",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Vila Real.",
+   "Data de morte": "2015",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1924",
+   "Nome": "Luís da Silva Lopes Roseira"
+  }
+ },
+ {
+  "nome": "Mário de Deus Branco",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Castelo Branco.",
+   "Cemitério": "Incerto",
+   "Nome": "Mário de Deus Branco"
+  }
+ },
+ {
+  "nome": "Mário Manuel Cal Brandão",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Aveiro.",
+   "Cemitério": "Incerto",
+   "Nome": "Mário Manuel Cal Brandão"
+  }
+ },
+ {
+  "nome": "Armando Filipe Cerejeira Pereira Bacelar",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1919-09-25",
+  "morte": "1998-09-02",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Braga.",
+   "Data de morte": "1998-09-02",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1919-09-25",
+   "Nome": "Armando Filipe Cerejeira Pereira Bacelar"
+  }
+ },
+ {
+  "nome": "Raul de Assunção Pimenta Rego",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Bragança.",
+   "Cemitério": "Incerto",
+   "Nome": "Raul de Assunção Pimenta Rego"
+  }
+ },
+ {
+  "nome": "Mário António da Mota Mesquita",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Lisboa.",
+   "Cemitério": "Incerto",
+   "Nome": "Mário António da Mota Mesquita"
+  }
+ },
+ {
+  "nome": "Alfredo António de Sousa",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "1994-11-03",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Economista e deputado à Assembleia Constituinte pelo círculo de Lisboa.",
+   "Data de morte": "1994-11-03",
+   "Cemitério": "Incerto",
+   "Nome": "Alfredo António de Sousa"
+  }
+ },
+ {
+  "nome": "Amélia Cavaleiro Monteiro de Andrade de Azevedo",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2022",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputada à Assembleia Constituinte pelo círculo do Porto. Foi secretária na sessão de encerramento da Constituinte e destacou-se no trabalho pelos direitos das mulheres. (Assembleia da República e RTP, nota de pesar.)",
+   "Data de morte": "2022",
+   "Cemitério": "Incerto",
+   "Nome": "Amélia Cavaleiro Monteiro de Andrade de Azevedo"
+  }
+ },
+ {
+  "nome": "Francisco José Pereira Pinto Balsemão",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1937-09-01",
+  "morte": "2025-10-21",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Jornalista, fundador do Expresso e do PPD, deputado à Assembleia Constituinte pelo círculo de Lisboa e primeiro-ministro. (Assembleia da República, nota de pesar; Câmara Municipal de Lisboa, boletim municipal.)",
+   "Data de morte": "2025-10-21",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1937-09-01",
+   "Nome": "Francisco José Pereira Pinto Balsemão"
+  }
+ },
+ {
+  "nome": "José Gonçalves Sapinho",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte pelo círculo de Leiria. Dirigiu o Externato Cooperativo da Benedita durante mais de três décadas. (Assembleia da República, voto de pesar pelo seu falecimento.)",
+   "Cemitério": "Incerto",
+   "Nome": "José Gonçalves Sapinho"
+  }
+ },
+ {
+  "nome": "Leonardo Eugénio Ribeiro de Almeida",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte pelo círculo de Santarém. Presidiu à Assembleia da República em dois períodos entre 1980 e 1983 e foi ministro da Defesa. O funeral seguiu para o Cemitério de Alpiarça. (Assembleia da República e Correio da Manhã.)",
+   "Localização": "Cemitério de Alpiarça",
+   "Nome": "Leonardo Eugénio Ribeiro de Almeida"
+  }
+ },
+ {
+  "nome": "João Baptista Machado",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1926-02-20",
+  "morte": "2010-03-16",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado à Assembleia Constituinte pelo círculo de Braga. Foi o primeiro presidente eleito da Câmara Municipal de Barcelos após o 25 de Abril. (Homenagem aos Democratas de Braga, biografia de João Baptista Machado.)",
+   "Data de morte": "2010-03-16",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1926-02-20",
+   "Nome": "João Baptista Machado"
+  }
+ },
+ {
+  "nome": "Aquilino Ribeiro Machado",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1930",
+  "morte": "2012",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Militante e fundador do PS, deputado constituinte eleito por Lisboa e presidente da Câmara Municipal de Lisboa entre 1977 e 1980. Era filho do escritor Aquilino Ribeiro.",
+   "Data de morte": "2012",
+   "Informação extra": "https://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes\nhttps://www.rtp.pt/noticias/pais/morreu-o-antigo-presidente-da-camara-de-lisboa-aquilino-ribeiro-machado_v593445",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1930",
+   "Nome": "Aquilino Ribeiro Machado"
+  }
+ },
+ {
+  "nome": "Fernando Alberto Matos Ribeiro da Silva",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "1931",
+  "morte": "2020",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado constituinte pelo PPD, eleito por Braga. Foi governador civil de Braga e dirigente dos Bombeiros de Guimarães e do Vitória Sport Clube.",
+   "Data de morte": "2020",
+   "Localização": "Cemitério de Azurém, Guimarães",
+   "Informação extra": "https://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes\nhttps://guimaraesdigital.pt/index.php/informacao/sociedade/62105-faleceu-fernando-alberto-ribeiro-da-silva-ex-governador-civil-de-braga",
+   "Data de nascimento": "1931",
+   "Nome": "Fernando Alberto Matos Ribeiro da Silva"
+  }
+ },
+ {
+  "nome": "Manuel Pereira Dias",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2015-01-27",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Fundador do PS em Abrantes, foi eleito deputado por Santarém para a Assembleia Constituinte e voltou a ser eleito para a Assembleia da República em 1976.",
+   "Data de morte": "2015-01-27",
+   "Informação extra": "https://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes\nhttps://www.dn.pt/arquivo/diario-de-noticias/morreu-manuel-dias%2C-um-dos-fundadores-do-ps.html",
+   "Cemitério": "Incerto",
+   "Nome": "Manuel Pereira Dias"
+  }
+ },
+ {
+  "nome": "Rui António Ferreira da Cunha",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1944",
+  "morte": "2023",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado constituinte eleito por Lisboa. Posteriormente foi deputado à Assembleia da República, membro de dois governos e provedor da Santa Casa da Misericórdia de Lisboa.",
+   "Data de morte": "2023",
+   "Informação extra": "https://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes\nhttps://www.afid.pt/eventos-media/nota-de-pesar-dr-rui-cunha/",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1944",
+   "Nome": "Rui António Ferreira da Cunha"
+  }
+ },
+ {
+  "nome": "Alfredo Pinto da Silva",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2004",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Deputado constituinte pelo PS, eleito pelo círculo de Castelo Branco. A Assembleia da República aprovou um voto de pesar pelo seu falecimento em abril de 2004.",
+   "Data de morte": "2004",
+   "Informação extra": "https://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes\nhttps://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheProjetoVoto.aspx?BID=74535",
+   "Cemitério": "Incerto",
+   "Nome": "Alfredo Pinto da Silva"
+  }
+ },
+ {
+  "nome": "José Alberto Menano Cardoso do Amaral",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2021",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Aderiu ao Partido Socialista em 1974 e foi eleito deputado constituinte em 1975 pelo círculo de Lisboa.",
+   "Data de morte": "2021",
+   "Informação extra": "https://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes\nhttps://ps.pt/nota-de-pesar-3/",
+   "Cemitério": "Incerto",
+   "Nome": "José Alberto Menano Cardoso do Amaral"
+  }
+ },
+ {
+  "nome": "José Manuel de Medeiros Ferreira",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1942-02-20",
+  "morte": "2014",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Professor universitário, nascido no Funchal e criado em São Miguel. Eleito para a Assembleia Constituinte por Lisboa, foi ministro dos Negócios Estrangeiros do I Governo Constitucional.",
+   "Data de morte": "2014",
+   "Informação extra": "https://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes\nhttps://www.rtp.pt/noticias/pais/morreu-medeiros-ferreira_n724253",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1942-02-20",
+   "Nome": "José Manuel de Medeiros Ferreira"
+  }
+ },
+ {
+  "nome": "Raquel Júdice de Oliveira Howell Franco",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1939-03-05",
+  "morte": "2022-09-22",
+  "foto": "fotos/418f3ddb5a6d81448cb7f09f4a46db33.jpg",
+  "fotos": [
+   "fotos/418f3ddb5a6d81448cb7f09f4a46db33.jpg"
+  ],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Natural de Beja, estudou Filologia Germânica e trabalhou como tradutora nos serviços administrativos das Forças Armadas alemãs na cidade. Eleita pelo PS no círculo de Beja para a Assembleia Constituinte, participou na vida cívica local e defendeu os direitos das mulheres.",
+   "Data de morte": "2022-09-22",
+   "Informação extra": "https://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes\nhttps://oatual.pt/noticias/faleceu-raquel-howell-franco",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1939-03-05",
+   "Nome": "Raquel Júdice de Oliveira Howell Franco"
+  }
+ },
+ {
+  "nome": "Rui Maria Malheiro de Távora de Castro Feijó",
+  "areas": [
+   "Política",
+   "Escritor"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1921",
+  "morte": "2008",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política, Escritor",
+   "Biografia": "Escritor e poeta ligado ao grupo neorrealista de Coimbra. Foi eleito deputado à Assembleia Constituinte pelo círculo do Porto e exerceu a presidência de câmara e da Comissão de Viticultura da Região dos Vinhos Verdes.",
+   "Data de morte": "2008",
+   "Informação extra": "https://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes\nhttps://www.cnc.pt/morreu-rui-feijo/",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1921",
+   "Nome": "Rui Maria Malheiro de Távora de Castro Feijó"
+  }
+ },
+ {
+  "nome": "Júlio Francisco Miranda Calha",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1947-11-17",
+  "morte": "2020-03-28",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Licenciado em Filologia, foi eleito deputado constituinte pelo Partido Socialista no círculo de Portalegre. Exerceu por três vezes o cargo de secretário de Estado com a tutela do Desporto e foi vice-presidente da Assembleia da República.",
+   "Data de morte": "2020-03-28",
+   "Informação extra": "https://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes\nhttps://cnid.pt/2020/03/30/miranda-calha-faleceu/ | https://www.parlamento.pt/DeputadoGP/Paginas/Biografia.aspx?ID=193",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1947-11-17",
+   "Nome": "Júlio Francisco Miranda Calha"
+  }
+ },
+ {
   "nome": "Dionísio Mendes de Sousa",
   "areas": [
    "Política",
@@ -355,7 +1603,7 @@
    "Incerto"
   ],
   "rotas": [],
-  "nascimento": "Incerto",
+  "nascimento": "1935-02-15",
   "morte": "2021",
   "foto": "",
   "fotos": [],
@@ -365,7 +1613,7 @@
    "Data de morte": "2021",
    "Informação extra": "https://www.rtp.pt/noticias/politica/morreu-o-fundador-do-cds-antonio-norton-de-matos_n1337405\nhttps://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes",
    "Cemitério": "Incerto",
-   "Data de nascimento": "Incerto",
+   "Data de nascimento": "1935-02-15",
    "Nome": "António Pereira de Castro Norton de Matos"
   }
  },
@@ -11216,6 +12464,7 @@
    "Área": "Política",
    "Biografia": "Oficial da Força Aérea, membro da Junta de Salvação Nacional em 1974 e deputado à Assembleia Constituinte em 1975 pelo CDS, como independente.",
    "Data de morte": "2008",
+   "Localização": "Jazigo de família, Cemitério de Mangualde. Fonte: https://www.cmjornal.pt/politica/detalhe/galvao-de-melo-vai-hoje-a-enterrar",
    "Fotografia": "https://cdn-images.rtp.pt/arquivo/2017/04/Galvao.png?ixlib=php-1.1.0",
    "Informação extra": "Assembleia Constituinte, deputados confirmados, CDS, Viseu, posição 7 da lista oficial. Fonte: https://ensina.rtp.pt/artigo/galvao-de-melo-o-general-sem-papas-na-lingua/",
    "Data de nascimento": "1921",
@@ -20168,8 +21417,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8166acebfcbb7466d2a8.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8166acebfcbb7466d2a8.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/a/af/Jos%C3%A9_Bessa_de_Carvalho_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -20205,8 +21456,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816db97ffc1ef547cf26.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816db97ffc1ef547cf26.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Eduardo_d%27Almeida_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -21392,25 +22645,6 @@
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Jo%C3%A3o_m_Semedo_%28cropped%29.jpg",
    "Informação extra": "Ficha nominal inicial; confirmar datas, identidade, biografia, sepultura e fotografia com documentação antes de completar.",
    "Nome": "João Semedo"
-  }
- },
- {
-  "nome": "João Bosco Mota Amaral",
-  "areas": [
-   "Política"
-  ],
-  "cemiterios": [],
-  "rotas": [],
-  "nascimento": "",
-  "morte": "",
-  "foto": "fotos/40bf3ddb5a6d815eab29c9c2a344c27f.png",
-  "fotos": [
-   "fotos/40bf3ddb5a6d815eab29c9c2a344c27f.png"
-  ],
-  "detalhes": {
-   "Área": "Política",
-   "Informação extra": "Ficha nominal inicial; confirmar datas, identidade, biografia, sepultura e fotografia com documentação antes de completar.",
-   "Nome": "João Bosco Mota Amaral"
   }
  },
  {
