@@ -1,5 +1,44 @@
 [
  {
+  "nome": "Joaquim Mendes dos Remédios",
+  "areas": [
+   "Educação",
+   "Escritor",
+   "Política"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Educação, Escritor, Política",
+   "Biografia": "Joaquim Mendes dos Remédios (1867–1932) foi professor universitário, escritor e investigador de história literária. Lecionou nas faculdades de Teologia e de Letras da Universidade de Coimbra, foi reitor da Universidade e ministro da Instrução Pública em 1926. Publicou trabalhos sobre literatura portuguesa e a história dos judeus em Portugal. Fonte: Arquivo Municipal Alfredo Pimenta, Portal Português de Arquivos.",
+   "Nome": "Joaquim Mendes dos Remédios"
+  }
+ },
+ {
+  "nome": "Abílio Adriano de Campos Monteiro",
+  "areas": [
+   "Medicina",
+   "Jornalismo",
+   "Escritor",
+   "Política"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Medicina, Jornalismo, Escritor, Política",
+   "Biografia": "Abílio Adriano de Campos Monteiro (1876–1933) foi médico, jornalista, escritor e interveniente político português, natural de Torre de Moncorvo. Colaborou em vários periódicos, exerceu funções na administração do concelho da Maia e foi deputado monárquico pelo Porto. Publicou obras literárias e de divulgação, incluindo textos sobre Camilo e Zé do Telhado. Fonte: Poetas do Douro Superior; Bertrand Livreiros.",
+   "Nome": "Abílio Adriano de Campos Monteiro"
+  }
+ },
+ {
   "nome": "Henrique Júlio Martins Santana",
   "areas": [
    "Teatro",
@@ -21495,8 +21534,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81779ebcd3d4b6d5439d.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81779ebcd3d4b6d5439d.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Angelo_Rodrigues_da_Fonseca_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -21552,8 +21593,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81808e03f5ad115b017c.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81808e03f5ad115b017c.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Jos%C3%A9_Maria_Pereira_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
