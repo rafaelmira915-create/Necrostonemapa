@@ -1,5 +1,30 @@
 [
  {
+  "nome": "Dionísio Mendes de Sousa",
+  "areas": [
+   "Política",
+   "Educação",
+   "Escritor"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "09/10/1940",
+  "morte": "2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política, Educação, Escritor",
+   "Biografia": "Professor, escritor e político açoriano, natural da Vila de São Sebastião, na ilha Terceira. Foi deputado regional durante mais de duas décadas e presidiu à Assembleia Legislativa da Região Autónoma dos Açores. Dedicou parte da sua obra à autonomia açoriana.",
+   "Data de morte": "2026",
+   "Informação extra": "Nota de pesar da Presidência da República publicada a 12/11/2026. Dia do óbito e sepultura por confirmar.",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "09/10/1940",
+   "Nome": "Dionísio Mendes de Sousa"
+  }
+ },
+ {
   "nome": "Henrique Teixeira Queirós de Barros",
   "areas": [
    "Política"
@@ -19971,8 +19996,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d814283a2ca84e2bc5ea0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d814283a2ca84e2bc5ea0.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/9/97/Jos%C3%A9_Alfredo_Mendes_de_Magalh%C3%A3es_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -20083,8 +20110,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81568452f04b2a4f659c.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81568452f04b2a4f659c.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Jo%C3%A3o_Luiz_Ricardo_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
