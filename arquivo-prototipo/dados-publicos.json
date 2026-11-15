@@ -1,5 +1,64 @@
 [
  {
+  "nome": "Wladimir Augusto Correia Brito",
+  "areas": [
+   "Advocacia",
+   "Educação",
+   "Política"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2026-04-08",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Advocacia, Educação, Política",
+   "Biografia": "Wladimir Augusto Correia Brito (1948–2026) foi jurista, advogado e professor catedrático da Escola de Direito da Universidade do Minho. Participou no movimento estudantil de Coimbra, colaborou na transição democrática cabo-verdiana e foi um dos principais redatores da Constituição de Cabo Verde de 1992. Cofundou o Observatório Lusófono de Direitos Humanos e desenvolveu atividade cívica em Guimarães. Faleceu em Guimarães a 8 de abril de 2026. Fonte: Assembleia da República, Projeto de Voto de Pesar n.º 482/XVII/1.ª.",
+   "Data de morte": "2026-04-08",
+   "Nome": "Wladimir Augusto Correia Brito"
+  }
+ },
+ {
+  "nome": "António Dâmaso Chainho",
+  "areas": [
+   "Música"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "1938-01-27",
+  "morte": "2026-01-27",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Música",
+   "Biografia": "António Dâmaso Chainho (1938–2026) foi guitarrista português, mestre da guitarra portuguesa e intérprete ligado ao fado. Nasceu em São Francisco da Serra, Santiago do Cacém, a 27 de janeiro de 1938, e morreu a 27 de janeiro de 2026. Acompanhou artistas como Amália Rodrigues, Hermínia Silva e Carlos do Carmo, desenvolvendo também colaborações internacionais. Fonte: Diário da Assembleia da República, 30 de janeiro de 2026, Projeto de Voto n.º 358/XVII/1.ª.",
+   "Data de morte": "2026-01-27",
+   "Data de nascimento": "1938-01-27",
+   "Nome": "António Dâmaso Chainho"
+  }
+ },
+ {
+  "nome": "Elisa Lisboa",
+  "areas": [
+   "Teatro",
+   "Cinema",
+   "Educação"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "1944-03-08",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Teatro, Cinema, Educação",
+   "Biografia": "Elisa Lisboa (1944–2026) foi atriz portuguesa de teatro e televisão e professora de Interpretação na Escola Superior de Teatro e Cinema. Nascida em Lisboa em 8 de março de 1944, integrou o Teatro Experimental de Cascais e participou em produções televisivas, incluindo Floribella e Podia Acabar o Mundo. O seu falecimento foi assinalado em janeiro de 2026 pela Assembleia da República. Fonte: Projeto de Voto n.º 327/XVII/1.ª.",
+   "Data de nascimento": "1944-03-08",
+   "Nome": "Elisa Lisboa"
+  }
+ },
+ {
   "nome": "Joaquim Mendes dos Remédios",
   "areas": [
    "Educação",
@@ -21920,8 +21979,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81cd82bdd8e722059297.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81cd82bdd8e722059297.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/3/39/Miguel_Augusto_Alves_Ferreira_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -21977,8 +22038,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81d28594ece2f76fdcef.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81d28594ece2f76fdcef.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/9/94/Celestino_Germano_Paes_d%27Almeida_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
