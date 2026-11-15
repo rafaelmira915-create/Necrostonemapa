@@ -21672,8 +21672,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a2b473c3e0e1f2e9d0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a2b473c3e0e1f2e9d0.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/8/89/Francisco_Corr%C3%AAa_de_Lemos_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
@@ -21727,8 +21729,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81b1a25fe88b5911af11.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81b1a25fe88b5911af11.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Jo%C3%A3o_Jos%C3%A9_Luiz_Damas_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
