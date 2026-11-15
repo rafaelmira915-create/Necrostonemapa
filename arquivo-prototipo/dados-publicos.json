@@ -22141,8 +22141,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81e88b8ec698d73880c4.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81e88b8ec698d73880c4.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Jos%C3%A9_Maria_de_Moura_Barata_Feio_Terenas_%28Album_Republicano%2C_1908%29.png",
@@ -22217,8 +22219,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81fc9f64cb95c2c63805.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81fc9f64cb95c2c63805.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/6/66/Joaquim_Jos%C3%A9_de_Sousa_Fernandes_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
