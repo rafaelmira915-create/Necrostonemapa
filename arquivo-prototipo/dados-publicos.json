@@ -1,5 +1,57 @@
 [
  {
+  "nome": "João Canijo",
+  "areas": [
+   "Cinema"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Cinema",
+   "Biografia": "Cineasta português, realizador e argumentista. O seu falecimento foi objeto do Projeto de Voto de Pesar n.º 381/XVII/1.ª, aprovado na Assembleia da República em fevereiro de 2026. Fonte: Diário da Assembleia da República, I Série, n.º 55, 13 de fevereiro de 2026.",
+   "Nome": "João Canijo"
+  }
+ },
+ {
+  "nome": "Romão Lavadinho",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Natural de Campo Maior, foi dirigente político do Partido Comunista Português, no qual militou desde 1974. Desenvolveu trabalho junto dos vereadores do PCP na Câmara Municipal de Lisboa entre 1998 e 2018. Faleceu em dezembro de 2025, aos 84 anos, segundo o voto de pesar lido na Assembleia da República em janeiro de 2026. Fonte: Diário da Assembleia da República, I Série, n.º 50, 23 de janeiro de 2026.",
+   "Nome": "Romão Lavadinho"
+  }
+ },
+ {
+  "nome": "José Carlos Rolo",
+  "areas": [
+   "Educação",
+   "Política"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Educação, Política",
+   "Biografia": "Professor de Matemática e autarca português. Foi presidente do Conselho Diretivo da Escola Secundária de Albufeira, diretor de serviços na Direção Regional de Educação do Algarve e exerceu funções de vereador e vice-presidente da Câmara Municipal de Albufeira a partir de 2001. Assumiu a presidência da Câmara em 2012. Falecimento confirmado em 2026 pela Assembleia da República. Fonte: Diário da Assembleia da República, I Série, n.º 58, 20 de fevereiro de 2026.",
+   "Nome": "José Carlos Rolo"
+  }
+ },
+ {
   "nome": "Wladimir Augusto Correia Brito",
   "areas": [
    "Advocacia",
@@ -22772,8 +22824,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d815a95c6e738a6223026.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d815a95c6e738a6223026.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Jo%C3%A3o_m_Semedo_%28cropped%29.jpg",
@@ -22867,8 +22921,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a0a0b2e61f3f0c7fca.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a0a0b2e61f3f0c7fca.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/4/44/Ezequiel_de_Campos_%28As_Constituintes_de_1911_e_os_seus_Deputados%2C_Livr._Ferreira%2C_1911%29.png",
