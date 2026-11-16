@@ -22533,8 +22533,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81acaa8fc0c11badff12.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81acaa8fc0c11badff12.png"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/8/81/Henrique_Lopes_de_Mendon%C3%A7a.png",
@@ -22750,8 +22752,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8159b7e6d0b1183d6969.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8159b7e6d0b1183d6969.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Odete_Santos_%28Ag%C3%AAncia_Lusa%29.png",
@@ -36436,8 +36440,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "1399",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/401f3ddb5a6d81eba377c28b60eff2cb.jpg",
+  "fotos": [
+   "fotos/401f3ddb5a6d81eba377c28b60eff2cb.jpg"
+  ],
   "detalhes": {
    "Área": "Igreija",
    "Biografia": "Bispo de Coimbra a partir de 1371. Teve conflitos com o cabido sobre rendimentos e direitos eclesiásticos. Foi depois arcebispo de Toledo e morreu em 1399.",
@@ -47036,8 +47042,10 @@
   "rotas": [],
   "nascimento": "1869-07-10",
   "morte": "1938-11-24",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d8155a290d1223a493ff1.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d8155a290d1223a493ff1.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de Maria Ana de Bragança e Jorge da Saxónia; neto/a de Maria II.",
