@@ -22375,8 +22375,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8135825dc4301539ca01.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8135825dc4301539ca01.png"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/2/29/Gomes_Leal_%28Album_Republicano%2C_1908%29.png",
@@ -22471,8 +22473,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d817baf7feb7583bac0ca.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d817baf7feb7583bac0ca.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Jo%C3%A3o_Lucio1.jpg",
