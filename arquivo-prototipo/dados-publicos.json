@@ -23194,8 +23194,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d810ab694de69ad417dff.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d810ab694de69ad417dff.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Jo%C3%A3o_Chagas.jpg",
@@ -23251,8 +23253,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d812aa0f5ca0b386c59c4.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d812aa0f5ca0b386c59c4.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/b/ba/%C3%81lvaro_Xavier_de_Castro_%28Arquivo_Hist%C3%B3rico_Parlamentar%29.png",
