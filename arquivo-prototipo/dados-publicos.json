@@ -8,8 +8,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/41af3ddb5a6d811e9294e6efc91adcbf.jpg",
+  "fotos": [
+   "fotos/41af3ddb5a6d811e9294e6efc91adcbf.jpg"
+  ],
   "detalhes": {
    "Área": "Cinema",
    "Biografia": "Cineasta português, realizador e argumentista. O seu falecimento foi objeto do Projeto de Voto de Pesar n.º 381/XVII/1.ª, aprovado na Assembleia da República em fevereiro de 2026. Fonte: Diário da Assembleia da República, I Série, n.º 55, 13 de fevereiro de 2026.",
@@ -25,8 +27,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/41af3ddb5a6d8171a235d1d90c114ee5.webp",
+  "fotos": [
+   "fotos/41af3ddb5a6d8171a235d1d90c114ee5.webp"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Natural de Campo Maior, foi dirigente político do Partido Comunista Português, no qual militou desde 1974. Desenvolveu trabalho junto dos vereadores do PCP na Câmara Municipal de Lisboa entre 1998 e 2018. Faleceu em dezembro de 2025, aos 84 anos, segundo o voto de pesar lido na Assembleia da República em janeiro de 2026. Fonte: Diário da Assembleia da República, I Série, n.º 50, 23 de janeiro de 2026.",
@@ -43,8 +47,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/41af3ddb5a6d81ba97c6e33ac9b58d4b.jpg",
+  "fotos": [
+   "fotos/41af3ddb5a6d81ba97c6e33ac9b58d4b.jpg"
+  ],
   "detalhes": {
    "Área": "Educação, Política",
    "Biografia": "Professor de Matemática e autarca português. Foi presidente do Conselho Diretivo da Escola Secundária de Albufeira, diretor de serviços na Direção Regional de Educação do Algarve e exerceu funções de vereador e vice-presidente da Câmara Municipal de Albufeira a partir de 2001. Assumiu a presidência da Câmara em 2012. Falecimento confirmado em 2026 pela Assembleia da República. Fonte: Diário da Assembleia da República, I Série, n.º 58, 20 de fevereiro de 2026.",
@@ -58,16 +64,23 @@
    "Educação",
    "Política"
   ],
-  "cemiterios": [],
+  "cemiterios": [
+   "Incerto"
+  ],
   "rotas": [],
-  "nascimento": "",
+  "nascimento": "1948-10-23",
   "morte": "2026-04-08",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/419f3ddb5a6d816c8f2afc74d9ae431b.jpg",
+  "fotos": [
+   "fotos/419f3ddb5a6d816c8f2afc74d9ae431b.jpg"
+  ],
   "detalhes": {
    "Área": "Advocacia, Educação, Política",
    "Biografia": "Wladimir Augusto Correia Brito (1948–2026) foi jurista, advogado e professor catedrático da Escola de Direito da Universidade do Minho. Participou no movimento estudantil de Coimbra, colaborou na transição democrática cabo-verdiana e foi um dos principais redatores da Constituição de Cabo Verde de 1992. Cofundou o Observatório Lusófono de Direitos Humanos e desenvolveu atividade cívica em Guimarães. Faleceu em Guimarães a 8 de abril de 2026. Fonte: Assembleia da República, Projeto de Voto de Pesar n.º 482/XVII/1.ª.",
    "Data de morte": "2026-04-08",
+   "Informação extra": "Ordem dos Advogados — https://portal.oa.pt/comunicacao/noticias/2026/04/falecimento-do-senhor-dr-wladimir-brito/",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1948-10-23",
    "Nome": "Wladimir Augusto Correia Brito"
   }
  },
@@ -76,16 +89,22 @@
   "areas": [
    "Música"
   ],
-  "cemiterios": [],
+  "cemiterios": [
+   "Cremação"
+  ],
   "rotas": [],
   "nascimento": "1938-01-27",
   "morte": "2026-01-27",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/419f3ddb5a6d81abbdd5e732ec8483b4.jpg",
+  "fotos": [
+   "fotos/419f3ddb5a6d81abbdd5e732ec8483b4.jpg"
+  ],
   "detalhes": {
    "Área": "Música",
    "Biografia": "António Dâmaso Chainho (1938–2026) foi guitarrista português, mestre da guitarra portuguesa e intérprete ligado ao fado. Nasceu em São Francisco da Serra, Santiago do Cacém, a 27 de janeiro de 1938, e morreu a 27 de janeiro de 2026. Acompanhou artistas como Amália Rodrigues, Hermínia Silva e Carlos do Carmo, desenvolvendo também colaborações internacionais. Fonte: Diário da Assembleia da República, 30 de janeiro de 2026, Projeto de Voto n.º 358/XVII/1.ª.",
    "Data de morte": "2026-01-27",
+   "Informação extra": "Fotografia: EGEAC / Lisboa Cultura — https://egeac.pt/antonio-chainho-1938-2026/\nCerimónia de cremação: Complexo Fúnebre de Setúbal — https://osetubalense.com/ultimas/funeral-de-antonio-chainho-sai-esta-quarta-feira-de-alfragide-rumo-ao-complexo-funebre-de-setubal/",
+   "Cemitério": "Cremação",
    "Data de nascimento": "1938-01-27",
    "Nome": "António Dâmaso Chainho"
   }
@@ -101,8 +120,10 @@
   "rotas": [],
   "nascimento": "1944-03-08",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/419f3ddb5a6d81e4af54d2bd01b73246.jpg",
+  "fotos": [
+   "fotos/419f3ddb5a6d81e4af54d2bd01b73246.jpg"
+  ],
   "detalhes": {
    "Área": "Teatro, Cinema, Educação",
    "Biografia": "Elisa Lisboa (1944–2026) foi atriz portuguesa de teatro e televisão e professora de Interpretação na Escola Superior de Teatro e Cinema. Nascida em Lisboa em 8 de março de 1944, integrou o Teatro Experimental de Cascais e participou em produções televisivas, incluindo Floribella e Podia Acabar o Mundo. O seu falecimento foi assinalado em janeiro de 2026 pela Assembleia da República. Fonte: Projeto de Voto n.º 327/XVII/1.ª.",
@@ -207,7 +228,7 @@
    "Incerto"
   ],
   "rotas": [],
-  "nascimento": "",
+  "nascimento": "1932-05-01",
   "morte": "2024",
   "foto": "",
   "fotos": [],
@@ -217,6 +238,7 @@
    "Data de morte": "2024",
    "Informação extra": "https://qa.psd.pt/pt/noticias/nota-de-pesar-eugenio-augusto-marques-da-mota",
    "Cemitério": "Incerto",
+   "Data de nascimento": "1932-05-01",
    "Nome": "Eugénio Augusto Marques da Mota"
   }
  },
@@ -253,7 +275,7 @@
    "Incerto"
   ],
   "rotas": [],
-  "nascimento": "",
+  "nascimento": "1913-10-22",
   "morte": "1988-11-29",
   "foto": "",
   "fotos": [],
@@ -262,6 +284,7 @@
    "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Lisboa.",
    "Data de morte": "1988-11-29",
    "Cemitério": "Incerto",
+   "Data de nascimento": "1913-10-22",
    "Nome": "Vasco Francisco do Rosário Moniz"
   }
  },
@@ -383,8 +406,10 @@
   "rotas": [],
   "nascimento": "1939",
   "morte": "2001",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/418f3ddb5a6d81bea0acfe834203acd2.jpg",
+  "fotos": [
+   "fotos/418f3ddb5a6d81bea0acfe834203acd2.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Lisboa.",
@@ -429,8 +454,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "2025-07-13",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/418f3ddb5a6d816db969fad98d042f2a.jpg",
+  "fotos": [
+   "fotos/418f3ddb5a6d816db969fad98d042f2a.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Deputado à Assembleia Constituinte eleito em 1975 pelo PPD no círculo do Funchal.",
@@ -545,8 +572,10 @@
   "rotas": [],
   "nascimento": "1937",
   "morte": "2025",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/418f3ddb5a6d81fa92a5d3763b2624a9.png",
+  "fotos": [
+   "fotos/418f3ddb5a6d81fa92a5d3763b2624a9.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Deputado à Assembleia Constituinte de 1975 pelo círculo de Castelo Branco.",
@@ -610,16 +639,19 @@
    "Incerto"
   ],
   "rotas": [],
-  "nascimento": "",
+  "nascimento": "1938-09-16",
   "morte": "2011-09-23",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/418f3ddb5a6d813ab12df08e4b0f980d.jpg",
+  "fotos": [
+   "fotos/418f3ddb5a6d813ab12df08e4b0f980d.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Santarém.",
    "Data de morte": "2011-09-23",
    "Informação extra": "Livros: autor José Niza (https://ultramar.terraweb.biz/06livros_joseniza.htm)",
    "Cemitério": "Incerto",
+   "Data de nascimento": "1938-09-16",
    "Nome": "José Manuel Nisa Antunes Mendes"
   }
  },
@@ -743,8 +775,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/418f3ddb5a6d819aab43d496258c00e7.jpg",
+  "fotos": [
+   "fotos/418f3ddb5a6d819aab43d496258c00e7.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Funchal.",
@@ -1020,8 +1054,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/418f3ddb5a6d81c1afb9cb15e46cf6c4.jpg",
+  "fotos": [
+   "fotos/418f3ddb5a6d81c1afb9cb15e46cf6c4.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Bragança.",
@@ -1040,8 +1076,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/418f3ddb5a6d81e2854ae3eea34b9f1c.jpg",
+  "fotos": [
+   "fotos/418f3ddb5a6d81e2854ae3eea34b9f1c.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Deputado à Assembleia Constituinte de 1975, eleito pelo círculo de Lisboa.",
@@ -1081,7 +1119,7 @@
    "Incerto"
   ],
   "rotas": [],
-  "nascimento": "",
+  "nascimento": "1930-01-05",
   "morte": "2022",
   "foto": "",
   "fotos": [],
@@ -1090,6 +1128,7 @@
    "Biografia": "Deputada à Assembleia Constituinte pelo círculo do Porto. Foi secretária na sessão de encerramento da Constituinte e destacou-se no trabalho pelos direitos das mulheres. (Assembleia da República e RTP, nota de pesar.)",
    "Data de morte": "2022",
    "Cemitério": "Incerto",
+   "Data de nascimento": "1930-01-05",
    "Nome": "Amélia Cavaleiro Monteiro de Andrade de Azevedo"
   }
  },
@@ -1146,8 +1185,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/418f3ddb5a6d81ef9b0dd53592f15f7e.jpg",
+  "fotos": [
+   "fotos/418f3ddb5a6d81ef9b0dd53592f15f7e.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Deputado à Assembleia Constituinte pelo círculo de Santarém. Presidiu à Assembleia da República em dois períodos entre 1980 e 1983 e foi ministro da Defesa. O funeral seguiu para o Cemitério de Alpiarça. (Assembleia da República e Correio da Manhã.)",
@@ -1188,8 +1229,10 @@
   "rotas": [],
   "nascimento": "1930",
   "morte": "2012",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/418f3ddb5a6d812d9842c09da21b907e.jpg",
+  "fotos": [
+   "fotos/418f3ddb5a6d812d9842c09da21b907e.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Militante e fundador do PS, deputado constituinte eleito por Lisboa e presidente da Câmara Municipal de Lisboa entre 1977 e 1980. Era filho do escritor Aquilino Ribeiro.",
@@ -1209,8 +1252,10 @@
   "rotas": [],
   "nascimento": "1931",
   "morte": "2020",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/418f3ddb5a6d815d8d07d2ca8e56f755.jpg",
+  "fotos": [
+   "fotos/418f3ddb5a6d815d8d07d2ca8e56f755.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Deputado constituinte pelo PPD, eleito por Braga. Foi governador civil de Braga e dirigente dos Bombeiros de Guimarães e do Vitória Sport Clube.",
@@ -1230,16 +1275,19 @@
    "Incerto"
   ],
   "rotas": [],
-  "nascimento": "",
+  "nascimento": "1930-11-09",
   "morte": "2015-01-27",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/418f3ddb5a6d8185b62ff0782e68c71d.jpg",
+  "fotos": [
+   "fotos/418f3ddb5a6d8185b62ff0782e68c71d.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Fundador do PS em Abrantes, foi eleito deputado por Santarém para a Assembleia Constituinte e voltou a ser eleito para a Assembleia da República em 1976.",
    "Data de morte": "2015-01-27",
    "Informação extra": "https://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes\nhttps://www.dn.pt/arquivo/diario-de-noticias/morreu-manuel-dias%2C-um-dos-fundadores-do-ps.html",
    "Cemitério": "Incerto",
+   "Data de nascimento": "1930-11-09",
    "Nome": "Manuel Pereira Dias"
   }
  },
@@ -1277,7 +1325,7 @@
    "Incerto"
   ],
   "rotas": [],
-  "nascimento": "",
+  "nascimento": "1947-05-30",
   "morte": "2004",
   "foto": "",
   "fotos": [],
@@ -1287,6 +1335,7 @@
    "Data de morte": "2004",
    "Informação extra": "https://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes\nhttps://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheProjetoVoto.aspx?BID=74535",
    "Cemitério": "Incerto",
+   "Data de nascimento": "1947-05-30",
    "Nome": "Alfredo Pinto da Silva"
   }
  },
@@ -1299,7 +1348,7 @@
    "Incerto"
   ],
   "rotas": [],
-  "nascimento": "",
+  "nascimento": "1934",
   "morte": "2021",
   "foto": "",
   "fotos": [],
@@ -1309,6 +1358,7 @@
    "Data de morte": "2021",
    "Informação extra": "https://debates.parlamento.pt/outrasInformacoes/r3/dac/deputados-constituintes\nhttps://ps.pt/nota-de-pesar-3/",
    "Cemitério": "Incerto",
+   "Data de nascimento": "1934",
    "Nome": "José Alberto Menano Cardoso do Amaral"
   }
  },
@@ -1397,8 +1447,10 @@
   "rotas": [],
   "nascimento": "1947-11-17",
   "morte": "2020-03-28",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/418f3ddb5a6d81d5b021d8b6338c9a0c.jpg",
+  "fotos": [
+   "fotos/418f3ddb5a6d81d5b021d8b6338c9a0c.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Licenciado em Filologia, foi eleito deputado constituinte pelo Partido Socialista no círculo de Portalegre. Exerceu por três vezes o cargo de secretário de Estado com a tutela do Desporto e foi vice-presidente da Assembleia da República.",
@@ -1422,8 +1474,10 @@
   "rotas": [],
   "nascimento": "09/10/1940",
   "morte": "2026",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/417f3ddb5a6d816297bdd58bcd10a8a7.jpg",
+  "fotos": [
+   "fotos/417f3ddb5a6d816297bdd58bcd10a8a7.jpg"
+  ],
   "detalhes": {
    "Área": "Política, Educação, Escritor",
    "Biografia": "Professor, escritor e político açoriano, natural da Vila de São Sebastião, na ilha Terceira. Foi deputado regional durante mais de duas décadas e presidiu à Assembleia Legislativa da Região Autónoma dos Açores. Dedicou parte da sua obra à autonomia açoriana.",
@@ -1445,8 +1499,10 @@
   "rotas": [],
   "nascimento": "1904",
   "morte": "2000",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/417f3ddb5a6d810496f7cb220de0a865.jpg",
+  "fotos": [
+   "fotos/417f3ddb5a6d810496f7cb220de0a865.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Engenheiro agrónomo, eleito pelo PS por Coimbra. Presidiu à Assembleia Constituinte.",
@@ -1468,8 +1524,10 @@
   "rotas": [],
   "nascimento": "Incerto",
   "morte": "2009-06-18",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/417f3ddb5a6d8106bc96c5d93031a8ea.jpg",
+  "fotos": [
+   "fotos/417f3ddb5a6d8106bc96c5d93031a8ea.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Cofundador do PS e deputado constituinte eleito por Aveiro.",
@@ -1491,8 +1549,10 @@
   "rotas": [],
   "nascimento": "1906",
   "morte": "1986",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/417f3ddb5a6d8127a3fcd4841fa1d75e.jpg",
+  "fotos": [
+   "fotos/417f3ddb5a6d8127a3fcd4841fa1d75e.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Constituinte pelo PS e antigo presidente da Assembleia da República.",
@@ -1658,8 +1718,10 @@
   "rotas": [],
   "nascimento": "1916-03-17",
   "morte": "2004-04-30",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/417f3ddb5a6d81a2b72fc01e83229b02.png",
+  "fotos": [
+   "fotos/417f3ddb5a6d81a2b72fc01e83229b02.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Opositora do Estado Novo e deputada constituinte eleita pelo PS por Évora.",
@@ -1729,8 +1791,10 @@
   "rotas": [],
   "nascimento": "1925",
   "morte": "2009",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/417f3ddb5a6d81ca9846ef586e1aa892.jpg",
+  "fotos": [
+   "fotos/417f3ddb5a6d81ca9846ef586e1aa892.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Jurista, constituinte pelo PPD eleito por Viseu e antigo presidente da Assembleia da República.",
@@ -1876,8 +1940,10 @@
   "rotas": [],
   "nascimento": "20/04/1958",
   "morte": "10/11/2026",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/417f3ddb5a6d811ab02ef3011976cd3b.jpg",
+  "fotos": [
+   "fotos/417f3ddb5a6d811ab02ef3011976cd3b.jpg"
+  ],
   "detalhes": {
    "Biografia": "Chef português ligado à renovação da cozinha portuguesa. Criou o hambúrguer de bacalhau conhecido como McSilva e foi distinguido pelo Diário de Notícias como cozinheiro do ano em 2006.",
    "Data de morte": "10/11/2026",
@@ -1899,8 +1965,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "07/11/2026",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/417f3ddb5a6d8141a7a5fb5238ac27f5.jpg",
+  "fotos": [
+   "fotos/417f3ddb5a6d8141a7a5fb5238ac27f5.jpg"
+  ],
   "detalhes": {
    "Área": "Desporto",
    "Biografia": "Poste norte-americano de basquetebol. Ajudou o Sporting a conquistar o bicampeonato nacional em 1981/82.",
@@ -1943,8 +2011,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "2026",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/417f3ddb5a6d8148a132f2229a70d80b.jpg",
+  "fotos": [
+   "fotos/417f3ddb5a6d8148a132f2229a70d80b.jpg"
+  ],
   "detalhes": {
    "Área": "Bombeiro",
    "Biografia": "Bombeiro de 2.ª do quadro ativo dos Bombeiros Voluntários Famalicenses, onde era o voluntário n.º 78. Conhecido como Escurinho, foi homenageado pela corporação pela sua dedicação ao socorro e pela camaradagem no quartel.",
@@ -1965,8 +2035,10 @@
   "rotas": [],
   "nascimento": "1972",
   "morte": "2026",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/417f3ddb5a6d818d9b24d21a4f13ac50.jpg",
+  "fotos": [
+   "fotos/417f3ddb5a6d818d9b24d21a4f13ac50.jpg"
+  ],
   "detalhes": {
    "Área": "Educação",
    "Biografia": "Professor associado de Psicologia na Universidade do Porto. Investigou os processos cognitivos e afetivos da escrita, o desenvolvimento da literacia e as dificuldades de aprendizagem. Participou no desenvolvimento do programa HandSpy, usado para estudar a produção de texto.",
@@ -1988,8 +2060,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "09/11/2026",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/417f3ddb5a6d81fa8801e1559bbc745b.png",
+  "fotos": [
+   "fotos/417f3ddb5a6d81fa8801e1559bbc745b.png"
+  ],
   "detalhes": {
    "Área": "Militar",
    "Biografia": "Militar da Guarda Nacional Republicana e residente em São Brás de Alportel. O jornal regional POSTAL documentou em 2019 o seu esforço para proporcionar maior autonomia à filha. Faleceu aos 45 anos num acidente rodoviário em Boliqueime, no concelho de Loulé.",
@@ -2008,8 +2082,10 @@
   "rotas": [],
   "nascimento": "1941-04-29",
   "morte": "2026-01-20",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/417f3ddb5a6d81149c11c84473b8cb7a.jpg",
+  "fotos": [
+   "fotos/417f3ddb5a6d81149c11c84473b8cb7a.jpg"
+  ],
   "detalhes": {
    "Área": "Educação, Escritor",
    "Biografia": "Maria Alzira Seixo (1941–2026) foi professora catedrática da Faculdade de Letras da Universidade de Lisboa, investigadora em literatura francesa e comparada e crítica literária. Dirigiu a Faculdade entre 1996 e 1998 e recebeu duas vezes o Prémio PEN de ensaio. Fonte: Assembleia da República, Projeto de Voto de Pesar n.º 333/XVI/1.ª.",
@@ -62992,7 +63068,10 @@
    "Biografia": "Machado Santos (1875–1921) foi oficial da Marinha e uma das figuras decisivas da Revolução de 5 de Outubro de 1910. A sua resistência na Rotunda tornou-o conhecido como o “Herói da Rotunda”. Foi assassinado durante a Noite Sangrenta, em 1921.",
    "Data de morte": "1921-10-19",
    "Localização": "Rua 1",
+   "Rota": "https://kuula.co/share/collection/7bWWS?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Cemitério": "Cemitério Alto São João",
+   "N de jazigo": "4945",
+   "Epitáfio": "Uma lagrima\nsobre as cinzas\ndo heroi que\npor amor da Patria e da Republica\ncaiu assassinado\nna noite de 19\npara 20 de Outubro de 1921",
    "Data de nascimento": "1875-01-10",
    "Nome": "Machado Santos"
   }
