@@ -23452,8 +23452,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8165b594cc3c6efcb569.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8165b594cc3c6efcb569.jpg"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fotografia_oficial_do_Presidente_da_Rep%C3%BAblica_Francisco_Craveiro_Lopes.jpg",
