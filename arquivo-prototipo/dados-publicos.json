@@ -1,5 +1,43 @@
 [
  {
+  "nome": "Pedro Sarmento",
+  "areas": [
+   "Ativista"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "16/01/2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Ativista",
+   "Biografia": "Biólogo e conservacionista português, com papel central no programa de reintrodução do lince-ibérico em Portugal. Trabalhou no Instituto da Conservação da Natureza e das Florestas, na conservação da espécie e na preparação das áreas de reintrodução. O seu falecimento foi objeto de votos de pesar na Assembleia da República. Fontes: https://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=1893&lg=XVII&tlg=XVII%25XVI%25XV%25XIV%25XIII ; https://app.parlamento.pt/webutils/docs/doc.pdf?Inline=true&fich=7a0948ea-f1f6-4938-a973-1f13eeda984c.docx",
+   "Data de morte": "16/01/2026",
+   "Nome": "Pedro Sarmento"
+  }
+ },
+ {
+  "nome": "Armando Gabriel Teixeira Baltazar",
+  "areas": [
+   "Ativista",
+   "Política"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "24/03/1951",
+  "morte": "05/02/2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Ativista, Política",
+   "Biografia": "Dirigente associativo e ativista da comunidade surda portuguesa. Ligado à Associação de Surdos do Porto e à Federação Portuguesa das Associações de Surdos, foi deputado da Assembleia Municipal de Valongo, destacando-se na defesa da acessibilidade e dos direitos das pessoas surdas. O seu percurso foi homenageado pela Assembleia da República. Fontes: https://app.parlamento.pt/ (Diário da Assembleia da República, projeto de voto 388/XVII/1.ª); https://www.verdadeiroolhar.pt/valongo-lamenta-morte-de-armando-baltazar-deputado-da-assembleia-municipal/",
+   "Data de morte": "05/02/2026",
+   "Data de nascimento": "24/03/1951",
+   "Nome": "Armando Gabriel Teixeira Baltazar"
+  }
+ },
+ {
   "nome": "Godelieve Meersschaert",
   "areas": [
    "Ativista"
@@ -16658,15 +16696,18 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "26/04/1878",
+  "morte": "15/11/1953",
   "foto": "fotos/40bf3ddb5a6d8121b768ce65ac77f314.jpg",
   "fotos": [
    "fotos/40bf3ddb5a6d8121b768ce65ac77f314.jpg"
   ],
   "detalhes": {
    "Área": "Política",
+   "Biografia": "João de Deus Ramos (1878–1953) foi pedagogo português, filho do poeta e educador João de Deus. Deu continuidade ao projeto educativo do pai e, em 1908, passou a dirigir a Associação de Escolas Móveis pelo Método João de Deus, ampliada com bibliotecas ambulantes e, mais tarde, jardins-escolas. Fundou onze Jardins-Escolas João de Deus, contribuindo para a educação infantil e a divulgação da leitura em Portugal.\n\nFontes: Portal Português de Arquivos; Associação de Jardins-Escolas João de Deus.",
+   "Data de morte": "15/11/1953",
    "Informação extra": "Deputado no Livro do Pessoal Político 1911–1915, I Legislatura (Arquivo Histórico Parlamentar): https://ahpweb.parlamento.pt/Detalhe/?id=143334. Óbito, sepultura, fotografia e duplicação ainda por verificar.",
+   "Data de nascimento": "26/04/1878",
    "Nome": "João de Deus Ramos"
   }
  },
@@ -19263,15 +19304,18 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "16/12/1881",
+  "morte": "08/02/1927",
   "foto": "fotos/40bf3ddb5a6d8138b705c7a46b52ac55.png",
   "fotos": [
    "fotos/40bf3ddb5a6d8138b705c7a46b52ac55.png"
   ],
   "detalhes": {
    "Área": "Política",
+   "Biografia": "Américo Olavo Correia de Azevedo (1881–1927) foi militar do Exército e político republicano português. Participou na Primeira Guerra Mundial e integrou governos da Primeira República, tendo exercido funções como ministro da Guerra. Em 1918 desapareceu durante a Batalha de La Lys e foi feito prisioneiro pelos alemães. Regressado a Portugal, continuou a sua intervenção política; morreu em Lisboa em 1927, vítima de um atentado à porta de casa.\n\nFontes: Revista Militar; Arquivo Histórico da Presidência da República; Jornal Económico.",
+   "Data de morte": "08/02/1927",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
+   "Data de nascimento": "16/12/1881",
    "Nome": "Américo Olavo de Azevedo"
   }
  },
@@ -19829,15 +19873,18 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "1886",
+  "morte": "1961",
   "foto": "fotos/40bf3ddb5a6d81ee85a7f05e238fb296.jpg",
   "fotos": [
    "fotos/40bf3ddb5a6d81ee85a7f05e238fb296.jpg"
   ],
   "detalhes": {
    "Área": "Política",
+   "Biografia": "Amílcar da Silva Ramada Curto (1886–1961) foi advogado, político, jornalista, dramaturgo e cronista português. Participou na greve académica de 1907 e foi deputado à Assembleia Nacional Constituinte de 1911. Na Primeira República, exerceu funções ministeriais, incluindo as pastas das Finanças e do Trabalho. A sua atividade literária prolongou-se por várias décadas, com particular destaque para o teatro, que retrata tensões e contradições da sociedade portuguesa do seu tempo.\n\nFontes: Portal Português de Arquivos (DGLAB); Arquivo Histórico Parlamentar; Arquivo Histórico da Presidência da República.",
+   "Data de morte": "1961",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx . Datas, sepultura, óbito, fotografia e duplicação por verificar.",
+   "Data de nascimento": "1886",
    "Nome": "Amílcar da Silva Ramada Curto"
   }
  },
@@ -21161,15 +21208,18 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "05/01/1875",
+  "morte": "29/12/1918",
   "foto": "fotos/40bf3ddb5a6d81029035e2fe261a533b.png",
   "fotos": [
    "fotos/40bf3ddb5a6d81029035e2fe261a533b.png"
   ],
   "detalhes": {
    "Área": "Política",
+   "Biografia": "António Caetano Macieira Júnior (1875–1918) foi advogado e político português. Formado em Direito pela Universidade de Coimbra, distinguiu-se na defesa de republicanos e jornalistas durante os últimos anos da Monarquia. Foi deputado à Assembleia Nacional Constituinte de 1911, ministro da Justiça entre 1911 e 1912 e ministro dos Negócios Estrangeiros entre 1913 e 1914. Presidiu à Câmara dos Deputados em 1917 e visitou a frente da Primeira Guerra Mundial com o Presidente Bernardino Machado.\n\nFontes: Arquivo Histórico Parlamentar; 200 Anos da Justiça; Hemeroteca Digital de Lisboa.",
+   "Data de morte": "29/12/1918",
    "Informação extra": "Deputado da Assembleia Nacional Constituinte de 1911. Fonte nominal: https://www.parlamento.pt/Parlamento/Paginas/guia-fundo-assembleia-nacional-constituinte-1911.aspx ; para os eleitos de Guimarães: https://ahpweb.parlamento.pt/Detalhe/?id=102612 . Importação inicial; duplicados, datas, sepultura e fotografia por verificar.",
+   "Data de nascimento": "05/01/1875",
    "Nome": "António Caetano Macieira Júnior"
   }
  },
@@ -22419,16 +22469,19 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "14/06/1908",
+  "morte": "10/06/1979",
   "foto": "fotos/40bf3ddb5a6d8101a310fa7da8058f06.jpg",
   "fotos": [
    "fotos/40bf3ddb5a6d8101a310fa7da8058f06.jpg"
   ],
   "detalhes": {
    "Área": "Escritor",
+   "Biografia": "Joaquim Belford Correia da Silva, conhecido como Joaquim Paço d’Arcos (1908–1979), foi romancista, dramaturgo, poeta e ensaísta português. Nascido em Lisboa, viveu parte da infância em África e Macau, acompanhando o pai, oficial da Marinha e administrador colonial. A experiência ultramarina marcou a sua obra, que inclui o ciclo Crónica da Vida Lisboeta e romances como Ana Paula e O Caminho da Culpa. Trabalhou nos serviços de imprensa do Ministério dos Negócios Estrangeiros e foi uma das vozes literárias portuguesas de maior circulação no século XX.\n\nFontes: Memórias de Macau; Portal da Literatura; Infopédia.",
+   "Data de morte": "10/06/1979",
    "Fotografia": "https://img.wook.pt/autor/imagem/joaquim-paco-darcos/MXwxNDQyNjExfDEzOTExNjY1MjEwMDB8anBlZ3wyNTM1ODY5Qi00OTBDLTAxOTYtRTA2My0wQTBBMDU5OEQyNTA=",
    "Informação extra": "Registo nominal de importação em massa. Identidade, datas, sepultura e eventual duplicação por verificar posteriormente.",
+   "Data de nascimento": "14/06/1908",
    "Nome": "Joaquim Paço d'Arcos"
   }
  },
@@ -22439,15 +22492,18 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "31/07/1873",
+  "morte": "1929",
   "foto": "fotos/40bf3ddb5a6d810d9168e472ac00bc1f.png",
   "fotos": [
    "fotos/40bf3ddb5a6d810d9168e472ac00bc1f.png"
   ],
   "detalhes": {
    "Área": "Escritor",
+   "Biografia": "Augusto César Ferreira Gil (1873–1929) foi advogado e poeta português, nascido no Porto e ligado à cidade da Guarda, onde viveu e trabalhou. A sua poesia, marcada por um lirismo sentimental e uma dimensão cívica, tornou-se muito popular em Portugal. A coletânea Luar de Janeiro (1909) inclui o conhecido poema «Balada da Neve». Também dirigiu e colaborou em jornais de orientação republicana.\n\nFontes: e-Cultura; Biblioteca Digital de Literatura de Países Lusófonos (UFSC).",
+   "Data de morte": "1929",
    "Informação extra": "Registo nominal de importação em massa. Identidade, datas, sepultura e eventual duplicação por verificar posteriormente.",
+   "Data de nascimento": "31/07/1873",
    "Nome": "Augusto Gil"
   }
  },
@@ -22497,15 +22553,18 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "30/10/1891",
+  "morte": "30/11/1975",
   "foto": "fotos/40bf3ddb5a6d812498bfc53ff164152e.png",
   "fotos": [
    "fotos/40bf3ddb5a6d812498bfc53ff164152e.png"
   ],
   "detalhes": {
    "Área": "Escritor",
+   "Biografia": "Alfredo Pedro Guisado (1891–1975) foi poeta, jornalista e político português de ascendência galega. Licenciou-se em Direito na Universidade de Lisboa e colaborou em revistas centrais do modernismo português, entre elas Orpheu, Exílio e SW. Publicou também poesia sob o pseudónimo Pedro de Meneses. A sua escrita combina influências do paulismo, simbolismo e saudosismo, com imagens e construções linguísticas muito próprias. Foi deputado pelo Partido Republicano Português e director-adjunto do jornal República.\n\nFontes: Infopédia (Porto Editora); Modernismo.pt, Dicionário de Autores.",
+   "Data de morte": "30/11/1975",
    "Informação extra": "Registo nominal de importação em massa. Identidade, datas, sepultura e eventual duplicação por verificar posteriormente.",
+   "Data de nascimento": "30/10/1891",
    "Nome": "Alfredo Guisado"
   }
  },
@@ -22811,16 +22870,19 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "06/11/1907",
+  "morte": "25/09/1966",
   "foto": "fotos/40bf3ddb5a6d8101aed8dddc8eac9ee4.jpg",
   "fotos": [
    "fotos/40bf3ddb5a6d8101aed8dddc8eac9ee4.jpg"
   ],
   "detalhes": {
    "Área": "Política",
+   "Biografia": "Delfim Pinto dos Santos (1907–1966) foi filósofo, ensaísta e pedagogo português, nascido no Porto. Licenciado em Ciências Histórico-Filosóficas pela Universidade do Porto, aprofundou estudos de filosofia em centros europeus e dialogou com importantes correntes do pensamento do século XX. Foi professor na Faculdade de Letras da Universidade de Lisboa e, em 1950, tornou-se o primeiro professor catedrático de Pedagogia em Portugal. A sua reflexão articulou filosofia, ciência e educação, tendo exercido influência duradoura no pensamento português.\n\nFontes: Faculdade de Letras da Universidade de Lisboa; Imprensa Nacional-Casa da Moeda; Fundação Calouste Gulbenkian.",
+   "Data de morte": "25/09/1966",
    "Fotografia": "https://cdn-images.rtp.pt/video_pecas/screenshots/490/490e1b8257ad94f470460a94e371e955arq.jpg?crop=top&fit=crop&h=461&ixlib=php-1.1.0&w=860",
    "Informação extra": "Ficha nominal inicial; confirmar datas, identidade, biografia, sepultura e fotografia com documentação antes de completar.",
+   "Data de nascimento": "06/11/1907",
    "Nome": "Delfim Santos"
   }
  },
@@ -22831,15 +22893,18 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "07/11/1902",
+  "morte": "14/02/1972",
   "foto": "fotos/40bf3ddb5a6d810d94c7ef222bb1fded.jpg",
   "fotos": [
    "fotos/40bf3ddb5a6d810d94c7ef222bb1fded.jpg"
   ],
   "detalhes": {
    "Área": "Política",
+   "Biografia": "Pedro Teotónio Pereira (1902–1972) foi político, diplomata e administrador português. Licenciado em Matemática pela Universidade de Lisboa, foi um dos principais colaboradores de António de Oliveira Salazar e desempenhou funções governativas e diplomáticas. Foi ministro do Comércio e Indústria e ministro da Presidência, além de embaixador em Madrid, Rio de Janeiro, Washington e Londres. A sua atuação diplomática durante a Guerra Civil de Espanha e a Segunda Guerra Mundial teve relevo nas relações ibéricas e na política externa do Estado Novo. Foi administrador da Fundação Calouste Gulbenkian de 1956 até à sua morte.\n\nFontes: Fundação Calouste Gulbenkian; Arquivo Histórico Parlamentar; Portal Português de Arquivos.",
+   "Data de morte": "14/02/1972",
    "Informação extra": "Ficha nominal inicial; confirmar datas, identidade, biografia, sepultura e fotografia com documentação antes de completar.",
+   "Data de nascimento": "07/11/1902",
    "Nome": "Pedro Teotónio Pereira"
   }
  },
@@ -22850,14 +22915,17 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "13/02/1928",
+  "morte": "19/05/1954",
   "foto": "",
   "fotos": [],
   "detalhes": {
    "Área": "Política",
+   "Biografia": "Catarina Efigénia Sabino Eufémia (1928–1954) foi uma trabalhadora agrícola alentejana, nascida em Baleizão, no concelho de Beja. A 19 de maio de 1954, durante uma greve de trabalhadoras rurais que reivindicavam melhores salários, foi morta a tiro por um agente da Guarda Nacional Republicana. Tinha 26 anos, era mãe de três filhos e estava grávida do quarto. A sua morte tornou-se um símbolo da repressão exercida pelo Estado Novo e da luta por melhores condições de trabalho. A sua memória foi evocada em obras literárias, artísticas e musicais, incluindo Cantar Alentejano, de José Afonso.\n\nFontes: Museu do Aljube; RTP Arquivos; RTP Ensina; e-Cultura.",
+   "Data de morte": "19/05/1954",
    "Fotografia": "https://www.tribunaalentejo.pt/sites/default/files/styles/article_teaser/public/field/image/catarina_eufemia_600.jpg?itok=dThwL5Zx",
    "Informação extra": "Ficha nominal inicial; confirmar datas, identidade, biografia, sepultura e fotografia com documentação antes de completar.",
+   "Data de nascimento": "13/02/1928",
    "Nome": "Catarina Eufémia"
   }
  },
@@ -23323,15 +23391,18 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "26/05/1872",
+  "morte": "14/10/1950",
   "foto": "fotos/40bf3ddb5a6d8117ae1dcbb7740b7ec7.jpg",
   "fotos": [
    "fotos/40bf3ddb5a6d8117ae1dcbb7740b7ec7.jpg"
   ],
   "detalhes": {
    "Área": "Política",
+   "Biografia": "António Maria da Silva (1872–1950) foi engenheiro de minas, dirigente republicano e político português. Cofundador da Carbonária, participou na oposição à Monarquia e, depois da implantação da República, foi deputado e ocupou várias pastas ministeriais. Presidiu ao Governo da Primeira República em diferentes períodos, sendo uma das figuras políticas mais influentes do regime. A sua carreira terminou com o golpe militar de 28 de maio de 1926.\n\nFontes: História da Polícia / NOVA FCSH; Arquivo Histórico da Presidência da República; Governo de Portugal; Infopédia.",
+   "Data de morte": "14/10/1950",
    "Informação extra": "Registo nominal inicial de figura política histórica. Verificar datas, identidade, sepultura e fotografia antes de completar.",
+   "Data de nascimento": "26/05/1872",
    "Nome": "António Maria da Silva"
   }
  },
@@ -24893,16 +24964,19 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "03/04/1926",
+  "morte": "23/07/1993",
   "foto": "fotos/40bf3ddb5a6d8106ae39e54535c9f92d.png",
   "fotos": [
    "fotos/40bf3ddb5a6d8106ae39e54535c9f92d.png"
   ],
   "detalhes": {
    "Área": "Escritor",
+   "Biografia": "Luís Infante de Lacerda de Sttau Monteiro (1926–1993) foi escritor, dramaturgo, jornalista e encenador português, formado em Direito. A sua obra teatral confrontou a censura e a repressão política do Estado Novo; Felizmente Há Luar! (1961), distinguida com o Grande Prémio de Teatro da Sociedade Portuguesa de Escritores, foi proibida pela censura e só pôde ser representada em Portugal depois do 25 de Abril. Escreveu também ficção e crónicas, colaborando em publicações como Almanaque e o suplemento A Mosca, do Diário de Lisboa.\n\nFontes: RTP Arquivos; Infopédia; Diário da República.",
+   "Data de morte": "23/07/1993",
    "Fotografia": "https://www.newsmuseum.pt/sites/default/files/sttau3.png",
    "Informação extra": "Ficha nominal inicial. Confirmar identidade, datas, sepultura e fotografia em fontes documentais.",
+   "Data de nascimento": "03/04/1926",
    "Nome": "Luís de Sttau Monteiro"
   }
  },
@@ -24913,15 +24987,18 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "1920",
+  "morte": "09/12/1982",
   "foto": "fotos/40bf3ddb5a6d810ea7a6d562d368754f.jpg",
   "fotos": [
    "fotos/40bf3ddb5a6d810ea7a6d562d368754f.jpg"
   ],
   "detalhes": {
    "Área": "Escritor",
+   "Biografia": "Pedro Sidónio de Araújo Muralha (1920–1982), conhecido como Sidónio Muralha, foi poeta e escritor português ligado ao Neorrealismo. Viveu durante décadas no Congo Belga, em exílio voluntário devido à oposição à ditadura portuguesa, e mais tarde fixou-se no Brasil. Escreveu poesia social, contos e literatura para a infância; Bichos, Bichinhos e Bicharocos tornou-se uma das suas obras mais conhecidas. Em São Paulo, participou na fundação da Editora Giroflé, dedicada à literatura infantil.\n\nFontes: Museu do Neo-Realismo; Porto Editora; Fundação Sidónio Muralha.",
+   "Data de morte": "09/12/1982",
    "Informação extra": "Ficha nominal inicial. Confirmar identidade, datas, sepultura e fotografia em fontes documentais.",
+   "Data de nascimento": "1920",
    "Nome": "Sidónio Muralha"
   }
  },
@@ -25139,16 +25216,19 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "24/11/1931",
+  "morte": "03/03/2008",
   "foto": "fotos/40bf3ddb5a6d810fba70cf9c50be0c8c.jpg",
   "fotos": [
    "fotos/40bf3ddb5a6d810fba70cf9c50be0c8c.jpg"
   ],
   "detalhes": {
    "Área": "Escritor",
+   "Biografia": "Maria Gabriela Llansol (1931–2008) foi escritora e tradutora portuguesa, reconhecida por uma obra singular que atravessa ficção, diário, poesia, ensaio e memória. Viveu exilada na Bélgica entre 1965 e 1975, onde fundou, com o marido António Joaquim, duas escolas de inovação pedagógica. Regressou a Portugal em 1985 e instalou-se em Sintra, onde viveu até morrer. A sua escrita rompe fronteiras entre géneros literários e cria um universo próprio de figuras e cenas, influente na literatura portuguesa contemporânea.\n\nFontes: Infopédia; RTP; NOVA FCSH; Assírio & Alvim.",
+   "Data de morte": "03/03/2008",
    "Fotografia": "https://fotos.web.sapo.io/i/B65176bbe/22597027_3IuCj.jpeg",
    "Informação extra": "Ficha inicial de recolha nominal. Confirmar datas, homónimos, biografia, sepultura e fotografia em fontes documentais antes de completar.",
+   "Data de nascimento": "24/11/1931",
    "Nome": "Maria Gabriela Llansol"
   }
  },
@@ -25179,15 +25259,18 @@
   ],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "10/05/1939",
+  "morte": "23/02/1989",
   "foto": "fotos/40bf3ddb5a6d8116a1f1fbd2caf34a85.jpg",
   "fotos": [
    "fotos/40bf3ddb5a6d8116a1f1fbd2caf34a85.jpg"
   ],
   "detalhes": {
    "Área": "Escritor",
+   "Biografia": "Luiza Neto Jorge (1939–1989) foi poeta e tradutora portuguesa, associada à renovação da poesia portuguesa da segunda metade do século XX e ao grupo da Poesia 61. A sua escrita explorou de forma singular a linguagem, o corpo e a tradição lírica, mantendo diálogo com a herança surrealista. Traduziu autores como Céline, Sade, Goethe, Verlaine e Genet; a tradução de Morte a Crédito valeu-lhe o prémio de tradução do PEN Clube Português. A sua obra poética foi reunida postumamente em Poesia (1960–1989).\n\nFontes: NOVA FCSH; Porto Editora; Edições Afrontamento.",
+   "Data de morte": "23/02/1989",
    "Informação extra": "Ficha inicial de recolha nominal. Confirmar datas, homónimos, biografia, sepultura e fotografia em fontes documentais antes de completar.",
+   "Data de nascimento": "10/05/1939",
    "Nome": "Luiza Neto Jorge"
   }
  },
@@ -27897,13 +27980,16 @@
   "areas": [],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "29/12/1911",
+  "morte": "29/11/1969",
   "foto": "fotos/408f3ddb5a6d814eaf8bfea26bc12652.png",
   "fotos": [
    "fotos/408f3ddb5a6d814eaf8bfea26bc12652.png"
   ],
   "detalhes": {
+   "Biografia": "António Alves Redol (1911–1969), conhecido como Alves Redol, foi escritor português e uma das figuras centrais do Neorrealismo. Nascido em Vila Franca de Xira, fez da vida dos trabalhadores rurais, dos pescadores e das comunidades ribatejanas matéria central da sua obra. O romance Gaibéus (1939) é considerado uma obra fundadora do Neorrealismo português. Participou em iniciativas da oposição ao Estado Novo e colaborou em diversos jornais e revistas.\n\nFontes: Museu do Neo-Realismo; Hemeroteca Digital de Lisboa; RTP Arquivos.",
+   "Data de morte": "29/11/1969",
+   "Data de nascimento": "29/12/1911",
    "Nome": "Alves Redol"
   }
  },
@@ -27912,12 +27998,15 @@
   "areas": [],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "09/04/1929",
+  "morte": "27/02/2016",
   "foto": "",
   "fotos": [],
   "detalhes": {
+   "Biografia": "Lúcio Lara (1929–2016), também conhecido pelo nome de guerra Tchiweka, foi dirigente histórico do MPLA e uma figura central da luta pela independência de Angola. Nascido no Huambo, estudou em Portugal, nas universidades de Coimbra e Lisboa, e participou na Casa dos Estudantes do Império e no Movimento Anti-Colonialista. Depois da independência, continuou ligado à vida política angolana e à preservação da memória do movimento de libertação.\n\nFontes: Partido Socialista, nota de pesar; Fundação Mário Soares e Maria Barroso, Casa Comum.",
+   "Data de morte": "27/02/2016",
    "Fotografia": "https://imsvintagephotos.com/cdn/shop/products/4988374-front_800x.jpg?v=1710539002",
+   "Data de nascimento": "09/04/1929",
    "Nome": "Lúcio Lara"
   }
  },
@@ -34666,14 +34755,17 @@
   "areas": [],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "28/01/1872",
+  "morte": "26/02/1919",
   "foto": "fotos/406f3ddb5a6d81029103db25a2acdcff.jpg",
   "fotos": [
    "fotos/406f3ddb5a6d81029103db25a2acdcff.jpg",
    "fotos/406f3ddb5a6d81029103db25a2acdcff-2.jpg"
   ],
   "detalhes": {
+   "Biografia": "José Joaquim Teixeira Lopes Júnior (1872–1919) foi arquiteto português, irmão do escultor António Teixeira Lopes. Formou-se na Escola de Belas-Artes do Porto e aperfeiçoou estudos em Paris. A sua obra concentrou-se sobretudo no Porto, Vila Nova de Gaia e Miramar, onde projetou edifícios e contribuiu para a configuração urbana e balnear da região. Foi professor de arquitetura e membro fundador da Sociedade dos Arquitetos Portugueses. Faleceu em 1919 e foi sepultado num jazigo familiar em Arcozelo.\n\nFontes: Universidade do Porto, Antigos Estudantes Ilustres — José Teixeira Lopes; Associação Cultural Amigos de Gaia.",
+   "Data de morte": "26/02/1919",
+   "Data de nascimento": "28/01/1872",
    "Nome": "José Teixeira Lopes"
   }
  },
@@ -34682,14 +34774,17 @@
   "areas": [],
   "cemiterios": [],
   "rotas": [],
-  "nascimento": "",
-  "morte": "",
+  "nascimento": "27/10/1866",
+  "morte": "21/06/1942",
   "foto": "fotos/406f3ddb5a6d81c79e45cfd85229a36a.jpg",
   "fotos": [
    "fotos/406f3ddb5a6d81c79e45cfd85229a36a.jpg",
    "fotos/406f3ddb5a6d81c79e45cfd85229a36a-2.jpg"
   ],
   "detalhes": {
+   "Biografia": "António Teixeira Lopes (1866–1942) foi escultor português, nascido em Vila Nova de Gaia, filho do escultor e ceramista José Joaquim Teixeira Lopes e irmão do arquiteto José Teixeira Lopes. Estudou na Academia Portuense de Belas-Artes e, em Paris, com os escultores Cavelier e Barrias. Entre as suas obras mais conhecidas contam-se Caim, A Viúva e Caridade. Para o Cemitério dos Prazeres, em Lisboa, realizou o monumento funerário de Oliveira Martins, conhecido como A História; para o Cemitério de Agramonte, no Porto, criou A Dor. A Casa-Museu Teixeira Lopes, em Gaia, conserva parte importante do seu legado.\n\nFontes: Museu Nacional de Soares dos Reis; Museu do Parlamento; Universidade do Porto.",
+   "Data de morte": "21/06/1942",
+   "Data de nascimento": "27/10/1866",
    "Nome": "António Teixeira Lopes"
   }
  },
