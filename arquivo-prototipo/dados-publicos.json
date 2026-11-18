@@ -24186,8 +24186,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8164a351e5655068d55c.jpg",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8164a351e5655068d55c.jpg"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/7/70/Euclydes_da_Cunha.jpg",
@@ -60092,8 +60094,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1845-12-28",
-  "morte": "1910-12-29",
+  "nascimento": "1845",
+  "morte": "1910",
   "foto": "fotos/3bff3ddb5a6d8079a994e617f7e9d311.jpg",
   "fotos": [
    "fotos/3bff3ddb5a6d8079a994e617f7e9d311.jpg"
@@ -60102,10 +60104,10 @@
    "Visita 360": "https://kuula.co/share/LbN40/collection/7TTDF?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Historiador, Escritor",
    "Biografia": "Francisco Marques de Sousa Viterbo (1845–1910) — Médico, arqueólogo, historiador, poeta e jornalista português. Abandonou progressivamente a medicina para se dedicar à investigação histórica e arqueológica, tornando-se professor de Arqueologia na Academia de Belas-Artes. Desenvolveu uma extensa obra sobre a história da arte e dos artistas em Portugal, destacando-se o Dicionário Histórico e Documental dos Arquitectos, Engenheiros e Construtores Portugueses. Foi também fundador da Associação de Jornalistas e Escritores Portugueses.",
-   "Data de morte": "1910-12-29",
+   "Data de morte": "1910",
    "Localização": "Incerto",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1845-12-28",
+   "Data de nascimento": "1845",
    "Nome": "Francisco Sousa Viterbo"
   }
  },
@@ -60119,8 +60121,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1845-04-30",
-  "morte": "1894-08-24",
+  "nascimento": "1845",
+  "morte": "1894",
   "foto": "fotos/3bff3ddb5a6d803faaacc5e562ff85bc.jpg",
   "fotos": [
    "fotos/3bff3ddb5a6d803faaacc5e562ff85bc.jpg"
@@ -60129,10 +60131,10 @@
    "Visita 360": "https://kuula.co/share/Lb7t8/collection/7TTDF?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Historiador, Escritor",
    "Biografia": "Joaquim Pedro de Oliveira Martins (1845–1894) — Historiador, escritor, economista e político português, foi uma das principais figuras da Geração de 70. Autor de obras fundamentais como História de Portugal, História da Civilização Ibérica e Portugal Contemporâneo, exerceu também funções como deputado e ministro da Fazenda em 1892. A sua obra teve uma profunda influência na historiografia e no pensamento político português.",
-   "Data de morte": "1894-08-24",
+   "Data de morte": "1894",
    "Localização": "Rua 8",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1845-04-30",
+   "Data de nascimento": "1845",
    "Nome": "Joaquim Oliveira Martins"
   }
  },
@@ -60170,8 +60172,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1875-12-30",
-  "morte": "1908-02-01",
+  "nascimento": "1875",
+  "morte": "1908",
   "foto": "fotos/3bdf3ddb5a6d80a29797cae2845dd80b.jpg",
   "fotos": [
    "fotos/3bdf3ddb5a6d80a29797cae2845dd80b.jpg"
@@ -60180,12 +60182,12 @@
    "Visita 360": "https://kuula.co/share/LZZT6/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "República, Ativista",
    "Biografia": "Manuel dos Reis da Silva Buíça (1875–1908) — Militar, professor e republicano português. Antigo segundo-sargento de Cavalaria e exímio atirador, participou com Alfredo Costa no Regicídio de 1 de fevereiro de 1908, no Terreiro do Paço, disparando sobre D. Carlos I e o príncipe real D. Luís Filipe. Foi morto no local após o atentado e sepultado no Cemitério do Alto de São João.",
-   "Data de morte": "1908-02-01",
+   "Data de morte": "1908",
    "Localização": "Rua 9 com 26 / Rua 52",
    "Rota": "https://kuula.co/share/collection/7bWWS?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Cemitério": "Cemitério Alto São João",
    "N de jazigo": "4251",
-   "Data de nascimento": "1875-12-30",
+   "Data de nascimento": "1875",
    "Nome": "Manuel dos Reis Buiça"
   }
  },
@@ -60199,8 +60201,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1883-11-24",
-  "morte": "1908-02-01",
+  "nascimento": "1883",
+  "morte": "1908",
   "foto": "fotos/3bdf3ddb5a6d800fbc2ed966212f1262.jpg",
   "fotos": [
    "fotos/3bdf3ddb5a6d800fbc2ed966212f1262.jpg"
@@ -60209,11 +60211,11 @@
    "Visita 360": "https://kuula.co/share/LZZT6/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "República, Ativista",
    "Biografia": "Alfredo Luís da Costa (1883–1908) — Republicano, carbonário, maçom, jornalista e empregado do comércio. Nascido em Casével, Castro Verde, participou com Manuel Buíça no Regicídio de 1 de fevereiro de 1908, no Terreiro do Paço, atentado que matou D. Carlos I e o príncipe real D. Luís Filipe. Alfredo Costa foi morto no local pelas forças de segurança.",
-   "Data de morte": "1908-02-01",
+   "Data de morte": "1908",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
    "N de jazigo": "4251",
-   "Data de nascimento": "1883-11-24",
+   "Data de nascimento": "1883",
    "Nome": "Alfredo Luís da Costa "
   }
  },
@@ -60696,8 +60698,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1838-03-24",
-  "morte": "1878-09-30",
+  "nascimento": "1838",
+  "morte": "1878",
   "foto": "fotos/3bcf3ddb5a6d80c8b95fe1add51b0c6a.jpg",
   "fotos": [
    "fotos/3bcf3ddb5a6d80c8b95fe1add51b0c6a.jpg"
@@ -60706,10 +60708,10 @@
    "Visita 360": "https://kuula.co/share/LbNcK/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Política",
    "Biografia": "Francisco de Borja de Sousa Holstein (1838–1878), 1.º Marquês de Sousa Holstein — filho dos 1.os Duques; está explicitamente referido como sepultado no Jazigo dos Duques de Palmela.",
-   "Data de morte": "1878-09-30",
+   "Data de morte": "1878",
    "Localização": "Rua 31",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1838-03-24",
+   "Data de nascimento": "1838",
    "Nome": "Francisco de Borja de Sousa Holstein"
   }
  },
@@ -60748,8 +60750,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1818-06-28",
-  "morte": "1864-04-02",
+  "nascimento": "1818",
+  "morte": "1864",
   "foto": "fotos/3bcf3ddb5a6d80beb6abf63fff3840aa.jpg",
   "fotos": [
    "fotos/3bcf3ddb5a6d80beb6abf63fff3840aa.jpg"
@@ -60758,10 +60760,10 @@
    "Visita 360": "https://kuula.co/share/LbNcK/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Política",
    "Biografia": "Domingos António Maria Pedro de Sousa Holstein (1818–1864), 2.º Duque de Palmela — filho e sucessor do 1.º Duque. Surge entre os indivíduos registados nos Prazeres e pertence à linha principal da Casa Palmela.",
-   "Data de morte": "1864-04-02",
+   "Data de morte": "1864",
    "Localização": "Rua 31",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1818-06-28",
+   "Data de nascimento": "1818",
    "Nome": "Domingos António Maria Pedro de Sousa Holstein"
   }
  },
@@ -60800,8 +60802,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1781-05-08",
-  "morte": "1850-10-12",
+  "nascimento": "1781",
+  "morte": "1850",
   "foto": "fotos/3bcf3ddb5a6d80f587ffe02fec6fe393.jpg",
   "fotos": [
    "fotos/3bcf3ddb5a6d80f587ffe02fec6fe393.jpg"
@@ -60810,10 +60812,10 @@
    "Visita 360": "https://kuula.co/share/LbNcK/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Política",
    "Biografia": "Pedro de Sousa Holstein (1781–1850), 1.º Duque de Palmela — o principal. Diplomata, estadista, várias vezes chefe do Governo e figura central do liberalismo português. Foi ele quem mandou construir o mausoléu. A CML confirma a origem do jazigo.",
-   "Data de morte": "1850-10-12",
+   "Data de morte": "1850",
    "Localização": "Rua 31",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1781-05-08",
+   "Data de nascimento": "1781",
    "Nome": "Pedro de Sousa Holstein"
   }
  },
@@ -60827,8 +60829,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1921-05-03",
-  "morte": "2005-06-11",
+  "nascimento": "1921",
+  "morte": "2005",
   "foto": "fotos/3bcf3ddb5a6d801998dcc0b5acded10f.jpg",
   "fotos": [
    "fotos/3bcf3ddb5a6d801998dcc0b5acded10f.jpg"
@@ -60837,10 +60839,10 @@
    "Visita 360": "https://kuula.co/share/LZZZK/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Militar, Política",
    "Biografia": "Vasco Gonçalves (1921-2005) foi militar e político português. Participou no Movimento das Forças Armadas e chefiou os II, III, IV e V Governos Provisórios, entre 1974 e 1975, durante o processo revolucionário que se seguiu ao 25 de Abril.\n\nFontes: Biblioteca Pública e Arquivo Regional de Ponta Delgada; RTP Ensina.",
-   "Data de morte": "2005-06-11",
+   "Data de morte": "2005",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1921-05-03",
+   "Data de nascimento": "1921",
    "Nome": "Vasco Gonçalves "
   }
  },
@@ -60853,8 +60855,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1870-12-01",
-  "morte": "1933-01-16",
+  "nascimento": "1870",
+  "morte": "1933",
   "foto": "fotos/3bcf3ddb5a6d809580baec63032aa231.jpg",
   "fotos": [
    "fotos/3bcf3ddb5a6d809580baec63032aa231.jpg"
@@ -60863,10 +60865,10 @@
    "Visita 360": "https://kuula.co/share/LZZZK/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Militar",
    "Biografia": "Artur Ivens Ferraz (1870–1933) — Militar e político português, general do Exército e participante na Primeira Guerra Mundial. Exerceu vários cargos governativos durante a Ditadura Militar, incluindo ministro das Colónias, e foi Presidente do Ministério entre 8 de julho de 1929 e 21 de janeiro de 1930. Foi também governador de Moçambique e chefe do Estado-Maior do Exército.",
-   "Data de morte": "1933-01-16",
+   "Data de morte": "1933",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1870-12-01",
+   "Data de nascimento": "1870",
    "Nome": "Artur Ivens Ferraz"
   }
  },
@@ -60905,8 +60907,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1863-01-12",
-  "morte": "1928-05-13",
+  "nascimento": "1863",
+  "morte": "1928",
   "foto": "fotos/3bcf3ddb5a6d805387c9ef8416df1102.jpg",
   "fotos": [
    "fotos/3bcf3ddb5a6d805387c9ef8416df1102.jpg"
@@ -60915,10 +60917,10 @@
    "Visita 360": "https://kuula.co/share/LZZZK/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Militar",
    "Biografia": "Bernardo de Faria e Silva (1863–1928) — Militar português, general de Artilharia e combatente da Primeira Guerra Mundial. Chefiou uma missão de oficiais de artilharia enviada para França em 1916 e comandou a 1.ª Divisão do Corpo Expedicionário Português após a Batalha de La Lys. Foi diretor do Colégio Militar e comandante-geral da Guarda Nacional Republicana em 1921, tendo sido distinguido como Grande-Oficial da Ordem Militar da Torre e Espada.",
-   "Data de morte": "1928-05-13",
+   "Data de morte": "1928",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1863-01-12",
+   "Data de nascimento": "1863",
    "Nome": "Bernardo de Faria e Silva"
   }
  },
@@ -60932,8 +60934,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1910-04-11",
-  "morte": "1996-08-13",
+  "nascimento": "1910",
+  "morte": "1996",
   "foto": "fotos/3bcf3ddb5a6d80bf92b9c8f03270e4d8.jpg",
   "fotos": [
    "fotos/3bcf3ddb5a6d80bf92b9c8f03270e4d8.jpg"
@@ -60942,10 +60944,10 @@
    "Visita 360": "https://kuula.co/share/LZZZK/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Militar, Política",
    "Biografia": "António de Spínola (1910–1996) — Militar e político português, destacou-se como governador e comandante-chefe da Guiné entre 1968 e 1973. Autor de Portugal e o Futuro, foi uma figura determinante no período que antecedeu o 25 de Abril de 1974 e tornou-se o primeiro Presidente da República após a revolução, exercendo o cargo entre maio e setembro de 1974. Foi posteriormente promovido a marechal.",
-   "Data de morte": "1996-08-13",
+   "Data de morte": "1996",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1910-04-11",
+   "Data de nascimento": "1910",
    "Nome": "António de Spinola"
   }
  },
@@ -60959,8 +60961,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1914-06-30",
-  "morte": "2001-07-31",
+  "nascimento": "1914",
+  "morte": "2001",
   "foto": "fotos/3bcf3ddb5a6d80a093cbfc5dc32dfe46.jpg",
   "fotos": [
    "fotos/3bcf3ddb5a6d80a093cbfc5dc32dfe46.jpg"
@@ -60969,10 +60971,10 @@
    "Visita 360": "https://kuula.co/share/LZZZK/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Militar, Política",
    "Biografia": "Francisco da Costa Gomes (1914–2001) — Militar, matemático e político português. Exerceu altos cargos militares em Macau, Moçambique e Angola e foi Chefe do Estado-Maior-General das Forças Armadas. Após o 25 de Abril integrou a Junta de Salvação Nacional e, na sequência da renúncia de António de Spínola, tornou-se Presidente da República, cargo que exerceu entre 1974 e 1976. Foi promovido a marechal em 1981.",
-   "Data de morte": "2001-07-31",
+   "Data de morte": "2001",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1914-06-30",
+   "Data de nascimento": "1914",
    "Nome": "Francisco da Costa Gomes"
   }
  },
@@ -61012,8 +61014,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1869-07-22",
-  "morte": "1942-10-15",
+  "nascimento": "1869",
+  "morte": "1942",
   "foto": "fotos/3bcf3ddb5a6d80de9085f77089fef02d.jpg",
   "fotos": [
    "fotos/3bcf3ddb5a6d80de9085f77089fef02d.jpg"
@@ -61022,10 +61024,10 @@
    "Visita 360": "https://kuula.co/share/LZZZK/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Militar",
    "Biografia": "Augusto Manuel Farinha Beirão (1869–1942) — Militar português, general do Exército e comandante-geral da Guarda Nacional Republicana entre 1927 e 1939. Participou nas campanhas militares em Angola e na Primeira Guerra Mundial, tendo desempenhado um papel relevante na consolidação da Ditadura Militar e do Estado Novo. Foi distinguido com várias condecorações nacionais, incluindo a Ordem Militar da Torre e Espada. Encontra-se sepultado na Cripta dos Combatentes da Grande Guerra, no Cemitério do Alto de São João.",
-   "Data de morte": "1942-10-15",
+   "Data de morte": "1942",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1869-07-22",
+   "Data de nascimento": "1869",
    "Nome": "Augusto Manuel Farinha Beirão "
   }
  },
@@ -61064,8 +61066,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1900-04-19",
-  "morte": "1943-11-16",
+  "nascimento": "1900",
+  "morte": "1943",
   "foto": "fotos/3bbf3ddb5a6d806e8029e3952b6b138f-2.jpg",
   "fotos": [
    "fotos/3bbf3ddb5a6d806e8029e3952b6b138f-2.jpg"
@@ -61074,10 +61076,10 @@
    "Visita 360": "https://kuula.co/share/LZZZF/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Política",
    "Biografia": "Duarte Pacheco (1900–1943) — Engenheiro e político português, ministro das Obras Públicas e presidente da Câmara Municipal de Lisboa. Teve um papel decisivo na modernização e expansão da capital, impulsionando grandes obras e planos urbanísticos, entre os quais o Parque de Monsanto, o Aeroporto de Lisboa e o desenvolvimento do plano de urbanização da cidade. (lisboa.pt)",
-   "Data de morte": "1943-11-16",
+   "Data de morte": "1943",
    "Localização": "Incerto",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1900-04-19",
+   "Data de nascimento": "1900",
    "Nome": "Duarte José Pacheco"
   }
  },
@@ -61145,8 +61147,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1896-09-24",
-  "morte": "1958-06-23",
+  "nascimento": "1896",
+  "morte": "1958",
   "foto": "fotos/3baf3ddb5a6d8038925ec0d953bf7f2d.jpg",
   "fotos": [
    "fotos/3baf3ddb5a6d8038925ec0d953bf7f2d.jpg"
@@ -61155,10 +61157,10 @@
    "Visita 360": "https://kuula.co/share/LZZZJ/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Desporto",
    "Biografia": "Cândido de Oliveira (1896–1958) foi uma das figuras fundamentais da história do futebol português. Jogador do Benfica e fundador do Casa Pia Atlético Clube, foi capitão de Portugal no primeiro jogo da Seleção Nacional, em 1921, tornando-se depois treinador e selecionador nacional. Destacou-se também como jornalista e teórico do futebol, tendo sido um dos fundadores do jornal A Bola, em 1945. Opositor ao Estado Novo e membro de uma rede de resistência ligada aos britânicos durante a Segunda Guerra Mundial, foi preso pela PVDE e deportado para o Campo do Tarrafal, onde permaneceu entre 1942 e 1944. Morreu em Estocolmo, em 1958, quando fazia a cobertura jornalística do Mundial de Futebol. A Supertaça Cândido de Oliveira perpetua o seu nome no futebol português. (ensina.rtp.pt)",
-   "Data de morte": "1958-06-23",
+   "Data de morte": "1958",
    "Localização": "Rua 3",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1896-09-24",
+   "Data de nascimento": "1896",
    "Nome": "Cândido de Oliveira"
   }
  },
@@ -61252,8 +61254,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1861-07-08",
-  "morte": "1906-10-12",
+  "nascimento": "1861",
+  "morte": "1906",
   "foto": "fotos/3baf3ddb5a6d804b92cddb5a3f4d2234.jpg",
   "fotos": [
    "fotos/3baf3ddb5a6d804b92cddb5a3f4d2234.jpg"
@@ -61262,10 +61264,10 @@
    "Visita 360": "https://kuula.co/share/LZZKx/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Jornalismo, Escritor",
    "Biografia": "Heliodoro Salgado (1861–1906) foi professor, jornalista e destacado propagandista republicano, socialista e livre-pensador português. Militante inicialmente ligado ao movimento operário e socialista, aproximou-se posteriormente do republicanismo, tornando-se uma voz ativa na defesa das classes trabalhadoras, do registo civil e do anticlericalismo. Colaborou em numerosos periódicos, entre os quais O Século, A Vanguarda, O Mundo e A Luta, tendo também dirigido publicações como Batalha e O Alarme. Ligado à Carbonária Lusitana, sofreu por diversas vezes perseguição e prisão devido à sua atividade política e jornalística. Morreu em Lisboa, em 1906, quatro anos antes da implantação da República.\n",
-   "Data de morte": "1906-10-12",
+   "Data de morte": "1906",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1861-07-08",
+   "Data de nascimento": "1861",
    "Nome": "Heliodoro Salgado"
   }
  },
@@ -61278,8 +61280,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1846-03-27",
-  "morte": "1924-05-22",
+  "nascimento": "1846",
+  "morte": "1924",
   "foto": "fotos/3baf3ddb5a6d80d28a73c09b1c5b0ef6.jpg",
   "fotos": [
    "fotos/3baf3ddb5a6d80d28a73c09b1c5b0ef6.jpg"
@@ -61288,11 +61290,11 @@
    "Visita 360": "https://kuula.co/share/LZZTC/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Política",
    "Biografia": "Guilherme João Carlos Henriques (1846–1924), conhecido como o Comendador Henriques, foi um investigador, memorialista e proprietário de origem britânica, profundamente ligado à história de Alenquer. Afilhado do 1.º Conde da Carnota, veio para Portugal em 1860 e instalou-se na Quinta da Carnota, que viria a herdar após a morte do Conde. Dedicou grande parte da sua vida ao estudo da história, património e documentação de Alenquer, destacando-se a publicação de Alenquer e seu Concelho, obra que lhe valeu a Comenda da Ordem Militar de Cristo. Encontra-se sepultado no jazigo da Casa da Carnota, no Cemitério do Alto de São João, juntamente com outros membros da família.",
-   "Data de morte": "1924-05-22",
+   "Data de morte": "1924",
    "Localização": "Rua 9 com 28",
    "Cemitério": "Cemitério Alto São João",
    "N de jazigo": "4120",
-   "Data de nascimento": "1846-03-27",
+   "Data de nascimento": "1846",
    "Nome": "Guilherme João Carlos Henriques "
   }
  },
@@ -61494,8 +61496,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1850-07-03",
-  "morte": "1907-10-04",
+  "nascimento": "1850",
+  "morte": "1907",
   "foto": "fotos/3baf3ddb5a6d8046a84ec53fcb4c139c.jpg",
   "fotos": [
    "fotos/3baf3ddb5a6d8046a84ec53fcb4c139c.jpg"
@@ -61504,11 +61506,11 @@
    "Visita 360": "https://kuula.co/share/LbNZG/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Música",
    "Biografia": "Alfredo Keil (1850–1907) — Compositor, pintor e poeta português, de ascendência alemã. Compôs A Portuguesa, criada em 1890 na sequência do Ultimato britânico e posteriormente adotada como Hino Nacional de Portugal após a implantação da República. Destacou-se também na pintura paisagista e na composição de óperas.",
-   "Data de morte": "1907-10-04",
+   "Data de morte": "1907",
    "Localização": "Rua 23",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "2845",
-   "Data de nascimento": "1850-07-03",
+   "Data de nascimento": "1850",
    "Nome": "Alfredo Keil"
   }
  },
@@ -61522,8 +61524,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1793-03-14",
-  "morte": "1852-05-20",
+  "nascimento": "1793",
+  "morte": "1852",
   "foto": "fotos/3baf3ddb5a6d8052aad7cfab7411446e.jpg",
   "fotos": [
    "fotos/3baf3ddb5a6d8052aad7cfab7411446e.jpg"
@@ -61532,11 +61534,11 @@
    "Visita 360": "https://kuula.co/share/LbNc5/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Política, Militar",
    "Biografia": "Francisco Xavier da Silva Pereira, 1.º Conde das Antas (1793–1852) — Militar e político português, destacado comandante liberal nas Guerras Liberais e chefe militar durante a Patuleia. Foi deputado, par do Reino, tenente-general do Exército e governador-geral do Estado da Índia entre 1842 e 1843.\n\n",
-   "Data de morte": "1852-05-20",
+   "Data de morte": "1852",
    "Localização": "Incerto",
    "Informação extra": "Pedestal desenhado por Giuseppe Cinatti e estátua de Vitor Bastos.",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1793-03-14",
+   "Data de nascimento": "1793",
    "Nome": "Francisco Xavier da Silva Pereira"
   }
  },
@@ -61710,8 +61712,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1894-02-17",
-  "morte": "1943-06-11",
+  "nascimento": "1894",
+  "morte": "1943",
   "foto": "fotos/3b9f3ddb5a6d8027984cc8997f63b18b.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d8027984cc8997f63b18b.jpg"
@@ -61720,10 +61722,10 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "osé Manuel Alves dos Reis (1894–1943) — Marceneiro e militante libertário português, natural de Setúbal. Politicamente ativo, esteve ligado aos meios revolucionários associados à greve geral de 18 de janeiro de 1934. Preso pela PVDE em dezembro de 1936, passou pelo Aljube e por Peniche antes de ser deportado, sem julgamento ou condenação, para o Campo de Concentração do Tarrafal em junho de 1937. Morreu no campo a 11 de junho de 1943, aos 49 anos, após um prolongado período de doença e falta de assistência médica.",
-   "Data de morte": "1943-06-11",
+   "Data de morte": "1943",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1894-02-17",
+   "Data de nascimento": "1894",
    "Nome": "Manuel Alves dos Reis"
   }
  },
@@ -61815,7 +61817,7 @@
   ],
   "rotas": [],
   "nascimento": "1902",
-  "morte": "1940-07-07",
+  "morte": "1940",
   "foto": "fotos/3b9f3ddb5a6d804bbf12de95bb869de0.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d804bbf12de95bb869de0.jpg"
@@ -61824,7 +61826,7 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Jaime da Fonseca e Sousa (1902–1940) — Operário impressor da Casa da Moeda e militante comunista português. Preso em 1932 por atividades políticas, foi condenado a doze anos de degredo e passou pela Penitenciária de Lisboa, Peniche e Fortaleza de São João Baptista, em Angra do Heroísmo. Em 1936 integrou a primeira leva de presos enviada para o Campo de Concentração do Tarrafal, onde morreu a 7 de julho de 1940, após vários anos de doença e prisão. Os seus restos mortais foram posteriormente trasladados para o Cemitério do Alto de São João.",
-   "Data de morte": "1940-07-07",
+   "Data de morte": "1940",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
    "Data de nascimento": "1902",
@@ -61840,8 +61842,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1914-05-04",
-  "morte": "1941-01-03",
+  "nascimento": "1914",
+  "morte": "1941",
   "foto": "fotos/3b9f3ddb5a6d80a5973beacfab6b47d7.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d80a5973beacfab6b47d7.jpg"
@@ -61850,10 +61852,10 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Jacinto de Melo Faria Vilaça (1914–1941) — Marinheiro português, aluno de manobras do navio Bartolomeu Dias e membro da Organização Revolucionária da Armada. Participou na Revolta dos Marinheiros de 8 de setembro de 1936, sendo preso e condenado a quatro anos de prisão maior celular e oito anos de degredo. Deportado para o Campo de Concentração do Tarrafal, morreu a 3 de janeiro de 1941. Os seus restos mortais foram trasladados para o Cemitério do Alto de São João em 1978.",
-   "Data de morte": "1941-01-03",
+   "Data de morte": "1941",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1914-05-04",
+   "Data de nascimento": "1914",
    "Nome": "Jacinto de Melo Faria Vilaça "
   }
  },
@@ -61867,7 +61869,7 @@
   ],
   "rotas": [],
   "nascimento": "1913",
-  "morte": "1942-07-07",
+  "morte": "1942",
   "foto": "fotos/3b9f3ddb5a6d806a9052c0cb71c44a15.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d806a9052c0cb71c44a15.jpg"
@@ -61876,7 +61878,7 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Henrique Vale Domingues Fernandes (1913–1942) — Marinheiro português, grumete de manobras do navio Bartolomeu Dias e membro da Organização Revolucionária da Armada. Participou na Revolta dos Marinheiros de 8 de setembro de 1936, sendo preso e deportado para o Campo de Concentração do Tarrafal, onde morreu a 7 de janeiro de 1942, com 28 anos. Os seus restos mortais foram posteriormente trasladados para o Cemitério do Alto de São João.",
-   "Data de morte": "1942-07-07",
+   "Data de morte": "1942",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
    "Data de nascimento": "1913",
@@ -61919,7 +61921,7 @@
   ],
   "rotas": [],
   "nascimento": "c. 1909",
-  "morte": "1937-09-20",
+  "morte": "1937",
   "foto": "fotos/3b9f3ddb5a6d8006875be07c01e9430f.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d8006875be07c01e9430f.jpg"
@@ -61928,7 +61930,7 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Francisco José Pereira (c. 1909–1937) — Marinheiro português, 1.º artilheiro do navio Bartolomeu Dias e militante da Organização Revolucionária da Armada. Participou na Revolta dos Marinheiros de 8 de setembro de 1936, sendo preso e posteriormente deportado para o Campo de Concentração do Tarrafal. Foi o primeiro deportado a morrer no campo, a 20 de setembro de 1937, vítima de febre biliosa. Os seus restos mortais foram trasladados para o Cemitério do Alto de São João em 1978.",
-   "Data de morte": "1937-09-20",
+   "Data de morte": "1937",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
    "Data de nascimento": "c. 1909",
@@ -61945,7 +61947,7 @@
   ],
   "rotas": [],
   "nascimento": "c. 1890",
-  "morte": "1937-09-22",
+  "morte": "1937",
   "foto": "fotos/3b9f3ddb5a6d8085a424d2fb88199ee8.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d8085a424d2fb88199ee8.jpg"
@@ -61954,7 +61956,7 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Francisco Domingues Quintas (c. 1890–1937), industrial de carnes/talhante português que vivia na Galiza, junto à fronteira portuguesa. No início da Guerra Civil de Espanha, foi detido juntamente com os seus dois filhos, Patrício e Domingos Quintas, sendo os três entregues às autoridades portuguesas em Valença, acusados de terem participado ativamente na resistência ao avanço franquista.\n\n",
-   "Data de morte": "1937-09-22",
+   "Data de morte": "1937",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
    "Data de nascimento": "c. 1890",
@@ -61971,7 +61973,7 @@
   ],
   "rotas": [],
   "nascimento": "1914",
-  "morte": "1938-01-29",
+  "morte": "1938",
   "foto": "fotos/3b9f3ddb5a6d80098e7cf87bcf89e630.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d80098e7cf87bcf89e630.jpg"
@@ -61980,7 +61982,7 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Francisco do Nascimento Esteves (1914–1938) — Torneiro de metais, natural de Lisboa e militante do Partido Comunista Português. Foi preso pela primeira vez em 1934 quando participava numa reunião de uma célula clandestina do PCP, sendo condenado a 600 dias de prisão e à perda dos direitos políticos durante cinco anos. Novamente detido pela PVDE em maio de 1937, integrou a segunda leva de presos enviada para o Tarrafal, em junho desse ano. Morreu no campo a 21 de janeiro de 1938, com apenas 23 anos, vítima de paludismo e das condições prisionais. \n\n",
-   "Data de morte": "1938-01-29",
+   "Data de morte": "1938",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
    "Data de nascimento": "1914",
@@ -61996,8 +61998,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1914-02-15",
-  "morte": "1939-12-19",
+  "nascimento": "1914",
+  "morte": "1939",
   "foto": "fotos/3b9f3ddb5a6d80fe8bc5dc1e206c0e52.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d80fe8bc5dc1e206c0e52.jpg"
@@ -62006,10 +62008,10 @@
    "Visita 360": "https://kuula.co/share/LZZbm/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Fernando Alcobia (1914–1939) — Vendedor de jornais, natural de Lisboa, militante da Federação das Juventudes Comunistas Portuguesas e do PCP, onde esteve ligado à Agitação e Propaganda. Participou em diversas ações clandestinas em 1935, incluindo distribuição de manifestos e propaganda antifascista, chegando a refugiar-se em Espanha para escapar à polícia. Preso pela PVDE, integrou a primeira leva de presos enviada para o Tarrafal, em outubro de 1936. \n\n",
-   "Data de morte": "1939-12-19",
+   "Data de morte": "1939",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1914-02-15",
+   "Data de nascimento": "1914",
    "Nome": "Fernando Alcobia "
   }
  },
@@ -62075,7 +62077,7 @@
   ],
   "rotas": [],
   "nascimento": "c. 1905",
-  "morte": "1942-11-11",
+  "morte": "1942",
   "foto": "fotos/3b9f3ddb5a6d8098bdfbcb8ad0d1c148.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d8098bdfbcb8ad0d1c148.jpg"
@@ -62084,7 +62086,7 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Damásio Martins Pereira (c. 1905–1942) — Servente, natural de Lisboa e opositor à ditadura. Terá sido anteriormente deportado para Timor, alegadamente na sequência de um protesto motivado pela fome. Preso novamente pela PVDE em 9 de abril de 1937, permaneceu incomunicável e passou pelo Aljube antes de ser enviado para o Tarrafal em 5 de junho de 1937, aparentemente sem condenação judicial registada. \n\n",
-   "Data de morte": "1942-11-11",
+   "Data de morte": "1942",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
    "Data de nascimento": "c. 1905",
@@ -62101,7 +62103,7 @@
   ],
   "rotas": [],
   "nascimento": "1909",
-  "morte": "1941-09-23",
+  "morte": "1941",
   "foto": "fotos/3b9f3ddb5a6d8074b233fd85f144dcdb.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d8074b233fd85f144dcdb.jpg"
@@ -62110,7 +62112,7 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Casimiro Júlio Ferreira (1909–1941) — Funileiro e opositor à ditadura, participou na greve insurrecional de 18 de janeiro de 1934, na Marinha Grande. Preso na sequência do movimento, foi deportado primeiro para os Açores e depois integrou a primeira leva de presos enviada para o Tarrafal, em outubro de 1936. Morreu no campo a 23 de setembro de 1941, aos 32 anos.\n\n",
-   "Data de morte": "1941-09-23",
+   "Data de morte": "1941",
    "Localização": "Rua 9",
    "Informação extra": "A biografia da ficha indica 1909 como ano de nascimento; dia e mês por confirmar.",
    "Cemitério": "Cemitério Alto São João",
@@ -62154,8 +62156,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1902-03-02",
-  "morte": "1942-09-11",
+  "nascimento": "1902",
+  "morte": "1942",
   "foto": "fotos/3b9f3ddb5a6d8097848fe48f0991a991.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d8097848fe48f0991a991.jpg"
@@ -62164,10 +62166,10 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Bento António Gonçalves (1902–1942) — Torneiro mecânico, dirigente sindical e político português, natural de Fiães do Rio, Montalegre. Operário do Arsenal do Alfeite, aderiu ao PCP em 1928 e foi eleito secretário-geral em 1929, desempenhando um papel central na reorganização clandestina do partido. Preso em 1935 após regressar do VII Congresso da Internacional Comunista, em Moscovo, foi enviado para o Tarrafal em outubro de 1936, onde dirigiu a organização comunista prisional. Morreu a 11 de setembro de 1942, aos 40 anos, vítima de febre biliosa hemoglobinúrica e sem assistência médica adequada.\n\n",
-   "Data de morte": "1942-09-11",
+   "Data de morte": "1942",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1902-03-02",
+   "Data de nascimento": "1902",
    "Nome": "Bento António Gonçalves "
   }
  },
@@ -62180,8 +62182,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1901-03-25",
-  "morte": "1937-09-22",
+  "nascimento": "1901",
+  "morte": "1937",
   "foto": "fotos/3b9f3ddb5a6d8055bf92f31746a11220.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d8055bf92f31746a11220.jpg"
@@ -62190,10 +62192,10 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Augusto Costa (1901–1937) — Operário vidreiro, natural de Marrazes, Leiria, e militante do PCP. Participou na criação do Sindicato Vidreiro e era responsável pelo comité do partido na fábrica Santos Barosa, na Marinha Grande. Teve participação ativa na revolta de 18 de janeiro de 1934, ficando encarregado da guarda dos militares da GNR detidos pelos revoltosos. \nPreso após o fracasso da revolta, foi condenado a cinco anos de degredo, enviado para a Fortaleza de Angra do Heroísmo e, em outubro de 1936, integrou a primeira leva de deportados para o Tarrafal. Morreu no campo em 22 de setembro de 1937, aos 36 anos, menos de um ano depois da chegada.",
-   "Data de morte": "1937-09-22",
+   "Data de morte": "1937",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1901-03-25",
+   "Data de nascimento": "1901",
    "Nome": "Augusto Costa"
   }
  },
@@ -62206,8 +62208,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1897-06-06",
-  "morte": "1938-03-27",
+  "nascimento": "1897",
+  "morte": "1938",
   "foto": "fotos/3b9f3ddb5a6d80fb89adccc73cab2cd4.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d80fb89adccc73cab2cd4.jpg"
@@ -62216,10 +62218,10 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Arnaldo Simões Januário (1897–1938) — Barbeiro, sindicalista e destacado militante anarquista, natural de Coimbra. Organizou sindicatos operários na cidade, integrou o comité da União Anarquista Portuguesa e colaborou em publicações como A Batalha e O Libertário. Participou na preparação da greve insurrecional de 18 de janeiro de 1934, sendo condenado a 20 anos de degredo. Integrou a primeira leva enviada para o Tarrafal, em outubro de 1936, onde morreu a 27 de março de 1938, vítima de biliosa anúrica e sem assistência médica. \n\n",
-   "Data de morte": "1938-03-27",
+   "Data de morte": "1938",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1897-06-06",
+   "Data de nascimento": "1897",
    "Nome": "Arnaldo Simões Januário "
   }
  },
@@ -62258,8 +62260,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1901-05-01",
-  "morte": "1940-11-03",
+  "nascimento": "1901",
+  "morte": "1941",
   "foto": "fotos/3b9f3ddb5a6d8007b55de2b96650ebb1.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d8007b55de2b96650ebb1.jpg"
@@ -62268,10 +62270,10 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "António Guedes Oliveira Silva (1901–1941) — Motorista, natural de Vila Nova de Gaia e opositor à ditadura. Preso em novembro de 1937, permaneceu quatro meses incomunicável antes de ser transferido para o Aljube, passando posteriormente por Caxias. Em março de 1939 foi condenado pelo Tribunal Militar Especial a 11 anos de degredo, embarcando para o Tarrafal a 1 de abril. Morreu no campo a 3 de novembro de 1941, aos 40 anos. \n\n",
-   "Data de morte": "1940-11-03",
+   "Data de morte": "1941",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1901-05-01",
+   "Data de nascimento": "1901",
    "Nome": "António Guedes de Oliveira e Silva"
   }
  },
@@ -62310,8 +62312,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1908-07-11",
-  "morte": "1938-12-01",
+  "nascimento": "1908",
+  "morte": "1938",
   "foto": "fotos/3b9f3ddb5a6d8087b8cfc5aeb3287e9e.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d8087b8cfc5aeb3287e9e.jpg"
@@ -62320,10 +62322,10 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Alfredo Caldeira (1908–1938) — Pintor-decorador e dirigente comunista português. Militante do PCP desde 1931, integrou o Comité Central, o Secretariado e a Organização Revolucionária da Armada (ORA). Preso em 1933 durante uma missão partidária no Algarve, cumpriu pena nos Açores e, apesar de esta já ter terminado, voltou a ser detido e integrou o primeiro grupo de presos enviado para o Tarrafal, em outubro de 1936. Morreu no campo a 1 de dezembro de 1938, aos 30 anos, vítima de biliosa e da falta de assistência médica. \n\n",
-   "Data de morte": "1938-12-01",
+   "Data de morte": "1938",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1908-07-11",
+   "Data de nascimento": "1908",
    "Nome": "Alfredo Caldeira"
   }
  },
@@ -62336,8 +62338,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1897-07-10",
-  "morte": "1940-08-11",
+  "nascimento": "1897",
+  "morte": "1940",
   "foto": "fotos/3b9f3ddb5a6d80188e70dbbc0262a8be.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d80188e70dbbc0262a8be.jpg"
@@ -62346,10 +62348,10 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Albino Coelho Júnior (1897–1940) — Motorista, natural de Lisboa e opositor ao Estado Novo. Foi preso pela primeira vez em dezembro de 1936, acusado de ter sido recrutado para participar, como motorista, em “trabalhos de natureza revolucionária”; apesar de inicialmente libertado pelo Tribunal Militar Especial, seria novamente detido e mantido incomunicável no chamado “segredo” do Aljube. Em novembro de 1937 foi deportado para o Campo de Concentração do Tarrafal, onde morreu a 11 de agosto de 1940, aos 43 anos. \n",
-   "Data de morte": "1940-08-11",
+   "Data de morte": "1940",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1897-07-10",
+   "Data de nascimento": "1897",
    "Nome": "Albino Coelho Júnior"
   }
  },
@@ -62362,8 +62364,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1884-12-10",
-  "morte": "1941-10-22",
+  "nascimento": "1884",
+  "morte": "1941",
   "foto": "fotos/3b9f3ddb5a6d80a2b553ce45d2cfb043.jpg",
   "fotos": [
    "fotos/3b9f3ddb5a6d80a2b553ce45d2cfb043.jpg"
@@ -62372,10 +62374,10 @@
    "Visita 360": "https://kuula.co/share/LZZTW/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista",
    "Biografia": "Albino António de Oliveira de Carvalho (1884–1941) — Comerciante, natural da Póvoa de Lanhoso e conhecido por «Carvalho das Batatas». Republicano e opositor à Ditadura Militar, foi preso em 1927 por participação no movimento revolucionário de fevereiro desse ano, sendo condenado a 20 anos de degredo e deportado para Angola. Novamente detido em 1937, passou pelo Aljube, Peniche e Caxias antes de ser enviado para o Tarrafal em junho de 1939, onde morreu a 22 de outubro de 1941, aos 56 anos, vítima de doença, maus-tratos e falta de assistência médica.\n\n",
-   "Data de morte": "1941-10-22",
+   "Data de morte": "1941",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1884-12-10",
+   "Data de nascimento": "1884",
    "Nome": "Albino António de Oliveira Carvalho"
   }
  },
@@ -62518,8 +62520,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1838-09-05",
-  "morte": "1887-09-04",
+  "nascimento": "1838",
+  "morte": "1887",
   "foto": "fotos/3b7f3ddb5a6d808c9ab8e17ada75bfd0.jpg",
   "fotos": [
    "fotos/3b7f3ddb5a6d808c9ab8e17ada75bfd0.jpg"
@@ -62528,10 +62530,10 @@
    "Visita 360": "https://kuula.co/share/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Política",
    "Biografia": "António Augusto de Aguiar (1838–1887) — Químico, professor universitário e político português. Destacou-se no desenvolvimento do ensino e da investigação química em Portugal, foi ministro das Obras Públicas, Comércio e Indústria e presidente da Associação Industrial Portuguesa.",
-   "Data de morte": "1887-09-04",
+   "Data de morte": "1887",
    "Localização": "Cemitério dos Prazeres",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1838-09-05",
+   "Data de nascimento": "1838",
    "Nome": "António Augusto Aguiar"
   }
  },
@@ -62544,8 +62546,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1869-11-15",
-  "morte": "1925-03-09",
+  "nascimento": "1869",
+  "morte": "1925",
   "foto": "fotos/3b3f3ddb5a6d80198f89c0186dfa1c5d.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d80198f89c0186dfa1c5d.jpg"
@@ -62554,10 +62556,10 @@
    "Visita 360": "https://kuula.co/share/LbN1j/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Teatro",
    "Biografia": "Ângela Pinto (1869–1925) foi uma atriz portuguesa e uma das figuras de destaque do teatro lisboeta entre o final do século XIX e o início do XX. Notabilizou-se sobretudo no teatro de revista, comédia e opereta, alcançando grande popularidade nos palcos portugueses.",
-   "Data de morte": "1925-03-09",
+   "Data de morte": "1925",
    "Localização": "Rua 15",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1869-11-15",
+   "Data de nascimento": "1869",
    "Nome": "Ângela Pinto"
   }
  },
@@ -62571,8 +62573,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1913-11-07",
-  "morte": "1968-03-21",
+  "nascimento": "1913",
+  "morte": "1968",
   "foto": "fotos/3b3f3ddb5a6d80d781d8c05c24ed47e4.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d80d781d8c05c24ed47e4.jpg"
@@ -62581,10 +62583,10 @@
    "Visita 360": "https://kuula.co/share/LbN1j/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Teatro, Cinema",
    "Biografia": "Maria Lalande (1913–1968) foi atriz portuguesa de teatro e cinema. Desenvolveu uma importante carreira nos palcos portugueses e participou em várias produções cinematográficas, tornando-se uma figura reconhecida do espetáculo português do século XX.",
-   "Data de morte": "1968-03-21",
+   "Data de morte": "1968",
    "Localização": "Rua 15",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1913-11-07",
+   "Data de nascimento": "1913",
    "Nome": "Maria Lalande"
   }
  },
@@ -62597,8 +62599,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1913-05-10",
-  "morte": "1961-01-21",
+  "nascimento": "1913",
+  "morte": "1961",
   "foto": "fotos/3b3f3ddb5a6d80febd05e3940a81974a.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d80febd05e3940a81974a.jpg"
@@ -62607,10 +62609,10 @@
    "Visita 360": "https://kuula.co/share/LbN1j/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Teatro",
    "Biografia": "João Villaret (1913–1961) foi ator e declamador português, tornando-se célebre pela interpretação e divulgação da poesia. Trabalhou no teatro, cinema, rádio e televisão e popularizou junto do grande público textos de autores como Fernando Pessoa e António Botto.",
-   "Data de morte": "1961-01-21",
+   "Data de morte": "1961",
    "Localização": "Rua 15",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1913-05-10",
+   "Data de nascimento": "1913",
    "Nome": "João Villaret"
   }
  },
@@ -62623,8 +62625,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1898-01-28",
-  "morte": "1958-06-13",
+  "nascimento": "1898",
+  "morte": "1958",
   "foto": "fotos/3b3f3ddb5a6d804ca882d33608effcc6.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d804ca882d33608effcc6.jpg",
@@ -62635,10 +62637,10 @@
    "Visita 360": "https://kuula.co/share/LbN1j/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Cinema",
    "Biografia": "Vasco Santana (1898–1958) foi ator português, uma das figuras mais populares do teatro e cinema portugueses. Protagonizou clássicos como A Canção de Lisboa e O Pátio das Cantigas, ficando associado à época de ouro da comédia cinematográfica portuguesa.",
-   "Data de morte": "1958-06-13",
+   "Data de morte": "1958",
    "Localização": "Rua 15",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1898-01-28",
+   "Data de nascimento": "1898",
    "Nome": "Vasco Santana"
   }
  },
@@ -62653,8 +62655,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1850-05-30",
-  "morte": "1928-12-07",
+  "nascimento": "1850",
+  "morte": "1928",
   "foto": "fotos/3b3f3ddb5a6d8082b357ca3913547fbf.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d8082b357ca3913547fbf.jpg"
@@ -62663,10 +62665,10 @@
    "Visita 360": "https://kuula.co/share/collection/7TTDF?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "República, Política, Escritor",
    "Biografia": "Sebastião de Magalhães Lima (1850–1928) foi jornalista, escritor, político republicano e destacado maçom português. Defensor do republicanismo, do pacifismo e da educação, dirigiu o jornal O Século e exerceu durante vários anos importantes funções na Maçonaria portuguesa.",
-   "Data de morte": "1928-12-07",
+   "Data de morte": "1928",
    "Localização": "Rua 15",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1850-05-30",
+   "Data de nascimento": "1850",
    "Nome": "Sebastião de Magalhães Lima"
   }
  },
@@ -62705,8 +62707,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1919-11-02",
-  "morte": "1978-06-04",
+  "nascimento": "1919",
+  "morte": "1978",
   "foto": "fotos/3b3f3ddb5a6d80dfa415f5b34ca8045b.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d80dfa415f5b34ca8045b.jpg"
@@ -62715,11 +62717,11 @@
    "Visita 360": "https://kuula.co/share/LbN1V/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Jorge Cândido de Sena (1919–1978) foi poeta, escritor, crítico, ensaísta e professor português. Autor de Sinais de Fogoe de uma vasta obra poética, exilou-se primeiro no Brasil e depois nos Estados Unidos, tornando-se uma das grandes figuras da literatura portuguesa do século XX.",
-   "Data de morte": "1978-06-04",
+   "Data de morte": "1978",
    "Localização": "Rua 15",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1439",
-   "Data de nascimento": "1919-11-02",
+   "Data de nascimento": "1919",
    "Nome": "Jorge Cândido de Sena"
   }
  },
@@ -62734,8 +62736,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1895-02-04",
-  "morte": "1970-06-25",
+  "nascimento": "1895",
+  "morte": "1970",
   "foto": "fotos/3b3f3ddb5a6d80788f65cb373554f28e.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d80788f65cb373554f28e.jpg",
@@ -62746,10 +62748,10 @@
    "Visita 360": "https://kuula.co/share/LbNDG/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Ativista, Política, Militar",
    "Biografia": "Henrique Galvão (1895–1970) foi militar, escritor e político português. Inicialmente ligado ao Estado Novo, tornou-se posteriormente um dos seus mais conhecidos opositores. Ganhou projeção internacional em 1961 ao comandar o desvio do paquete Santa Maria como ação política contra a ditadura.",
-   "Data de morte": "1970-06-25",
+   "Data de morte": "1970",
    "Localização": "Rua 2",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1895-02-04",
+   "Data de nascimento": "1895",
    "Nome": "Henrique Galvão "
   }
  },
@@ -62762,8 +62764,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1848-11-27",
-  "morte": "1920-10-24",
+  "nascimento": "1848",
+  "morte": "1920",
   "foto": "fotos/3b3f3ddb5a6d80c5bd9fe131cfa69b28.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d80c5bd9fe131cfa69b28.jpg",
@@ -62773,10 +62775,10 @@
    "Visita 360": "https://kuula.co/share/LbNXp/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Industrial",
    "Biografia": "António Augusto Carvalho Monteiro (1848–1920), conhecido como Monteiro dos Milhões, foi um empresário, colecionador e filantropo português, nascido no Brasil. É sobretudo conhecido por ter idealizado, com o arquiteto Luigi Manini, a Quinta da Regaleira, em Sintra, marcada por referências simbólicas, mitológicas e esotéricas.",
-   "Data de morte": "1920-10-24",
+   "Data de morte": "1920",
    "Localização": "Rua 15",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1848-11-27",
+   "Data de nascimento": "1848",
    "Nome": "António Augusto Carvalho Monteiro "
   }
  },
@@ -62789,8 +62791,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1887-05-07",
-  "morte": "1961-03-02",
+  "nascimento": "1887",
+  "morte": "1961",
   "foto": "fotos/3b3f3ddb5a6d808fbb59c11fe15accbc.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d808fbb59c11fe15accbc.jpg"
@@ -62799,11 +62801,11 @@
    "Visita 360": "https://kuula.co/share/LZZZr/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Pintura",
    "Biografia": "Stuart Carvalhais (1887–1961) foi desenhador, ilustrador, caricaturista e autor de banda desenhada português. Figura fundamental das artes gráficas portuguesas, criou com Ernesto Rodrigues a série Quim e Manecas, uma das obras pioneiras da banda desenhada em Portugal.",
-   "Data de morte": "1961-03-02",
+   "Data de morte": "1961",
    "Localização": "Rua 7",
    "Cemitério": "Cemitério Alto São João",
    "N de jazigo": "891",
-   "Data de nascimento": "1887-05-07",
+   "Data de nascimento": "1887",
    "Nome": "Stuart Carvalhais "
   }
  },
@@ -62818,8 +62820,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1862-01-14",
-  "morte": "1925-04-04",
+  "nascimento": "1862",
+  "morte": "1925",
   "foto": "fotos/3b3f3ddb5a6d8007862dc67fd5ddff12.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d8007862dc67fd5ddff12.jpg"
@@ -62828,10 +62830,10 @@
    "Visita 360": "https://kuula.co/share/LZZZz/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "República, Política, Escritor",
    "Biografia": "Manuel Borges Grainha (1862–1925) foi professor, escritor, jornalista e político republicano português. Destacou-se pelo seu anticlericalismo e pelos estudos e denúncias sobre a influência das congregações religiosas, particularmente dos jesuítas, na sociedade portuguesa.",
-   "Data de morte": "1925-04-04",
+   "Data de morte": "1925",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1862-01-14",
+   "Data de nascimento": "1862",
    "Nome": "Manuel Borges Grainha"
   }
  },
@@ -62846,8 +62848,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1847-03-11",
-  "morte": "1917-08-01",
+  "nascimento": "1853",
+  "morte": "1917",
   "foto": "fotos/3b3f3ddb5a6d80fea148e932db335f25.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d80fea148e932db335f25.jpg",
@@ -62857,10 +62859,10 @@
    "Visita 360": "https://kuula.co/share/LZZK8/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Feminista, República, Ativista",
    "Biografia": "Angelina Vidal (1853–1917) foi uma escritora, jornalista, poetisa e ativista portuguesa. Republicana e defensora dos trabalhadores e dos direitos das mulheres, colaborou intensamente na imprensa e destacou-se pela intervenção em questões sociais, educação e emancipação feminina.",
-   "Data de morte": "1917-08-01",
+   "Data de morte": "1917",
    "Localização": "Rua 39",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1847-03-11",
+   "Data de nascimento": "1853",
    "Nome": "Angelina Vidal"
   }
  },
@@ -62873,8 +62875,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1923-08-09",
-  "morte": "2006-11-26",
+  "nascimento": "1923",
+  "morte": "2006",
   "foto": "fotos/3b3f3ddb5a6d80089f6af3e2ff754d7d.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d80089f6af3e2ff754d7d.jpg",
@@ -62884,10 +62886,10 @@
    "Visita 360": "https://kuula.co/share/LbNcJ/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Mário Cesariny (1923–2006) foi poeta e artista plástico português, figura central do surrealismo em Portugal. Cofundador do Grupo Surrealista de Lisboa, desenvolveu uma obra marcada pela experimentação, liberdade criativa e oposição às convenções sociais e artísticas.",
-   "Data de morte": "2006-11-26",
+   "Data de morte": "2006",
    "Localização": "Rua 15",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1923-08-09",
+   "Data de nascimento": "1923",
    "Nome": "Mário Cesariny"
   }
  },
@@ -62903,8 +62905,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1884-04-29",
-  "morte": "1980-08-14",
+  "nascimento": "1884",
+  "morte": "1960",
   "foto": "fotos/3b3f3ddb5a6d80afb27cd49b402f13de.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d80afb27cd49b402f13de.jpg"
@@ -62913,10 +62915,10 @@
    "Visita 360": "https://kuula.co/share/LbN4m/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Política, Medicina, Ativista, República",
    "Biografia": "Jaime Cortesão (1884–1960) foi médico, historiador, escritor e político português. Republicano e opositor da Ditadura Militar e do Estado Novo, viveu largos anos no exílio e destacou-se pelos seus estudos sobre os Descobrimentos e a expansão portuguesa.",
-   "Data de morte": "1980-08-14",
+   "Data de morte": "1960",
    "Localização": "Rua 11",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1884-04-29",
+   "Data de nascimento": "1884",
    "Nome": "Jaime Cortesão "
   }
  },
@@ -63011,8 +63013,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1852-01-16",
-  "morte": "1910-10-04",
+  "nascimento": "1852",
+  "morte": "1910",
   "foto": "fotos/3b3f3ddb5a6d80cb9d17df431adc64dc.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d80cb9d17df431adc64dc.jpg"
@@ -63021,10 +63023,10 @@
    "Visita 360": "https://kuula.co/share/LZZZq/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "República, Militar",
    "Biografia": "Cândido dos Reis (1852–1910) foi oficial da Marinha e destacado republicano português. Participou na preparação da revolução de 5 de Outubro de 1910 e foi escolhido para dirigir parte das operações militares. Morreu durante a madrugada da revolução, antes da proclamação da República.",
-   "Data de morte": "1910-10-04",
+   "Data de morte": "1910",
    "Localização": "Rua 1",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1852-01-16",
+   "Data de nascimento": "1852",
    "Nome": "Cândido dos Reis"
   }
  },
@@ -63038,8 +63040,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1851-03-06",
-  "morte": "1910-10-03",
+  "nascimento": "1851",
+  "morte": "1910",
   "foto": "fotos/3b3f3ddb5a6d80d78902e9ca6787a976.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d80d78902e9ca6787a976.jpg"
@@ -63048,10 +63050,10 @@
    "Visita 360": "https://kuula.co/share/LZZZq/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Medicina, Política",
    "Biografia": "Miguel Bombarda (1851–1910) foi médico psiquiatra, professor e político republicano português. Dirigiu o Hospital de Rilhafoles e teve um papel importante na modernização da psiquiatria portuguesa. Destacado participante no movimento republicano, foi assassinado em 3 de outubro de 1910, nas vésperas da implantação da República.",
-   "Data de morte": "1910-10-03",
+   "Data de morte": "1910",
    "Localização": "Rua 1",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1851-03-06",
+   "Data de nascimento": "1851",
    "Nome": "Miguel Bombarda"
   }
  },
@@ -63064,8 +63066,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1835-10-01",
-  "morte": "1890-01-30",
+  "nascimento": "1835",
+  "morte": "1890",
   "foto": "fotos/3b3f3ddb5a6d80a5b922f670a9cafe46.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d80a5b922f670a9cafe46.jpg"
@@ -63074,10 +63076,10 @@
    "Visita 360": "https://kuula.co/share/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Júlio César Machado (1835–1890) foi escritor, jornalista, cronista e dramaturgo português. Tornou-se particularmente conhecido pelas suas crónicas sobre Lisboa, retratando a vida quotidiana, os costumes e as transformações da cidade na segunda metade do século XIX.",
-   "Data de morte": "1890-01-30",
+   "Data de morte": "1890",
    "Localização": "Rua 1",
    "Cemitério": "Cemitério Alto São João",
-   "Data de nascimento": "1835-10-01",
+   "Data de nascimento": "1835",
    "Nome": "Júlio César Machado"
   }
  },
@@ -63091,8 +63093,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1875-01-10",
-  "morte": "1921-10-19",
+  "nascimento": "1875",
+  "morte": "1921",
   "foto": "fotos/3b3f3ddb5a6d8016a7a7f5df45ae3d02.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d8016a7a7f5df45ae3d02.jpg",
@@ -63103,13 +63105,13 @@
    "Visita 360": "https://kuula.co/share/LZZZy/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "República, Militar",
    "Biografia": "Machado Santos (1875–1921) foi oficial da Marinha e uma das figuras decisivas da Revolução de 5 de Outubro de 1910. A sua resistência na Rotunda tornou-o conhecido como o “Herói da Rotunda”. Foi assassinado durante a Noite Sangrenta, em 1921.",
-   "Data de morte": "1921-10-19",
+   "Data de morte": "1921",
    "Localização": "Rua 1",
    "Rota": "https://kuula.co/share/collection/7bWWS?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Cemitério": "Cemitério Alto São João",
    "N de jazigo": "4945",
    "Epitáfio": "Uma lagrima\nsobre as cinzas\ndo heroi que\npor amor da Patria e da Republica\ncaiu assassinado\nna noite de 19\npara 20 de Outubro de 1921",
-   "Data de nascimento": "1875-01-10",
+   "Data de nascimento": "1875",
    "Nome": "Machado Santos"
   }
  },
@@ -63149,8 +63151,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1860-03-17",
-  "morte": "1895-09-09",
+  "nascimento": "1860",
+  "morte": "1895",
   "foto": "fotos/3b3f3ddb5a6d805bb08ad64da642bbdb.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d805bb08ad64da642bbdb.jpg",
@@ -63162,10 +63164,10 @@
    "Visita 360": "https://kuula.co/share/LbNXm/collection/7TTDF?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Carlos Lobo d’Ávila (1860–1895) foi jornalista, escritor e político português. Deputado e ministro durante a Monarquia Constitucional, pertenceu ao grupo intelectual conhecido como Vencidos da Vida, convivendo com figuras como Eça de Queirós, Ramalho Ortigão e Oliveira Martins.",
-   "Data de morte": "1895-09-09",
+   "Data de morte": "1895",
    "Localização": "Rua 8",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1860-03-17",
+   "Data de nascimento": "1860",
    "Nome": "Carlos Lobo d’Ávila"
   }
  },
@@ -63179,8 +63181,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1849-06-21",
-  "morte": "1911-06-29",
+  "nascimento": "1849",
+  "morte": "1911",
   "foto": "fotos/3b3f3ddb5a6d801dbcdaec1a602492f3.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d801dbcdaec1a602492f3.jpg"
@@ -63189,10 +63191,10 @@
    "Visita 360": "https://kuula.co/share/LbNXj/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Política, República",
    "Biografia": "Azedo Gneco (1849–1911) foi um político e dirigente operário português, figura central do movimento socialista em Portugal. Participou na organização das associações de trabalhadores e foi um dos fundadores do Partido Socialista Português, em 1875.",
-   "Data de morte": "1911-06-29",
+   "Data de morte": "1911",
    "Localização": "Rua 14",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1849-06-21",
+   "Data de nascimento": "1849",
    "Nome": "Azedo Gneco"
   }
  },
@@ -63206,8 +63208,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1840-10-28",
-  "morte": "1876-09-02",
+  "nascimento": "1840",
+  "morte": "1876",
   "foto": "fotos/3b3f3ddb5a6d80efbea7e9e7d6025e78.jpg",
   "fotos": [
    "fotos/3b3f3ddb5a6d80efbea7e9e7d6025e78.jpg"
@@ -63216,10 +63218,10 @@
    "Visita 360": "https://kuula.co/share/LbNXj/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Política, República",
    "Biografia": "José Fontana (1840–1876) foi um intelectual e ativista socialista de origem suíça radicado em Portugal. Teve um papel importante na organização do movimento operário português, participando na criação da Associação Fraternidade Operária e na divulgação das ideias socialistas.",
-   "Data de morte": "1876-09-02",
+   "Data de morte": "1876",
    "Localização": "Rua 14",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1840-10-28",
+   "Data de nascimento": "1840",
    "Nome": "José Fontana"
   }
  },
@@ -63232,8 +63234,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1952-07-20",
-  "morte": "2023-05-15",
+  "nascimento": "1952",
+  "morte": "2023",
   "foto": "fotos/397f3ddb5a6d80cdb956cdd7c649787c.jpg",
   "fotos": [
    "fotos/397f3ddb5a6d80cdb956cdd7c649787c.jpg",
@@ -63243,11 +63245,11 @@
    "Visita 360": "https://kuula.co/share/LbNZ3/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "José Alberto Oliveira (1952–2023) foi médico cardiologista, poeta e tradutor português. Autor de uma extensa obra poética, publicou livros como Por Alguns Dias, Bestiário, De Passagem e Rectificação da Linha Geral. Traduziu autores como W. H. Auden, Edgar Allan Poe, Frank O’Hara e Charles Simic, mantendo uma longa ligação à editora Assírio & Alvim",
-   "Data de morte": "2023-05-15",
+   "Data de morte": "2023",
    "Localização": "Rua 8",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "2870",
-   "Data de nascimento": "1952-07-20",
+   "Data de nascimento": "1952",
    "Nome": "José Alberto Oliveira"
   }
  },
@@ -63260,8 +63262,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1939-11-21",
-  "morte": "2021-06-11",
+  "nascimento": "1939",
+  "morte": "2021",
   "foto": "fotos/397f3ddb5a6d8064819ff8c9df955ffa.jpg",
   "fotos": [
    "fotos/397f3ddb5a6d8064819ff8c9df955ffa.jpg",
@@ -63271,11 +63273,11 @@
    "Visita 360": "https://kuula.co/share/LbNZ3/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "António Torrado (1939–2021) foi um escritor, dramaturgo, jornalista e pedagogo português, particularmente reconhecido pela literatura infantil e juvenil. Autor de uma extensa obra, dedicou grande parte da sua carreira à promoção da leitura e à divulgação de histórias, lendas e tradições portuguesas.",
-   "Data de morte": "2021-06-11",
+   "Data de morte": "2021",
    "Localização": "Rua 8",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "2870",
-   "Data de nascimento": "1939-11-21",
+   "Data de nascimento": "1939",
    "Nome": "António Torrado"
   }
  },
@@ -63288,8 +63290,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1937-09-30",
-  "morte": "2020-11-10",
+  "nascimento": "1937",
+  "morte": "2020",
   "foto": "fotos/397f3ddb5a6d8045b051e9be4be3d4eb.jpg",
   "fotos": [
    "fotos/397f3ddb5a6d8045b051e9be4be3d4eb.jpg",
@@ -63299,11 +63301,11 @@
    "Visita 360": "https://kuula.co/share/LbNZ3/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Artur Portela Filho (1937–2020) foi jornalista e escritor português. Desenvolveu uma longa carreira na imprensa, passando por publicações como o Diário de Lisboa, Jornal Novo e O Jornal, e destacou-se também como romancista e cronista.",
-   "Data de morte": "2020-11-10",
+   "Data de morte": "2020",
    "Localização": "Rua 8",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "2870",
-   "Data de nascimento": "1937-09-30",
+   "Data de nascimento": "1937",
    "Nome": "Artur Portela (filho)"
   }
  },
@@ -63316,8 +63318,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1929-07-27",
-  "morte": "2023-07-07",
+  "nascimento": "1929",
+  "morte": "2024",
   "foto": "fotos/397f3ddb5a6d80298fb5d31c8f9c30c8.jpg",
   "fotos": [
    "fotos/397f3ddb5a6d80298fb5d31c8f9c30c8.jpg",
@@ -63327,11 +63329,11 @@
    "Visita 360": "https://kuula.co/share/LbNZ3/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Agripina Costa Marques (1929–2024) foi uma poeta e tradutora portuguesa, natural de Lisboa. Trabalhou como tradutora para as Publicações Europa-América e desenvolveu a sua obra poética sobretudo a partir da década de 1990. Publicou títulos como Instantes. Permanência, Diário Intermitente, Ciclos, Fragmentos, Idades e Morada Recôndita. Foi companheira do poeta António Ramos Rosa desde 1963 e colaborou posteriormente na preservação e edição da sua obra. (wikialgarve.pt)",
-   "Data de morte": "2023-07-07",
+   "Data de morte": "2024",
    "Localização": "Rua 8",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "2870",
-   "Data de nascimento": "1929-07-27",
+   "Data de nascimento": "1929",
    "Nome": "Agripina Costa Marques"
   }
  },
@@ -63344,8 +63346,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1944-06-10",
-  "morte": "2017-06-03",
+  "nascimento": "1944",
+  "morte": "2017",
   "foto": "fotos/397f3ddb5a6d80e4a9d9fb6663c87e1f.jpg",
   "fotos": [
    "fotos/397f3ddb5a6d80e4a9d9fb6663c87e1f.jpg",
@@ -63355,11 +63357,11 @@
    "Visita 360": "https://kuula.co/share/LbNZ3/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Antonio Sarabia (1944–2017), escritor mexicano que viveu durante vários anos em Lisboa. Escreveu poesia, contos e romances, destacando-se obras como Los convidados del volcán e El alba de la muerte. A sua obra foi traduzida para vários idiomas e valeu-lhe reconhecimento internacional.",
-   "Data de morte": "2017-06-03",
+   "Data de morte": "2017",
    "Localização": "Rua 8",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "2870",
-   "Data de nascimento": "1944-06-10",
+   "Data de nascimento": "1944",
    "Nome": "António Sarabia"
   }
  },
@@ -63372,8 +63374,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1907-11-06",
-  "morte": "1966-09-25",
+  "nascimento": "1907",
+  "morte": "1966",
   "foto": "fotos/397f3ddb5a6d80539253e745da410a85.jpg",
   "fotos": [
    "fotos/397f3ddb5a6d80539253e745da410a85.jpg",
@@ -63383,11 +63385,11 @@
    "Visita 360": "https://kuula.co/share/LbNZ3/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Delfim Pinto dos Santos (1907–1966) foi um filósofo e professor português. Professor da Faculdade de Letras da Universidade de Lisboa, desenvolveu trabalho nas áreas da filosofia, pedagogia e história do pensamento, sendo uma figura relevante da filosofia portuguesa do século XX.",
-   "Data de morte": "1966-09-25",
+   "Data de morte": "1966",
    "Localização": "Rua 8",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "2870",
-   "Data de nascimento": "1907-11-06",
+   "Data de nascimento": "1907",
    "Nome": "Delfim Pinto dos Santos"
   }
  },
@@ -63400,8 +63402,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1923-12-06",
-  "morte": "2013-08-09",
+  "nascimento": "1923",
+  "morte": "2013",
   "foto": "fotos/397f3ddb5a6d802db4d0e5d1806ab820.jpg",
   "fotos": [
    "fotos/397f3ddb5a6d802db4d0e5d1806ab820.jpg",
@@ -63411,11 +63413,11 @@
    "Visita 360": "https://kuula.co/share/LbNZ3/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Urbano Tavares Rodrigues (1923–2013) foi escritor, ensaísta, jornalista e professor universitário português. Opositor do Estado Novo, sofreu perseguição política e desenvolveu uma extensa obra literária, sendo uma figura importante da cultura portuguesa da segunda metade do século XX.",
-   "Data de morte": "2013-08-09",
+   "Data de morte": "2013",
    "Localização": "Rua 8",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "2870",
-   "Data de nascimento": "1923-12-06",
+   "Data de nascimento": "1923",
    "Nome": "Urbano Tavares Rodrigues"
   }
  },
@@ -63456,8 +63458,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1943-09-24",
-  "morte": "2012-03-25",
+  "nascimento": "1943",
+  "morte": "2012",
   "foto": "fotos/397f3ddb5a6d80da8a14c7e2c5bdae2c.jpg",
   "fotos": [
    "fotos/397f3ddb5a6d80da8a14c7e2c5bdae2c.jpg",
@@ -63467,11 +63469,11 @@
    "Visita 360": "https://kuula.co/share/LbNZ3/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "António Tabucchi (1943–2012) foi um escritor, crítico e professor italiano profundamente ligado a Portugal. Especialista em Fernando Pessoa, escreveu obras como Afirma Pereira e Requiem. Viveu longos períodos em Portugal e tornou-se uma importante figura de ligação entre as culturas portuguesa e italiana.",
-   "Data de morte": "2012-03-25",
+   "Data de morte": "2012",
    "Localização": "Rua 8",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "2870",
-   "Data de nascimento": "1943-09-24",
+   "Data de nascimento": "1943",
    "Nome": "António Tabucchi"
   }
  },
@@ -63512,8 +63514,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1921-06-20",
-  "morte": "2010-07-06",
+  "nascimento": "1921",
+  "morte": "2010",
   "foto": "fotos/397f3ddb5a6d80dd85f7cc38f27704c5.jpg",
   "fotos": [
    "fotos/397f3ddb5a6d80dd85f7cc38f27704c5.jpg",
@@ -63523,11 +63525,11 @@
    "Visita 360": "https://kuula.co/share/LbNZ3/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Matilde Rosa Araújo (1921–2010) foi escritora e professora portuguesa, particularmente importante na literatura infantil. Autora de obras como O Livro da Tila e O Palhaço Verde, dedicou também parte da sua vida à defesa dos direitos e do bem-estar das crianças.",
-   "Data de morte": "2010-07-06",
+   "Data de morte": "2010",
    "Localização": "Rua 8",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "2870",
-   "Data de nascimento": "1921-06-20",
+   "Data de nascimento": "1921",
    "Nome": "Matilde Rosa Lopes Araújo "
   }
  },
@@ -63540,8 +63542,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1949-04-29",
-  "morte": "2024-03-17",
+  "nascimento": "1949",
+  "morte": "2024",
   "foto": "fotos/397f3ddb5a6d80f0a32bc63bc0224848.jpg",
   "fotos": [
    "fotos/397f3ddb5a6d80f0a32bc63bc0224848.jpg",
@@ -63551,11 +63553,11 @@
    "Visita 360": "https://kuula.co/share/LbNZ3/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Nuno Júdice (1949–2024) foi poeta, ensaísta, ficcionista e professor universitário português. Autor de uma extensa obra iniciada com A Noção de Poema, recebeu diversos prémios literários, incluindo o Prémio Rainha Sofia de Poesia Ibero-Americana.",
-   "Data de morte": "2024-03-17",
+   "Data de morte": "2024",
    "Localização": "Rua 8",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "2870",
-   "Data de nascimento": "1949-04-29",
+   "Data de nascimento": "1949",
    "Nome": "Nuno Júdice "
   }
  },
@@ -63568,8 +63570,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1929-01-29",
-  "morte": "2024-01-14",
+  "nascimento": "1929",
+  "morte": "2024",
   "foto": "fotos/397f3ddb5a6d804b8c33d7d563db5bd9.jpg",
   "fotos": [
    "fotos/397f3ddb5a6d804b8c33d7d563db5bd9.jpg",
@@ -63579,11 +63581,11 @@
    "Visita 360": "https://kuula.co/share/LbNZ3/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Júlio Moreira (1929–2024) foi engenheiro agrónomo, arquiteto paisagista e escritor português. Desenvolveu numerosos projetos de arquitetura paisagista e destacou-se pela preocupação ambiental. Foi coautor do projeto do Cemitério de Carnide, primeiro cemitério-jardim construído em Lisboa, e publicou oito romances, conciliando ao longo da vida a arquitetura com a atividade literária. ",
-   "Data de morte": "2024-01-14",
+   "Data de morte": "2024",
    "Localização": "Rua 8",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "2870",
-   "Data de nascimento": "1929-01-29",
+   "Data de nascimento": "1929",
    "Nome": "Júlio Moreira"
   }
  },
@@ -63596,8 +63598,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1921-09-18",
-  "morte": "1998-01-18",
+  "nascimento": "1921",
+  "morte": "1998",
   "foto": "fotos/396f3ddb5a6d80958945c0c1cb5936db.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d80958945c0c1cb5936db.jpg"
@@ -63606,11 +63608,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Maria Judite de Carvalho (1921–1998) foi escritora e jornalista portuguesa. Autora de contos, romances e crónicas, destacou-se pela representação da solidão, das relações humanas e da condição feminina, sendo hoje considerada uma das grandes contistas portuguesas do século XX.",
-   "Data de morte": "1998-01-18",
+   "Data de morte": "1998",
    "Localização": "Rua 6",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1921-09-18",
+   "Data de nascimento": "1921",
    "Nome": "Maria Judite de Carvalho"
   }
  },
@@ -63623,8 +63625,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1906-11-24",
-  "morte": "1997-02-19",
+  "nascimento": "1906",
+  "morte": "1997",
   "foto": "fotos/396f3ddb5a6d8026a19bc56249c86a25.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d8026a19bc56249c86a25.jpg",
@@ -63635,11 +63637,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Rómulo de Carvalho (1906–1997) foi professor, divulgador científico, historiador da ciência e poeta português. Publicou poesia sob o pseudónimo António Gedeão, sendo autor de poemas célebres como Pedra Filosofal, ao mesmo tempo que desenvolveu uma importante obra de divulgação e história da ciência.",
-   "Data de morte": "1997-02-19",
+   "Data de morte": "1997",
    "Localização": "Rua 6",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1906-11-24",
+   "Data de nascimento": "1906",
    "Nome": "Rómulo de Carvalho (António Gedeão)"
   }
  },
@@ -63652,8 +63654,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1917-10-17",
-  "morte": "1996-11-21",
+  "nascimento": "1917",
+  "morte": "1996",
   "foto": "fotos/396f3ddb5a6d80f3b7d4d970c60a181d.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d80f3b7d4d970c60a181d.jpg"
@@ -63662,11 +63664,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Alexandre Cabral (1917–1996) foi um escritor, jornalista e investigador português, particularmente conhecido pelos seus estudos sobre Camilo Castelo Branco, de quem se tornou um dos principais especialistas. Desenvolveu uma extensa obra de investigação, edição e divulgação camiliana, sendo autor do monumental Dicionário de Camilo Castelo Branco. Paralelamente, publicou romances, contos e outros trabalhos literários, deixando uma importante contribuição para o estudo da literatura portuguesa.",
-   "Data de morte": "1996-11-21",
+   "Data de morte": "1996",
    "Localização": "Rua 6",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1917-10-17",
+   "Data de nascimento": "1917",
    "Nome": "Alexandre Cabral"
   }
  },
@@ -63679,8 +63681,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1925-10-02",
-  "morte": "1998-10-26",
+  "nascimento": "1925",
+  "morte": "1998",
   "foto": "fotos/396f3ddb5a6d808ca760e0d173edd092.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d808ca760e0d173edd092.jpg"
@@ -63689,11 +63691,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "José Cardoso Pires (1925–1998) foi um dos mais importantes escritores portugueses do século XX. Autor de O Delfim, Balada da Praia dos Cães e Alexandra Alpha, destacou-se pelo romance, conto, crónica e ensaio e pela análise crítica da sociedade portuguesa.",
-   "Data de morte": "1998-10-26",
+   "Data de morte": "1998",
    "Localização": "Rua 6",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1925-10-02",
+   "Data de nascimento": "1925",
    "Nome": "José Cardoso Pires"
   }
  },
@@ -63706,8 +63708,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1923-09-13",
-  "morte": "1993-03-16",
+  "nascimento": "1923",
+  "morte": "1993",
   "foto": "fotos/396f3ddb5a6d80e18351ec8493e3477c.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d80e18351ec8493e3477c.jpg"
@@ -63716,11 +63718,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Natália Correia (1923–1993) foi poeta, escritora, dramaturga e deputada portuguesa. Figura marcante da cultura portuguesa do século XX, destacou-se pela defesa da liberdade e pela oposição ao Estado Novo, deixando uma vasta obra literária e uma forte intervenção política e cultural.",
-   "Data de morte": "1993-03-16",
+   "Data de morte": "1993",
    "Localização": "Rua 6",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1923-09-13",
+   "Data de nascimento": "1923",
    "Nome": "Natália Correia"
   }
  },
@@ -63733,8 +63735,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1909-08-18",
-  "morte": "1989-04-17",
+  "nascimento": "1909",
+  "morte": "1989",
   "foto": "fotos/396f3ddb5a6d80559800df313eea2777.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d80559800df313eea2777.jpg"
@@ -63743,11 +63745,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Adolfo Simões Müller (1909–1989) foi um escritor, poeta e jornalista português, especialmente destacado na literatura infantil e juvenil. Fundou o jornal infantil O Papagaio, dirigiu O Diabrete e trabalhou na Emissora Nacional. Autor de dezenas de obras, escreveu e adaptou histórias destinadas aos jovens, incluindo Historiazinha de Portugal. Em 1982 recebeu o Grande Prémio de Literatura Infantil da Fundação Calouste Gulbenkian pelo conjunto da sua obra. (Dicionários infopédia da Porto Editora)",
-   "Data de morte": "1989-04-17",
+   "Data de morte": "1989",
    "Localização": "Rua 6",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1909-08-18",
+   "Data de nascimento": "1909",
    "Nome": "Adolfo Simões Muller"
   }
  },
@@ -63760,8 +63762,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1919-04-15",
-  "morte": "1989-01-31",
+  "nascimento": "1919",
+  "morte": "1989",
   "foto": "fotos/396f3ddb5a6d8025b611d97660faf1ca.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d8025b611d97660faf1ca.jpg"
@@ -63770,11 +63772,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Fernando Namora (1919–1989) foi médico, escritor e poeta português, uma das figuras mais importantes do neorrealismo. Autor de Retalhos da Vida de um Médico, Domingo à Tarde e O Trigo e o Joio, conciliou durante vários anos a medicina com a atividade literária.",
-   "Data de morte": "1989-01-31",
+   "Data de morte": "1989",
    "Localização": "Rua 6",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1919-04-15",
+   "Data de nascimento": "1919",
    "Nome": "Fernando Namora"
   }
  },
@@ -63788,8 +63790,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1885-09-13",
-  "morte": "1963-05-27",
+  "nascimento": "1885",
+  "morte": "1963",
   "foto": "fotos/396f3ddb5a6d80b68c38c0202f1d370d.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d80b68c38c0202f1d370d.jpg",
@@ -63800,11 +63802,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Aquilino Ribeiro (1885–1963) foi um dos mais importantes escritores portugueses do século XX. Autor de Terras do Demo, O Malhadinhas e Quando os Lobos Uivam, construiu uma vasta obra marcada pelo mundo rural português e por uma linguagem particularmente rica. Foi também opositor das ditaduras portuguesa e espanhola.",
-   "Data de morte": "1963-05-27",
+   "Data de morte": "1963",
    "Localização": "Rua 6",
    "Cemitério": "Panteão Nacional, Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1885-09-13",
+   "Data de nascimento": "1885",
    "Nome": "Aquilino Ribeiro"
   }
  },
@@ -63817,8 +63819,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1877-05-12",
-  "morte": "1955-04-14",
+  "nascimento": "1877",
+  "morte": "1955",
   "foto": "fotos/396f3ddb5a6d8045a721ea3b3ba151b6.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d8045a721ea3b3ba151b6.jpg"
@@ -63827,11 +63829,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Azevedo Neves (1877–1955) foi médico, professor e político português, destacando-se nas áreas da medicina legal e anatomia patológica. Foi professor da Faculdade de Medicina de Lisboa, diretor do Instituto de Medicina Legal e desempenhou também funções políticas e diplomáticas.",
-   "Data de morte": "1955-04-14",
+   "Data de morte": "1955",
    "Localização": "Rua 6",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1877-05-12",
+   "Data de nascimento": "1877",
    "Nome": "Azevedo Neves"
   }
  },
@@ -63844,8 +63846,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1847-02-01",
-  "morte": "1921-03-24",
+  "nascimento": "1847",
+  "morte": "1921",
   "foto": "fotos/396f3ddb5a6d800886a6f48bfaafef7f.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d800886a6f48bfaafef7f.jpg",
@@ -63856,11 +63858,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Maria Amália Vaz de Carvalho (1847–1921) foi escritora, poetisa, ensaísta e crítica literária portuguesa. Desenvolveu uma intensa atividade na imprensa e destacou-se pelas reflexões sobre educação, literatura e condição feminina. Foi a primeira mulher admitida na Academia das Ciências de Lisboa.",
-   "Data de morte": "1921-03-24",
+   "Data de morte": "1921",
    "Localização": "Rua 6",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1847-02-01",
+   "Data de nascimento": "1847",
    "Nome": "Maria Amália Vaz de Carvalho"
   }
  },
@@ -63873,8 +63875,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1805-03-26",
-  "morte": "1889-03-09",
+  "nascimento": "1805",
+  "morte": "1889",
   "foto": "fotos/396f3ddb5a6d802cb717c46ce93dd4c1.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d802cb717c46ce93dd4c1.jpg"
@@ -63883,12 +63885,12 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Oliveira Marreca (1805–1889) foi economista, professor, escritor e político português. Liberal e defensor do desenvolvimento económico do país, exerceu funções parlamentares e governativas e destacou-se pelos seus trabalhos sobre economia política e administração pública.",
-   "Data de morte": "1889-03-09",
+   "Data de morte": "1889",
    "Localização": "Rua 6",
    "Informação extra": "Fonte primária: Aurora do Minho, ano II, n.º 95, 24 de março de 1889, artigo «Oliveira Marreca». O jornal noticia o falecimento, refere que o funeral foi muito concorrido e regista intervenções de Sousa Brandão, Elias Garcia e Nunes da Motta junto da sepultura. Foram fornecidas pelo utilizador imagens da página integral, do recorte da notícia e um retrato histórico. Atenção: há divergência entre as datas de falecimento registadas em arquivos (9 e 19 de março de 1889); verificar antes de corrigir a data existente.",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1805-03-26",
+   "Data de nascimento": "1805",
    "Nome": "Oliveira Marreca"
   }
  },
@@ -63901,8 +63903,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1846-03-11",
-  "morte": "1883-06-11",
+  "nascimento": "1846",
+  "morte": "1883",
   "foto": "fotos/396f3ddb5a6d80c79fb7e29d9fe76633.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d80c79fb7e29d9fe76633.jpg"
@@ -63911,11 +63913,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Gonçalves Crespo (1846–1883) foi poeta e político luso-brasileiro. A sua poesia destacou-se pelo cuidado formal e pelo carácter descritivo, aproximando-se do parnasianismo. Publicou obras como Miniaturas e Nocturnos.",
-   "Data de morte": "1883-06-11",
+   "Data de morte": "1883",
    "Localização": "Rua 6",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1846-03-11",
+   "Data de nascimento": "1846",
    "Nome": "Gonçalves Crespo"
   }
  },
@@ -63928,8 +63930,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1864-04-26",
-  "morte": "1890-04-18",
+  "nascimento": "1864",
+  "morte": "1890",
   "foto": "fotos/396f3ddb5a6d806cb691cf143a9fe7c2.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d806cb691cf143a9fe7c2.jpg"
@@ -63938,11 +63940,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Costa Alegre (1864–1890) foi um poeta são-tomense de língua portuguesa. A sua poesia, publicada postumamente em Versos, aborda temas como o amor, a solidão e a condição racial, sendo hoje considerado uma figura precursora da literatura africana de expressão portuguesa.",
-   "Data de morte": "1890-04-18",
+   "Data de morte": "1890",
    "Localização": "Rua 6",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1864-04-26",
+   "Data de nascimento": "1864",
    "Nome": "Costa Alegre"
   }
  },
@@ -63955,8 +63957,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1946-06-08",
-  "morte": "2018-10-28",
+  "nascimento": "1946",
+  "morte": "2018",
   "foto": "fotos/396f3ddb5a6d80148559f3292064a1e0.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d80148559f3292064a1e0.jpg"
@@ -63965,11 +63967,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "José Sarmento de Matos (1946–2018) foi historiador de arte e olisipógrafo português, dedicando grande parte da sua vida ao estudo da história, arquitetura e património de Lisboa. Autor de A Invenção de Lisboa, participou também na conceção da Expo 98 e foi responsável pelo plano toponímico do Parque das Nações.",
-   "Data de morte": "2018-10-28",
+   "Data de morte": "2018",
    "Localização": "Rua 6",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1946-06-08",
+   "Data de nascimento": "1946",
    "Nome": "José Sarmento de Matos"
   }
  },
@@ -63982,8 +63984,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1921-11-18",
-  "morte": "2018-02-13",
+  "nascimento": "1921",
+  "morte": "2018",
   "foto": "fotos/396f3ddb5a6d805ca1c7c29429230c31.jpg",
   "fotos": [
    "fotos/396f3ddb5a6d805ca1c7c29429230c31.jpg"
@@ -63992,11 +63994,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Natália Nunes (1921–2018) foi escritora, ensaísta e tradutora portuguesa. Desenvolveu uma obra centrada sobretudo na ficção e no ensaio e participou ativamente na vida literária portuguesa. Foi casada com o escritor Rómulo de Carvalho.",
-   "Data de morte": "2018-02-13",
+   "Data de morte": "2018",
    "Localização": "Rua 6",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1921-11-18",
+   "Data de nascimento": "1921",
    "Nome": "Natália Nunes"
   }
  },
@@ -64009,8 +64011,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1935-04-24",
-  "morte": "1987-11-20",
+  "nascimento": "1935",
+  "morte": "1987",
   "foto": "fotos/394f3ddb5a6d806caa7dd1c594b59e39.jpg",
   "fotos": [
    "fotos/394f3ddb5a6d806caa7dd1c594b59e39.jpg"
@@ -64019,11 +64021,11 @@
    "Visita 360": "https://kuula.co/share/LZZZ6/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Teatro",
    "Biografia": "Ivone Silva (1935–1987) foi uma atriz e humorista portuguesa, especialmente conhecida pelo teatro de revista e pela televisão. A sua expressividade e capacidade cómica tornaram-na uma das figuras mais populares do espetáculo português nas décadas de 1960 a 1980.",
-   "Data de morte": "1987-11-20",
+   "Data de morte": "1987",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
    "N de jazigo": "6668",
-   "Data de nascimento": "1935-04-24",
+   "Data de nascimento": "1935",
    "Nome": "Ivone Silva"
   }
  },
@@ -64095,8 +64097,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1861-10-04",
-  "morte": "1930-05-18",
+  "nascimento": "1861",
+  "morte": "1930",
   "foto": "fotos/393f3ddb5a6d8007bd70d28f61350fae.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d8007bd70d28f61350fae.jpg"
@@ -64105,11 +64107,11 @@
    "Visita 360": "https://kuula.co/share/LZZZC/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Música, Jornalismo",
    "Biografia": "João Marcelino Arroio (1861–1930) foi um advogado, político, professor e músico português. Natural do Porto, destacou-se na vida política durante a Monarquia Constitucional, tendo sido deputado e ministro, nomeadamente dos Negócios Estrangeiros. Paralelamente, desenvolveu uma importante atividade musical como compositor e crítico, sendo uma figura singular pela ligação entre a política, a cultura e a música portuguesa.\n",
-   "Data de morte": "1930-05-18",
+   "Data de morte": "1930",
    "Localização": "Rua 43",
    "Cemitério": "Cemitério Alto São João",
    "N de jazigo": "6403",
-   "Data de nascimento": "1861-10-04",
+   "Data de nascimento": "1861",
    "Nome": "João Marcelino Arroio"
   }
  },
@@ -64176,8 +64178,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1901-12-09",
-  "morte": "1980-10-27",
+  "nascimento": "1901",
+  "morte": "1980",
   "foto": "fotos/393f3ddb5a6d80be8171d05d819e68a9.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d80be8171d05d819e68a9.jpg",
@@ -64187,12 +64189,12 @@
    "Visita 360": "https://kuula.co/share/LZZZ3/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "José Rodrigues Miguéis (1901–1980) foi escritor, jornalista e tradutor português. Republicano e opositor do Estado Novo, viveu grande parte da vida nos Estados Unidos. Obras como Páscoa Feliz e Leah e Outras Histórias fizeram dele uma figura relevante da literatura portuguesa do século XX.",
-   "Data de morte": "1980-10-27",
+   "Data de morte": "1980",
    "3D": "https://sketchfab.com/models/bf570aef179c4168b51e17d6e97bdcf6/embed",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
    "N de jazigo": "6669",
-   "Data de nascimento": "1901-12-09",
+   "Data de nascimento": "1901",
    "Nome": "José Rodrigues Miguéis "
   }
  },
@@ -64205,8 +64207,8 @@
    "Cemitério da Charneca da Caparica"
   ],
   "rotas": [],
-  "nascimento": "1828-03-03",
-  "morte": "1912-08-24",
+  "nascimento": "1828",
+  "morte": "1912",
   "foto": "fotos/393f3ddb5a6d80ed842cf521090545db.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d80ed842cf521090545db.jpg"
@@ -64215,11 +64217,11 @@
    "Visita 360": "https://kuula.co/share/collection/7MB8G?logo=1&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Raimundo António de Bulhão Pato (1828–1912) foi poeta, escritor e memorialista português. Conviveu com importantes figuras literárias e políticas do século XIX e deixou poesia, memórias e textos gastronómicos. O seu nome ficou popularmente associado às amêijoas à Bulhão Pato.",
-   "Data de morte": "1912-08-24",
+   "Data de morte": "1912",
    "Localização": "Rua 1",
    "Cemitério": "Cemitério da Charneca da Caparica",
    "N de jazigo": "-",
-   "Data de nascimento": "1828-03-03",
+   "Data de nascimento": "1828",
    "Nome": "Raimundo Bulhão Pato"
   }
  },
@@ -64233,8 +64235,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1939-09-18",
-  "morte": "2021-09-10",
+  "nascimento": "1939",
+  "morte": "2021",
   "foto": "fotos/393f3ddb5a6d80b7acf3f2ef1b76c9eb.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d80b7acf3f2ef1b76c9eb.jpg"
@@ -64243,11 +64245,11 @@
    "Visita 360": "https://kuula.co/share/LZZZL/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Política, Advocacia",
    "Biografia": "Jorge Sampaio (1939–2021) foi advogado e político português. Presidente da Câmara Municipal de Lisboa e secretário-geral do Partido Socialista, exerceu o cargo de Presidente da República entre 1996 e 2006. Posteriormente desempenhou funções internacionais nas Nações Unidas.",
-   "Data de morte": "2021-09-10",
+   "Data de morte": "2021",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
    "N de jazigo": "3829",
-   "Data de nascimento": "1939-09-18",
+   "Data de nascimento": "1939",
    "Nome": "Jorge Sampaio"
   }
  },
@@ -64261,8 +64263,8 @@
    "Mausoléu independente"
   ],
   "rotas": [],
-  "nascimento": "1871-06-30",
-  "morte": "1942-08-22",
+  "nascimento": "1871",
+  "morte": "1942",
   "foto": "fotos/393f3ddb5a6d807c8ff6e45f297d430e.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d807c8ff6e45f297d430e.jpg",
@@ -64274,11 +64276,11 @@
    "Visita 360": "https://kuula.co/share/collection/7MB6B?logo=1&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Industrial",
    "Biografia": "Alfredo da Silva (1871–1942) foi um dos mais importantes industriais portugueses do século XX. Em 1898 esteve na origem da Companhia União Fabril (CUF), que transformou num vasto grupo empresarial, com atividade na indústria química, transportes, banca, tabaco, construção naval e seguros. A sua ação teve um papel marcante na industrialização portuguesa, particularmente no desenvolvimento do complexo industrial do Barreiro. (josedemello.pt)",
-   "Data de morte": "1942-08-22",
+   "Data de morte": "1942",
    "Localização": "0",
    "Cemitério": "Cemitério Alto São João, Mausoléu independente",
    "N de jazigo": "0",
-   "Data de nascimento": "1871-06-30",
+   "Data de nascimento": "1871",
    "Nome": "Alfredo da Silva"
   }
  },
@@ -64291,8 +64293,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1885-11-02",
-  "morte": "1947-06-12",
+  "nascimento": "1885",
+  "morte": "1947",
   "foto": "fotos/393f3ddb5a6d80bea0b7fe88c05bf090.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d80bea0b7fe88c05bf090.jpg"
@@ -64301,11 +64303,11 @@
    "Visita 360": "https://kuula.co/share/LbNhb/collection/7TTDF?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Desporto",
    "Biografia": "Cosme Damião (1885–1947) foi futebolista, treinador e dirigente desportivo português, uma das figuras fundamentais da história do Sport Lisboa e Benfica. Participou nos primeiros anos do clube e teve um papel decisivo na organização e consolidação do futebol benfiquista.",
-   "Data de morte": "1947-06-12",
+   "Data de morte": "1947",
    "Localização": "Rua 36",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "6071",
-   "Data de nascimento": "1885-11-02",
+   "Data de nascimento": "1885",
    "Nome": "Cosme Damião "
   }
  },
@@ -64318,8 +64320,8 @@
    "Cemitério da Ajuda"
   ],
   "rotas": [],
-  "nascimento": "1836-05-04",
-  "morte": "1901-11-17",
+  "nascimento": "1836",
+  "morte": "1901",
   "foto": "fotos/393f3ddb5a6d80dbadadf77b521ccf18.png",
   "fotos": [
    "fotos/393f3ddb5a6d80dbadadf77b521ccf18.png"
@@ -64328,13 +64330,13 @@
    "Visita 360": "https://kuula.co/share/collection/7TqnX?logo=1&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Arquitetura",
    "Biografia": "Domingos Parente da Silva (1836–1901) foi arquiteto português e funcionário das Obras Públicas. É particularmente conhecido pelo projeto original dos Paços do Concelho de Lisboa, reconstruídos após o incêndio de 1863, tendo participado em várias outras obras públicas da capital.",
-   "Data de morte": "1901-11-17",
+   "Data de morte": "1901",
    "Localização": "Rua 8",
    "Informação extra": "O túmulo-monumento de Domingos Parente da Silva foi erguido por iniciativa dos seus amigos e admiradores, através de uma subscrição pública promovida pela Sociedade dos Arquitectos Portugueses. O projeto ficou a cargo do arquiteto Álvaro Augusto Machado, com participação do escultor Francisco dos Santos nos elementos decorativos, sendo a construção executada pelas oficinas Moreira Rato.\n\nImplantado no cruzamento das ruas 6 e 9 do cemitério, o monumento foi inaugurado a 30 de maio de 1906. Construído maioritariamente em pedra de lioz, apresenta uma composição dominada por um obelisco e duas taças-lanternas, incorporando ainda a urna com os restos mortais do arquiteto.\n\nA decoração possui forte simbologia funerária: o archote invertido representa a morte, a palma a ressurreição e as taças-lanternas evocam a purificação e regeneração. O monumento encontra-se classificado como Monumento de Interesse Municipal.\n",
    "Cemitério": "Cemitério da Ajuda",
    "N de jazigo": "319",
    "Epitáfio": "AO ARQUITETO\nDOMINGOS PARENTE\nDA SILVA\nOS SEUS ADMIRADORES",
-   "Data de nascimento": "1836-05-04",
+   "Data de nascimento": "1836",
    "Nome": "Domingos Parente da Silva"
   }
  },
@@ -64347,8 +64349,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1734-12-21",
-  "morte": "1819-02-27",
+  "nascimento": "1734",
+  "morte": "1819",
   "foto": "fotos/393f3ddb5a6d80ba8499dd7c817a106c.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d80ba8499dd7c817a106c.jpg"
@@ -64357,11 +64359,11 @@
    "Visita 360": "https://kuula.co/share/LZZKd/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Filinto Elísio (1734–1819), pseudónimo de Francisco Manuel do Nascimento, foi poeta, tradutor e sacerdote português. Figura importante do neoclassicismo português, viveu vários anos exilado em Paris e deixou uma extensa produção poética e traduções de autores clássicos.",
-   "Data de morte": "1819-02-27",
+   "Data de morte": "1819",
    "Localização": "Rua 9",
    "Cemitério": "Cemitério Alto São João",
    "N de jazigo": "169",
-   "Data de nascimento": "1734-12-21",
+   "Data de nascimento": "1734",
    "Nome": "Filinto Elísio"
   }
  },
@@ -64377,8 +64379,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1866-07-17",
-  "morte": "1929-10-31",
+  "nascimento": "1866",
+  "morte": "1929",
   "foto": "fotos/393f3ddb5a6d8034b9d5d6df38f6446a.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d8034b9d5d6df38f6446a.jpg",
@@ -64388,11 +64390,11 @@
    "Visita 360": "https://kuula.co/share/LZZbG/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "República, Política, Maçonaria, Carbonária",
    "Biografia": "António José de Almeida (1866–1929) foi médico, político republicano e Presidente da República Portuguesa entre 1919 e 1923. Participou ativamente na oposição à Monarquia e, após a implantação da República, foi ministro do Interior e fundador do Partido Republicano Evolucionista. A sua presidência destacou-se por ter sido o único Presidente da Primeira República a cumprir integralmente o mandato, num período marcado por forte instabilidade política.",
-   "Data de morte": "1929-10-31",
+   "Data de morte": "1929",
    "Localização": "Rua 29",
    "Cemitério": "Cemitério Alto São João",
    "N de jazigo": "4560",
-   "Data de nascimento": "1866-07-17",
+   "Data de nascimento": "1866",
    "Nome": "António José de Almeida"
   }
  },
@@ -64405,8 +64407,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1945-01-21",
-  "morte": "2024-10-24",
+  "nascimento": "1945",
+  "morte": "2024",
   "foto": "fotos/393f3ddb5a6d803a88c1dfc99c8a265d.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d803a88c1dfc99c8a265d.jpg"
@@ -64415,11 +64417,11 @@
    "Visita 360": "https://kuula.co/share/LbN1b/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Música",
    "Biografia": "Marco Paulo (1945–2024) foi um cantor português e uma das figuras mais populares da música ligeira portuguesa. Com uma carreira de várias décadas, tornou-se conhecido por canções como Eu Tenho Dois Amores e Maravilhoso Coração, alcançando grande sucesso discográfico.",
-   "Data de morte": "2024-10-24",
+   "Data de morte": "2024",
    "Localização": "Rua 27",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "2886",
-   "Data de nascimento": "1945-01-21",
+   "Data de nascimento": "1945",
    "Nome": "Marco Paulo"
   }
  },
@@ -64432,8 +64434,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1833-06-28",
-  "morte": "1914-09-08",
+  "nascimento": "1833",
+  "morte": "1914",
   "foto": "fotos/393f3ddb5a6d805c98b4ce7934a947b5.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d805c98b4ce7934a947b5.jpg",
@@ -64443,11 +64445,11 @@
    "Visita 360": "https://kuula.co/share/Lb7tw/collection/7TTDF?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Brito Aranha (1833–1914) foi escritor, jornalista, bibliógrafo e investigador português. Dedicou grande parte da sua atividade ao estudo da imprensa, dos livros e da cultura portuguesa, sendo particularmente conhecido pela continuação do Dicionário Bibliográfico Português, iniciado por Inocêncio Francisco da Silva.",
-   "Data de morte": "1914-09-08",
+   "Data de morte": "1914",
    "Localização": "Rua 15",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "5817",
-   "Data de nascimento": "1833-06-28",
+   "Data de nascimento": "1833",
    "Nome": "Brito Aranha"
   }
  },
@@ -64487,8 +64489,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1888-07-20",
-  "morte": "1967-03-20",
+  "nascimento": "1888",
+  "morte": "1967",
   "foto": "fotos/393f3ddb5a6d80a58563ca9330fce5dc.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d80a58563ca9330fce5dc.jpg"
@@ -64497,11 +64499,11 @@
    "Visita 360": "https://kuula.co/share/LbNZR/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Escritor",
    "Biografia": "Fidelino de Figueiredo (1888–1967) foi historiador da literatura, ensaísta, professor e crítico português. Desenvolveu uma extensa atividade académica em Portugal e no estrangeiro e destacou-se pelos seus estudos sobre literatura portuguesa e história das ideias.",
-   "Data de morte": "1967-03-20",
+   "Data de morte": "1967",
    "Localização": "Rua 6",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "1580",
-   "Data de nascimento": "1888-07-20",
+   "Data de nascimento": "1888",
    "Nome": "Fidelino de Figueiredo"
   }
  },
@@ -64542,8 +64544,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1907-10-23",
-  "morte": "1993-06-13",
+  "nascimento": "1907",
+  "morte": "1993",
   "foto": "fotos/393f3ddb5a6d803f8765e0aa81241907.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d803f8765e0aa81241907.jpg"
@@ -64552,11 +64554,11 @@
    "Visita 360": "https://kuula.co/share/LbNb4/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Música",
    "Biografia": "Hermínia Silva (1907–1993) foi atriz e fadista portuguesa, uma das grandes figuras do teatro de revista e do fado no século XX. Tornou-se popular nos palcos, no cinema e na rádio, ficando associada a temas como Fado da Sina.",
-   "Data de morte": "1993-06-13",
+   "Data de morte": "1993",
    "Localização": "Rua N",
    "Cemitério": "Cemitério dos Prazeres",
    "N de jazigo": "6069",
-   "Data de nascimento": "1907-10-23",
+   "Data de nascimento": "1907",
    "Nome": "Hermínia Silva"
   }
  },
@@ -64569,8 +64571,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1899-05-13",
-  "morte": "1983-12-14",
+  "nascimento": "1899",
+  "morte": "1983",
   "foto": "fotos/393f3ddb5a6d808d91fcc71546f19dc2.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d808d91fcc71546f19dc2.jpg"
@@ -64579,12 +64581,12 @@
    "Visita 360": "https://kuula.co/share/LZZKb/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Pintura",
    "Biografia": "Sarah Affonso (1899–1983) foi pintora e ilustradora portuguesa ligada ao modernismo. A sua obra incorporou frequentemente temas populares, religiosos e do quotidiano minhoto. Participou na renovação artística portuguesa do século XX e foi casada com Almada Negreiros.",
-   "Data de morte": "1983-12-14",
+   "Data de morte": "1983",
    "Localização": "Rua 1",
    "Cemitério": "Cemitério Alto São João",
    "N de jazigo": "144",
    "Epitáfio": "A alegria é a coisa mais séria da vida!",
-   "Data de nascimento": "1899-05-13",
+   "Data de nascimento": "1899",
    "Nome": "Sarah Affonso"
   }
  },
@@ -64597,8 +64599,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1893-04-07",
-  "morte": "1970-06-15",
+  "nascimento": "1893",
+  "morte": "1970",
   "foto": "fotos/393f3ddb5a6d80129156cbb67219a5cb.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d80129156cbb67219a5cb.jpg"
@@ -64607,12 +64609,12 @@
    "Visita 360": "https://kuula.co/share/LZZKb/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Pintura",
    "Biografia": "José de Almada Negreiros (1893–1970) foi artista plástico, escritor e uma das figuras centrais do modernismo português. Ligado à geração de Orpheu, desenvolveu uma obra multidisciplinar que abrangeu pintura, desenho, literatura, teatro, vitral e grandes composições murais.",
-   "Data de morte": "1970-06-15",
+   "Data de morte": "1970",
    "Localização": "Rua 1",
    "Cemitério": "Cemitério Alto São João",
    "N de jazigo": "144",
    "Epitáfio": "A alegria é a coisa mais séria da vida!",
-   "Data de nascimento": "1893-04-07",
+   "Data de nascimento": "1893",
    "Nome": "José de Almada Negreiros"
   }
  },
@@ -64628,8 +64630,8 @@
    "Cemitério Alto São João"
   ],
   "rotas": [],
-  "nascimento": "1872-06-18",
-  "morte": "1935-03-23",
+  "nascimento": "1872",
+  "morte": "1935",
   "foto": "fotos/393f3ddb5a6d80d8876af88457205e8e.jpg",
   "fotos": [
    "fotos/393f3ddb5a6d80d8876af88457205e8e.jpg"
@@ -64638,11 +64640,11 @@
    "Visita 360": "https://kuula.co/share/LZZbp/collection/7THhY?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Educação, República, Feminista, Ativista",
    "Biografia": "Ana de Castro Osório (1872–1935) foi uma escritora, editora, pedagoga e ativista feminista e republicana portuguesa. Pioneira da literatura infantil em Portugal, publicou em 1905 Às Mulheres Portuguesas, obra fundamental do feminismo português. Participou na fundação da Liga Republicana das Mulheres Portuguesas e da Associação de Propaganda Feminista, destacando-se na defesa da educação, dos direitos das mulheres e da participação feminina na vida pública. (CIG)",
-   "Data de morte": "1935-03-23",
+   "Data de morte": "1935",
    "Localização": "Rua 11",
    "Cemitério": "Cemitério Alto São João",
    "N de jazigo": "4814",
-   "Data de nascimento": "1872-06-18",
+   "Data de nascimento": "1872",
    "Nome": "Ana de Castro Osório "
   }
  },
