@@ -1,5 +1,50 @@
 [
  {
+  "nome": "Maria Lídia Ferreira Sequeira",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2025-12-01",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Economista e gestora pública portuguesa, destacada na modernização do sistema portuário. Exerceu funções dirigentes na Direção-Geral dos Transportes Terrestres e presidiu à Administração dos Portos de Sines e do Algarve (2005–2013) e à Administração dos Portos de Lisboa, Setúbal e Sesimbra (2016–2021). Foi distinguida com a Ordem do Mérito (1990) e a Ordem do Infante D. Henrique (2014). Fontes: Assembleia da República, Projeto de Voto n.º 252/XVII; Autoridade da Mobilidade e dos Transportes, nota de pesar de 2 de dezembro de 2025.",
+   "Data de morte": "2025-12-01",
+   "Nome": "Maria Lídia Ferreira Sequeira"
+  }
+ },
+ {
+  "nome": "Guilherme Metzner Serra Parente",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Pintor português, membro do grupo artístico 5+1, criado em 1976, com João Hogan, Júlio Pereira, Teresa Magalhães, Sérgio Pombo e Virgílio Domingues. O seu falecimento foi homenageado pela Assembleia da República no Projeto de Voto n.º 296/XVII, de 21 de dezembro de 2025.",
+   "Nome": "Guilherme Metzner Serra Parente"
+  }
+ },
+ {
+  "nome": "Manuela Rosa Coelho Mendonça de Matos Fernandes",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "1948-02-12",
+  "morte": "2025-12-25",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Historiadora portuguesa, professora da Faculdade de Letras da Universidade de Lisboa, especializada na Baixa Idade Média. Doutorou-se em 1990. Foi subdiretora-geral do Instituto dos Arquivos Nacionais/Torre do Tombo (1990–1996), secretária-geral (2004–2006) e presidente (desde 2006) da Academia Portuguesa da História. Desenvolveu atividade cívica na solidariedade social e na defesa da dignidade das comunidades ciganas. Grande-Oficial da Ordem da Instrução Pública (2022). Fonte: Assembleia da República, Voto n.º 295/XVII, de 26 de dezembro de 2025.",
+   "Data de morte": "2025-12-25",
+   "Data de nascimento": "1948-02-12",
+   "Nome": "Manuela Rosa Coelho Mendonça de Matos Fernandes"
+  }
+ },
+ {
   "nome": "José Luís Ramos",
   "areas": [
    "Política"
@@ -60389,32 +60434,6 @@
   }
  },
  {
-  "nome": "Pedro de Sousa Holstein ",
-  "areas": [
-   "Política"
-  ],
-  "cemiterios": [
-   "Cemitério dos Prazeres"
-  ],
-  "rotas": [],
-  "nascimento": "08/05/1781",
-  "morte": "12/10/1850",
-  "foto": "fotos/3bcf3ddb5a6d80fe99c5f096a21178b9.jpg",
-  "fotos": [
-   "fotos/3bcf3ddb5a6d80fe99c5f096a21178b9.jpg"
-  ],
-  "detalhes": {
-   "Visita 360": "https://kuula.co/share/LbNcK/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
-   "Área": "Política",
-   "Biografia": "Filho do 1 marques de Sousa Holstein ",
-   "Data de morte": "12/10/1850",
-   "Localização": "Rua 31",
-   "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "08/05/1781",
-   "Nome": "Pedro de Sousa Holstein "
-  }
- },
- {
   "nome": "Luís de Sousa Holstein ",
   "areas": [
    "Política"
@@ -60920,8 +60939,8 @@
    "Cemitério dos Prazeres"
   ],
   "rotas": [],
-  "nascimento": "1781",
-  "morte": "1850",
+  "nascimento": "08/05/1781",
+  "morte": "12/10/1850",
   "foto": "fotos/3bcf3ddb5a6d80f587ffe02fec6fe393.jpg",
   "fotos": [
    "fotos/3bcf3ddb5a6d80f587ffe02fec6fe393.jpg"
@@ -60930,10 +60949,10 @@
    "Visita 360": "https://kuula.co/share/LbNcK/collection/7TTH4?logo=0&info=0&fs=1&vr=1&sd=1&initload=0&thumbs=1",
    "Área": "Política",
    "Biografia": "Pedro de Sousa Holstein (1781–1850), 1.º Duque de Palmela — o principal. Diplomata, estadista, várias vezes chefe do Governo e figura central do liberalismo português. Foi ele quem mandou construir o mausoléu. A CML confirma a origem do jazigo.",
-   "Data de morte": "1850",
+   "Data de morte": "12/10/1850",
    "Localização": "Rua 31",
    "Cemitério": "Cemitério dos Prazeres",
-   "Data de nascimento": "1781",
+   "Data de nascimento": "08/05/1781",
    "Nome": "Pedro de Sousa Holstein"
   }
  },
