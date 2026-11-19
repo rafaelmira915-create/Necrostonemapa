@@ -1,5 +1,28 @@
 [
  {
+  "nome": "José Luís Ramos",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "1959",
+  "morte": "15/11/2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Político português do Partido Social Democrata. Foi deputado à Assembleia da República nas legislaturas iniciadas em 1983, 1985, 1987 e 1991 e participou nas comissões parlamentares de inquérito ao caso de Camarate. Exerceu funções no gabinete do Secretário de Estado da Cultura entre 2002 e 2004 e no Ministério da Justiça em 2004. Integrou o Conselho Superior do Ministério Público entre 2010 e 2014.",
+   "Data de morte": "15/11/2026",
+   "Informação extra": "Óbito a 15/11/2026, anunciado a 17/11/2026 pelo PSD e pela Lusa. Dia e mês de nascimento, sepultura, localização e número de jazigo por confirmar.",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "1959",
+   "Nome": "José Luís Ramos"
+  }
+ },
+ {
   "nome": "Pedro Sarmento",
   "areas": [
    "Ativista"
