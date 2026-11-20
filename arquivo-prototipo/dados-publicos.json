@@ -30490,8 +30490,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/407f3ddb5a6d81359233ecbc7b3d2f02.png",
+  "fotos": [
+   "fotos/407f3ddb5a6d81359233ecbc7b3d2f02.png"
+  ],
   "detalhes": {
    "Área": "Religião",
    "Biografia": "Bispo da Guarda; episcopado 1639.",
