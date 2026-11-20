@@ -1,5 +1,82 @@
 [
  {
+  "nome": "Mário Zambujal",
+  "areas": [
+   "Escritor",
+   "Jornalismo"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "1936",
+  "morte": "2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Escritor, Jornalismo",
+   "Biografia": "Escritor e jornalista português, natural de Moura. Trabalhou em órgãos de comunicação social como A Bola, Diário de Lisboa, Record, O Século e Diário de Notícias, além de rádio e televisão. A Assembleia da República aprovou um voto de pesar pelo seu falecimento em março de 2026. Fonte: Diário da Assembleia da República, 26 de março de 2026, https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/072/2026-03-26",
+   "Data de morte": "2026",
+   "Data de nascimento": "1936",
+   "Nome": "Mário Zambujal"
+  }
+ },
+ {
+  "nome": "Fernando Santos Cabral",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Personalidade ligada ao Partido Socialista, cujo falecimento foi objeto de voto de pesar aprovado pela Assembleia da República em 5 de dezembro de 2025. Outros elementos biográficos e datas carecem de confirmação documental. Fonte: Diário da Assembleia da República, 5 de dezembro de 2025, https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/038/2025-12-05",
+   "Nome": "Fernando Santos Cabral"
+  }
+ },
+ {
+  "nome": "Eurico José Palheiros de Carvalho Figueiredo",
+  "areas": [
+   "Política",
+   "Medicina",
+   "Educação"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "1939-03-24",
+  "morte": "2025-12-27",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política, Medicina, Educação",
+   "Biografia": "Médico psiquiatra, professor catedrático e antigo deputado do Partido Socialista. Participou na resistência estudantil ao Estado Novo e na crise académica de 1962; foi preso pela PIDE e viveu exilado na Suíça. Após 1974, exerceu funções parlamentares e dirigiu o serviço de psiquiatria do Hospital Magalhães Lemos. Fonte: Diário da Assembleia da República, 23 de janeiro de 2026, https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/050/2026-01-23",
+   "Data de morte": "2025-12-27",
+   "Data de nascimento": "1939-03-24",
+   "Nome": "Eurico José Palheiros de Carvalho Figueiredo"
+  }
+ },
+ {
+  "nome": "José Manuel Mesquita",
+  "areas": [
+   "Advocacia",
+   "Política"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2025-11-14",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Advocacia, Política",
+   "Biografia": "Advogado e consultor jurídico, militante e dirigente nacional do Partido Socialista, reconhecido pelo seu trabalho na vida pública e pela capacidade de diálogo e construção de compromissos. Fonte: Diário da Assembleia da República, 5 de dezembro de 2025, https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/038/2025-12-05",
+   "Data de morte": "2025-11-14",
+   "Nome": "José Manuel Mesquita"
+  }
+ },
+ {
   "nome": "Maria Lídia Ferreira Sequeira",
   "areas": [],
   "cemiterios": [],
@@ -51466,8 +51543,10 @@
   "rotas": [],
   "nascimento": "1795-03-21",
   "morte": "1801-06-11",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d81269b27f750e93ca401.jpg",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d81269b27f750e93ca401.jpg"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Filho de João VI e Carlota Joaquina de Bourbon; príncipe da Beira, morreu criança.",
