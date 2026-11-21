@@ -1,5 +1,50 @@
 [
  {
+  "nome": "Walter Friedrich Alfred Osswald",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Professor doutor homenageado pela Assembleia da República através do Projeto de Voto de Pesar n.º 746/XVII/1.ª, aprovado por unanimidade em 30 de setembro de 2026. Falecimento confirmado; datas e local de sepultura por verificar.",
+   "Informação extra": "Fonte: https://av.parlamento.pt/videos/Plenary/17/2/7/135",
+   "Nome": "Walter Friedrich Alfred Osswald"
+  }
+ },
+ {
+  "nome": "Maria João Carneiro",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Bombeira voluntária de Resende, cujo falecimento foi assinalado na Assembleia da República através dos Projetos de Voto de Pesar n.os 751 e 753/XVII/2.ª, apresentados em setembro de 2026. Datas biográficas e local de sepultura por confirmar.",
+   "Informação extra": "Fonte: https://www.parlamento.pt/ActividadeParlamentar/Paginas/DetalheProjetoVoto.aspx?BID=248848",
+   "Nome": "Maria João Carneiro"
+  }
+ },
+ {
+  "nome": "José Manuel Macedo Abrantes",
+  "areas": [],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Biografia": "Engenheiro português cujo falecimento foi objeto do Projeto de Voto de Pesar n.º 738/XVII/2.ª, apresentado na Assembleia da República em 22 de setembro de 2026. Outros dados biográficos e sepultura ainda não comprovados.",
+   "Informação extra": "Fonte: https://www.parlamento.pt/DeputadoGP/Paginas/ActividadeDeputado.aspx?BID=4300&lg=XVII&tlg=XVII%25XVI%25XIII%25XII",
+   "Nome": "José Manuel Macedo Abrantes"
+  }
+ },
+ {
   "nome": "Mário Zambujal",
   "areas": [
    "Escritor",
