@@ -1,5 +1,29 @@
 [
  {
+  "nome": "Alberto Sousa Maria",
+  "areas": [
+   "Empresário",
+   "Desporto"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "Incerto",
+  "morte": "18/11/2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Empresário, Desporto",
+   "Biografia": "Empresário português, fundador da fábrica de calçado Eureka, com intervenção na vida económica e associativa de Vizela. Presidiu ao Futebol Clube de Vizela, ao Rotary Club de Vizela e à AIREV, associação dedicada à integração e reabilitação social. Recebeu o Prémio de Consagração da Rádio Vizela. Faleceu aos 73 anos.",
+   "Data de morte": "18/11/2026",
+   "Informação extra": "Óbito anunciado pela Rádio Vizela a 18/11/2026 e pelo FC Vizela a 19/11/2026. Datas da presidência do clube divergem entre as fontes, pelo que foram omitidas.",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "Incerto",
+   "Nome": "Alberto Sousa Maria"
+  }
+ },
+ {
   "nome": "Walter Friedrich Alfred Osswald",
   "areas": [],
   "cemiterios": [],
