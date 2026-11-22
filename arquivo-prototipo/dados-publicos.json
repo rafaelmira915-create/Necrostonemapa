@@ -1,5 +1,45 @@
 [
  {
+  "nome": "António Lobo Antunes",
+  "areas": [
+   "Escritor",
+   "Medicina"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "1942-09-01",
+  "morte": "2026-03-05",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Escritor, Medicina",
+   "Biografia": "António Lobo Antunes (Lisboa, 1 de setembro de 1942 – 5 de março de 2026) foi médico psiquiatra e romancista português. Estreou-se em 1979 com Memória de Elefante e Os Cus de Judas. A experiência como médico militar em Angola marcou a sua obra, reconhecida internacionalmente. O Governo decretou luto nacional pelo seu falecimento.",
+   "Data de morte": "2026-03-05",
+   "Informação extra": "Fontes: https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2026-1068097904 ; https://jf-lumiar.pt/wp-content/uploads/2026/04/VOTO-DE-PESAR-N.o-2_Antonio-Lobo-Antunes_PS.pdf ; https://www.escritas.org/pt/antonio-lobo-antunes",
+   "Data de nascimento": "1942-09-01",
+   "Nome": "António Lobo Antunes"
+  }
+ },
+ {
+  "nome": "Nuno Albuquerque de Morais Sarmento",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2026-03-07",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "Nuno Albuquerque de Morais Sarmento foi uma personalidade política portuguesa, antigo deputado e governante. A Assembleia da República aprovou um voto de pesar pelo seu falecimento, ocorrido em 7 de março de 2026.",
+   "Data de morte": "2026-03-07",
+   "Informação extra": "Fonte: Diário da Assembleia da República, sessão de 13 de março de 2026: https://debates.parlamento.pt/catalogo/r3/dar/01/17/01/067/2026-03-13/70",
+   "Nome": "Nuno Albuquerque de Morais Sarmento"
+  }
+ },
+ {
   "nome": "Alberto Sousa Maria",
   "areas": [
    "Empresário",
