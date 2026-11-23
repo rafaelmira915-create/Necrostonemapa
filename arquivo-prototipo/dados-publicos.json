@@ -1,5 +1,43 @@
 [
  {
+  "nome": "José Viale Moutinho",
+  "areas": [
+   "Escritor",
+   "Jornalismo"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "1945-06-12",
+  "morte": "2026-09-22",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Escritor, Jornalismo",
+   "Biografia": "José Viale Moutinho (Funchal, 12 de junho de 1945 – 22 de setembro de 2026) foi escritor, poeta, jornalista, tradutor e investigador português. Trabalhou no Jornal de Notícias e no Diário de Notícias, presidiu à Associação dos Jornalistas e Homens de Letras do Porto e estudou Camilo Castelo Branco, Trindade Coelho e a literatura popular. Foi distinguido com prémios literários e homenageado pela Assembleia da República em setembro de 2026. Fontes: DGLAB; Presidência da República; RTP/Lusa; Assembleia da República.",
+   "Data de morte": "2026-09-22",
+   "Data de nascimento": "1945-06-12",
+   "Nome": "José Viale Moutinho"
+  }
+ },
+ {
+  "nome": "João Eduardo Guimarães Moura de Sá",
+  "areas": [
+   "Política"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2026-09",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Política",
+   "Biografia": "João Eduardo Guimarães Moura de Sá foi deputado português do PSD, com atividade parlamentar documentada. O seu falecimento foi assinalado pela Assembleia da República no Projeto de Voto de Pesar n.º 741/XVII, aprovado por unanimidade em 25 de setembro de 2026. A notícia funerária de 11 de setembro de 2026 identifica o funeral no Cemitério de São Martinho de Bougado, na Trofa. A data exata do falecimento não foi confirmada.",
+   "Data de morte": "2026-09",
+   "Nome": "João Eduardo Guimarães Moura de Sá"
+  }
+ },
+ {
   "nome": "António Lobo Antunes",
   "areas": [
    "Escritor",
