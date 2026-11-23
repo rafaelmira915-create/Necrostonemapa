@@ -51364,8 +51364,10 @@
   "rotas": [],
   "nascimento": "1846-07-23",
   "morte": "1861-11-06",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/3e9f3ddb5a6d817c8fade2299943da97.png",
+  "fotos": [
+   "fotos/3e9f3ddb5a6d817c8fade2299943da97.png"
+  ],
   "detalhes": {
    "Área": "Realeza",
    "Biografia": "Infante de Portugal, filho de Maria II e Fernando II, nasceu em 1846 e morreu em 1861.",
