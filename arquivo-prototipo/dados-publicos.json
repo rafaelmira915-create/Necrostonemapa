@@ -1,5 +1,25 @@
 [
  {
+  "nome": "José Manuel Pinto Albuquerque Pessoa",
+  "areas": [
+   "Fotografia",
+   "Historiador"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "1948",
+  "morte": "2025-12-06",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Fotografia, Historiador",
+   "Biografia": "José Pessoa (Lisboa, 1948 – Lamego, 6 de dezembro de 2025) foi especialista no exame científico de obras de arte e historiador da fotografia. Trabalhou no Instituto José de Figueiredo desde 1971 e no Arquivo Nacional de Fotografia desde 1987. Foi autor do projeto do Inventário Fotográfico Nacional de Obras de Arte, iniciado em 1990, e professor de conservação e restauro. Fonte: Assembleia da República, Projeto de Voto de Pesar n.º 330/XVII/1.ª.",
+   "Data de morte": "2025-12-06",
+   "Data de nascimento": "1948",
+   "Nome": "José Manuel Pinto Albuquerque Pessoa"
+  }
+ },
+ {
   "nome": "José Viale Moutinho",
   "areas": [
    "Escritor",
