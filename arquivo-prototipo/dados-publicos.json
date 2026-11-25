@@ -10,8 +10,10 @@
   "rotas": [],
   "nascimento": "26/07/1820",
   "morte": "30/11/1846",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/422f3ddb5a6d811b961ddea7c74d252e.jpg",
+  "fotos": [
+   "fotos/422f3ddb5a6d811b961ddea7c74d252e.jpg"
+  ],
   "detalhes": {
    "Área": "Música",
    "Biografia": "Maria Severa Onofriana, conhecida como A Severa, foi uma fadista lisboeta e uma das primeiras figuras emblemáticas do fado. Ligada à Mouraria, faleceu aos 26 anos na Rua do Capelão e foi sepultada no Cemitério do Alto de São João, em Lisboa.",
@@ -24280,8 +24282,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d8188b68cdb0cce4a2a2b.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d8188b68cdb0cce4a2a2b.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/1/12/Duarte_Leite_%28Album_Republicano%2C_1908%29.png",
