@@ -1,5 +1,25 @@
 [
  {
+  "nome": "João Vasconcelos Baptista Felgueiras",
+  "areas": [
+   "Religião",
+   "Educação"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2026-07-03",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Religião, Educação",
+   "Biografia": "Sacerdote jesuíta português, natural de Caldas das Taipas (Guimarães). Viveu em Timor-Leste desde 1971, dedicando-se ao ensino da língua portuguesa e à assistência social. Permaneceu no território durante a ocupação indonésia e contribuiu para a educação de gerações de timorenses. Faleceu em Díli aos 105 anos. A Assembleia da República aprovou por unanimidade um voto de pesar em 17 de julho de 2026. Fontes: Presidência da República (3/7/2026); Assembleia da República, Projeto de Voto 668/XVII/1.ª (17/7/2026).",
+   "Data de morte": "2026-07-03",
+   "Informação extra": "https://www.presidencia.pt/atualidade/toda-a-atualidade/2026/07/presidente-da-republica-manifesta-pesar-pelo-falecimento-do-padre-joao-felgueiras-em-timor-leste/ | https://av.parlamento.pt/videos/Plenary/17/1/113/46",
+   "Nome": "João Vasconcelos Baptista Felgueiras"
+  }
+ },
+ {
   "nome": "Maria Severa Onofriana",
   "areas": [
    "Música"
@@ -11737,8 +11757,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d816f9410e8d1fb7a52cf.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d816f9410e8d1fb7a52cf.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Biografia": "Político português do século XIX; dados biográficos por confirmar.",
@@ -24495,8 +24517,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81f08980df2506ce1b32.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81f08980df2506ce1b32.png"
+  ],
   "detalhes": {
    "Área": "Política",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/1/19/Jos%C3%A9_de_Castro.png",
@@ -25666,8 +25690,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81368686c8af93455dbd.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81368686c8af93455dbd.png"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/8/82/J%C3%BAlio_de_Castilho.png",
@@ -25701,8 +25727,10 @@
   "rotas": [],
   "nascimento": "",
   "morte": "",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d81a38488d65ffe5073e0.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d81a38488d65ffe5073e0.png"
+  ],
   "detalhes": {
    "Área": "Escritor",
    "Fotografia": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Retrato_de_E%C3%A7a_de_Queir%C3%B3s_%28transparente%29.png",
