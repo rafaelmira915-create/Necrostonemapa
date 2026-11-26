@@ -1,5 +1,29 @@
 [
  {
+  "nome": "Pedro Ferreira (jornalista da RTP)",
+  "areas": [
+   "Jornalismo",
+   "Rádio"
+  ],
+  "cemiterios": [
+   "Incerto"
+  ],
+  "rotas": [],
+  "nascimento": "Incerto",
+  "morte": "25/11/2026",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Jornalismo, Rádio",
+   "Biografia": "Jornalista português com uma carreira de cerca de quatro décadas na rádio. Trabalhou na RTP Antena 1 e na RTP Antena 3, ligado ao Centro de Produção Norte da estação pública. Faleceu aos 59 anos.",
+   "Data de morte": "25/11/2026",
+   "Informação extra": "Falecimento noticiado a 25/11/2026. Nascimento e dados de sepultura por confirmar.",
+   "Cemitério": "Incerto",
+   "Data de nascimento": "Incerto",
+   "Nome": "Pedro Ferreira (jornalista da RTP)"
+  }
+ },
+ {
   "nome": "João Vasconcelos Baptista Felgueiras",
   "areas": [
    "Religião",
@@ -28080,8 +28104,10 @@
   "rotas": [],
   "nascimento": "1863",
   "morte": "1899",
-  "foto": "",
-  "fotos": [],
+  "foto": "fotos/40bf3ddb5a6d817fa59fdfe2c42d3b00.png",
+  "fotos": [
+   "fotos/40bf3ddb5a6d817fa59fdfe2c42d3b00.png"
+  ],
   "detalhes": {
    "Área": "Medicina",
    "Biografia": "Médico e bacteriologista português, pioneiro da bacteriologia em Portugal. Morreu após contrair peste durante o estudo do surto no Porto.",
