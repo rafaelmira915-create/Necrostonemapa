@@ -1,5 +1,42 @@
 [
  {
+  "nome": "José Carlos de Campos Macedo",
+  "areas": [
+   "Música"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "1946-12-09",
+  "morte": "2026-03-07",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Música",
+   "Biografia": "Carlos Macedo (José Carlos de Campos Macedo) foi um fadista, guitarrista e compositor português, nascido em Lousado, Vila Nova de Famalicão. Formou um conjunto típico ainda jovem, atuou na rádio e desenvolveu parte da carreira em Moçambique, onde foi distinguido em 1972 como «Rei do Fado em Moçambique». Regressou a Portugal após a independência e editou o disco Até o Rei ia ao Fado. Fonte: Diário da Assembleia da República, sessão de 20 de março de 2026, Projeto de Voto de Pesar n.º 435/XVII/1.ª.",
+   "Data de morte": "2026-03-07",
+   "Data de nascimento": "1946-12-09",
+   "Nome": "José Carlos de Campos Macedo"
+  }
+ },
+ {
+  "nome": "Vítor Manuel Almeida Gonçalves",
+  "areas": [
+   "Desporto"
+  ],
+  "cemiterios": [],
+  "rotas": [],
+  "nascimento": "",
+  "morte": "2025-12-16",
+  "foto": "",
+  "fotos": [],
+  "detalhes": {
+   "Área": "Desporto",
+   "Biografia": "Vítor Manuel Almeida Gonçalves foi futebolista internacional português. Representou o Sporting de Linda-a-Pastora, o Atlético Clube de Portugal, o Sporting Clube de Portugal e o União de Tomar. Pelo Sporting disputou 184 jogos oficiais, integrando a equipa campeã nacional em 1969/70 e vencedora da Taça de Portugal em 1970/71. Foi internacional A por Portugal em duas ocasiões. Faleceu aos 81 anos. Fonte: Diário da Assembleia da República, sessão de 9 de janeiro de 2026, Projeto de Voto de Pesar n.º 301/XVII/1.ª.",
+   "Data de morte": "2025-12-16",
+   "Nome": "Vítor Manuel Almeida Gonçalves"
+  }
+ },
+ {
   "nome": "Pedro Ferreira (jornalista da RTP)",
   "areas": [
    "Jornalismo",
